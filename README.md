@@ -1,3 +1,8 @@
+-------------------------------------------------------------------------------------------
+2/2/25 - **This repo no longer works. The repo it was forked from is gone along with the user. If anyone has the files to make it work and wants to share.
+Drop a link in the comments**
+-------------------------------------------------------------------------------------------
+
 ## Tubi Live TV M3U Playlist
 
 Tubi is a platform that offers free live TV streaming. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
