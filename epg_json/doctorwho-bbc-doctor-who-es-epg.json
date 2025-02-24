@@ -3,20 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250224223438 +0100",
-            "stop_time": "20250224232355 +0100",
-            "title": "El doctor baila",
-            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232356 +0100",
-            "stop_time": "20250225001514 +0100",
-            "title": "El fin del mundo",
-            "description": "| +7 | Series |\n\nEl Doctor lleva a Rosa a su primer viaje en el tiempo, al año 5 mil millones y el final del planeta tierra.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225001515 +0100",
             "stop_time": "20250225010634 +0100",
             "title": "Los muertos inquietos",
@@ -1204,6 +1190,195 @@
             "stop_time": "20250303012317 +0100",
             "title": "Boom Town",
             "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack descubren que un Slitheen está detrás del plan para construir un estación nuclear en Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303012318 +0100",
+            "stop_time": "20250303021241 +0100",
+            "title": "Lobo malo",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack luchan por sus vidas a bordo del Game Station, pero la desgracia les golpea cuando los Daleks capturan a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303021242 +0100",
+            "stop_time": "20250303030454 +0100",
+            "title": "La despedida de los caminos",
+            "description": "| +7 | Series |\n\nRose Tyler ha visto peligros y maravillas junto al Doctor, pero ahora su amistad se pone a prueba cuando la Tierra se sumerge en una guerra épica. Con la masacre de la raza humana, el Doctor se ve obligado a emprender una acción terrible.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030455 +0100",
+            "stop_time": "20250303035547 +0100",
+            "title": "Nueva tierra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose suben a bordo de la TARDIS para disfrutar nuevas aventuras en el tiempo y en el espacio. Cuando visitan el nuevo hogar de la humanidad, en un futuro lejano, descubren secretos importantes dentro de un lujoso hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303035548 +0100",
+            "stop_time": "20250303044654 +0100",
+            "title": "Diente y garra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose vuelven a 1879 donde un encuenro en las tierras altas escocesas con la Reina Victoria y la banda de Monjes guerreros revela una trampa mortal. ¿Pueden ser verdad las leyendas locales de un hombre lobo?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303044655 +0100",
+            "stop_time": "20250303053741 +0100",
+            "title": "Reunión de la escuela",
+            "description": "| +7 | Series |\n\nEl Doctor investiga una escuela embrujada por criaturas extrañas con aspecto de murciélago y se reúne con un viejo amigo. Mientras tanto, Rose descubre el verdadero legado de ser compañera del Señor del Tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303053742 +0100",
+            "stop_time": "20250303062858 +0100",
+            "title": "La chica de la chimenea",
+            "description": "| +7 | Series |\n\nMadame de Pompadour descubre la corte de Versalles atacada por asesinos de cuerda y siniestros. Su única esperanza de salvación pasa por el hombre que ha ocupado sus sueños desde la infancia, un extraño misterioso que solo se conoce como el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303062859 +0100",
+            "stop_time": "20250303072127 +0100",
+            "title": "El sonido de los tambores",
+            "description": "| +7 | Series |\n\nHarry Saxon se convierte en Primer Ministro. Pero sus oscuras ambiciones llegan más allá de las estrellas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303072128 +0100",
+            "stop_time": "20250303081403 +0100",
+            "title": "Últimos señores del tiempo",
+            "description": "| +7 | Series |\n\nHan conquistado la Tierra y el Maestro la controla. ¿Podrá Martha Jones salvar a la raza humana?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303081404 +0100",
+            "stop_time": "20250303090902 +0100",
+            "title": "Cómplices",
+            "description": "| +7 | Series |\n\n¿Podrá Donna encontrar a su Señor del Tiempo antes de que se intensifique la amenaza alienígena?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090903 +0100",
+            "stop_time": "20250303100334 +0100",
+            "title": "Los fuegos de Pompeya",
+            "description": "| +7 | Series |\n\nEs el día del Volcán en Pompeya… ¿Permitirá Donna que el Doctor cambie la historia?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100335 +0100",
+            "stop_time": "20250303105328 +0100",
+            "title": "Planeta del Ood",
+            "description": "| +7 | Series |\n\nUn Ood moribundo lleva al Doctor y a Donna a descubrir una terrible verdad sobre la raza humana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303105329 +0100",
+            "stop_time": "20250303114416 +0100",
+            "title": "La estratagema Sontaran",
+            "description": "| +7 | Series |\n\nMartha Jones cita al Doctor de nuevo a la UNIDAD y a la tierra de días modernos, pero un viejo enemigo espera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303114417 +0100",
+            "stop_time": "20250303123512 +0100",
+            "title": "El cielo venenoso",
+            "description": "| +7 | Series |\n\nCuando los Sontarans asfixian la tierra, el Doctor y la UNIDAD luchan para mantener vivos a Martha y Donna.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303123513 +0100",
+            "stop_time": "20250303132639 +0100",
+            "title": "La hija del doctor",
+            "description": "| +7 | Series |\n\nEl Doctor conoce a la mujer más importante de su vida en el lejano planeta Messaline.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303132640 +0100",
+            "stop_time": "20250303141749 +0100",
+            "title": "El unicornio y la avispa",
+            "description": "| +7 | Series |\n\nEn 1926, Agatha Christie desaparece durante diez días. ¿Es culpa de una gigante avispa extraterrestre?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303141750 +0100",
+            "stop_time": "20250303153251 +0100",
+            "title": "En el último momento",
+            "description": "| +7 | Series |\n\nEl Doctor se ha regenerado en un hombre nuevo, pero el peligro acecha antes de que pueda recuperarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303153252 +0100",
+            "stop_time": "20250303162105 +0100",
+            "title": "La bestia de abajo",
+            "description": "| +7 | Series |\n\nEl doctor lleva a Amy al futuro lejano, donde encuentra a Gran Bretaña en el espacio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303162106 +0100",
+            "stop_time": "20250303170911 +0100",
+            "title": "La victoria de los Daleks",
+            "description": "| +7 | Series |\n\n¿Ayudará Winston Churchill al Doctor a derrotar a los Daleks durante la Segunda Guerra Mundial?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303170912 +0100",
+            "stop_time": "20250303175706 +0100",
+            "title": "El tiempo de los ángeles",
+            "description": "| +7 | Series |\n\nEl Doctor rastrea al último de los Ángeles Llorones a través del terrorífico Laberinto de los Muertos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303175707 +0100",
+            "stop_time": "20250303184611 +0100",
+            "title": "Carne y piedra",
+            "description": "| +7 | Series |\n\nAtrapados entre un ejército de Ángeles Llorones, ¿podrán escapar el Doctor y sus amigos?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303184612 +0100",
+            "stop_time": "20250303194040 +0100",
+            "title": "Los vampiros de Venecia",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Amy y Rory a la Venecia del siglo XVI, pero no todo va bien.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303194041 +0100",
+            "stop_time": "20250303203106 +0100",
+            "title": "La elección de Amy",
+            "description": "| +7 | Series |\n\nCuando el Doctor regresa a la vida de Amy después de cinco años, ella se enfrenta a una elección imposible.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303203107 +0100",
+            "stop_time": "20250303212059 +0100",
+            "title": "La Tierra hambrienta",
+            "description": "| +7 | Series |\n\nUna profunda operación minera despierta un antiguo enemigo para el Doctor y Amy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303212100 +0100",
+            "stop_time": "20250303221307 +0100",
+            "title": "Sangría fría",
+            "description": "| +7 | Series |\n\n¿Es el amanecer de una nueva era de armonía en la Tierra o el comienzo de su guerra final?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303221308 +0100",
+            "stop_time": "20250303232809 +0100",
+            "title": "En el último momento",
+            "description": "| +7 | Series |\n\nEl Doctor se ha regenerado en un hombre nuevo, pero el peligro acecha antes de que pueda recuperarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303232810 +0100",
+            "stop_time": "20250304001623 +0100",
+            "title": "La bestia de abajo",
+            "description": "| +7 | Series |\n\nEl doctor lleva a Amy al futuro lejano, donde encuentra a Gran Bretaña en el espacio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304001624 +0100",
+            "stop_time": "20250304010429 +0100",
+            "title": "La victoria de los Daleks",
+            "description": "| +7 | Series |\n\n¿Ayudará Winston Churchill al Doctor a derrotar a los Daleks durante la Segunda Guerra Mundial?",
             "icon": ""
         }
     ]

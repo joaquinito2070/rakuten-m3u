@@ -3,27 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250224230229 +0100",
-            "stop_time": "20250224233423 +0100",
-            "title": "Animals Unscripted",
-            "description": "| +7 | Entretenimiento |\n\nClips that will keep you 'hooked'.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233429 +0100",
-            "stop_time": "20250225000523 +0100",
-            "title": "Animals Unscripted",
-            "description": "| +7 | Entretenimiento |\n\nBears, elephants, monkeys, and more...untamed and off script!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000529 +0100",
-            "stop_time": "20250225003723 +0100",
-            "title": "Best Pets of the Month",
-            "description": "| +7 | Entretenimiento |\n\nThe best pets for December '19. But after watching these clips, the real winner is you.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003729 +0100",
             "stop_time": "20250225010923 +0100",
             "title": "Best Pets of the Month",

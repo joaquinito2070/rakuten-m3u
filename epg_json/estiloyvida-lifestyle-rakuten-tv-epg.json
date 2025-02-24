@@ -3,20 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224221540 +0100",
-            "stop_time": "20250224235502 +0100",
-            "title": "Gipsy Kings",
-            "description": "| +16 | Estilo de vida |\n\nLos Jiménez se preparan para disfrutar, al fin, de una de las citas más importantes de sus vidas: el certamen de Miss Gitana España. Con la Rebe ya en Madrid preparándose para el concurso, el resto de la familia llegará justo a tiempo para verla desfilar por la pasarela.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/ad4fe0ab-a0e4-4b66-afd1-8cb910189846.jpeg"
-        },
-        {
-            "start_time": "20250224235503 +0100",
-            "stop_time": "20250225004015 +0100",
-            "title": "Project Runway",
-            "description": "| +16 | Estilo de vida |\n\nSe pide a los diseñadores que creen un look «Street Chic» inspirado en un viaje por la ciudad de Nueva York. También se les plantea un giro... rediseñar uno de los «looks perdedores» de esta temporada y su ayudante de costura es un diseñador eliminado anteriormente.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6e7e8f6c-6e25-418c-be56-5e25bcd3d30c.jpeg"
-        },
-        {
             "start_time": "20250225004016 +0100",
             "stop_time": "20250225012609 +0100",
             "title": "Project Runway",

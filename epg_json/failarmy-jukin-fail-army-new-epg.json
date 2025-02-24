@@ -3,27 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250224225940 +0100",
-            "stop_time": "20250224233134 +0100",
-            "title": "FailArmy Playlist",
-            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Tough Little Boys,\" \"Till I Collapse,\" and \"Wrecking Ball.\"",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233140 +0100",
-            "stop_time": "20250225000334 +0100",
-            "title": "FailArmy Playlist",
-            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Wrong Way,\" \"Hit Me Baby One More Time\" and \"Speed King.\"",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000340 +0100",
-            "stop_time": "20250225003534 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nWhy do the easiest tasks end up being the hardest?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003540 +0100",
             "stop_time": "20250225010734 +0100",
             "title": "FailFactory",

@@ -3,27 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250224230452 +0100",
-            "stop_time": "20250224233446 +0100",
-            "title": "Unwind",
-            "description": "| +7 | Estilo de vida |\n\nIndeya explora las plantaciones de canela, prueba un plato local y presencia un espectáculo de danza tradicional.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233452 +0100",
-            "stop_time": "20250225000446 +0100",
-            "title": "World Heritage",
-            "description": "| +7 | Estilo de vida |\n\nOrte, die als Erbstücke gelten und die wir als nächstes weitergeben werden. Von der UNESCO als Weltkulturerbe gestempelt.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000453 +0100",
-            "stop_time": "20250225003447 +0100",
-            "title": "Backpack",
-            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003453 +0100",
             "stop_time": "20250225010447 +0100",
             "title": "City Breaks",

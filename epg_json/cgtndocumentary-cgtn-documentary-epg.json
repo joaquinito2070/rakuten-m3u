@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-documentary",
     "epg": [
         {
-            "start_time": "20250224230001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Special Edition",
-            "description": "| +7 | Asian |\n\nPrestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000001 +0100",
-            "stop_time": "20250225003000 +0100",
-            "title": "Journeys and Discoveries",
-            "description": "| +7 | Asian |\n\nA documentary series showcasing the history of China and its people.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003001 +0100",
             "stop_time": "20250225010000 +0100",
             "title": "History in the Frame",
@@ -1328,6 +1314,13 @@
         {
             "start_time": "20250303000001 +0100",
             "stop_time": "20250303010000 +0100",
+            "title": "Today’s Top Pick",
+            "description": "| +7 | Asian |\n\nDocumentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303020000 +0100",
             "title": "Today’s Top Pick",
             "description": "| +7 | Asian |\n\nDocumentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.",
             "icon": ""

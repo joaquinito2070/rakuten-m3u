@@ -3,34 +3,6 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224224439 +0100",
-            "stop_time": "20250224231409 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El incienso sagrado.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/80386ad2-5248-45ef-b991-62a3c31556e8.jpeg"
-        },
-        {
-            "start_time": "20250224231410 +0100",
-            "stop_time": "20250224234340 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Pony de Danzo.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/4005af27-5d91-4dd9-954e-2f449fe57ac0.jpeg"
-        },
-        {
-            "start_time": "20250224234341 +0100",
-            "stop_time": "20250225001311 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Pepinillos bellotas.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/696a9299-bcdc-4d69-a8c3-13ef1bd5c5d7.jpeg"
-        },
-        {
-            "start_time": "20250225001312 +0100",
-            "stop_time": "20250225004242 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Kalaba Zatsura.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/56508ca9-64eb-4f7c-8e11-84796ace9d61.jpeg"
-        },
-        {
             "start_time": "20250225004243 +0100",
             "stop_time": "20250225011213 +0100",
             "title": "Rantaro, el Ninja Boy",

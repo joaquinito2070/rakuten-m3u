@@ -3,34 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224225002 +0100",
-            "stop_time": "20250224231601 +0100",
-            "title": "Val'quirico y Bernal",
-            "description": "| +7 | Cocina y comida |\n\nVal'quirico en el estado de Tlaxcala que por su arquitectura nos transporta a la Toscana Italiana.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224231602 +0100",
-            "stop_time": "20250224234201 +0100",
-            "title": "Vuelo en Globo y Cholula",
-            "description": "| +7 | Cocina y comida |\n\nSan Juan Teotihuacán y San Martín de las pirámides.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224234202 +0100",
-            "stop_time": "20250225000802 +0100",
-            "title": "Recetas para la cruda",
-            "description": "| +7 | Cocina y comida |\n\nHoy el Chef Aquiles recibe a Kathe Martínez, para que juntos cocinen las mejores rectas para la resaca.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000803 +0100",
-            "stop_time": "20250225003402 +0100",
-            "title": "Antojo Preferido",
-            "description": "| +7 | Cocina y comida |\n\nHoy Aquiles recibe a Jorge Espinal, cocinero peruano, para desafiarlo a un duelo por el mejor ceviche.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003403 +0100",
             "stop_time": "20250225010002 +0100",
             "title": "Reunión con amigos",
@@ -2387,6 +2359,398 @@
             "stop_time": "20250303010002 +0100",
             "title": "Mercados y cultura gastronómica",
             "description": "| +7 | Cocina y comida |\n\nTodo buen plato nace en los mercados, y hoy vamos a recorrer los mercados de Buenos Aires.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010003 +0100",
+            "stop_time": "20250303012602 +0100",
+            "title": "Islas Marietas",
+            "description": "| +7 | Cocina y comida |\n\nLas Islas Marietas son un paradisiaco lugar ubicado en Nayarit.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303012603 +0100",
+            "stop_time": "20250303015202 +0100",
+            "title": "Sisal en Yucatán",
+            "description": "| +7 | Cocina y comida |\n\nSisal, pueblo mágico de Yucatán, ofrece varias actividades Ecoturísticas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303015203 +0100",
+            "stop_time": "20250303021802 +0100",
+            "title": "Puerto Vallarta",
+            "description": "| +7 | Cocina y comida |\n\nEn este Costo x Destino visitamos el malecón de Puerto Vallarta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303021803 +0100",
+            "stop_time": "20250303024402 +0100",
+            "title": "Zacatecas",
+            "description": "| +7 | Cocina y comida |\n\nUbicada al centro norte de la República Mexicana se encuentra Zacatecas, la capital del estado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303024403 +0100",
+            "stop_time": "20250303031002 +0100",
+            "title": "Destilando Oaxaca: Mezcal",
+            "description": "| +7 | Cocina y comida |\n\nEn este viaje, a través del Mezcal, buscará el espíritu de dicha región tan diversa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303031003 +0100",
+            "stop_time": "20250303033502 +0100",
+            "title": "Destilando Chihuahua: Sotol",
+            "description": "| +7 | Cocina y comida |\n\nMiguel se monta en un viaje épico por Chihuahua, sumando kilómetros en tren, carretera, a caballo y a pie.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303033503 +0100",
+            "stop_time": "20250303040002 +0100",
+            "title": "Destilando Puebla: Ancho Reyes",
+            "description": "| +7 | Cocina y comida |\n\nEl estado de todos los moles es también el origen de Ancho Reyes, un licor hecho a base de chile ancho.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040003 +0100",
+            "stop_time": "20250303042602 +0100",
+            "title": "Islas Marietas",
+            "description": "| +7 | Cocina y comida |\n\nLas Islas Marietas son un paradisiaco lugar ubicado en Nayarit.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303042603 +0100",
+            "stop_time": "20250303045202 +0100",
+            "title": "Sisal en Yucatán",
+            "description": "| +7 | Cocina y comida |\n\nSisal, pueblo mágico de Yucatán, ofrece varias actividades Ecoturísticas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303045203 +0100",
+            "stop_time": "20250303051802 +0100",
+            "title": "Puerto Vallarta",
+            "description": "| +7 | Cocina y comida |\n\nEn este Costo x Destino visitamos el malecón de Puerto Vallarta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303051803 +0100",
+            "stop_time": "20250303054402 +0100",
+            "title": "Zacatecas",
+            "description": "| +7 | Cocina y comida |\n\nUbicada al centro norte de la República Mexicana se encuentra Zacatecas, la capital del estado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303054403 +0100",
+            "stop_time": "20250303061002 +0100",
+            "title": "Destilando Oaxaca: Mezcal",
+            "description": "| +7 | Cocina y comida |\n\nEn este viaje, a través del Mezcal, buscará el espíritu de dicha región tan diversa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303061003 +0100",
+            "stop_time": "20250303063503 +0100",
+            "title": "Destilando Chihuahua: Sotol",
+            "description": "| +7 | Cocina y comida |\n\nMiguel se monta en un viaje épico por Chihuahua, sumando kilómetros en tren, carretera, a caballo y a pie.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303063504 +0100",
+            "stop_time": "20250303070003 +0100",
+            "title": "Destilando Puebla: Ancho Reyes",
+            "description": "| +7 | Cocina y comida |\n\nEl estado de todos los moles es también el origen de Ancho Reyes, un licor hecho a base de chile ancho.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070004 +0100",
+            "stop_time": "20250303072503 +0100",
+            "title": "Tacos de camarón",
+            "description": "| +7 | Cocina y comida |\n\nEstos tacos gobernador con agua de horchata con coco te van a fascinar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303072504 +0100",
+            "stop_time": "20250303075003 +0100",
+            "title": "Tacos placeros",
+            "description": "| +7 | Cocina y comida |\n\nTacos placeros, todos los hemos comido en la esquina del trabajo y llegó el momento de hacerlo en casa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303075004 +0100",
+            "stop_time": "20250303081503 +0100",
+            "title": "Tacos con chapulines",
+            "description": "| +7 | Cocina y comida |\n\nFrancisco le da un toque exótico al clásico platillo de pollo al chipotle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303081504 +0100",
+            "stop_time": "20250303084003 +0100",
+            "title": "Burritos",
+            "description": "| +7 | Cocina y comida |\n\nVamos a preparar al primo norteño del taco, ¡un burrito! Y lo vamos acompañar de una refrescante limonada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303084004 +0100",
+            "stop_time": "20250303090503 +0100",
+            "title": "Verduras, pero deliciosas",
+            "description": "| +7 | Cocina y comida |\n\nAsar a la parrilla es la manera perfecta de comer verduras deliciosas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090504 +0100",
+            "stop_time": "20250303093003 +0100",
+            "title": "Brochetas y brochetas",
+            "description": "| +7 | Cocina y comida |\n\nEsta comida incluye brochetas de carne de res y camarones con tomates",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303093004 +0100",
+            "stop_time": "20250303095503 +0100",
+            "title": "Héroe de la ciudad natal de Los Ángeles",
+            "description": "| +7 | Cocina y comida |\n\nBen Hundreds recorre su ciudad natal Los Ángeles",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303095504 +0100",
+            "stop_time": "20250303102003 +0100",
+            "title": "Sin dormir hasta Brooklyn",
+            "description": "| +7 | Cocina y comida |\n\nBen obtiene la bondad del vecindario en Bonnie's, un concepto estadounidense cantonés verdaderamente original.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303102004 +0100",
+            "stop_time": "20250303104503 +0100",
+            "title": "Tomando un gran bocado de Boston",
+            "description": "| +7 | Cocina y comida |\n\nBen Hundreds explora lugares inspirados en Boston",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303104504 +0100",
+            "stop_time": "20250303111003 +0100",
+            "title": "Subiendo de nivel en la ciudad de Nueva York",
+            "description": "| +7 | Cocina y comida |\n\nBen Hundreds explora conceptos de vanguardia en Nueva York",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303111004 +0100",
+            "stop_time": "20250303113503 +0100",
+            "title": "Ingredientes clave de la cocina de África Occidental",
+            "description": "| +7 | Cocina y comida |\n\nStephanie conoce a los chefs nigerianos, Eros y JP, para aprender los conceptos básicos de la cocina de África",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303113504 +0100",
+            "stop_time": "20250303120000 +0100",
+            "title": "Legados y cocina tailandesa",
+            "description": "| +7 | Cocina y comida |\n\nStephanie cocina platos tailandeses y peruanos con la chef local Brittaney Bunjong e intercambian historias",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120001 +0100",
+            "stop_time": "20250303122600 +0100",
+            "title": "Empanadillas, Bollos al Vapor y Dim Sum",
+            "description": "| +7 | Cocina y comida |\n\nEn una ciudad con más de 60 restaurantes con estrellas Michelin, un hermano vivirá y cenará como un rey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303122601 +0100",
+            "stop_time": "20250303125200 +0100",
+            "title": "Simplicidad vs Esplendor en la Playa",
+            "description": "| +7 | Cocina y comida |\n\nSumergiéndose en la belleza y elegancia de la Riviera francesa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303125201 +0100",
+            "stop_time": "20250303131800 +0100",
+            "title": "Descubriendo Austin",
+            "description": "| +7 | Cocina y comida |\n\nEn la capital del estado de Texas, Marko y Alex ven lo que Austin tiene para ofrecer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303131801 +0100",
+            "stop_time": "20250303134400 +0100",
+            "title": "Nivel de lujo en Laos",
+            "description": "| +7 | Cocina y comida |\n\nUbicado entre Tailandia, Vietnam y Camboya, Laos es un destino que los turistas suelen pasar por alto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303134401 +0100",
+            "stop_time": "20250303141000 +0100",
+            "title": "Tarta de champiñones y dacquoise de frutas",
+            "description": "| +7 | Cocina y comida |\n\nEn el episodio de hoy, visita un montón de lugares geniales alrededor de los distritos 9 y 18 en París. ¡Estos lugares poco convencionales inspiran a Uiara a enseñar deliciosas recetas francesas para llevar el verdadero París a su hogar!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303141001 +0100",
+            "stop_time": "20250303143600 +0100",
+            "title": "Tartaleta de fresas y sándwich vegetariano",
+            "description": "| +7 | Cocina y comida |\n\nNeste episódio Uiara visita uma moderna fazenda de morangos urbana e prepara uma deliciosa tortinha de morangos. Também vamos conhecer o antigo bairro Le Marais e buscar vegetais frescos na Opéra 4 Saisons para preparar um sanduíche vegetariano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303143601 +0100",
+            "stop_time": "20250303150200 +0100",
+            "title": "Flan de hojaldre y pan de masa madre",
+            "description": "| +7 | Cocina y comida |\n\n¡Vamos con Uiara a visitar la feria de antigüedades más grande del mundo, el Marché Aux Puces De Saint-Ouen, en una zona súper cool de la ciudad, con muchos bares y llena de artistas parisinos!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150201 +0100",
+            "stop_time": "20250303152800 +0100",
+            "title": "Tapenade de spirulina y tarta Tatin",
+            "description": "| +7 | Cocina y comida |\n\nEn esta ocasión, vamos con Uiara a visitar La Basilique du Sacré-Cœur, en Montmartre, en el barrio de Amèlie Poulin, situada en el punto más alto de la ciudad. También nos adentraremos en un laboratorio de producción de espirulina fresca.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303152801 +0100",
+            "stop_time": "20250303155400 +0100",
+            "title": "Papas multifacéticas",
+            "description": "| +7 | Cocina y comida |\n\nEl ingrediente del día es la papa, tres platillos increíbles a precios de risa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303155401 +0100",
+            "stop_time": "20250303162000 +0100",
+            "title": "Todo con Hongos",
+            "description": "| +7 | Cocina y comida |\n\nBienvenidos a esta hongo-manía, desde hamburguesas hasta cenas elegantes y todo a bajo costo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303162001 +0100",
+            "stop_time": "20250303164601 +0100",
+            "title": "5 Ingredientes",
+            "description": "| +7 | Cocina y comida |\n\nCinco ingredientes para hacer todo esto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303164602 +0100",
+            "stop_time": "20250303171201 +0100",
+            "title": "Cena romántica",
+            "description": "| +7 | Cocina y comida |\n\nUna cita romántica no tiene por qué dejarte en banca rota, cocina en casa y hasta prepara un cóctel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303171202 +0100",
+            "stop_time": "20250303173801 +0100",
+            "title": "Mi nueva vida en España",
+            "description": "| +7 | Cocina y comida |\n\nEn este episodio conocemos a Rodrigo, brasileño que empezó una nueva vida en Madrid",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303173802 +0100",
+            "stop_time": "20250303180401 +0100",
+            "title": "Mi nueva vida en Suiza",
+            "description": "| +7 | Cocina y comida |\n\nMarina nos enseña que Suiza es mucho más que chocolate y fondue",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303180402 +0100",
+            "stop_time": "20250303183001 +0100",
+            "title": "Mi nueva vida en Holanda",
+            "description": "| +7 | Cocina y comida |\n\nManuel Rodríguez viajó desde Venezuela para empezar una nueva vida en Holanda",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303183002 +0100",
+            "stop_time": "20250303185601 +0100",
+            "title": "Mi nueva vida en Turquia",
+            "description": "| +7 | Cocina y comida |\n\n¿Cómo es realmente vivir en Turquía? Acompaña a Ana,boliviana de nacimiento, a que nos presente su nuevo hogar",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303185602 +0100",
+            "stop_time": "20250303192201 +0100",
+            "title": "Visita al litoral Argentino",
+            "description": "| +7 | Cocina y comida |\n\nEl chef Ramiro Solis nos presenta lo mejor del litoral argentino, empanadas de mandioca y tacos de Mbeyú.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303192202 +0100",
+            "stop_time": "20250303194801 +0100",
+            "title": "Recetas argentinas únicas",
+            "description": "| +7 | Cocina y comida |\n\nEl chef Ramiro Solis nos muestra que la comida argentina es más que un asado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303194802 +0100",
+            "stop_time": "20250303201401 +0100",
+            "title": "Frijoles como la abuela",
+            "description": "| +7 | Cocina y comida |\n\nFreddy Morales se inspira en sus cuatro cocineras favoritas, su madre y tres abuelas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303201402 +0100",
+            "stop_time": "20250303204001 +0100",
+            "title": "Cerdo, pollo y vegetales",
+            "description": "| +7 | Cocina y comida |\n\nEl chef Fredy Morales nos trae tres recetas rápidas: gorditas de chicharrón, alitas y champiñones rellenos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303204002 +0100",
+            "stop_time": "20250303210601 +0100",
+            "title": "Tacos de camarón agridulces",
+            "description": "| +7 | Cocina y comida |\n\nNuestro taquero favorito, Francisco Díaz, regresa en nueva temporada de Tacos con todo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303210602 +0100",
+            "stop_time": "20250303213201 +0100",
+            "title": "Tacos de mixiote",
+            "description": "| +7 | Cocina y comida |\n\nHoy Francisco nos trae unos tacos clásicos de tianguis: tacos de mixiote.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303213202 +0100",
+            "stop_time": "20250303215801 +0100",
+            "title": "Tacos sin carne",
+            "description": "| +7 | Cocina y comida |\n\nTacos de hongos al chile guajillo con una salsita de chile cuaresmeño",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303215802 +0100",
+            "stop_time": "20250303222401 +0100",
+            "title": "Quesadilla de camarón",
+            "description": "| +7 | Cocina y comida |\n\nBienvenidos a esta edición playera, hoy vamos a hacer quesadillas de camarón con su salsa agridulce picante.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303222402 +0100",
+            "stop_time": "20250303225001 +0100",
+            "title": "Recetas para la cruda",
+            "description": "| +7 | Cocina y comida |\n\nHoy el Chef Aquiles recibe a Kathe Martínez, para que juntos cocinen las mejores rectas para la resaca.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303225002 +0100",
+            "stop_time": "20250303231601 +0100",
+            "title": "Antojo Preferido",
+            "description": "| +7 | Cocina y comida |\n\nHoy Aquiles recibe a Jorge Espinal, cocinero peruano, para desafiarlo a un duelo por el mejor ceviche.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303231602 +0100",
+            "stop_time": "20250303234201 +0100",
+            "title": "Reunión con amigos",
+            "description": "| +7 | Cocina y comida |\n\nAquiles recibe a Ivanova Hidalgo, cocinera venezolana para preparar comida para los amigos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303234202 +0100",
+            "stop_time": "20250304000801 +0100",
+            "title": "Santiago y Tolantongo",
+            "description": "| +7 | Cocina y comida |\n\nEn este viaje visité la famosa cascada Cola de Caballo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304000802 +0100",
+            "stop_time": "20250304003401 +0100",
+            "title": "Tequisquiapan",
+            "description": "| +7 | Cocina y comida |\n\nTequisquiapan es un pueblo mágico y por supuesto degustamos las dos delicias locales",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304003402 +0100",
+            "stop_time": "20250304010001 +0100",
+            "title": "Tlaxco",
+            "description": "| +7 | Cocina y comida |\n\nTlaxco en Tlaxcala, además es un pueblo mágico que vive entre montañas cubierta de magueyes.",
             "icon": ""
         }
     ]

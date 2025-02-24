@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250224230001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Momento Chill",
-            "description": "| +16 | Música |\n\nLos videoclips perfectos para ayudarte a relajar.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225000001 +0100",
             "stop_time": "20250225010000 +0100",
             "title": "Made In Spain",
@@ -1008,6 +1001,118 @@
             "stop_time": "20250303010000 +0100",
             "title": "Made In Spain",
             "description": "| +16 | Música |\n\n¡La mejor música hecha en España! Disfruta de las mejores voces del país de la mano de decenas de artistas nacionales. ",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303020000 +0100",
+            "title": "Éxitos de siempre",
+            "description": "| +16 | Música |\n\nLos grandes éxitos de los 2000 y 2010 para viajar en el tiempo a través de la música!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303020001 +0100",
+            "stop_time": "20250303030000 +0100",
+            "title": "Vevo en Vivo",
+            "description": "| +16 | Música |\n\nLa mejor música pop en directo, aquí en Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030001 +0100",
+            "stop_time": "20250303040000 +0100",
+            "title": "Hora Dance",
+            "description": "| +16 | Música |\n\nLa mejor música dance pop para animar tus noches. Himnos de este género para que los disfrutes en casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040001 +0100",
+            "stop_time": "20250303050000 +0100",
+            "title": "Éxitos Flamencos ",
+            "description": "| +16 | Música |\n\nDos horas de la música española que más te gusta: lo mejor del flamenco puro, la rumba y el flamenco flow.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050001 +0100",
+            "stop_time": "20250303060000 +0100",
+            "title": "Momento Chill",
+            "description": "| +16 | Música |\n\nLos videoclips perfectos para ayudarte a relajar y comenzar el día con tranquilidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303060001 +0100",
+            "stop_time": "20250303070000 +0100",
+            "title": "Live From Vevo Studios",
+            "description": "| +16 | Música |\n\nActuaciones en directo desde los Vevo Studios.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303080000 +0100",
+            "title": "DSCVR New Music España",
+            "description": "| +16 | Música |\n\nTu espacio para descubrir talentos emergentes y futuras estrellas de la música ",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303080001 +0100",
+            "stop_time": "20250303090000 +0100",
+            "title": "Vevo en Vivo",
+            "description": "| +16 | Música |\n\nLa mejor música pop en directo, aquí en Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090001 +0100",
+            "stop_time": "20250303100000 +0100",
+            "title": "Café & Relax",
+            "description": "| +16 | Música |\n\nCanciones para despertarse con tranquilidad y empezar en día con buen pie y buen humor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100001 +0100",
+            "stop_time": "20250303110000 +0100",
+            "title": "De Buena Mañana",
+            "description": "| +16 | Música |\n\n¡Los temas pop más animados para empezar en día con ganas de comerse el mundo!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303110001 +0100",
+            "stop_time": "20250303120000 +0100",
+            "title": "Live From Vevo Studios",
+            "description": "| +16 | Música |\n\nActuaciones en directo desde los Vevo Studios.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120001 +0100",
+            "stop_time": "20250303130000 +0100",
+            "title": "¡A Bailar!",
+            "description": "| +16 | Música |\n\nDéjate llevar por la música y ponte a bailar con las coreografías más icónicas de tus artistas favoritos!  ",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130001 +0100",
+            "stop_time": "20250303140000 +0100",
+            "title": "Top Éxitos España",
+            "description": "| +16 | Música |\n\n¡Los mayores éxitos del momento! Canciones que lo rompen en la radio, en las discotecas y ahora, también, en el salón de tu casa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303140001 +0100",
+            "stop_time": "20250303150000 +0100",
+            "title": "Happy Hour",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para disfrutar mientras cocinas o tomas algo con la familia y amigos. Dale play y disfruta!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150001 +0100",
+            "stop_time": "20250303160000 +0100",
+            "title": "Buenas Vibras",
+            "description": "| +16 | Música |\n\n¡Videoclips con buen rollo para subirte el ánimo!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303170000 +0100",
+            "title": "Éxitos de siempre",
+            "description": "| +16 | Música |\n\nLos grandes éxitos de los 2000 y 2010 para viajar en el tiempo a través de la música!",
             "icon": ""
         }
     ]

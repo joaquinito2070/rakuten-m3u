@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250224230001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Latino Romántico",
-            "description": "| +16 | Música |\n\nUna hora de música latina con mucho amor. ¡Para bailar pegaíto!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225000001 +0100",
             "stop_time": "20250225010000 +0100",
             "title": "Lo Más Pegao",
@@ -1022,6 +1015,118 @@
             "stop_time": "20250303010000 +0100",
             "title": "Lo Más Pegao",
             "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303020000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303020001 +0100",
+            "stop_time": "20250303030000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030001 +0100",
+            "stop_time": "20250303040000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040001 +0100",
+            "stop_time": "20250303050000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050001 +0100",
+            "stop_time": "20250303060000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303060001 +0100",
+            "stop_time": "20250303070000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303080000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303080001 +0100",
+            "stop_time": "20250303090000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090001 +0100",
+            "stop_time": "20250303100000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100001 +0100",
+            "stop_time": "20250303110000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303110001 +0100",
+            "stop_time": "20250303120000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120001 +0100",
+            "stop_time": "20250303130000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130001 +0100",
+            "stop_time": "20250303140000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303140001 +0100",
+            "stop_time": "20250303150000 +0100",
+            "title": "Iconos Latinos",
+            "description": "| +16 | Música |\n\nVídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150001 +0100",
+            "stop_time": "20250303160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
             "icon": ""
         }
     ]

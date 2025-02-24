@@ -3,34 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250224231020 +0100",
-            "stop_time": "20250224233741 +0100",
-            "title": "Trucos de cocina simples y útiles",
-            "description": "| +TP | Entretenimiento |\n\n¡Mejora tus habilidades culinarias con estos ingeniosos trucos de cocina!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233742 +0100",
-            "stop_time": "20250225000025 +0100",
-            "title": "Ideas increíbles para fiestas",
-            "description": "| +TP | Entretenimiento |\n\n¡Consejos geniales sobre cómo pasar un buen rato en una fiesta!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000026 +0100",
-            "stop_time": "20250225002600 +0100",
-            "title": "Trucos y manualidades de verdaderos profesionales",
-            "description": "| +TP | Entretenimiento |\n\n¿Cómo crear manualidades complejas? ¡Descúbrelo en este video!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002601 +0100",
-            "stop_time": "20250225004958 +0100",
-            "title": "Mejora tus zapatos con estos trucos útiles",
-            "description": "| +TP | Entretenimiento |\n\n¡Maneras fáciles de darles vida a tus zapatos!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225004959 +0100",
             "stop_time": "20250225011445 +0100",
             "title": "Dispositivos para el hogar que necesitas en tu vida",
@@ -2049,6 +2021,62 @@
         {
             "start_time": "20250302220001 +0100",
             "stop_time": "20250303010000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303040000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040001 +0100",
+            "stop_time": "20250303070000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303100000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100001 +0100",
+            "stop_time": "20250303130000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130001 +0100",
+            "stop_time": "20250303160000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303190000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303190001 +0100",
+            "stop_time": "20250303220000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303220001 +0100",
+            "stop_time": "20250304010000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Entretenimiento |\n\nProgram information is not yet available",
             "icon": ""

@@ -3,27 +3,6 @@
     "tvg_id": "revry-news",
     "epg": [
         {
-            "start_time": "20250224225006 +0100",
-            "stop_time": "20250224233000 +0100",
-            "title": "Unboxed",
-            "description": "| +TP | LGBTQ+ |\n\nSix transgender and gender diverse artists share the story of their experiences.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233006 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Fashion Stories",
-            "description": "| +TP | LGBTQ+ |\n\nThe latest in fashion and style.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000006 +0100",
-            "stop_time": "20250225003000 +0100",
-            "title": "Get Your Cook On",
-            "description": "| +TP | LGBTQ+ |\n\nRecipes and food stories for you to enjoy.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003006 +0100",
             "stop_time": "20250225020000 +0100",
             "title": "I Am The Queen",

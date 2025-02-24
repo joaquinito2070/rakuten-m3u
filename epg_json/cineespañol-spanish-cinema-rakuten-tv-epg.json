@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224220724 +0100",
-            "stop_time": "20250224235931 +0100",
-            "title": "Cuanto más grande, mejor",
-            "description": "| +16 | Películas |\n\nColoma y Secundina son dos porteras de dos edificios de la calle Caspe. A través de ellas, conoceremos las virtudes y miserias de diversos personajes del barrio.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d410bdf8-a7c1-4260-a1a8-b3cfbd80be45.jpeg"
-        },
-        {
             "start_time": "20250224235932 +0100",
             "stop_time": "20250225015817 +0100",
             "title": "Nubes De Cartón",

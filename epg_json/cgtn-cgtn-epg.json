@@ -3,20 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250224230001 +0100",
-            "stop_time": "20250224233000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Assignment Asia",
-            "description": "| +7 | Asian |\n\nAssignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225000001 +0100",
             "stop_time": "20250225010000 +0100",
             "title": "Americas Now",
@@ -1673,6 +1659,27 @@
             "stop_time": "20250303010000 +0100",
             "title": "Full Frame",
             "description": "| +7 | Asian |\n\nFull Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303013000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303013001 +0100",
+            "stop_time": "20250303020000 +0100",
+            "title": "Assignment Asia",
+            "description": "| +7 | Asian |\n\nAssignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303020001 +0100",
+            "stop_time": "20250303023000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
             "icon": ""
         }
     ]

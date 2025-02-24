@@ -3,20 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224224832 +0100",
-            "stop_time": "20250224235112 +0100",
-            "title": "Miss Fisher's Murder Mysteries",
-            "description": "| +16 | Crime |\n\nAmbientado en el exclusivo salón de moda de las hermanas Fleuri en el“Paris End” de la calle Collins. Cuando Phryne aparece en el salón deMadame Fleuri para que le tomen medidas, se ve envuelta inesperadamenteen el medio de la escena de un crimen.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/8762a4fc-f643-4b7a-9e4a-2ad50b79a75a.jpeg"
-        },
-        {
-            "start_time": "20250224235113 +0100",
-            "stop_time": "20250225004344 +0100",
-            "title": "See no evil",
-            "description": "| +16 | Crime |\n\nEn octubre de 2009, Natasha Cournoyer, de 37 años, desaparece sin dejar rastro en Laval, Canadá. Mientras sus amigos y familiares luchan por obtener respuestas, los detectives deben seguir un rastro frío para descubrir sus últimos pasos captados por cámaras de vigilancia.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/9c3aa22b-5526-4c78-a560-662614c6d481.jpeg"
-        },
-        {
             "start_time": "20250225004345 +0100",
             "stop_time": "20250225013620 +0100",
             "title": "See no evil",

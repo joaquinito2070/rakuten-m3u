@@ -3,34 +3,6 @@
     "tvg_id": "jade-fever-es",
     "epg": [
         {
-            "start_time": "20250224225746 +0100",
-            "stop_time": "20250224232535 +0100",
-            "title": "La Fiebre del Jade",
-            "description": "| +16 | Entretenimiento |\n\nLa carrera para preparar el campamento en Wolverine se convierte en una pesadilla.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232536 +0100",
-            "stop_time": "20250224235325 +0100",
-            "title": "La Fiebre del Jade",
-            "description": "| +16 | Entretenimiento |\n\nEl brutal viaje a una nueva mina separa a la familia y lleva a Josh al límite.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224235326 +0100",
-            "stop_time": "20250225002323 +0100",
-            "title": "La Fiebre del Jade",
-            "description": "| +16 | Entretenimiento |\n\nLos pequeños lujos en el campamento animan a un equipo descontento y los visitantes sorpresa aumentan las esperanzas de Claudia.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002324 +0100",
-            "stop_time": "20250225004906 +0100",
-            "title": "La Fiebre del Jade",
-            "description": "| +16 | Entretenimiento |\n\nGary y Josh no regresan de una búsqueda rutinaria de combustible y los núcleos de perforación ponen en duda la calidad de las lentes de jade en 2 Mile.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225004907 +0100",
             "stop_time": "20250225011656 +0100",
             "title": "La Fiebre del Jade",
@@ -1960,6 +1932,41 @@
             "stop_time": "20250303013357 +0100",
             "title": "La Fiebre del Jade",
             "description": "| +16 | Entretenimiento |\n\nLa nueva temporada minera está llena de sorpresas desagradables, pero un rescate improbable salva el día.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303013358 +0100",
+            "stop_time": "20250303023234 +0100",
+            "title": "La Fiebre del Jade",
+            "description": "| +16 | Entretenimiento |\n\nHarto de trabajar para su padre, Josh inicia su propio negocio de transporte por carretera con un semirremolque nuevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303023235 +0100",
+            "stop_time": "20250303033111 +0100",
+            "title": "La Fiebre del Jade",
+            "description": "| +16 | Entretenimiento |\n\nEl camión del ejército muere en el brutal camino hacia la mina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303033112 +0100",
+            "stop_time": "20250303042948 +0100",
+            "title": "La Fiebre del Jade",
+            "description": "| +16 | Entretenimiento |\n\nGary y su hijo rescatan un viejo camión del ejército, pero conducirlo hasta la mina es brutal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303042949 +0100",
+            "stop_time": "20250303052825 +0100",
+            "title": "La Fiebre del Jade",
+            "description": "| +16 | Entretenimiento |\n\nJustin llega volando con una sierra de alambre nueva, pero pierde la calma al intentar configurarla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303052826 +0100",
+            "stop_time": "20250303062702 +0100",
+            "title": "La Fiebre del Jade",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo encuentra innumerables problemas al tratar de cortar un trozo de la lente de 60 pies.",
             "icon": ""
         }
     ]

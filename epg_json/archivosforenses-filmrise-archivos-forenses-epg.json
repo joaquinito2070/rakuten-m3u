@@ -3,34 +3,6 @@
     "tvg_id": "filmrise-archivos-forenses",
     "epg": [
         {
-            "start_time": "20250224224830 +0100",
-            "stop_time": "20250224231839 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\n18 personas fueron asfixiadas, abusadas sexualmente y dadas por muertas en las remotas montañas de California.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224231840 +0100",
-            "stop_time": "20250224234850 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nEn 1985, 121 personas en Dakota del Sur y Minnesota sufrieron una misteriosa enfermedad.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224234851 +0100",
-            "stop_time": "20250225002030 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nDespués de que aparecen 10 cuerpos en Florida, una víctima - Lisa McVey - es secuestrada pero liberada.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002031 +0100",
-            "stop_time": "20250225005209 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nEileen y Derrick Severs desaparecen de su casa y la policía encuentra evidencia de un crimen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225005210 +0100",
             "stop_time": "20250225012349 +0100",
             "title": "Forensic Files",
@@ -1960,6 +1932,69 @@
             "stop_time": "20250303012705 +0100",
             "title": "Forensic Files",
             "description": "| +12 | Series |\n\nCuando encuentran muerta a la esposa de un dentista, la policía se esfuerza por identificar a un sospechoso.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303012706 +0100",
+            "stop_time": "20250303015846 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nCuando se encuentra un cuerpo descompuesto metido en un barril, es fácil suponer un asesinato.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303015847 +0100",
+            "stop_time": "20250303023027 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nCuando la casa de un policía se incendia, los expertos sospechan de un incendio provocado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303023028 +0100",
+            "stop_time": "20250303030207 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nDianna Green es atacada y su hijo por nacer muere. Ella identifica a su marido como el agresor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030208 +0100",
+            "stop_time": "20250303033348 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nSe encuentra a Nancy Newman y a sus dos hijas que fueron brutalmente asesinadas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303033349 +0100",
+            "stop_time": "20250303040527 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nEsta examinación del papel que juegan las autopsias de asesinatos se centra en la muerte de Virginia Ridley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040528 +0100",
+            "stop_time": "20250303043705 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nLa investigación de un pediatra, donde la tasa de mortalidad es más alta que en cualquier hospital del país.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303043706 +0100",
+            "stop_time": "20250303050844 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nCuando se descubre el cuerpo descompuesto de una adolescente, la policía no tiene pistas sobre su identidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050845 +0100",
+            "stop_time": "20250303054023 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nLa policía sospecha del Dr. John \"Jack\" Boyle en la desaparición de su esposa, Noreen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303054024 +0100",
+            "stop_time": "20250303061033 +0100",
+            "title": "Forensic Files",
+            "description": "| +12 | Series |\n\nEn el estreno de la serie \"Archivos Forenses\" (Forensic Files), una asistente de vuelo desaparece.",
             "icon": ""
         }
     ]

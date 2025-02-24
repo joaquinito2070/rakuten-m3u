@@ -3,20 +3,6 @@
     "tvg_id": "todo-novelas",
     "epg": [
         {
-            "start_time": "20250224221412 +0100",
-            "stop_time": "20250225000201 +0100",
-            "title": "Sinu EP26",
-            "description": "| +7 | Series |\n\nFelipe, capataz de una granja, se enamora de Lina. Para superar sus limitaciones económicas, Felipe acepta la propuesta de Marcos, lo que significa alejarse de todo y asumir una nueva identidad.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000202 +0100",
-            "stop_time": "20250225005407 +0100",
-            "title": "Teresa EP101",
-            "description": "| +7 | Series |\n\nTeresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225005408 +0100",
             "stop_time": "20250225015132 +0100",
             "title": "Malparida - S1E01",

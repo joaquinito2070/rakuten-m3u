@@ -3,20 +3,6 @@
     "tvg_id": "qwest-tv",
     "epg": [
         {
-            "start_time": "20250224214901 +0100",
-            "stop_time": "20250224231900 +0100",
-            "title": "Derya Yıldırım & Grup Şimşek",
-            "description": "| +TP | Música |\n\nThe multi-instrumentist singer pays tribute to her Turkish roots combined with jazz and pop influences.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224231901 +0100",
-            "stop_time": "20250225003400 +0100",
-            "title": "Asa - Live at Art Rock Festival",
-            "description": "| +TP | Música |\n\nMulti-genre singer Asa transcends cultural boundaries with her performance.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003401 +0100",
             "stop_time": "20250225020000 +0100",
             "title": "Chillin’ with Qwest TV",
@@ -565,6 +551,97 @@
         {
             "start_time": "20250302224301 +0100",
             "stop_time": "20250303020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303020001 +0100",
+            "stop_time": "20250303030800 +0100",
+            "title": "Walter Trout - Live in Germany",
+            "description": "| +TP | Música |\n\nWith his gritty vocals and his electrifying guitar solos, Walter Trout rouses the crowd that cheers for more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030801 +0100",
+            "stop_time": "20250303034100 +0100",
+            "title": "Art Blakey & The Jazz Messengers",
+            "description": "| +TP | Música |\n\nThe musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303034101 +0100",
+            "stop_time": "20250303044300 +0100",
+            "title": "Melody Gardot - Live in France",
+            "description": "| +TP | Música |\n\nThe Grammy-winning acclaimed jazz vocalist enchants us at the legendary Chateau d'Hérouville in France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303044301 +0100",
+            "stop_time": "20250303070000 +0100",
+            "title": "Late Night Sounds by Qwest TV",
+            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303095800 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303095801 +0100",
+            "stop_time": "20250303122600 +0100",
+            "title": "Diverse, Beautiful Music by Qwest TV",
+            "description": "| +TP | Música |\n\nQwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303122601 +0100",
+            "stop_time": "20250303150100 +0100",
+            "title": "Where Great Music Meets by Qwest TV",
+            "description": "| +TP | Música |\n\nA curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150101 +0100",
+            "stop_time": "20250303181100 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303181101 +0100",
+            "stop_time": "20250303200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303200001 +0100",
+            "stop_time": "20250303214900 +0100",
+            "title": "Marko Marković Brass Band - Live",
+            "description": "| +TP | Música |\n\nHis great-grandfather used to play for the king of Serbia. Here the Marko Marković Brass Band plays at Moods",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303214901 +0100",
+            "stop_time": "20250303224200 +0100",
+            "title": "Emel Mathlouthi - Live",
+            "description": "| +TP | Música |\n\nEmel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303224201 +0100",
+            "stop_time": "20250303234900 +0100",
+            "title": "Andy Emler MegaOctet - Live",
+            "description": "| +TP | Música |\n\n30 years after its creation in 1989, the sparkling nonet returns to the Parc Floral for the Paris Jazz Fest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303234901 +0100",
+            "stop_time": "20250304020000 +0100",
             "title": "Chillin’ with Qwest TV",
             "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
             "icon": ""

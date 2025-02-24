@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224210321 +0100",
-            "stop_time": "20250224232621 +0100",
-            "title": "Los amos de Brooklyn",
-            "description": "| +16 | Películas |\n\nTres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/09e6c5b9-86d7-4e90-b010-d3911ffc2861-snapshot-1590665714.jpeg"
-        },
-        {
             "start_time": "20250224232622 +0100",
             "stop_time": "20250225012732 +0100",
             "title": "Rememory",
@@ -154,7 +147,7 @@
             "stop_time": "20250226151452 +0100",
             "title": "Acero Azul",
             "description": "| +16 | Películas |\n\nUna novata del cuerpo de policía se ve envuelta en un juego del gato y el ratón con un psicópata con una pistola que se obsesiona con ella.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/740c475c-1627-48d9-98e7-036c2c79e8b0-snapshot-1590664775.jpeg"
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/ac0f86d7-59e3-41ca-9067-8ec6419a610d.jpeg"
         },
         {
             "start_time": "20250226151453 +0100",
@@ -252,7 +245,7 @@
             "stop_time": "20250227174648 +0100",
             "title": "Acero Azul",
             "description": "| +16 | Películas |\n\nUna novata del cuerpo de policía se ve envuelta en un juego del gato y el ratón con un psicópata con una pistola que se obsesiona con ella.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/740c475c-1627-48d9-98e7-036c2c79e8b0-snapshot-1590664775.jpeg"
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/ac0f86d7-59e3-41ca-9067-8ec6419a610d.jpeg"
         },
         {
             "start_time": "20250227174649 +0100",

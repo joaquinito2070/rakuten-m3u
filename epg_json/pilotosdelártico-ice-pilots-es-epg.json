@@ -3,20 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250224222734 +0100",
-            "stop_time": "20250224232157 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nBuffalo tiene que llevar un bombardero de agua CL-215 a los compradores de Corea.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232158 +0100",
-            "stop_time": "20250225001622 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nEn Corea del Sur, Cory y Justin se encuentran con el barco que entrega el avión bombardero acuático de Buffalo a nuevos compradores allí.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225001623 +0100",
             "stop_time": "20250225011254 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",
@@ -1106,6 +1092,41 @@
             "stop_time": "20250303012917 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",
             "description": "| +16 | Entretenimiento |\n\nEl Electra vuela a Alert, el asentamiento más al norte de la Tierra, lo que obliga a Adam y al nuevo gerente Duane a resolver las cosas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303012918 +0100",
+            "stop_time": "20250303022329 +0100",
+            "title": "Pilotos del Ártico (Ice Pilots)",
+            "description": "| +16 | Entretenimiento |\n\nLas chispas vuelan cuando Joe descubre que Gord ha aceptado un trabajo con una aerolínea rival.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303022330 +0100",
+            "stop_time": "20250303031742 +0100",
+            "title": "Pilotos del Ártico (Ice Pilots)",
+            "description": "| +16 | Entretenimiento |\n\nLa decisión de Duane de dejar al equipo de Electra sin supervisión mientras pasa tiempo en casa pone en peligro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303031743 +0100",
+            "stop_time": "20250303041402 +0100",
+            "title": "Pilotos del Ártico (Ice Pilots)",
+            "description": "| +16 | Entretenimiento |\n\nEl mecánico Jimmy es enviado a un campamento minero del norte para crear una pista de aterrizaje de hielo en un lago remoto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303041403 +0100",
+            "stop_time": "20250303051022 +0100",
+            "title": "Pilotos del Ártico (Ice Pilots)",
+            "description": "| +16 | Entretenimiento |\n\nProblemas de motor en el C-46 durante la carrera en valle obligan a Devan a apagar un motor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303051023 +0100",
+            "stop_time": "20250303060642 +0100",
+            "title": "Pilotos del Ártico (Ice Pilots)",
+            "description": "| +16 | Entretenimiento |\n\nEl piloto novato de bombas de agua, Scott, prueba por primera vez la acción cuando Buffalo responde a una llamada de emergencia.",
             "icon": ""
         }
     ]

@@ -3,41 +3,6 @@
     "tvg_id": "wb-caillou-es",
     "epg": [
         {
-            "start_time": "20250224225753 +0100",
-            "stop_time": "20250224232747 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nCaillou acompaña a mamá al supermercado.// Caillou ve animales salvajes cuando papá y el abuelo van de excursión en canoa.// Un día de otoño, Caillou y su madre dan un paseo y pasan por unas obras.// Cuando papá quema las tostadas y activa la alarma de incendios, decide que es la ocasión perfecta para poner en práctica un simulacro de incendio.// Caillou y su mamá acaban de preparar un pícnic.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232753 +0100",
-            "stop_time": "20250224235747 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nLeo va a jugar a casa de Caillou.// Papá tiene una lista de cosas que hacer en casa.// Caillou quiere jugar con sus cromos de animales, pero han desaparecido.// Jonas, un amigo de papá que es todo un vaquero, ha invitado a la familia a visitar su rancho.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224235754 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nLa abuela le ha regalado a Caillou un plato de una nave espacial muy especial.// Fuera está lloviendo, pero a Caillou no hay quien lo pare.// Caillou encuentra una foto de su padre con cuatro años con un tren de juguete y decide buscarlo con su papá.// Cuando Caillou ve una caseta de perro fuera, cree que a Gilbert podría gustarle tener su propia caseta.// Caillou, Rosie y mamá se divierten en el parque cuando aparece el heladero.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000006 +0100",
-            "stop_time": "20250225002936 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nLa abuela le ha regalado a Caillou un plato de una nave espacial muy especial.// Fuera está lloviendo, pero a Caillou no hay quien lo pare.// Caillou encuentra una foto de su padre con cuatro años con un tren de juguete y decide buscarlo con su papá.// Cuando Caillou ve una caseta de perro fuera, cree que a Gilbert podría gustarle tener su propia caseta.// Caillou, Rosie y mamá se divierten en el parque cuando aparece el heladero.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002942 +0100",
-            "stop_time": "20250225005934 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nLeo duerme en casa de Caillou.// A Caillou le hace ilusión que la señora Martin lo lleve junto a sus amigos al parque para hacer actividades especiales.// Cuando la familia de Caillou visita el rancho de Jonas en primavera, él los lleva a montar en trineo.// Los gemelos Jason y Jeffrey han venido a jugar con Caillou en la nieve.// Cuando Caillou, Rosie y mamá van al parque grande, Caillou ve a André.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225005940 +0100",
             "stop_time": "20250225012938 +0100",
             "title": "Caillou",

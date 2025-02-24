@@ -3,13 +3,6 @@
     "tvg_id": "afv-family",
     "epg": [
         {
-            "start_time": "20250224224752 +0100",
-            "stop_time": "20250225004604 +0100",
-            "title": "AFV Comedy Rush Hour",
-            "description": "| +TP | Entretenimiento |\n\nEpisode 103 - Welcome to Comedy Rush Hour, the show where we bring you 2 hours of the best of your AFV favorites from Top 10 Countdown, The Dub Club, Asked Answered, and Prank Academy. So, sit back and get ready for a block of non-stop laughs.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225004611 +0100",
             "stop_time": "20250225011615 +0100",
             "title": "Family LOL Remix",

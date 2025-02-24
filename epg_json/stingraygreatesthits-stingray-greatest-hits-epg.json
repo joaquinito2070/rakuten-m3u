@@ -3,13 +3,6 @@
     "tvg_id": "stingray-greatest-hits",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Stingray Greatest Hits",
-            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225000001 +0100",
             "stop_time": "20250225040000 +0100",
             "title": "Stingray Greatest Hits",
@@ -264,6 +257,48 @@
         {
             "start_time": "20250303000001 +0100",
             "stop_time": "20250303040000 +0100",
+            "title": "Stingray Greatest Hits",
+            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040001 +0100",
+            "stop_time": "20250303080000 +0100",
+            "title": "Stingray Greatest Hits",
+            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303080001 +0100",
+            "stop_time": "20250303120000 +0100",
+            "title": "Stingray Greatest Hits",
+            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120001 +0100",
+            "stop_time": "20250303160000 +0100",
+            "title": "Stingray Greatest Hits",
+            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303200000 +0100",
+            "title": "Stingray Greatest Hits",
+            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303200001 +0100",
+            "stop_time": "20250304000000 +0100",
+            "title": "Stingray Greatest Hits",
+            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304000001 +0100",
+            "stop_time": "20250304040000 +0100",
             "title": "Stingray Greatest Hits",
             "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
             "icon": ""

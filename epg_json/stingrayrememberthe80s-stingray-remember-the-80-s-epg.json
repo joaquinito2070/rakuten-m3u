@@ -3,13 +3,6 @@
     "tvg_id": "stingray-remember-the-80-s",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Stingray Remember the '80s",
-            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225000001 +0100",
             "stop_time": "20250225040000 +0100",
             "title": "Stingray Remember the '80s",
@@ -264,6 +257,48 @@
         {
             "start_time": "20250303000001 +0100",
             "stop_time": "20250303040000 +0100",
+            "title": "Stingray Remember the '80s",
+            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040001 +0100",
+            "stop_time": "20250303080000 +0100",
+            "title": "Stingray Remember the '80s",
+            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303080001 +0100",
+            "stop_time": "20250303120000 +0100",
+            "title": "Stingray Remember the '80s",
+            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120001 +0100",
+            "stop_time": "20250303160000 +0100",
+            "title": "Stingray Remember the '80s",
+            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303200000 +0100",
+            "title": "Stingray Remember the '80s",
+            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303200001 +0100",
+            "stop_time": "20250304000000 +0100",
+            "title": "Stingray Remember the '80s",
+            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304000001 +0100",
+            "stop_time": "20250304040000 +0100",
             "title": "Stingray Remember the '80s",
             "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
             "icon": ""

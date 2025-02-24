@@ -3,34 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250224231001 +0100",
-            "stop_time": "20250224232500 +0100",
-            "title": "Above the Fiji Islands II",
-            "description": "| +TP | Estilo de vida |\n\nFiji Yasawa Islands.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232501 +0100",
-            "stop_time": "20250224234100 +0100",
-            "title": "Above the Fiji Islands II",
-            "description": "| +TP | Estilo de vida |\n\nFiji Yasawa Islands.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224234101 +0100",
-            "stop_time": "20250224235900 +0100",
-            "title": "Above the Fiji Islands II",
-            "description": "| +TP | Estilo de vida |\n\nFiji Yasawa Islands.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224235901 +0100",
-            "stop_time": "20250225005900 +0100",
-            "title": "Golden Hour in Paradise",
-            "description": "| +TP | Estilo de vida |\n\nA 4K UHD video collage with soft instrumental music from one moment in paradise to the next, with ambient nature sounds and soft music for deep relaxation.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225005901 +0100",
             "stop_time": "20250225015900 +0100",
             "title": "Dolphin Voyage Relaxation",
@@ -286,7 +258,7 @@
             "start_time": "20250226130001 +0100",
             "stop_time": "20250226135900 +0100",
             "title": "Natural Beauty",
-            "description": "| +TP | Estilo de vida |\n\nHighlights of some of the world's most exotic locations.",
+            "description": "| +TP | Estilo de vida |\n\nFrom high up on a lush and isolated cliff, plunge into the waters of Kahakuloa Bay on West Maui's rugged North Shore.",
             "icon": ""
         },
         {
@@ -1057,6 +1029,174 @@
             "stop_time": "20250303015900 +0100",
             "title": "Shark Paradise",
             "description": "| +TP | Estilo de vida |\n\nCaptured by filmmaker collaborator Peter Schneider, Shark Paradise features hundreds of unique real-time scenes captured from around the world, paired with gentle underwater sounds and calming music for deep relaxation by Relax Moods.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303015901 +0100",
+            "stop_time": "20250303025900 +0100",
+            "title": "Sunny Getaways",
+            "description": "| +TP | Estilo de vida |\n\nFeel the relaxing seaside breeze of this Caribbean paradise from the comfort of your balcony.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303025901 +0100",
+            "stop_time": "20250303035800 +0100",
+            "title": "A Day in Paradise",
+            "description": "| +TP | Estilo de vida |\n\nFilmed in 2013 by David Huting, the tiny island is hidden off of the northeastern coast of the outer Fiji Islands (near Taveuni), and boasts a perfect white sandy beach, groves of palm trees, and a majestic lagoon that shelters the island from all sides. It has more turtle visitors than humans!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303035801 +0100",
+            "stop_time": "20250303045800 +0100",
+            "title": "Sunny Getaways",
+            "description": "| +TP | Estilo de vida |\n\nFeel the relaxing seaside breeze of this Caribbean paradise from the comfort of your balcony.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303045801 +0100",
+            "stop_time": "20250303055800 +0100",
+            "title": "Bryce Canyon Relaxation",
+            "description": "| +TP | Estilo de vida |\n\nReplace your worries with the wonders of one of the world's most breathtaking natural destinations: Bryce Canyon, in Utah. Filmed in 4K UHD, this 1-hour ambient cinematic experience immerses viewers in over 20 different real-time scenes from a perfect summer day and gentle clouds passing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303055801 +0100",
+            "stop_time": "20250303065800 +0100",
+            "title": "Cape Reinga & Giant Sand Dunes",
+            "description": "| +TP | Estilo de vida |\n\nCape Reinga and Giant Sand Dunes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303065801 +0100",
+            "stop_time": "20250303075800 +0100",
+            "title": "Hemin Pealey: Îles de la Madeleine",
+            "description": "| +TP | Estilo de vida |\n\nRocky cliffs that overlook calm waters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303075801 +0100",
+            "stop_time": "20250303090000 +0100",
+            "title": "Coastal Windmill Relaxation",
+            "description": "| +TP | Estilo de vida |\n\nCoastal Windmills is a 1 hour dynamic aerial relaxation film paired with calming ambient music which takes viewers to 2 different beautiful South Australia Wind Farms.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090001 +0100",
+            "stop_time": "20250303095700 +0100",
+            "title": "Atuh Beach: Indonesia",
+            "description": "| +TP | Estilo de vida |\n\nTake a tour of beautiful Indonesian waters, surrounded by impressive rock formations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303095701 +0100",
+            "stop_time": "20250303105900 +0100",
+            "title": "Auckland Beaches: New Zealand",
+            "description": "| +TP | Estilo de vida |\n\nThe relaxing vibe of a day at the beach, with a tour of the breathtaking coastlines near Auckland.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303105901 +0100",
+            "stop_time": "20250303115900 +0100",
+            "title": "Deep Blue Aquarium",
+            "description": "| +TP | Estilo de vida |\n\nThis HD Nature Relaxation Static scene lasting 1 hour features the rhythmic, trance-inducing sights and sounds of an underwater California kelp forest. Cool blues and shades of light bounce off of the dancing kelp and schools of fish; underwater sounds paired with healing ambient music by Yellow Brick Cinema adds an extra level of relaxation, making for the perfect virtual screensaver video to have on as a background video while working.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303115901 +0100",
+            "stop_time": "20250303130000 +0100",
+            "title": "Nature's Beauty: World of Relaxation",
+            "description": "| +TP | Estilo de vida |\n\nA seamless mix of several Nature Relaxation's shorter length productions.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130001 +0100",
+            "stop_time": "20250303135900 +0100",
+            "title": "A Day in Mt Rainier 1",
+            "description": "| +TP | Estilo de vida |\n\nJourneying to hidden sections of Mount Rainier National Park in Washington state with pure nature sounds for relaxation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303135901 +0100",
+            "stop_time": "20250303145900 +0100",
+            "title": "A Day in San Diego",
+            "description": "| +TP | Estilo de vida |\n\nA Day in San Diego",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303145901 +0100",
+            "stop_time": "20250303155900 +0100",
+            "title": "Diamond Beach I: Indonesia",
+            "description": "| +TP | Estilo de vida |\n\nAn immersion into turquoise waters and a rocky coastline in Bali, Indonesia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303155901 +0100",
+            "stop_time": "20250303165900 +0100",
+            "title": "Flow of Life",
+            "description": "| +TP | Estilo de vida |\n\nFeatures images of landscapes such as mountains, forests, creeks, rivers, butterflies, bees, bumblebees, lizards and more; includes gentle breath reminders to assist in a meditative experience; relaxing music composed by Chris Collins.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303165901 +0100",
+            "stop_time": "20250303175900 +0100",
+            "title": "Flying Over the Atlantic Ocean",
+            "description": "| +TP | Estilo de vida |\n\nTravelling the coasts of the Atlantic Ocean from a bird's-eye view.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303175901 +0100",
+            "stop_time": "20250303185900 +0100",
+            "title": "A Day in the Caribbean",
+            "description": "| +TP | Estilo de vida |\n\nThe tropical island of Antigua.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303185901 +0100",
+            "stop_time": "20250303195900 +0100",
+            "title": "Tropical Weightlessness",
+            "description": "| +TP | Estilo de vida |\n\nGently sway in the tropical turquoise waters with a glimpse of blue sky and palm trees.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303195901 +0100",
+            "stop_time": "20250303205900 +0100",
+            "title": "Blue Lagoon Boat",
+            "description": "| +TP | Estilo de vida |\n\nFeaturing a static nature scene filmed on a remote island on the northern tip of Mexico's Yucatan Peninsula; puffy clouds, lapsing lagoon waves and the sights and sounds of seagulls.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303205901 +0100",
+            "stop_time": "20250303215900 +0100",
+            "title": "Sunny Getaways",
+            "description": "| +TP | Estilo de vida |\n\nIndulging in warm breezes, soft white sand and dazzling sapphire waters on the Dominican Republic's Playa Las Galeras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303215901 +0100",
+            "stop_time": "20250303225900 +0100",
+            "title": "Above the Rocky Mountains",
+            "description": "| +TP | Estilo de vida |\n\nAbove the Rocky Mountains",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303225901 +0100",
+            "stop_time": "20250303235900 +0100",
+            "title": "Above the Spanish Islands",
+            "description": "| +TP | Estilo de vida |\n\nAn aerial voyage over Mallorca.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303235901 +0100",
+            "stop_time": "20250304005900 +0100",
+            "title": "Healing Hawaii II: Oahu",
+            "description": "| +TP | Estilo de vida |\n\nThe wonders of Oahu.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304005901 +0100",
+            "stop_time": "20250304015900 +0100",
+            "title": "Rainbow Reef Relaxation 2",
+            "description": "| +TP | Estilo de vida |\n\nVibrant underwater reefs, including many scenes which no longer look as depicted due to coral bleaching.",
             "icon": ""
         }
     ]

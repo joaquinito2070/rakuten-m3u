@@ -3,27 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224231001 +0100",
-            "stop_time": "20250224233000 +0100",
-            "title": "VITO",
-            "description": "| +7 | Deportes |\n\nA Kevin Perez video with non-stop thrills and boundary-pushing tricks that redefine street skating.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Surfing Life Travel - Season 1 - Episode 4",
-            "description": "| +7 | Deportes |\n\nFraser and Api explore the waves and culture of Fiji in Surfing Life Travel.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000001 +0100",
-            "stop_time": "20250225003000 +0100",
-            "title": "The Gypsea Tour",
-            "description": "| +7 | Deportes |\n\nThe Cliché team embarks on Gypsy adventure with a top notch US pro as a guest.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003001 +0100",
             "stop_time": "20250225010000 +0100",
             "title": "Moments",
@@ -1904,6 +1883,237 @@
             "stop_time": "20250303020500 +0100",
             "title": "Thunderstruck 12",
             "description": "| +7 | Deportes |\n\nThunderstruck conquers over 100 insane chute climbs in TS12.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303020501 +0100",
+            "stop_time": "20250303021500 +0100",
+            "title": "Snowchef - USA - What are the bakery secrets at Deer Valley?",
+            "description": "| +7 | Deportes |\n\nLaughter, spills, and an alpine adventure as Chef John and Foodie JD hit the slopes at Deer Valley Resort.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303021501 +0100",
+            "stop_time": "20250303024500 +0100",
+            "title": "Surfing Life Travel",
+            "description": "| +7 | Deportes |\n\nWe travel to the Maldives with Hood Ahmed, Keely Andrew, Cooper Davies and Jesse Starling.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303024501 +0100",
+            "stop_time": "20250303043000 +0100",
+            "title": "Revolver: Poor Boyz",
+            "description": "| +7 | Deportes |\n\nThe progression and the factors that have coincided with many great advancements of the sport of skiing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303043001 +0100",
+            "stop_time": "20250303050000 +0100",
+            "title": "Built to Shred - Season 3 - Skullcandy Potluck Junk Jam",
+            "description": "| +7 | Deportes |\n\nJeff King and crew help Skullcandy throw a grand opening potluck party at their new office in San Clemente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050001 +0100",
+            "stop_time": "20250303053000 +0100",
+            "title": "The Adventures of Danny and the Dingo - Season 5 - Beardo's and Weirdo's",
+            "description": "| +7 | Deportes |\n\nThe boys head to the Arctic Circle and one of the crew joins Norway's World Beard and Moustache Championshi...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303053001 +0100",
+            "stop_time": "20250303060000 +0100",
+            "title": "The Adventures of Danny and the Dingo - Season 5 - Viking Quest",
+            "description": "| +7 | Deportes |\n\nDanny and the rest of the Grenade Team meet back up with The Dingo and some vikings in Norway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303060001 +0100",
+            "stop_time": "20250303070000 +0100",
+            "title": "Harvey Spannos",
+            "description": "| +7 | Deportes |\n\nA boy uncovers the mystery of his father's death and searches his own identity to become a pro skateboarder...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303073000 +0100",
+            "title": "Camp Woodward - Season 3 - Lights, Cameras and Action",
+            "description": "| +7 | Deportes |\n\nJovon and Sean settle their differences on the paintball course. Zane tries to finish his zombie movie.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303073001 +0100",
+            "stop_time": "20250303080000 +0100",
+            "title": "Camp Woodward - Season 3 - If You Can Do it, I Can Do it Better",
+            "description": "| +7 | Deportes |\n\nZane uses some unorthodox methods to boost his vert skating performance while Jovon gets crazy on a BMX.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303080001 +0100",
+            "stop_time": "20250303081500 +0100",
+            "title": "B-Side: Yago Dora",
+            "description": "| +7 | Deportes |\n\nVolcom's psychedelic short film featuring Brazilian surfer Yago Dora.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303081501 +0100",
+            "stop_time": "20250303083000 +0100",
+            "title": "Returning Home",
+            "description": "| +7 | Deportes |\n\nDuring this unprecedented moment in history perhaps it is a good time to reflect on what \"home\" truly means...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303083001 +0100",
+            "stop_time": "20250303090000 +0100",
+            "title": "Taj Burrow: Life After The Tour",
+            "description": "| +7 | Deportes |\n\nTaj Burrow takes a break from surfing and travels to Portugal and talks about nearly two decades of touring...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090001 +0100",
+            "stop_time": "20250303093000 +0100",
+            "title": "Built to Shred - Season 3 - Skullcandy Potluck Junk Jam",
+            "description": "| +7 | Deportes |\n\nJeff King and crew help Skullcandy throw a grand opening potluck party at their new office in San Clemente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303093001 +0100",
+            "stop_time": "20250303100000 +0100",
+            "title": "Built to Shred - Season 3 - Junkyard Dogs",
+            "description": "| +7 | Deportes |\n\nJeff King &amp; Crew visit a truck recycling facility where they turn old truck pieces into shredable obsta...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100001 +0100",
+            "stop_time": "20250303120500 +0100",
+            "title": "Thunderstruck 12",
+            "description": "| +7 | Deportes |\n\nThunderstruck conquers over 100 insane chute climbs in TS12.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120501 +0100",
+            "stop_time": "20250303121500 +0100",
+            "title": "Snowchef - USA - What are the bakery secrets at Deer Valley?",
+            "description": "| +7 | Deportes |\n\nLaughter, spills, and an alpine adventure as Chef John and Foodie JD hit the slopes at Deer Valley Resort.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303121501 +0100",
+            "stop_time": "20250303124500 +0100",
+            "title": "Surfing Life Travel",
+            "description": "| +7 | Deportes |\n\nWe travel to the Maldives with Hood Ahmed, Keely Andrew, Cooper Davies and Jesse Starling.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303124501 +0100",
+            "stop_time": "20250303143000 +0100",
+            "title": "Revolver: Poor Boyz",
+            "description": "| +7 | Deportes |\n\nThe progression and the factors that have coincided with many great advancements of the sport of skiing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303143001 +0100",
+            "stop_time": "20250303150000 +0100",
+            "title": "Camp Woodward - Season 3 - If You Can Do it, I Can Do it Better",
+            "description": "| +7 | Deportes |\n\nZane uses some unorthodox methods to boost his vert skating performance while Jovon gets crazy on a BMX.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150001 +0100",
+            "stop_time": "20250303153000 +0100",
+            "title": "Thrillbillies - Season 3 - Finer Moments",
+            "description": "| +7 | Deportes |\n\nRefus looks back on some of the Thrillbillies' finer moments, featuring Cam, Crum, Whitney, Jared, and John...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303153001 +0100",
+            "stop_time": "20250303160000 +0100",
+            "title": "Thrillbillies - Season 3 - Good Times",
+            "description": "| +7 | Deportes |\n\nRefus looks back on some of the Thrillbillies' historic moments, featuring Gavin, Shrimpy, Dusty, and Pat.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303163000 +0100",
+            "title": "On Surfari - Island of Mauritius",
+            "description": "| +7 | Deportes |\n\nS&amp;S travel to the Indian Ocean to explore the island of Mauritius, home to one of the best waves in the...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303163001 +0100",
+            "stop_time": "20250303170000 +0100",
+            "title": "Shorebreak: The Series - First Swell",
+            "description": "| +7 | Deportes |\n\nClark Little proudly remembers his fearless, fun-loving brother, late professional surfer, Brock Little. ",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303170001 +0100",
+            "stop_time": "20250303173000 +0100",
+            "title": "Behind the Gate - 2024 - Pressure Points",
+            "description": "| +7 | Deportes |\n\nAs race day approaches in Latvia, pressure mounts for riders as they navigate new challenges.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303173001 +0100",
+            "stop_time": "20250303180000 +0100",
+            "title": "Behind the Gate - 2024 - Wrecking Ball",
+            "description": "| +7 | Deportes |\n\nKiara Fontanesi, MX champion and mother, battles fierce rivals and muddy tracks at iconic Maggiora.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303180001 +0100",
+            "stop_time": "20250303183000 +0100",
+            "title": "The Adventures of Danny and the Dingo - Season 5 - Spread the Shred",
+            "description": "| +7 | Deportes |\n\nThe fifth season premiere opens with Danny and The Dingo living with the Blackfeet Indian tribe in Montana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303183001 +0100",
+            "stop_time": "20250303190000 +0100",
+            "title": "The Adventures of Danny and the Dingo - Season 5 - Society of Comrades",
+            "description": "| +7 | Deportes |\n\nBefore leaving Blackfeet Indians the Grenade Team must face their fears in the Sweat Lodge.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303190001 +0100",
+            "stop_time": "20250303193000 +0100",
+            "title": "Terra Incognita",
+            "description": "| +7 | Deportes |\n\nA tight New Zealand crew attempts to ski new lines in the unknown terrains of the Southern Alps.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303193001 +0100",
+            "stop_time": "20250303213500 +0100",
+            "title": "Thunderstruck 12",
+            "description": "| +7 | Deportes |\n\nThunderstruck conquers over 100 insane chute climbs in TS12.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303213501 +0100",
+            "stop_time": "20250303214500 +0100",
+            "title": "Snowchef - USA - What are the bakery secrets at Deer Valley?",
+            "description": "| +7 | Deportes |\n\nLaughter, spills, and an alpine adventure as Chef John and Foodie JD hit the slopes at Deer Valley Resort.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303214501 +0100",
+            "stop_time": "20250303221500 +0100",
+            "title": "Surfing Life Travel",
+            "description": "| +7 | Deportes |\n\nWe travel to the Maldives with Hood Ahmed, Keely Andrew, Cooper Davies and Jesse Starling.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303221501 +0100",
+            "stop_time": "20250304000000 +0100",
+            "title": "Revolver: Poor Boyz",
+            "description": "| +7 | Deportes |\n\nThe progression and the factors that have coincided with many great advancements of the sport of skiing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304000001 +0100",
+            "stop_time": "20250304010000 +0100",
+            "title": "Harvey Spannos",
+            "description": "| +7 | Deportes |\n\nA boy uncovers the mystery of his father's death and searches his own identity to become a pro skateboarder...",
             "icon": ""
         }
     ]

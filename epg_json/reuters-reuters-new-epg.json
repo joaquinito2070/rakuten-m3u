@@ -554,6 +554,97 @@
             "title": "Reuters Evening News",
             "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
             "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303030000 +0100",
+            "title": "Reuters Evening News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030001 +0100",
+            "stop_time": "20250303050000 +0100",
+            "title": "Reuters Evening News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050001 +0100",
+            "stop_time": "20250303070000 +0100",
+            "title": "Reuters Evening News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303090000 +0100",
+            "title": "Reuters Evening News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090001 +0100",
+            "stop_time": "20250303110000 +0100",
+            "title": "Reuters Morning News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303110001 +0100",
+            "stop_time": "20250303120000 +0100",
+            "title": "Reuters Morning News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120001 +0100",
+            "stop_time": "20250303130000 +0100",
+            "title": "Reuters Morning News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130001 +0100",
+            "stop_time": "20250303150000 +0100",
+            "title": "Reuters Morning News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150001 +0100",
+            "stop_time": "20250303170000 +0100",
+            "title": "Reuters Morning News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303170001 +0100",
+            "stop_time": "20250303190000 +0100",
+            "title": "Reuters Afternoon News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303190001 +0100",
+            "stop_time": "20250303210000 +0100",
+            "title": "Reuters Afternoon News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303210001 +0100",
+            "stop_time": "20250303230000 +0100",
+            "title": "Reuters Afternoon News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303230001 +0100",
+            "stop_time": "20250304010000 +0100",
+            "title": "Reuters Evening News",
+            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
+            "icon": ""
         }
     ]
 }

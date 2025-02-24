@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224225012 +0100",
-            "stop_time": "20250225002116 +0100",
-            "title": "Stubby: un héroe muy especial",
-            "description": "| +12 | Infantil |\n\nEl joven militar Robert Conroy ve cómo su vida cambia cuando encuentra a un pequeño perro en el campamento donde entrena para la guerra. A pesar de no tener formación militar, el perro se embarca en la aventura, donde luchará junto a Robert y las tropas francesas antes de hacer historia.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7b89b426-9166-42e0-82cc-2459c5b9d732-snapshot-1590667200.jpeg"
-        },
-        {
             "start_time": "20250225002117 +0100",
             "stop_time": "20250225014740 +0100",
             "title": "Misión Katmandú",

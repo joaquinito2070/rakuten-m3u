@@ -3,27 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250224230001 +0100",
-            "stop_time": "20250224233000 +0100",
-            "title": "New Wires Are Painless!",
-            "description": "| +7 | Deportes |\n\nSam installs a painless performance wiring kit on his right-hand drive Supra.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233001 +0100",
-            "stop_time": "20250225000000 +0100",
-            "title": "Supra Time!",
-            "description": "| +7 | Deportes |\n\nSam finishes his RHD Toyota Supra.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000001 +0100",
-            "stop_time": "20250225003000 +0100",
-            "title": "It's Not Over 'til It's Over",
-            "description": "| +7 | Deportes |\n\nMustang GT350 and Camaro projects continue.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225003001 +0100",
             "stop_time": "20250225010000 +0100",
             "title": "Ed Morse Camaro Sleeper",
@@ -763,6 +742,62 @@
             "stop_time": "20250303010000 +0100",
             "title": "Mid-West Drag Racing Series",
             "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303040000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040001 +0100",
+            "stop_time": "20250303070000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303100000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100001 +0100",
+            "stop_time": "20250303130000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130001 +0100",
+            "stop_time": "20250303160000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303190000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303190001 +0100",
+            "stop_time": "20250303220000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303220001 +0100",
+            "stop_time": "20250304010000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         }
     ]

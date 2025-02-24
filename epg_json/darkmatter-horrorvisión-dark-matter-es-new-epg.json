@@ -3,20 +3,6 @@
     "tvg_id": "dark-matter-es-new",
     "epg": [
         {
-            "start_time": "20250224221124 +0100",
-            "stop_time": "20250224234501 +0100",
-            "title": "El ataúd de cristal (TV Cut)",
-            "description": "| +12 | Películas |\n\nUn maníaco atrapa a una actriz en una limusina y le da órdenes a través de un altavoz distorsionado. Ella debe cumplir con sus demandas trastornadas si alguna vez quiere volver a salir de la limusina.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224234502 +0100",
-            "stop_time": "20250225005852 +0100",
-            "title": "La Rusa",
-            "description": "| +12 | Películas |\n\nTito es un hombre de 50 anos que atraviesa una crisis personal y decide regresar a su ciudad. Cuando llega, se encuentra con un pueblo mucho mas tranquilo y deprimido, dominado por la familia Crespo.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225005853 +0100",
             "stop_time": "20250225024025 +0100",
             "title": "Los crímenes del Día de todos los Santos",
@@ -665,6 +651,104 @@
             "stop_time": "20250303022836 +0100",
             "title": "La casa roja",
             "description": "| +12 | Películas |\n\nUn anciano y su hermana están ocultando un terrible secreto a su hija adolescente adoptiva, sobre una granja abandonada escondida, ubicada en lo profundo del bosque.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303022837 +0100",
+            "stop_time": "20250303043003 +0100",
+            "title": "Double Exposure",
+            "description": "| +12 | Películas |\n\nA photographer for a men's magazine is disturbed by a recurring dream he has that he is killing his models by various gruesome means. Then he discovers that his city is being terrorized by a slasher who is stalking and murdering women on the streets. He begins to suspect that he may actually be the killer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303043004 +0100",
+            "stop_time": "20250303062244 +0100",
+            "title": "Psychomania - (aka The Death Wheelers)",
+            "description": "| +12 | Películas |\n\nA gang of young people call themselves the Living Dead. They terrorize the population from their small town. After an agreement with the devil, if they kill themselves firmly believing in it, they will survive and gain eternal life. Following their leader, they commit suicide one after the other, but things don't necessarily turn out as expected.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303062245 +0100",
+            "stop_time": "20250303082142 +0100",
+            "title": "Fatwa",
+            "description": "| +12 | Películas |\n\nA hard-liner against terrorism who has become a figurehead for anti-terrorist action, Maggie (LAUREN HOLLY) is notified by the FBI that she has been singled out by a terrorist sleeper cell in the suburban D.C. area. The cell is mobilizing a plan to blow up the national mall while Maggie is killed in the blast.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303082143 +0100",
+            "stop_time": "20250303103053 +0100",
+            "title": "Point Defiance",
+            "description": "| +12 | Películas |\n\nA bachelor's beautiful, isolated home becomes a hostile prison when his troubled brother returns from military duty in Afghanistan, forcing them to unearth their violent past before another dark secret is buried.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303103054 +0100",
+            "stop_time": "20250303104026 +0100",
+            "title": "Chain Letter",
+            "description": "| +12 | Películas |\n\nSix friends receive a mysterious chain letter via text and email from a maniac who hunts down those who delete the message. Who knew they should take the threats in the chain letter seriously or that their favorite technologies could help track and kill them? This maniacal game pits friend against friend as they try to escape the impossible. Break the chain, lose a life.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303104027 +0100",
+            "stop_time": "20250303122510 +0100",
+            "title": "Cub",
+            "description": "| +12 | Películas |\n\nA camping trip turns into a carnage for a troop of cub scouts as a killer stalks them with deadly traps.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303122511 +0100",
+            "stop_time": "20250303123443 +0100",
+            "title": "Chain Letter",
+            "description": "| +12 | Películas |\n\nSix friends receive a mysterious chain letter via text and email from a maniac who hunts down those who delete the message. Who knew they should take the threats in the chain letter seriously or that their favorite technologies could help track and kill them? This maniacal game pits friend against friend as they try to escape the impossible. Break the chain, lose a life.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303123444 +0100",
+            "stop_time": "20250303140624 +0100",
+            "title": "Billy The Kid Versus Dracula",
+            "description": "| +12 | Películas |\n\nDracula travels to the American West, intent on making a beautiful ranch owner his next victim. Her fiance, outlaw Billy the Kid, finds out about it and rushes to save her.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303140625 +0100",
+            "stop_time": "20250303155934 +0100",
+            "title": "Madam Yankelova's Fine Literature Club",
+            "description": "| +12 | Películas |\n\nMembers of a secret, all-female club lure unsuspecting men to their weekly meetings, murder them, and grind them into hot dogs. When Sophie meets an attractive young man, she must soon choose between true love and her loyalty to her fellow women.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303155935 +0100",
+            "stop_time": "20250303174035 +0100",
+            "title": "Salvage",
+            "description": "| +12 | Películas |\n\nWhen a container washes ashore the residents of a sleepy cul-de-sac are plunged into violence, terror and paranoia. Ring fenced by the military a single mother must overcome all the odds to save her daughter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303174036 +0100",
+            "stop_time": "20250303194117 +0100",
+            "title": "Chances",
+            "description": "| +12 | Películas |\n\nA young lovestruck couple in Nevada find themselves in a troublesome situation when their spotted pasts are revealed through a mistaken online identity.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303194118 +0100",
+            "stop_time": "20250303212342 +0100",
+            "title": "Los misterios de Fixer Upper",
+            "description": "| +12 | Películas |\n\nShannon es la encargada de restaurar una mansión victoriana. Las renovaciones van perfectamente hasta que el jefe del banco local es encontrado muerto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303212343 +0100",
+            "stop_time": "20250303231638 +0100",
+            "title": "Cry of the Black Wolves",
+            "description": "| +12 | Películas |\n\nHalfwit Indian Akaena promises a fictitious treasure to anyone who takes her down south where the sun always shines. Trapper Bill Robinson, an honest fur trader in Alaska, refuses to sell his dog sled to dishonest miner Mike Williams, who steals it at gunpoint.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303231639 +0100",
+            "stop_time": "20250304012123 +0100",
+            "title": "Silent Rage",
+            "description": "| +12 | Películas |\n\nA sheriff tries to stop the killing spree of a mute maniacal murderer who, as the result of years of medical experimentation, has the ability to self-heal.",
             "icon": ""
         }
     ]

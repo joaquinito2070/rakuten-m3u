@@ -3,49 +3,35 @@
     "tvg_id": "top-barca-es",
     "epg": [
         {
-            "start_time": "20250224210603 +0100",
-            "stop_time": "20250224235152 +0100",
-            "title": "All the goals. Robert Lewandowski",
-            "description": "| +TP | Deportes |\n\nInfo not available",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224235153 +0100",
-            "stop_time": "20250225001710 +0100",
-            "title": "All the Goals: Phillip Cocu 28/05/2021 ANGLÈS STEREO",
-            "description": "| +TP | Deportes |\n\nAll the Goals: Phillip Cocu 28/05/2021 ANGLÈS STEREO",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225001711 +0100",
-            "stop_time": "20250225002410 +0100",
-            "title": "RESUMEN | Barça - Getafe | LaLiga 24/25",
-            "description": "| +TP | Deportes |\n\nEl Pichichi Robert Lewandowski ha permitido a los azulgranas sumar el séptimo triunfo seguido en Liga",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002411 +0100",
-            "stop_time": "20250225021120 +0100",
+            "start_time": "20250225002233 +0100",
+            "stop_time": "20250225020942 +0100",
             "title": "PARTIDO COMPLETO | Barça - Atlético de Madrid | LaLiga 14/15",
             "description": "| +TP | Deportes |\n\nRevive los 90 minutos del partido disputado entre el Barça y el Atlético en el Camp Nou correspondiente a la t",
             "icon": ""
         },
         {
-            "start_time": "20250225021121 +0100",
-            "stop_time": "20250225044500 +0100",
+            "start_time": "20250225020943 +0100",
+            "stop_time": "20250225024250 +0100",
             "title": "All the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
             "description": "| +TP | Deportes |\n\nAll the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
             "icon": ""
         },
         {
-            "start_time": "20250225044501 +0100",
-            "stop_time": "20250225053347 +0100",
+            "start_time": "20250225024251 +0100",
+            "stop_time": "20250225043026 +0100",
+            "title": "PARTIDO COMPLETO | Barbastro - Barça | Copa del Rey 23/24",
+            "description": "| +TP | Deportes |\n\nRevive los 90 minutos del duelo de dieciseisavos Copa del Rey disputado entre Barbastro y Barça en tierras ara",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043027 +0100",
+            "stop_time": "20250225051913 +0100",
             "title": "All the Goals: Barça - Atlètic de Madrid (2000 - 2023) 23/04/2023 ANGLÈS STEREO",
             "description": "| +TP | Deportes |\n\nAll the Goals: Barça - Atlètic de Madrid (2000 - 2023) 23/04/2023 ANGLÈS STEREO",
             "icon": ""
         },
         {
-            "start_time": "20250225053348 +0100",
+            "start_time": "20250225051914 +0100",
             "stop_time": "20250225060000 +0100",
             "title": "PARTIDO COMPLETO | Barça - Atlético de Madrid | Copa del Rey 96/97",
             "description": "| +TP | Deportes |\n\nDisfruta de los 90' de una de las mayores remontadas de la historia del Barça en este duelo ante el Atlético d",
@@ -53,55 +39,69 @@
         },
         {
             "start_time": "20250225060001 +0100",
-            "stop_time": "20250225071712 +0100",
+            "stop_time": "20250225070238 +0100",
             "title": "PARTIDO COMPLETO | Barça - Atlético de Madrid | Copa del Rey 96/97",
             "description": "| +TP | Deportes |\n\nDisfruta de los 90' de una de las mayores remontadas de la historia del Barça en este duelo ante el Atlético d",
             "icon": ""
         },
         {
-            "start_time": "20250225071713 +0100",
-            "stop_time": "20250225081002 +0100",
+            "start_time": "20250225070239 +0100",
+            "stop_time": "20250225075528 +0100",
             "title": "One to One: Alexia Putellas",
             "description": "| +TP | Deportes |\n\nBarça's",
             "icon": ""
         },
         {
-            "start_time": "20250225081003 +0100",
-            "stop_time": "20250225083250 +0100",
+            "start_time": "20250225075529 +0100",
+            "stop_time": "20250225081815 +0100",
             "title": "La película de la Supercopa de España",
             "description": "| +TP | Deportes |\n\nNo te pierdas las mejores imágenes del triunfo azulgrana en la Supercopa 2025",
             "icon": ""
         },
         {
-            "start_time": "20250225083251 +0100",
-            "stop_time": "20250225101437 +0100",
+            "start_time": "20250225081816 +0100",
+            "stop_time": "20250225100003 +0100",
             "title": "2a part Barça - Atlètic de Madrid (5-0) J06 1a Divisió 2011/2012",
             "description": "| +TP | Deportes |\n\nEfemèrides: Partit 300 de Víctor Valdés a Primera Divisió amb el Barça. Tres jugadors de la generació del 1987",
             "icon": ""
         },
         {
-            "start_time": "20250225101438 +0100",
-            "stop_time": "20250225124745 +0100",
+            "start_time": "20250225100004 +0100",
+            "stop_time": "20250225103311 +0100",
             "title": "All the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
             "description": "| +TP | Deportes |\n\nAll the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
             "icon": ""
         },
         {
-            "start_time": "20250225124746 +0100",
-            "stop_time": "20250225134035 +0100",
+            "start_time": "20250225103312 +0100",
+            "stop_time": "20250225122702 +0100",
+            "title": "Futbol. Liga. València - FC Barcelona (2024/25)",
+            "description": "| +TP | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225122703 +0100",
+            "stop_time": "20250225131951 +0100",
             "title": "One to One: Alexia Putellas",
             "description": "| +TP | Deportes |\n\nBarça's",
             "icon": ""
         },
         {
-            "start_time": "20250225134036 +0100",
-            "stop_time": "20250225163000 +0100",
+            "start_time": "20250225131952 +0100",
+            "stop_time": "20250225140839 +0100",
             "title": "All the Goals: Barça - Atlètic de Madrid (2000 - 2023) 23/04/2023 ANGLÈS STEREO",
             "description": "| +TP | Deportes |\n\nAll the Goals: Barça - Atlètic de Madrid (2000 - 2023) 23/04/2023 ANGLÈS STEREO",
             "icon": ""
         },
         {
-            "start_time": "20250225163001 +0100",
+            "start_time": "20250225140840 +0100",
+            "stop_time": "20250225161500 +0100",
+            "title": "PARTIDO COMPLETO | Barça - Betis | Copa del Rey 24/25",
+            "description": "| +TP | Deportes |\n\nRevive los 90 minutos del duelo de octavos de final de Copa del Rey disputado entre Barça y Betis en el Estadi",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225161501 +0100",
             "stop_time": "20250225191012 +0100",
             "title": "All the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
             "description": "| +TP | Deportes |\n\nAll the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
@@ -165,266 +165,350 @@
         },
         {
             "start_time": "20250226081059 +0100",
-            "stop_time": "20250226110000 +0100",
+            "stop_time": "20250226103943 +0100",
+            "title": "All the goals. David Villa",
+            "description": "| +TP | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226103944 +0100",
+            "stop_time": "20250226112956 +0100",
+            "title": "All the goals. Ronaldinho",
+            "description": "| +TP | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226112957 +0100",
+            "stop_time": "20250226132024 +0100",
+            "title": "PARTIDO COMPLETO | Barça - Real Sociedad | LaLiga 05/06",
+            "description": "| +TP | Deportes |\n\nRevive los 90 minutos del duelo disputado entre Barça y Real Sociedad en el Spotify Camp Nou",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226132025 +0100",
+            "stop_time": "20250226135332 +0100",
+            "title": "All the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
+            "description": "| +TP | Deportes |\n\nAll the Goals: Barça - Atlètic de Madrid (1980 - 1999) 20/04/2023 ANGLÈS STEREO",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226135333 +0100",
+            "stop_time": "20250226164621 +0100",
+            "title": "One to One: Alexia Putellas",
+            "description": "| +TP | Deportes |\n\nBarça's",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226164622 +0100",
+            "stop_time": "20250226172750 +0100",
+            "title": "ESPECIAL | PAU CUBARSÍ, MUCHAS FELICIDADES",
+            "description": "| +TP | Deportes |\n\nEl joven central formado en La Masia visita los estudios de Barça One para conmemorar su mayoría de edad con u",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226172751 +0100",
+            "stop_time": "20250226190514 +0100",
+            "title": "All the goals. 2015/2016 Season",
+            "description": "| +TP | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190515 +0100",
+            "stop_time": "20250226214312 +0100",
+            "title": "One to One: Gerard Martín",
+            "description": "| +TP | Deportes |\n\nEl lateral catalán visita el plató de Barça Studios y nos cuenta su peculiar trayectoria antes de llegar al Ba",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226214313 +0100",
+            "stop_time": "20250227004949 +0100",
+            "title": "All the goals. 2010/2011 Season",
+            "description": "| +TP | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227004950 +0100",
+            "stop_time": "20250227032457 +0100",
+            "title": "One to One: Pedri",
+            "description": "| +TP | Deportes |\n\nRecibimos al futbolista canario para celebrar su renovación hasta 2030 y conocer sus sensaciones en esta ilusi",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227032458 +0100",
+            "stop_time": "20250227044047 +0100",
+            "title": "All the goals. Samuel Eto'o",
+            "description": "| +TP | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227044048 +0100",
+            "stop_time": "20250227070000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250226110001 +0100",
-            "stop_time": "20250226140000 +0100",
+            "start_time": "20250227070001 +0100",
+            "stop_time": "20250227100000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250226140001 +0100",
-            "stop_time": "20250226170000 +0100",
+            "start_time": "20250227100001 +0100",
+            "stop_time": "20250227130000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250226170001 +0100",
-            "stop_time": "20250226200000 +0100",
+            "start_time": "20250227130001 +0100",
+            "stop_time": "20250227160000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250226200001 +0100",
-            "stop_time": "20250226230000 +0100",
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227190000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250226230001 +0100",
-            "stop_time": "20250227020000 +0100",
+            "start_time": "20250227190001 +0100",
+            "stop_time": "20250227220000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227020001 +0100",
-            "stop_time": "20250227050000 +0100",
+            "start_time": "20250227220001 +0100",
+            "stop_time": "20250228010000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227050001 +0100",
-            "stop_time": "20250227080000 +0100",
+            "start_time": "20250228010001 +0100",
+            "stop_time": "20250228040000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227080001 +0100",
-            "stop_time": "20250227110000 +0100",
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228070000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227110001 +0100",
-            "stop_time": "20250227140000 +0100",
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228100000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227140001 +0100",
-            "stop_time": "20250227170000 +0100",
+            "start_time": "20250228100001 +0100",
+            "stop_time": "20250228130000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227170001 +0100",
-            "stop_time": "20250227200000 +0100",
+            "start_time": "20250228130001 +0100",
+            "stop_time": "20250228160000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227200001 +0100",
-            "stop_time": "20250227230000 +0100",
+            "start_time": "20250228160001 +0100",
+            "stop_time": "20250228190000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250227230001 +0100",
-            "stop_time": "20250228020000 +0100",
+            "start_time": "20250228190001 +0100",
+            "stop_time": "20250228220000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228020001 +0100",
-            "stop_time": "20250228050000 +0100",
+            "start_time": "20250228220001 +0100",
+            "stop_time": "20250301010000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228050001 +0100",
-            "stop_time": "20250228080000 +0100",
+            "start_time": "20250301010001 +0100",
+            "stop_time": "20250301040000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228080001 +0100",
-            "stop_time": "20250228110000 +0100",
+            "start_time": "20250301040001 +0100",
+            "stop_time": "20250301070000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228110001 +0100",
-            "stop_time": "20250228140000 +0100",
+            "start_time": "20250301070001 +0100",
+            "stop_time": "20250301100000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228140001 +0100",
-            "stop_time": "20250228170000 +0100",
+            "start_time": "20250301100001 +0100",
+            "stop_time": "20250301130000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228170001 +0100",
-            "stop_time": "20250228200000 +0100",
+            "start_time": "20250301130001 +0100",
+            "stop_time": "20250301160000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228200001 +0100",
-            "stop_time": "20250228230000 +0100",
+            "start_time": "20250301160001 +0100",
+            "stop_time": "20250301190000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250228230001 +0100",
-            "stop_time": "20250301020000 +0100",
+            "start_time": "20250301190001 +0100",
+            "stop_time": "20250301220000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301020001 +0100",
-            "stop_time": "20250301050000 +0100",
+            "start_time": "20250301220001 +0100",
+            "stop_time": "20250302010000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301050001 +0100",
-            "stop_time": "20250301080000 +0100",
+            "start_time": "20250302010001 +0100",
+            "stop_time": "20250302040000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301080001 +0100",
-            "stop_time": "20250301110000 +0100",
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302070000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301110001 +0100",
-            "stop_time": "20250301140000 +0100",
+            "start_time": "20250302070001 +0100",
+            "stop_time": "20250302100000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301140001 +0100",
-            "stop_time": "20250301170000 +0100",
+            "start_time": "20250302100001 +0100",
+            "stop_time": "20250302130000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301170001 +0100",
-            "stop_time": "20250301200000 +0100",
+            "start_time": "20250302130001 +0100",
+            "stop_time": "20250302160000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301200001 +0100",
-            "stop_time": "20250301230000 +0100",
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302190000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250301230001 +0100",
-            "stop_time": "20250302020000 +0100",
+            "start_time": "20250302190001 +0100",
+            "stop_time": "20250302220000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302020001 +0100",
-            "stop_time": "20250302050000 +0100",
+            "start_time": "20250302220001 +0100",
+            "stop_time": "20250303010000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302050001 +0100",
-            "stop_time": "20250302080000 +0100",
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303040000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302080001 +0100",
-            "stop_time": "20250302110000 +0100",
+            "start_time": "20250303040001 +0100",
+            "stop_time": "20250303070000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302110001 +0100",
-            "stop_time": "20250302140000 +0100",
+            "start_time": "20250303070001 +0100",
+            "stop_time": "20250303100000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302140001 +0100",
-            "stop_time": "20250302170000 +0100",
+            "start_time": "20250303100001 +0100",
+            "stop_time": "20250303130000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302170001 +0100",
-            "stop_time": "20250302200000 +0100",
+            "start_time": "20250303130001 +0100",
+            "stop_time": "20250303160000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302200001 +0100",
-            "stop_time": "20250302230000 +0100",
+            "start_time": "20250303160001 +0100",
+            "stop_time": "20250303190000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""
         },
         {
-            "start_time": "20250302230001 +0100",
-            "stop_time": "20250303020000 +0100",
+            "start_time": "20250303190001 +0100",
+            "stop_time": "20250303220000 +0100",
+            "title": "To Be Announced",
+            "description": "| +TP | Deportes |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303220001 +0100",
+            "stop_time": "20250304010000 +0100",
             "title": "To Be Announced",
             "description": "| +TP | Deportes |\n\nProgram information is not yet available",
             "icon": ""

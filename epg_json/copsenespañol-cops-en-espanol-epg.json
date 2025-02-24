@@ -3,34 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224231028 +0100",
-            "stop_time": "20250224233437 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nA un hombre con grandes aspiraciones se le dificulta explicar por qué sus huellas están en un arma.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233443 +0100",
-            "stop_time": "20250224235852 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre está convencido que si no fuera por su novia él se habría salido con la suya.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224235859 +0100",
-            "stop_time": "20250225002108 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna pelea entre familia termina en una fuerte agresión causando daño físico y vuelan partes de cuerpo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002114 +0100",
-            "stop_time": "20250225004453 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLos oficiales se decepcionan una vez más cuando se topan con una persona que vuelve a infringir la ley.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225004500 +0100",
             "stop_time": "20250225010839 +0100",
             "title": "Cops en Español",

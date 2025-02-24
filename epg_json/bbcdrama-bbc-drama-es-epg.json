@@ -3,20 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250224222333 +0100",
-            "stop_time": "20250224232203 +0100",
-            "title": "Episodio 6",
-            "description": "| +13 | Series |\n\nEl equipo va contra reloj cuando tratan de identificar al asesino pedofilo de un centro asistencial.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232204 +0100",
-            "stop_time": "20250225002236 +0100",
-            "title": "Episodio 7",
-            "description": "| +13 | Series |\n\nLas celabraciones de Mel por su promoción a sargento se ven interrumpidas cuando un descubren un cuerpo momificado en un cotenedor de basura.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225002237 +0100",
             "stop_time": "20250225012314 +0100",
             "title": "Episodio 8",
@@ -1127,6 +1113,188 @@
             "stop_time": "20250303013553 +0100",
             "title": "Episodio 4",
             "description": "| +13 | Series |\n\nDescubrir a la KGB está a un paso y el equipo debe resolver en quién pueden confiar. ¿Pueden averiguar qué planean los soviéticos?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303013554 +0100",
+            "stop_time": "20250303023632 +0100",
+            "title": "Episodio 5",
+            "description": "| +13 | Series |\n\nLa misión de Joe se ve amenazada por un topo en MI5. Cuando la información que se filtra amenaza a la investigación, hay vidas en riesgo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303023633 +0100",
+            "stop_time": "20250303033709 +0100",
+            "title": "Episodio 6",
+            "description": "| +13 | Series |\n\nAún conmovidos por el bombardeo de la KGB y por la confesión de Alan, el equipo finalmene tiene un hilo prometedor en la investigación.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303033710 +0100",
+            "stop_time": "20250303042612 +0100",
+            "title": "Episodio 7",
+            "description": "| +13 | Series |\n\nPasífae está decidida a impedir la boda de Jasón con Ariadna, cueste lo que cueste.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303042613 +0100",
+            "stop_time": "20250303051519 +0100",
+            "title": "Episodio 8",
+            "description": "| +13 | Series |\n\n¿Podrán Hércules y Pitágoras demostrar la inocencia de Jason antes de que lo ejecuten?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303051520 +0100",
+            "stop_time": "20250303060431 +0100",
+            "title": "Episodio 9",
+            "description": "| +13 | Series |\n\nPasífae se ha apoderado de la Atlántida y la vida de Ariadna pende de un hilo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303060432 +0100",
+            "stop_time": "20250303070452 +0100",
+            "title": "Episodio 3",
+            "description": "| +13 | Series |\n\nAn outbreak of a rare disease erupts on a Poplar street.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070453 +0100",
+            "stop_time": "20250303080459 +0100",
+            "title": "Episodio 4",
+            "description": "| +13 | Series |\n\nSister Julienne struggles when a traumatic birth raises moral questions.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303080500 +0100",
+            "stop_time": "20250303090455 +0100",
+            "title": "Episodio 5",
+            "description": "| +13 | Series |\n\nTimothy realises the risks of smoking as advances revolutionise respiratory medical care.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090456 +0100",
+            "stop_time": "20250303100500 +0100",
+            "title": "Episodio 6",
+            "description": "| +13 | Series |\n\nA spate of violent attacks brings a state of fear to Poplar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100501 +0100",
+            "stop_time": "20250303110520 +0100",
+            "title": "Episodio 7",
+            "description": "| +13 | Series |\n\nDr Turner prepares for change with the introduction of the contraceptive pill.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303110521 +0100",
+            "stop_time": "20250303120551 +0100",
+            "title": "Episodio 8",
+            "description": "| +13 | Series |\n\nDr Turner uncovers the cause of the recent spate of infant limb deformities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120552 +0100",
+            "stop_time": "20250303130622 +0100",
+            "title": "Episodio 1",
+            "description": "| +13 | Series |\n\nJenny Lee, una comadrona recién titulada, llega al East End para trabajar con una orden de monjas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130623 +0100",
+            "stop_time": "20250303140636 +0100",
+            "title": "Episodio 2",
+            "description": "| +13 | Series |\n\nMientras Jenny se acomoda a su nuevo puesto, llega un nuevo personaje a Nonnatus House, Chummy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303140637 +0100",
+            "stop_time": "20250303145818 +0100",
+            "title": "Episodio 6",
+            "description": "| +13 | Series |\n\nEl equipo se ve obligado a viajar en el tiempo para enfrentarse a un depredador del futuro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303145819 +0100",
+            "stop_time": "20250303155101 +0100",
+            "title": "Episodio 1",
+            "description": "| +13 | Series |\n\nCutter se enfrenta a la desaparición de Claudia después de que se borrara su existencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303155102 +0100",
+            "stop_time": "20250303164303 +0100",
+            "title": "Episodio 2",
+            "description": "| +13 | Series |\n\nCutter conoce a Jenny Lewis, que parece ser una réplica perfecta de Claudia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303164304 +0100",
+            "stop_time": "20250303173449 +0100",
+            "title": "Episodio 3",
+            "description": "| +13 | Series |\n\nJenny lidia con los medios de comunicaci칩n cuando se divisa un gato dientes de sable en un parque tem치tico.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303173450 +0100",
+            "stop_time": "20250303182722 +0100",
+            "title": "Episodio 4",
+            "description": "| +13 | Series |\n\nExtra単as criaturas del futuro acechan los desag端es del metro de Londres.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303182723 +0100",
+            "stop_time": "20250303191941 +0100",
+            "title": "Episodio 5",
+            "description": "| +13 | Series |\n\nUna niña de once años desaparece tras caer por una anomalía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303191942 +0100",
+            "stop_time": "20250303201142 +0100",
+            "title": "Episodio 6",
+            "description": "| +13 | Series |\n\nCutter tiende una trampa a un traidor y un mamut se desboca.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303201143 +0100",
+            "stop_time": "20250303210405 +0100",
+            "title": "Episodio 7",
+            "description": "| +13 | Series |\n\nSe desata el caos cuando se abren las jaulas del zoo secreto de criaturas ancestrales de Helen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303210406 +0100",
+            "stop_time": "20250303215603 +0100",
+            "title": "Episodio 1",
+            "description": "| +13 | Series |\n\nCuando un grupo de adolescentes queda atrapado en una extraña tormenta, sus vidas cambian para siempre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303215604 +0100",
+            "stop_time": "20250303224844 +0100",
+            "title": "Episodio 2",
+            "description": "| +13 | Series |\n\nEl grupo hace un descubrimiento surrealista mientras Nathan está desesperado por volver a casa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303224845 +0100",
+            "stop_time": "20250303233953 +0100",
+            "title": "Episodio 3",
+            "description": "| +13 | Series |\n\nAlisha se divierte usando y abusando de su poder hasta llegar al hombre que realmente quiere.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303233954 +0100",
+            "stop_time": "20250304003122 +0100",
+            "title": "Episodio 4",
+            "description": "| +13 | Series |\n\nEl agente de libertad condicional de la banda descubre la tarjeta de crédito de Tony en la taquilla de Simon.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304003123 +0100",
+            "stop_time": "20250304012640 +0100",
+            "title": "Episodio 5",
+            "description": "| +13 | Series |\n\nSally enfoca su investigación sobre la desaparición de Tony en la pista más débil, Simon.",
             "icon": ""
         }
     ]

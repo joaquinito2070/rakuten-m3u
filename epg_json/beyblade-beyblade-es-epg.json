@@ -3,34 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250224230125 +0100",
-            "stop_time": "20250224232846 +0100",
-            "title": "L-Drago se pone en marcha",
-            "description": "| +TP | Anime |\n\nRyuga reaparece y comienza a competir y ganar varios partidos de desafío, ganando puntos a medida que avanza. Tsubasa está intrigado por el poder de L-Drago y se cuela en la sede de la Nebulosa Oscura para buscar datos sobre el 'bey prohibido'. Tsubasa aprende mucho, pero antes de que pueda escapar con la información, es atrapado por Doji y Yu y debe luchar contra un variedad de cuchillas Dark Nebula.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232847 +0100",
-            "stop_time": "20250224235608 +0100",
-            "title": "Alas rotas",
-            "description": "| +TP | Anime |\n\nEn una acalorada batalla entre Tsubasa y Ryuga, Tsubasa está casi derrotado hasta que el misterioso Phoenix vuela y se hace cargo de la batalla, haciendo posible que Tsubasa escape. Más tarde, Gingka se enfrenta a Tobio (también conocido como Capitán Capri) en un estadio con paredes en movimiento. Mientras Doji y Yu observan, Capri usa sus habilidades de francotirador para aprovechar las paredes móviles.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224235609 +0100",
-            "stop_time": "20250225002331 +0100",
-            "title": "El veneno mortal de Rock Scorpio",
-            "description": "| +TP | Anime |\n\nKenta llega a lo que parece ser un pueblo fantasma, pero se encuentra con algunos bladers que aún viven allí a pesar de que el estadio local ha sido tomado por una pandilla dirigida por Busujima. Kenta también se encuentra con su viejo amigo Sora, quien ha venido para luchar contra la pandilla y ganar el estadio para todos. Sora pierde mucho, pero con Kenta y la ayuda de la gente del pueblo, ¡lo intenta de nuevo y gana!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002332 +0100",
-            "stop_time": "20250225005053 +0100",
-            "title": "¡Corre, Gingka!",
-            "description": "| +TP | Anime |\n\nLa pandilla celebra la calificación para los Battle Bladers cuando Gingka revela que no tiene suficientes puntos para lograrlo. Le ofrecen luchar contra él, pero él se niega, ya que no quiere poner en riesgo a sus amigos. Tsubasa llega y desafía a los bladers, pero Gingka tiene que despegar para hacer el último desafío. Mientras tanto, Hyoma, Hikaru y Benkei pierden puntos ante el feroz Tsubasa.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225005054 +0100",
             "stop_time": "20250225011815 +0100",
             "title": "La pugna entre Fireblaze y Pegasus",
@@ -2247,6 +2219,370 @@
             "stop_time": "20250303012145 +0100",
             "title": "Batallas privadas",
             "description": "| +TP | Anime |\n\nDespués de ver el poder de los Cyber Bit Beasts, Tyson está dispuesto a saltarse las normas de BeyBlade con tal de vencerlos. Ray protesta y exige que los BladeBreakers jueguen limpio. Se encuentra con Salima al lado del río y descubre que ella piensa como él. La chica dice que irá a verlo al día siguiente y le llevará un Cyber BeyBlade, pero no se presenta y Ray cambia de idea y decide ganar también a toda costa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303012146 +0100",
+            "stop_time": "20250303014930 +0100",
+            "title": "La media hora de poder",
+            "description": "| +TP | Anime |\n\nTyson está tan decidido a ganar al equipo Psykick que pide a Kenny que altere su Dragoon contra las normas, pero luego no puede controlar su nuevo Blade y se frustra cada vez más. Entretanto, Kane y Salima prueban también los Cyber Bit Beasts y se enganchan con ellos. Ozuma, por su parte, reta a Tyson para enseñarle que no puede jugar sucio y consigue convencerlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303014931 +0100",
+            "stop_time": "20250303021716 +0100",
+            "title": "Encuentro en Torre Batalla",
+            "description": "| +TP | Anime |\n\nLos Blade Breakers viajan en helicóptero al lugar donde van a combatir con los Psykick. Se trata de un edificio monolítico de cinco pisos llamado “Torre Batalla”. Los recibe Gideon en una pantalla de vídeo y les cuenta que cada combate tendrá lugar en un piso distinto. Los atacan unos robots para debilitar sus Blades antes de los combates de verdad, pero los Saint Shields acuden en su ayuda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303021717 +0100",
+            "stop_time": "20250303024501 +0100",
+            "title": "Max encaja uno por el equipo",
+            "description": "| +TP | Anime |\n\nLa primera batalla del torneo enfrenta a Max con Jim y el Cyber Draciel. Gana Max, pero el Cyber Draciel se repara automáticamente y sigue luchando. La segunda vez Max no tiene tanta suerte y pierde. El doctor B captura a Draciel y lo guarda en un contenedor especial. Dunga está furioso con Max por habérselo dejado quitar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303024502 +0100",
+            "stop_time": "20250303031246 +0100",
+            "title": "Cuantó más grande es el  Cyber-Driger… más fuerte es su caída",
+            "description": "| +TP | Anime |\n\nRay se enfrenta a Salima en el segundo combate del torneo. Ray se entrega a fondo, no sólo por su equipo, sino por recuperar a la Salima que conoció una vez, antes de que estuviera controlada por el Cyber Bit Beast.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303031247 +0100",
+            "stop_time": "20250303034032 +0100",
+            "title": "Un fantasma en la máquina",
+            "description": "| +TP | Anime |\n\nDespués de la victoria de Ray sobre Salima, los BladeBreakers llegan al cuarto nivel, donde Kai se enfrenta a Goki. El doctor B le hace un truco mental y Kai cree que está luchando con Wyatt. Tyson le cuenta lo que está pasando en realidad y Kai se sobrepone y derrota a Goki..",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303034033 +0100",
+            "stop_time": "20250303040817 +0100",
+            "title": "Invocando a Kane",
+            "description": "| +TP | Anime |\n\nEl combate final enfrenta a Tyson contra Kane y su Cyber Dragoon. La batalla es feroz y en ella Tyson dice a Kai que el único modo de ganar es mejorando de técnica, no con la ayuda de Bit Beasts prefabricados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040818 +0100",
+            "stop_time": "20250303043602 +0100",
+            "title": "Cyber Dragoon asume el control",
+            "description": "| +TP | Anime |\n\nTyson sigue luchando con Kane y los poderes del Bit Beast de éste se desarrollan a un ritmo alarmante. Dragoon está sufriendo tanto que Tyson le dice de mala gana que deje de luchar, pero el fiel Bit Beast hace acopio de fuerzas y sigue combatiendo. Tyson sigue su ejemplo y jura derrotar a Kane a toda costa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303043603 +0100",
+            "stop_time": "20250303050348 +0100",
+            "title": "Construyendo el perfecto Bit Beast",
+            "description": "| +TP | Anime |\n\nEmpezamos en mitad de una batalla entre Kane y Tyson. Este último va perdiendo hasta que Kai le dice que el único modo de vencer es que destruya el Cyber Bit Beast. Tyson recurre a toda su energía y lo destruye, pero eso hace que el edificio donde están se empiece a derrumbar y nuestros héroes tienen que salir corriendo después de recuperar a Draciel, que sigue preso en el laboratorio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050349 +0100",
+            "stop_time": "20250303053133 +0100",
+            "title": "Piedra caliente",
+            "description": "| +TP | Anime |\n\nLos chicos llegan a Nueva York de visita y Judy, la madre de Max, los lleva al laboratorio de la BBA, donde les muestra una piedra antigua con letras misteriosas y les dice que la piedra contiene Bit Beast. Alan, un amigo de Max, les hace una demostración con uno de ellos e invita a Max a un torneo de BeyBlade al día siguiente. Pero durante la noche, unos ladrones roban la piedra y los persigue la policía y Tyson. Este último descubre que uno de los ladrones es Alan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303053134 +0100",
+            "stop_time": "20250303060000 +0100",
+            "title": "Mala semilla en la Gran Manzana",
+            "description": "| +TP | Anime |\n\nMax llegan al torneo y Alan le dice que, si lo derrota, le contará por qué aceptó ayudar a los malos a robar la piedra. La batalla es muy encarnizada, pero Max acaba ganado y Alan explica que participó en el robo para conseguir un Bit Beast poderoso, pero el nuevo Blade resultó ser un engaño.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303060001 +0100",
+            "stop_time": "20250303062704 +0100",
+            "title": "Consigue un trozo de la roca",
+            "description": "| +TP | Anime |\n\nCuando los chicos vuelven a Japón acompañados por Judy, van a un laboratorio abandonado, donde el señor Dickenson tuvo en otro tiempo una piedra similar con un socio suyo, el doctor Zagart, que desapareció con la piedra. Después de una batalla con Kenny y su nuevo BeyBlade, Tyson comprende que todavía tiene que aprender a controlar a su nuevo BeyBlade, Dragoon V2.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303062705 +0100",
+            "stop_time": "20250303065449 +0100",
+            "title": "Ataque del Bit Beast de piedra",
+            "description": "| +TP | Anime |\n\nSabiendo que el doctor Zagart es la clave para encontrar la piedra perdida, los BladeBreakers deciden sair en su busca, aunque no saben por dónde empezar. El doctor Zagart y la doctora K diseñan un Blade nuevo con un Bit Beast de la piedra. Foxy desafía con él a Ray y está a punto de destruir su Blade, pero termina imponiéndose Ray. Los Saint Shields han visto la batalla y Ozuma jura que conseguirán los Bit Beasts de los BladeBreakes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303065450 +0100",
+            "stop_time": "20250303072234 +0100",
+            "title": "Muchas preguntas... pocas respuestas",
+            "description": "| +TP | Anime |\n\nTyson empieza a cansarse de que todo el mundo quiera sus Bit Beasts y convence a Kenny de que cree una plataforma para que el equipo se entrene en ella. Paga su mal humor con Zeo, un chico admirador suyo, pero luego se arrepiente y acepta entrenar con él para ayudarle a pasar  los exámenes de BeyBlade.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303072235 +0100",
+            "stop_time": "20250303075020 +0100",
+            "title": "El fondo de la piedra",
+            "description": "| +TP | Anime |\n\nEl señor Dickenson descifra la escritura misteriosa de la piedra y los niños descubren que los Saint Shields pertenecen a un clan que todavía usa ese lenguaje antiguo. Ozuma les cuenta su historia y la misión que les encomendó el clan: hacerse con los cuatro Bit Beasts sagrados y sellarlos en el interior de la piedra. Dunga los reta a combate y Ray acepta, pero el nuevo Vortex Ape de Dunga es demasiado para él y pierde a Driger, que queda encerrado en el interior de la piedra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303075021 +0100",
+            "stop_time": "20250303081805 +0100",
+            "title": "La Bey araña",
+            "description": "| +TP | Anime |\n\nTyson está entrenando cuando llega Zeo de improviso y ve a Draciel y Dragoon en el aire y decide que él también quiere tener un Bit Beast. Los demás le dicen que no es un juguete, sino que tiene que ganárselo. La doctora K extrae un Bit Beast de la piedra y se lo da a Net, quien desafía a Tyson a un combate. Dragoon gana la batalla y Net huye llorando.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303081806 +0100",
+            "stop_time": "20250303084550 +0100",
+            "title": "Un Bit Beast que ni se ve ni se oye",
+            "description": "| +TP | Anime |\n\nKai está entrenando solo en el parque y aparece un golpe de viento que empieza a destruirlo todo. Es uno de los Blades de la doctora K, que tiene un Bit Beast que controla el viento. Kai lucha con él y consigue derrotarlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303084551 +0100",
+            "stop_time": "20250303091336 +0100",
+            "title": "Amigos y enemigos",
+            "description": "| +TP | Anime |\n\nDenis, otros de los Blades de la doctora K, tiende una emboscada a Max en las entrañas de un edificio misterioso. Mariam lo ha seguido allí para luchar con él, pero cuando lo ve combatiendo con Denis, decide ayudarle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303091337 +0100",
+            "stop_time": "20250303094121 +0100",
+            "title": "Beyblade en el Corral Bit Beast",
+            "description": "| +TP | Anime |\n\nLos Saint Shields retan a los BladeBreakers a un torneo en un parque de atracciones abandonado. Mariam y Max son los primeros en enfrentarse y vence Max. Mariam ve el gran vínculo que tiene Max con Draciel y empiza a dudar de su misión.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303094122 +0100",
+            "stop_time": "20250303100906 +0100",
+            "title": "El destino de la batalla relámpago",
+            "description": "| +TP | Anime |\n\nLos Saint Shields intentan capturar a Dranzer. Para ello, Dunga entra en una batalla contra Kai, pero de pronto, Joseph lanza también su Blade y quedan luchando dos contra uno. Ray se mete a ayudar a su amigo y está tan decidido a no perder otra vez que usa un gran poder de concentración y consigue liberar su Bit Beast del interior de la piedra. Ray y Kai ganan la batalla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100907 +0100",
+            "stop_time": "20250303103652 +0100",
+            "title": "El vínculo de los Bit Beast",
+            "description": "| +TP | Anime |\n\nOzuma, líder de los Saint Shields, se enfrenta a Tyson. La batalla termina en empate y Ozuma comprende que los BladeBreakers son  lo bastante fuertes para cuidar de sus Bit Beasts y evitar que caigan en malas manos. Los Saint Shields se despiden de ellos y se marchan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303103653 +0100",
+            "stop_time": "20250303110437 +0100",
+            "title": "Juego encarnizado",
+            "description": "| +TP | Anime |\n\nLa doctora K encarga a Denny, un nuevo Blader, que capture los cuatro Bit Beasts sagrados con ayuda de Clarken, su poderoso Bit Beast. Denny empieza peleando con Ray y todo va bien hasta que Denny lanza un segundo Blade. Zeo se mete a ayudar a Ray y acaban venciendo. En agradecimiento, Tyson convierte a Zeo en el quinto miembro de los BladeBreakers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303110438 +0100",
+            "stop_time": "20250303113222 +0100",
+            "title": "¿Quién es tu padre?",
+            "description": "| +TP | Anime |\n\nLos BladeBreakers acuden al torneo del Campeonato del Mundo para animar a Zeo, que combate en los encuentros preliminares. Entretanto, la doctora K se dispone a sacar otro Bit Beast de la piedra, pero el doctor Zagart la descubre y la despide por actuar a sus espaldas y se va a su casa, donde se descubre que el doctor Zagart es el padre de Zeo. Este se da cuenta de que es su padre el que quiere robar los Bit Beasts de los BladeBreakers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303113223 +0100",
+            "stop_time": "20250303120008 +0100",
+            "title": "Cuestión de suerte",
+            "description": "| +TP | Anime |\n\nZeo empieza  a entrenar con su padre. Este le entrega a Cerberus, el Bit Beast más poderoso de la piedra, pero Zeo tiene que aprender a controlarlo. Entretanto, los BladeBreakers tienen que hacer dos equipos para el Campeonato del Mundo y deciden que Tyson se empareje con Max y Kai con Ray. Poco después, Kai conoce a una extraña pareja, Rey y Reina, que lo desafían a un combate para robarle piezas de su Blade, pero éste queda tan destrozado en la batalla, que se van con las manos vacías.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120009 +0100",
+            "stop_time": "20250303122753 +0100",
+            "title": "El real enfado de Kai",
+            "description": "| +TP | Anime |\n\nKai no deja de obsesionarse con Rey y Reina y los busca para combatir en cuanto tiene un Blade nuevo. La doctora K los encuentra antes y les ofrece que se unan a ella para capturar juntos los cuatro Bit Beasts sagrados. La pareja no acepta, pero cuando luchan con Kai y pierden, cambian de idea y la llaman.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303122754 +0100",
+            "stop_time": "20250303125538 +0100",
+            "title": "La calma antes de la tormenta",
+            "description": "| +TP | Anime |\n\nEl doctor Zagart inscribe a Zeo en los finales del Campeonato Mundial y revela que es su hijo. Rey y Reina se inscriben también en el Campeonato. Todos están decididos a ganar a toda costa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303125539 +0100",
+            "stop_time": "20250303132323 +0100",
+            "title": "Zeo contra Ozuma",
+            "description": "| +TP | Anime |\n\nEmpieza la ronda final del Campeonato Mundial. En el primer encuentro, Gordo y Zeo derrotan a Dunga y Ozuma, pasando así a la siguiente fase.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303132324 +0100",
+            "stop_time": "20250303135109 +0100",
+            "title": "Poderes diabólicos blancos y negros",
+            "description": "| +TP | Anime |\n\nContinúa el Campeonato y ahora Tyson y Max tienen que enfrentarse a Kane y Jim, pero Rey y Reina atacan a estos últimos por sorpresa en la calle y destrozan su Blades, por lo que Kane y Jim se ven obligados  retirarse de la competición. Mariam y Joseph se enfrentan a Rey y Reina en el torneo oficial y pierden.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303135110 +0100",
+            "stop_time": "20250303141854 +0100",
+            "title": "Engaño desde arriba",
+            "description": "| +TP | Anime |\n\nEn la ronda semifinal, Max y Tyson tienen que luchar con Rey y Reina. Reina pierde con Max y la doctora K recurre a trucos sucios para ayudar a Rey contra Tyson, pero Rey decide que quiere jugar limpio y acaba perdiendo con Tyson en una batalla muy encarnizada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303141855 +0100",
+            "stop_time": "20250303144639 +0100",
+            "title": "La caída del Fénix",
+            "description": "| +TP | Anime |\n\nKai  y Ray combaten en la segunda ronda de las semifinales con Zeo y Gordo. Ray empata con Gordo, por lo que todo depende ahora del combate entre Zeo y Kai. El duelo entre lo dos es tan potente que el estadio empieza a romperse. Al final, Kai cae derrotado ante Zeo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303144640 +0100",
+            "stop_time": "20250303151425 +0100",
+            "title": "El enemigo interior",
+            "description": "| +TP | Anime |\n\nZeo ha conquistado a Dranzer y Tyson empieza  a temerlo. Visita solo el Bey Stadium donde tendrá que enfrentarse a él en la final y Kai lo desafía a un combate para que deje de dudar de sí mismo y se concentre en la batalla con Zeo. Tyson comprende que con sus amigos a su lado no puede perder.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303151426 +0100",
+            "stop_time": "20250303154210 +0100",
+            "title": "El choque de Tyson",
+            "description": "| +TP | Anime |\n\nEn la final del Campeonato, Tyson se enfrenta a Gordo y vence. Zeo derrota a Max y el título tendrá que decidirse en un último combate entre Tyson y Zeo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303154211 +0100",
+            "stop_time": "20250303160956 +0100",
+            "title": "Destino de la batalla final",
+            "description": "| +TP | Anime |\n\nTyson tiene que luchar con Zeo,  pero en esa última batalla se descubre que Zeo no es humano, sino un robot creado por el doctor Zagart para reemplazar a su hijo, que murió en un trágido accidente. Según el doctor Zagart, si Zeo consigue capturar los cuatro Bit Beasts sagrados, el poder de éstos lo convertirá en un chico de verdad. Al final gana Tyson, quien convence a Zeo de que debe ser feliz con lo que es. Y Tyson es, una vez más, el campeón del mundo de BeyBlade.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160957 +0100",
+            "stop_time": "20250303163741 +0100",
+            "title": "Fragmento estelar",
+            "description": "| +TP | Anime |\n\nCuando una estrella cae de los cielos, un joven blader llamado Yuki la estaba esperando. Enseguida se pone en marcha para ir en busca de Gingka, pero no es tarea fácil, pues alguien ha atraído a Gingka a una isla para combatir contra su viejo rival Kyoya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303163742 +0100",
+            "stop_time": "20250303170526 +0100",
+            "title": "Bladers legendarios",
+            "description": "| +TP | Anime |\n\nYuki se enfrenta en combate a un oscuro personaje llamado Johannes, pero Gingka acude a su rescate. Yuki le cuenta al grupo la historia de una estrella que cayó recientemente y que ha escogido a algunos bladers para que sean bladers legendarios. Yuki también les desvela que si el fragmento estelar cae en las manos equivocadas, se podría utilizar con malos propósitos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303170527 +0100",
+            "stop_time": "20250303173312 +0100",
+            "title": "El felino monstruoso: Lynx",
+            "description": "| +TP | Anime |\n\nGingka y sus amigos están a punto de comenzar su periplo para encontrar a los ocho bladers legendarios, pero al toparse con Johannes deben combatir contra él. Gingka parece tener todas las de perder, hasta que Kyoya se une al combate y consigue derrotar a Johannes. El grupo prosigue entonces su búsqueda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303173313 +0100",
+            "stop_time": "20250303180057 +0100",
+            "title": "El maligno dragón despierta",
+            "description": "| +TP | Anime |\n\nMientras Gingka y sus acompañantes trabar amistad con los lugareños, Benkei y Kyoya encuentran a Ryuga en la cima de un volcán, y Kyoya reta a Ryuga a un combate bey. Ryuga le dice que no debería combatir porque todavía no conoce a su bey. Éste, ofendido, provoca a Ryuga.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303180058 +0100",
+            "stop_time": "20250303182842 +0100",
+            "title": "Un nuevo aliado",
+            "description": "| +TP | Anime |\n\nDespués de la derrota de Kyoya ante Ryuga, Gingka le reta a un combate bey, pero Ryuga le también le vence a él sin dificultad alguna. Yuki a su vez le reta a un combate pero el L-Drago Destroyer de Ryuga ataca sin piedad a su bey, Mercury Anubius. Yuki se entera de que en realidad él también es un blader legendario, pero a pesar de sus recién adquiridos poderes Ryuga vuelve a vencer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303182843 +0100",
+            "stop_time": "20250303185627 +0100",
+            "title": "Requerimientos de un guerrero",
+            "description": "| +TP | Anime |\n\nCuando un volcán entra en erupción, Gingka, Yuki y Kyoya cambian el curso de la lava utilizando sus beys y salvan a la aldea. Al marcharse de la isla se llevan una gran sorpresa cuando Kenta les comunica que él seguirá su camino solo. El grupo está triste pero le desea a Kenta toda la suerte del mundo en su aventura.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303185628 +0100",
+            "stop_time": "20250303192413 +0100",
+            "title": "El nuevo viaje de Kenta",
+            "description": "| +TP | Anime |\n\nKenta viaja a una remota ciudad en el desierto donde compite contra Ryuga en un torneo pero pierde. Entonces sigue a Ryuga en una durísima caminata llena de peligros. Su intención es convencer a Ryuga de que preste su fuerza de blader legendario a Gingka y a los demás con el fin de enfrentarse al mal. Ryuga se niega, pero Kenta tampoco está dispuesto a abandonar y se empeña en quedarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303192414 +0100",
+            "stop_time": "20250303195158 +0100",
+            "title": "El destello carmesí",
+            "description": "| +TP | Anime |\n\nJohannes irrumpe en el templo Beylin buscando a un supuesto blader legendario. Dashan le planta cara al intruso y le reta a un combate bey. Pero el combate acaba repentinamente cuando Johannes retira a su Beat Lynx y se encarama a un tejado porque, según él, es una pérdida de tiempo combatir contra un blader de segunda como Dashan. Entonces aparece Chaoxin y les informa de que ha visto a un extraordinario y poderoso blader en la ciudad que utiliza un bey de color carmesí.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303195159 +0100",
+            "stop_time": "20250303201943 +0100",
+            "title": "El primer torneo",
+            "description": "| +TP | Anime |\n\nEn el campeonato por equipos se disputa una serie de combates en los que Dashan y Chiyun salen victoriosos, al igual que Johannes y su nueva compañera Motti. Cuando Yuki y Gingka retan a Mei-Mei y a Chaoxin, Yuki sufre una crisis de confianza y está a punto de abandonar. Con el apoyo de sus amigos consigue recuperarla y Gingka y él ganan el encuentro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303201944 +0100",
+            "stop_time": "20250303204729 +0100",
+            "title": "Un nuevo rugido",
+            "description": "| +TP | Anime |\n\nEl torneo por equipos continúa con los cuatro equipos finalistas. El equipo de Dashan y Chiyun gana su combate en un abrir y cerrar de ojos, pero Kyoya y Benkei disputan un largo combate contra Motti y Johannes, aunque finalmente Kyoya consigue derrotar a Johannes y clasificarse. Dos misteriosos bladers, Aguma y Bao, también se han clasificado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303204730 +0100",
+            "stop_time": "20250303211514 +0100",
+            "title": "Tornado cósmico de Pegasus",
+            "description": "| +TP | Anime |\n\nEn la segunda ronda del torneo por equipos, Gingka y Yuki se enfrentan a Dashan y a Chiyun en un stadium en lo alto de una montaña. Gingka y Yuki ganan gracias a una nueva jugada estrella de Gingka llamada tornado cósmico. A continuación combaten el Puño de Beylin contra Kyoya y Benkei. El combate acaba enseguida con la victoria del Puño de Beylin, pues Kyoya y los demás se habían concentrado en Bao cuando en realidad el blader legendario era su compañero, Aguma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303211515 +0100",
+            "stop_time": "20250303214300 +0100",
+            "title": "El dios de Saturno, Kronos",
+            "description": "| +TP | Anime |\n\nGinka y Yuki se trasladan hasta un antiguo templo bey para combatir contra Bao y Aguma, del Puño de Beylin, en la final del torneo por equipos Toryumon. El equipo del puño de Beylin empieza con fuerza y pronto ponen en un aprieto a Gingka y a Yuki. Éste piensa con rapidez y desliza a su bey hasta el tornado que ha creado Aguma, consiguiendo volver las tornas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303214301 +0100",
+            "stop_time": "20250303221045 +0100",
+            "title": "El combate de la torre de Babel",
+            "description": "| +TP | Anime |\n\nTras ganar el torneo por equipos, Bao y Aguma desaparecen en un helicóptero. Johannes les sigue el rastro hasta un lugar inhóspito y les habla sobre el fragmento estelar del bey de Aguma. Mientras tanto, muy lejos de ahí, en un torneo en el desierto, los bladers intentan alcanzar lo alto de una torre con la esperanza de encontrar un bey muy especial si ganan. Kenta y Tsubasa se enfrentan para ser los primeros en llegar a lo más alto, pero Tsubasa vence.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303221046 +0100",
+            "stop_time": "20250303223830 +0100",
+            "title": "El nuevo equipo Mazmorra",
+            "description": "| +TP | Anime |\n\nAguma y Bao siguen a Johannes para encontrarse con Pluto, que quiere que el Puño de Beylin se una en su oscura caza del poder. Gingka y sus amigos viajan a Grecia, donde los reciben Sophie, Gales, Julian y Klaus. Viajan a un templo en el que al parecer había un bey legendario, pero alguien lo ha destruido y no hay rastro del bey. En América, Tsubasa se dispone a participar en el torneo del Destroyer Dome para encontrar bladers legendarios por su cuenta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303223831 +0100",
+            "stop_time": "20250303230616 +0100",
+            "title": "El Destroyer Dome",
+            "description": "| +TP | Anime |\n\nMasamune y sus amigos presencian una discusión entre los Garcia antes de que comience el encuentro en el Destroyer Dome, por lo que parece que la familia está enfrentada. Pero durante el combate comprueban que no es más que una triquiñuela de los hermanos para que sus oponentes bajaran la guardia. Sin embargo, Tsubasa, Zeo y Toby se recuperan y consiguen derrotar a los Garcia y a los demás contendientes, clasificándose para la ronda final del torneo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303230617 +0100",
+            "stop_time": "20250303233401 +0100",
+            "title": "El nuevo Striker está listo",
+            "description": "| +TP | Anime |\n\nMasamune y su nuevo bey, Blitz Striker, combaten contra viejos conocidos y caras nuevas en el Destroyer Dome. Masamune y los demás pronto se dan cuenta de que un nuevo blader llamado Rompecabezas está dominando el combate con su bey Forbidden Ionis, que parece tener la capacidad de desaparecer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303233402 +0100",
+            "stop_time": "20250304000146 +0100",
+            "title": "Soy el campeón",
+            "description": "| +TP | Anime |\n\nEn la final de la batalla campal del Destroyer Dome, seis bladers se enfrentan en busca de la victoria. Los bladers Rey, Rompecabezas, Zeo, Toby, Tsubasa y Masamune combaten con todas sus fuerzas. Rompecabezas empieza dominando y vence a Zeo y a Toby, pero se lleva una sorpresa cuando su bey Ionis pierde contra el Variares de Rey. Después Tsubasa pierde contra Rey, quedando sólo en pie Masamune. Su combate es tan intenso que el",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304000147 +0100",
+            "stop_time": "20250304002932 +0100",
+            "title": "El laberinto en la montaña de la bruma",
+            "description": "| +TP | Anime |\n\nGingka y sus amigos viajan a África en busca de un blader legendario que al parecer vive en un misterioso lugar llamado montaña de la Bruma. Guiados por Nile y Damoure ascienden la montaña y llegan a un laberinto construido en hace muchos siglos. Nile les guía por el laberinto pero Gingka activa una puerta trampa y cae en sus entrañas. Aquí se encuentra con un blader llamado Ryuto, que está buscando un fragmento estelar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304002933 +0100",
+            "stop_time": "20250304005717 +0100",
+            "title": "El orgullo del león",
+            "description": "| +TP | Anime |\n\nRyuto lleva a Gingka y a sus amigos al templo de la montaña de la Bruma en busca del fragmento estelar. Pero no saben que están siendo seguidos de cerca por Johannes y los bladers del Puño de Beylin, quienes también van en busca del fragmento. Gingka y sus amigos se separan cuando se produce un combate en un antiguo beystadium. Todos los combatientes son eliminados excepto Kyoya y Aguma. Finalmente, Kyoya vence a Aguma en",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304005718 +0100",
+            "stop_time": "20250304012502 +0100",
+            "title": "El guardián del templo: Dynamis",
+            "description": "| +TP | Anime |\n\nGingka y los demás alcanzan un templo que creen que alberga un fragmento estelar, pero no pueden abrir la puerta que bloquea la entrada. Finalmente, Yuki utiliza sus conocimientos de astronomía para descifrar el enigma y, gracias a su bey, consigue abrir la puerta. El grupo encuentra a un blader llamado Dynamis que afirma ser el guardián del templo.",
             "icon": ""
         }
     ]

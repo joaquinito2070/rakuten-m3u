@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224224940 +0100",
-            "stop_time": "20250225004156 +0100",
-            "title": "La balada de la mala suerte",
-            "description": "| +16 | Películas |\n\nJesse es un músico fracasado que se encuentra en una encrucijada existencial cuando las malas decisiones lo alcanzan durante una reunión inesperada con Carla, un viejo amor.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/73616c9a-1d97-4ddf-bcee-600c8638ff1a.jpeg"
-        },
-        {
             "start_time": "20250225004157 +0100",
             "stop_time": "20250225022611 +0100",
             "title": "Eloïse",

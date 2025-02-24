@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224230712 +0100",
-            "stop_time": "20250225005621 +0100",
-            "title": "Sick of Myself",
-            "description": "| +16 | Películas |\n\nSigne y Thomas están en una relación competitiva poco saludable que da un giro vicioso cuando Thomas de repente se abre paso como artista contemporáneo.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/8ba192a4-e47e-4759-80d3-c845a0103b72.jpeg"
-        },
-        {
             "start_time": "20250225005622 +0100",
             "stop_time": "20250225023538 +0100",
             "title": "El estudiante de intercambio",

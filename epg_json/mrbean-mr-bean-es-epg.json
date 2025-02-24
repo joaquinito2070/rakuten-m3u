@@ -3,62 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224230906 +0100",
-            "stop_time": "20250224232205 +0100",
-            "title": "Vacaciones con Teddy",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224232206 +0100",
-            "stop_time": "20250224233505 +0100",
-            "title": "Lecciones de vida",
-            "description": "| +TP | Infantil |\n\nMr. Bean hace de carabina cuando la Sra. Wicket se enamora de un hombre en el que Mr. Bean no confía.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224233506 +0100",
-            "stop_time": "20250224234804 +0100",
-            "title": "Bean ecologista",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224234805 +0100",
-            "stop_time": "20250225000104 +0100",
-            "title": "Pégalo",
-            "description": "| +TP | Infantil |\n\nBean descubre al sobrino de la señora Wicket y a Bruiser Jnr intercambiando pegatinas de fútbol.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225000105 +0100",
-            "stop_time": "20250225001405 +0100",
-            "title": "La Fotografía",
-            "description": "| +TP | Infantil |\n\nA Mr. Bean le hace falta una fotografía nueva para el pasaporte y hará lo que sea necesario para conseguirla.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225001406 +0100",
-            "stop_time": "20250225002705 +0100",
-            "title": "Entrega especial",
-            "description": "| +TP | Infantil |\n\nLa señora Wicket exige que Bean se quede en casa para recibir un sillón nuevo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225002706 +0100",
-            "stop_time": "20250225004004 +0100",
-            "title": "¿De dónde salió ese gato?",
-            "description": "| +TP | Infantil |\n\nMr. Bean se siente culpable después de perseguir a Scrapper y acabar con un gatito planchado.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225004005 +0100",
-            "stop_time": "20250225005304 +0100",
-            "title": "Helado",
-            "description": "| +TP | Infantil |\n\nMr. Bean quiere comprar un helado en la furgoneta, pero termina sirviéndose él mismo... y también al resto de los niños del pueblo.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225005305 +0100",
             "stop_time": "20250225010000 +0100",
             "title": "Corte de pelo",
@@ -4711,6 +4655,776 @@
             "stop_time": "20250303010000 +0100",
             "title": "¡Un tesoro!",
             "description": "| +TP | Infantil |\n\nUn rompecabezas tiene perplejo a Mr. Bean",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010001 +0100",
+            "stop_time": "20250303010901 +0100",
+            "title": "¡Un tesoro!",
+            "description": "| +TP | Infantil |\n\nUn rompecabezas tiene perplejo a Mr. Bean",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010902 +0100",
+            "stop_time": "20250303012214 +0100",
+            "title": "Sin techo",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene que dejar la habitación pero, nadie le avisa",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303012215 +0100",
+            "stop_time": "20250303013526 +0100",
+            "title": "Camping",
+            "description": "| +TP | Infantil |\n\nMr. Bean descubre que el mundo exterior no siempre es tan bueno",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303013527 +0100",
+            "stop_time": "20250303014839 +0100",
+            "title": "¡Fuera calzos!",
+            "description": "| +TP | Infantil |\n\nEl hobby de Mr. Bean no va tan bien como esperaba",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303014840 +0100",
+            "stop_time": "20250303020151 +0100",
+            "title": "Bean real",
+            "description": "| +TP | Infantil |\n\nDurante una visita al Buckingham Palace conoce a la Reina",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303020152 +0100",
+            "stop_time": "20250303021503 +0100",
+            "title": "Bean niño",
+            "description": "| +TP | Infantil |\n\nMr. Bean viaja por sus recuerdos",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303021504 +0100",
+            "stop_time": "20250303022816 +0100",
+            "title": "En rosa",
+            "description": "| +TP | Infantil |\n\nMr. Bean es importunado por un animal rosa",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303022817 +0100",
+            "stop_time": "20250303024133 +0100",
+            "title": "Cena para dos",
+            "description": "| +TP | Infantil |\n\nCuando Mr. Bean te invita a cenar es mejor llevar tu propia comida",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303024134 +0100",
+            "stop_time": "20250303025445 +0100",
+            "title": "La pelota",
+            "description": "| +TP | Infantil |\n\nMr. Bean se queda atrapado",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303025446 +0100",
+            "stop_time": "20250303030758 +0100",
+            "title": "Dolor de muelas",
+            "description": "| +TP | Infantil |\n\nMr. Bean intenta hacer una manualidad",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030759 +0100",
+            "stop_time": "20250303032110 +0100",
+            "title": "Corte de pelo",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene un mal día con su pelo",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303032111 +0100",
+            "stop_time": "20250303033423 +0100",
+            "title": "Padre matóns",
+            "description": "| +TP | Infantil |\n\nMr. Bean busca una vida tranquila",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303033424 +0100",
+            "stop_time": "20250303034736 +0100",
+            "title": "Enfermera",
+            "description": "| +TP | Infantil |\n\nBean descubre que estar en el hospital no siempre es un lecho de rosas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303034737 +0100",
+            "stop_time": "20250303040048 +0100",
+            "title": "Gato muerto",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene que reemplazar el gato de su casera tras un desafortunado accidente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040049 +0100",
+            "stop_time": "20250303041401 +0100",
+            "title": "Super carrito",
+            "description": "| +TP | Infantil |\n\nMr. Bean construye un supercarrito de supermercado",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303041402 +0100",
+            "stop_time": "20250303042713 +0100",
+            "title": "Urraca",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene problemas con un ave",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303042714 +0100",
+            "stop_time": "20250303044025 +0100",
+            "title": "Cuidando al gato",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene que cuidar de su peor enemigo",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303044026 +0100",
+            "stop_time": "20250303045338 +0100",
+            "title": "La botella",
+            "description": "| +TP | Infantil |\n\nMr. Bean pierde su botella.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303045339 +0100",
+            "stop_time": "20250303050651 +0100",
+            "title": "El pececito dorado",
+            "description": "| +TP | Infantil |\n\nMr. Bean casi sirve de alimento para el pez",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050652 +0100",
+            "stop_time": "20250303052004 +0100",
+            "title": "Inventor",
+            "description": "| +TP | Infantil |\n\nUn nuevo inquilino puede ser un gran amigo o tu peor enemigo",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303052005 +0100",
+            "stop_time": "20250303053316 +0100",
+            "title": "Problemas con el coche",
+            "description": "| +TP | Infantil |\n\nMr. Bean coge aire después de dar una vuelta",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303053317 +0100",
+            "stop_time": "20250303054629 +0100",
+            "title": "Restaurante",
+            "description": "| +TP | Infantil |\n\nMr. Bean aprovecha que es su cumpleaños para comer todo lo que pueda",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303054630 +0100",
+            "stop_time": "20250303055941 +0100",
+            "title": "Ladrón de arte",
+            "description": "| +TP | Infantil |\n\nMr. Bean intenta ser un vendedor de arte",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303055942 +0100",
+            "stop_time": "20250303061254 +0100",
+            "title": "Miedoso bean",
+            "description": "| +TP | Infantil |\n\nPesadilla en Bean Street",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303061255 +0100",
+            "stop_time": "20250303062606 +0100",
+            "title": "Cita romántica",
+            "description": "| +TP | Infantil |\n\nEl romance está en el aire y la novia de Mr. Bean quiere aprovecharlo",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303062607 +0100",
+            "stop_time": "20250303063919 +0100",
+            "title": "¡Se busca!",
+            "description": "| +TP | Infantil |\n\nUn prisionero escapa de la cárcel y atrapan a Mr. Bean",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303063920 +0100",
+            "stop_time": "20250303065231 +0100",
+            "title": "Niño artilugios",
+            "description": "| +TP | Infantil |\n\nLa alta tecnología y su poco ingenio dejan a Mr. Bean bloqueado",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303065232 +0100",
+            "stop_time": "20250303070543 +0100",
+            "title": "La visita",
+            "description": "| +TP | Infantil |\n\nMr. Bean aprende que la generosidad puede ser buena para recuperar su mando a distancia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070544 +0100",
+            "stop_time": "20250303071856 +0100",
+            "title": "Un televisor grande",
+            "description": "| +TP | Infantil |\n\nMr. Bean quiere comprar la televisión más grande del mundo pero, el precio es proporcional",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303071857 +0100",
+            "stop_time": "20250303073208 +0100",
+            "title": "Teclado con truco",
+            "description": "| +TP | Infantil |\n\nMr. Bean quiere tocar el piano pero no se le da nada bien",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303073209 +0100",
+            "stop_time": "20250303074521 +0100",
+            "title": "La carrera",
+            "description": "| +TP | Infantil |\n\nMr. Bean anda por la ciudad",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303074522 +0100",
+            "stop_time": "20250303075833 +0100",
+            "title": "Huevos con bean",
+            "description": "| +TP | Infantil |\n\nMr. Bean es sorprendio por un visitante que no es bien recibido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303075834 +0100",
+            "stop_time": "20250303081146 +0100",
+            "title": "Desquiciado",
+            "description": "| +TP | Infantil |\n\nMr. Bean descubre que toneladas de sapos pesan mucho",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303081147 +0100",
+            "stop_time": "20250303082458 +0100",
+            "title": "Una gran invitación",
+            "description": "| +TP | Infantil |\n\nMr. Bean se siente en casa con la burguesía",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303082459 +0100",
+            "stop_time": "20250303083810 +0100",
+            "title": "Redecoración real",
+            "description": "| +TP | Infantil |\n\nMr. Bean redecora su habitación",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303083811 +0100",
+            "stop_time": "20250303085123 +0100",
+            "title": "Súper calabacín",
+            "description": "| +TP | Infantil |\n\nMr. Bean se queda con los ojos y lo dedos verdes",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303085124 +0100",
+            "stop_time": "20250303090435 +0100",
+            "title": "Bean enamorado",
+            "description": "| +TP | Infantil |\n\nMr. Bean se enamora de una guapa cantante",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090436 +0100",
+            "stop_time": "20250303091748 +0100",
+            "title": "Doble problema",
+            "description": "| +TP | Infantil |\n\nMr. Bean encuentra su alma gemela.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303091749 +0100",
+            "stop_time": "20250303093100 +0100",
+            "title": "En el campo",
+            "description": "| +TP | Infantil |\n\nMientras Mr. Bean hace foto de la naturaleza, la naturaleza se vuelve contra él",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303093101 +0100",
+            "stop_time": "20250303094413 +0100",
+            "title": "Problemas de aparcamiento",
+            "description": "| +TP | Infantil |\n\nMr. Bean no encuentra aparcamiento, así que hace el suyo propio",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303094414 +0100",
+            "stop_time": "20250303095725 +0100",
+            "title": "El botín de bean",
+            "description": "| +TP | Infantil |\n\nMientras que Mr.Bean cava un agujero para enterrar un tesoro se queda atrapado",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303095726 +0100",
+            "stop_time": "20250303101037 +0100",
+            "title": "Astuto bean",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene muchas ganas de pintar",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303101038 +0100",
+            "stop_time": "20250303102350 +0100",
+            "title": "Prohibido mascotas",
+            "description": "| +TP | Infantil |\n\nLa casera se mosquea cuando Mr. Bean compra un pájaro",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303102351 +0100",
+            "stop_time": "20250303103702 +0100",
+            "title": "Rayo de sol",
+            "description": "| +TP | Infantil |\n\nMr. Bean descubre que exponerse al sol puede ser más difícil de lo que parece",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303103703 +0100",
+            "stop_time": "20250303105014 +0100",
+            "title": "¡Un tesoro!",
+            "description": "| +TP | Infantil |\n\nUn rompecabezas tiene perplejo a Mr. Bean",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303105015 +0100",
+            "stop_time": "20250303110327 +0100",
+            "title": "Sin techo",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene que dejar la habitación pero, nadie le avisa",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303110328 +0100",
+            "stop_time": "20250303111639 +0100",
+            "title": "Camping",
+            "description": "| +TP | Infantil |\n\nMr. Bean descubre que el mundo exterior no siempre es tan bueno",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303111640 +0100",
+            "stop_time": "20250303112952 +0100",
+            "title": "¡Fuera calzos!",
+            "description": "| +TP | Infantil |\n\nEl hobby de Mr. Bean no va tan bien como esperaba",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303112953 +0100",
+            "stop_time": "20250303114304 +0100",
+            "title": "Bean niño",
+            "description": "| +TP | Infantil |\n\nMr. Bean viaja por sus recuerdos",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303114305 +0100",
+            "stop_time": "20250303115617 +0100",
+            "title": "En rosa",
+            "description": "| +TP | Infantil |\n\nMr. Bean es importunado por un animal rosa",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303115618 +0100",
+            "stop_time": "20250303120929 +0100",
+            "title": "La pelota",
+            "description": "| +TP | Infantil |\n\nMr. Bean se queda atrapado",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120930 +0100",
+            "stop_time": "20250303122241 +0100",
+            "title": "Super carrito",
+            "description": "| +TP | Infantil |\n\nMr. Bean construye un supercarrito de supermercado",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303122242 +0100",
+            "stop_time": "20250303123554 +0100",
+            "title": "Urraca",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene problemas con un ave",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303123555 +0100",
+            "stop_time": "20250303124906 +0100",
+            "title": "Cuidando al gato",
+            "description": "| +TP | Infantil |\n\nMr. Bean tiene que cuidar de su peor enemigo",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303124907 +0100",
+            "stop_time": "20250303130220 +0100",
+            "title": "El pececito dorado",
+            "description": "| +TP | Infantil |\n\nMr. Bean casi sirve de alimento para el pez",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130221 +0100",
+            "stop_time": "20250303131532 +0100",
+            "title": "Inventor",
+            "description": "| +TP | Infantil |\n\nUn nuevo inquilino puede ser un gran amigo o tu peor enemigo",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303131533 +0100",
+            "stop_time": "20250303132845 +0100",
+            "title": "Problemas con el coche",
+            "description": "| +TP | Infantil |\n\nMr. Bean coge aire después de dar una vuelta",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303132846 +0100",
+            "stop_time": "20250303134157 +0100",
+            "title": "Ladrón de arte",
+            "description": "| +TP | Infantil |\n\nMr. Bean intenta ser un vendedor de arte",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303134158 +0100",
+            "stop_time": "20250303135509 +0100",
+            "title": "Cita romántica",
+            "description": "| +TP | Infantil |\n\nEl romance está en el aire y la novia de Mr. Bean quiere aprovecharlo",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303135510 +0100",
+            "stop_time": "20250303140822 +0100",
+            "title": "¡Se busca!",
+            "description": "| +TP | Infantil |\n\nUn prisionero escapa de la cárcel y atrapan a Mr. Bean",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303140823 +0100",
+            "stop_time": "20250303142134 +0100",
+            "title": "Un televisor grande",
+            "description": "| +TP | Infantil |\n\nMr. Bean quiere comprar la televisión más grande del mundo pero, el precio es proporcional",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303142135 +0100",
+            "stop_time": "20250303143447 +0100",
+            "title": "La carrera",
+            "description": "| +TP | Infantil |\n\nMr. Bean anda por la ciudad",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303143448 +0100",
+            "stop_time": "20250303144759 +0100",
+            "title": "Desquiciado",
+            "description": "| +TP | Infantil |\n\nMr. Bean descubre que toneladas de sapos pesan mucho",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303144800 +0100",
+            "stop_time": "20250303150112 +0100",
+            "title": "Una gran invitación",
+            "description": "| +TP | Infantil |\n\nMr. Bean se siente en casa con la burguesía",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150113 +0100",
+            "stop_time": "20250303151424 +0100",
+            "title": "Súper calabacín",
+            "description": "| +TP | Infantil |\n\nMr. Bean se queda con los ojos y lo dedos verdes",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303151425 +0100",
+            "stop_time": "20250303152737 +0100",
+            "title": "Doble problema",
+            "description": "| +TP | Infantil |\n\nMr. Bean encuentra su alma gemela.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303152738 +0100",
+            "stop_time": "20250303154036 +0100",
+            "title": "Cuidando el pez",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303154037 +0100",
+            "stop_time": "20250303155336 +0100",
+            "title": "crucero El",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303155337 +0100",
+            "stop_time": "20250303160636 +0100",
+            "title": "Tiro al coco",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160637 +0100",
+            "stop_time": "20250303161935 +0100",
+            "title": "Cajero automático",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303161936 +0100",
+            "stop_time": "20250303163235 +0100",
+            "title": "Utilicen las papeleras",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303163236 +0100",
+            "stop_time": "20250303164534 +0100",
+            "title": "Bean San Valentin",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303164535 +0100",
+            "stop_time": "20250303165834 +0100",
+            "title": "Montelo usted mismo",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303165835 +0100",
+            "stop_time": "20250303171133 +0100",
+            "title": "Vacaciones con Teddy",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303171134 +0100",
+            "stop_time": "20250303172433 +0100",
+            "title": "periódico El",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303172434 +0100",
+            "stop_time": "20250303173732 +0100",
+            "title": "Super Espia",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303173733 +0100",
+            "stop_time": "20250303175032 +0100",
+            "title": "Bean Scout",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303175033 +0100",
+            "stop_time": "20250303180332 +0100",
+            "title": "Lord Bean",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303180333 +0100",
+            "stop_time": "20250303181631 +0100",
+            "title": "Guerra De Coches",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303181632 +0100",
+            "stop_time": "20250303182931 +0100",
+            "title": "Dia De Boda",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303182932 +0100",
+            "stop_time": "20250303184230 +0100",
+            "title": "Telefono Bean",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303184231 +0100",
+            "stop_time": "20250303185530 +0100",
+            "title": "Bean (En El) Jurasico",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303185531 +0100",
+            "stop_time": "20250303190829 +0100",
+            "title": "Bean Taxista",
+            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303190830 +0100",
+            "stop_time": "20250303192129 +0100",
+            "title": "Musculoso Bean",
+            "description": "| +TP | Infantil |\n\nMr. Bean intenta ponerse fuerte, pero prefiere tomar un atajo hacia su deseada perfección física.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303192130 +0100",
+            "stop_time": "20250303193428 +0100",
+            "title": "Guerra de coches",
+            "description": "| +TP | Infantil |\n\nMr. Bean construye una máquina lavacoches que atrae a todo tipo de clientes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303193429 +0100",
+            "stop_time": "20250303194728 +0100",
+            "title": "Pintura Bean",
+            "description": "| +TP | Infantil |\n\nMr. Bean ha pintado su cuarto de verde fosforito pero ¿le gustará a la Sra. Wicket?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303194729 +0100",
+            "stop_time": "20250303200028 +0100",
+            "title": "Luchador Bean",
+            "description": "| +TP | Infantil |\n\nMr. Bean se ha convertido en campeón accidental de lucha, con un poquito de ayuda de dos ancianitas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303200029 +0100",
+            "stop_time": "20250303201327 +0100",
+            "title": "Pájaro Exótico",
+            "description": "| +TP | Infantil |\n\nA Mr. Bean le encanta observar pájaros y está desesperado por atisbar al ave más extraña de su libro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303201328 +0100",
+            "stop_time": "20250303202627 +0100",
+            "title": "Bean y el Safari",
+            "description": "| +TP | Infantil |\n\nMr. Bean hace de niñera para un babuino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303202628 +0100",
+            "stop_time": "20250303203926 +0100",
+            "title": "Súper Bean",
+            "description": "| +TP | Infantil |\n\nMr. Bean se convierte en superhéroe para enmendarle la plana a un ingenioso ladrón de gatos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303203927 +0100",
+            "stop_time": "20250303205226 +0100",
+            "title": "Pero cuánta basura",
+            "description": "| +TP | Infantil |\n\nMr. Bean se entusiasma en exceso a la hora de limpiar su piso y Teddy acaba de camino al basurero.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303205227 +0100",
+            "stop_time": "20250303210525 +0100",
+            "title": "El robot",
+            "description": "| +TP | Infantil |\n\nMr. Bean compra un robot para que limpie su apartamento, pero acaba destrozando media ciudad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303210526 +0100",
+            "stop_time": "20250303211825 +0100",
+            "title": "En el jardín",
+            "description": "| +TP | Infantil |\n\nMr. Bean necesita una pala nueva para el jardín, pero ¿por qué comprarla si puede ganársela?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303211826 +0100",
+            "stop_time": "20250303213125 +0100",
+            "title": "Un día mágico",
+            "description": "| +TP | Infantil |\n\nMr. Bean confunde su equipaje con el de un mago y los resultados son asombrosos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303213126 +0100",
+            "stop_time": "20250303214426 +0100",
+            "title": "La Fotografía",
+            "description": "| +TP | Infantil |\n\nA Mr. Bean le hace falta una fotografía nueva para el pasaporte y hará lo que sea necesario para conseguirla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303214427 +0100",
+            "stop_time": "20250303215726 +0100",
+            "title": "Bean bailarín",
+            "description": "| +TP | Infantil |\n\nMr. Bean debe aprender a bailar para poder impresionar a su novia Irma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303215727 +0100",
+            "stop_time": "20250303221026 +0100",
+            "title": "Game Over",
+            "description": "| +TP | Infantil |\n\nBean se obsesiona con los juegos después de ser presentado por el sobrino de la Sra. Wicket.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303221027 +0100",
+            "stop_time": "20250303222326 +0100",
+            "title": "La vida de un perro",
+            "description": "| +TP | Infantil |\n\nMr Bean cuida perros para Irma y, mientras está en el parque, se encuentra con un paseador de perros profesional.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303222327 +0100",
+            "stop_time": "20250303223627 +0100",
+            "title": "La gran peste",
+            "description": "| +TP | Infantil |\n\nMr Bean termina en un pozo de purín de una granja después de correr con un tractor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303223628 +0100",
+            "stop_time": "20250303224927 +0100",
+            "title": "Charity Bean",
+            "description": "| +TP | Infantil |\n\nBean es a la vez engatusado por Irma y estimulado por sus propios celos hacia la superestrella Declan, que recauda fondos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303224928 +0100",
+            "stop_time": "20250303230227 +0100",
+            "title": "Bean Encore",
+            "description": "| +TP | Infantil |\n\nEl Gran Eduardo, violinista supremo, está en la ciudad e Irma quiere ir al concierto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303230228 +0100",
+            "stop_time": "20250303231528 +0100",
+            "title": "Casa móvil",
+            "description": "| +TP | Infantil |\n\nLa señorita Wince se lleva de vacaciones a la señora Wicket en su nueva y elegante caravana; y Bean se queda atrás.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303231529 +0100",
+            "stop_time": "20250303232828 +0100",
+            "title": "Casa encantada",
+            "description": "| +TP | Infantil |\n\nBean está tratando de impresionar a algunos niños en el parque con sus habilidades futbolísticas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303232829 +0100",
+            "stop_time": "20250303234128 +0100",
+            "title": "Running On Empty",
+            "description": "| +TP | Infantil |\n\nMr Bean se dirige a la playa cuando el mini se queda sin gasolina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303234129 +0100",
+            "stop_time": "20250303235428 +0100",
+            "title": "Café Bean",
+            "description": "| +TP | Infantil |\n\nEl señor Bean está de compras cuando empieza a llover.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303235429 +0100",
+            "stop_time": "20250304000729 +0100",
+            "title": "Salvar ese árbol",
+            "description": "| +TP | Infantil |\n\nBean le está mostrando a Irma su árbol favorito cuando descubre que un podador de árboles se está preparando para talarlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304000730 +0100",
+            "stop_time": "20250304002029 +0100",
+            "title": "Jumping Bean",
+            "description": "| +TP | Infantil |\n\nBean quiere aprender a andar en patineta, pero se lastima en el primer intento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304002030 +0100",
+            "stop_time": "20250304003329 +0100",
+            "title": "Caos de gatos",
+            "description": "| +TP | Infantil |\n\nLa señora Wicket se vuelve irritantemente inconsolable cuando Scrapper desaparece.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304003330 +0100",
+            "stop_time": "20250304004630 +0100",
+            "title": "Pégalo",
+            "description": "| +TP | Infantil |\n\nBean descubre al sobrino de la señora Wicket y a Bruiser Jnr intercambiando pegatinas de fútbol.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304004631 +0100",
+            "stop_time": "20250304010000 +0100",
+            "title": "Un coche para Irma",
+            "description": "| +TP | Infantil |\n\nBean descubre a Declan llevando a Irma en su elegante y nuevo SUV.",
             "icon": ""
         }
     ]

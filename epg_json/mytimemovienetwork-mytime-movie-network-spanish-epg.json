@@ -3,13 +3,6 @@
     "tvg_id": "mytime-movie-network-spanish",
     "epg": [
         {
-            "start_time": "20250224223057 +0100",
-            "stop_time": "20250225001116 +0100",
-            "title": "Amor en Bucle",
-            "description": "| +TP | Películas |\n\nUna mujer se ve obligada a repetir el mismo día una y otra vez mientras trata de volver a estar con su novio, pero encuentra el amor en lugares inesperados. La vida de Amber no es precisamente ideal: recientemente se separó de su novio \"perfecto\" Kevin, y en su trabajo ha perdido la inspiración. Pero cuando comienza a revivir el mismo día una y otra vez, Amber se da cuenta de que está atrapada en el limbo. Mientras intenta todo lo que está en su poder para recuperar a Kevin, recurre a su amigo Charlie en busca de ayuda, y finalmente debe decidir qué se necesitará para hacerla realmente feliz.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225001117 +0100",
             "stop_time": "20250225020525 +0100",
             "title": "Hasta Que la Muerte Nos Separe",
@@ -602,6 +595,90 @@
             "stop_time": "20250303031044 +0100",
             "title": "Ganar a Cualquier Precio",
             "description": "| +TP | Películas |\n\nUna madre celosa toma medidas para asegurar que su hija gane una beca de una academia de baile. Pero la progenitora de la víctima hará lo que sea necesario para proteger a su hija del malvado plan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303031045 +0100",
+            "stop_time": "20250303045008 +0100",
+            "title": "Los vecinos",
+            "description": "| +TP | Películas |\n\nUna pareja que espera su primer hijo descubre una rara diferencia con los vecinos que también va a ser padres.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303045009 +0100",
+            "stop_time": "20250303063529 +0100",
+            "title": "La Sospechosa",
+            "description": "| +TP | Películas |\n\nBeth es una mujer a la que han acusado injustamente de matar a su marido. Todo el mundo cree que ella es culpable, incluida su hijastra, hasta que aparece Jerry, un investigador de una aseguradora que le da el beneficio de la duda. Juntos buscarán al auténtico culpable...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303063530 +0100",
+            "stop_time": "20250303081504 +0100",
+            "title": "Una invitada peligrosa",
+            "description": "| +TP | Películas |\n\nUna chica trata de seducir al padre de su amiga y deshacerse de las mujeres de la casa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303081505 +0100",
+            "stop_time": "20250303095559 +0100",
+            "title": "Amor Atemporal",
+            "description": "| +TP | Películas |\n\nMegan despierta de un coma en el hospital. Su marido y los dos hijos con los que ha soñado no son reales. En una entrevista de trabajo, conoce a Thomas, a quien conoció soñanado mientras estaba en coma. ¿O quizás lo que vio era su futuro?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303095600 +0100",
+            "stop_time": "20250303114011 +0100",
+            "title": "Fecha límite",
+            "description": "| +TP | Películas |\n\nSophie está a punto de lanzar su muy esperada línea de ropa cuando uno de sus empleados aparece asesinado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303114012 +0100",
+            "stop_time": "20250303133003 +0100",
+            "title": "Malpractice-feature-eng-spa",
+            "description": "| +TP | Películas |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303133004 +0100",
+            "stop_time": "20250303151002 +0100",
+            "title": "Asesino de Modelos",
+            "description": "| +TP | Películas |\n\nGrace, una joven e ingenua aspirante a modelo, está encantada de que el fotógrafo de moda Hunter Kelly la ayude a lanzar su carrera. Pero cuando la sesión de fotos se convierte en un secuestro que muestra las verdaderas intenciones de Hunter de usar a Grace como su próxima \"estrella\" en un sitio web de sexo en directo, Grace debe encontrar una manera de escapar antes de convertirse en la próxima víctima de Hunter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303151003 +0100",
+            "stop_time": "20250303171016 +0100",
+            "title": "Llamada oculta",
+            "description": "| +TP | Películas |\n\nUn psicópata utiliza una sofisticada bomba de tiempo exigiendo una respuesta a su pregunta: '¿QUIÉN SOY?'",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303171017 +0100",
+            "stop_time": "20250303185514 +0100",
+            "title": "TouchedByAKiller-feature-eng-spa",
+            "description": "| +TP | Películas |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303185515 +0100",
+            "stop_time": "20250303203534 +0100",
+            "title": "Un Romance de Mudanza",
+            "description": "| +TP | Películas |\n\nOlivia, una diseñadora de interiores, pierde su empleo en Nueva York y decide regresar a su ciudad natal para dar una sorpresa a su padre, Neil, en el 25 aniversario del negocio familiar: Mudanzas Wilson. Cuando llega conoce al nuevo miembro del equipo, Scott, y juntos se ponen a trabajar para intentar reflotar el negocio. Justo cuando parece que están formando una conexión a nivel personal a Olivia le ofrecen la posibilidad de regresar a Nueva York para un trabajo de interiorista.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303203535 +0100",
+            "stop_time": "20250303222044 +0100",
+            "title": "Gabe el perro cupido",
+            "description": "| +TP | Películas |\n\nGabe es un perro que actúa como Cupido haciendo todo lo posible para unir a Eric, su amo, y a su vecina Sara.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303222045 +0100",
+            "stop_time": "20250304000000 +0100",
+            "title": "Quiéreme siempre",
+            "description": "| +TP | Películas |\n\nLa separación de una pareja se pospone cuando descubren que su hija se va a casar.",
             "icon": ""
         }
     ]

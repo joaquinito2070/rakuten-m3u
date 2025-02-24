@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224223709 +0100",
-            "stop_time": "20250225003755 +0100",
-            "title": "Zulu",
-            "description": "| +16 | Películas |\n\nEn una Sudáfrica todavía atormentada por el apartheid, una pareja de policías persigue al asesino de una joven adolescente. Brutalidad y modernidad chocan, mientras los ecos del apartheid todavía resuenan en una sociedad que lucha por la reconciliación.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a767fb5b-6f2a-4c45-b0e2-9c30d6d18cd7-snapshot-1590659927.jpeg"
-        },
-        {
             "start_time": "20250225003756 +0100",
             "stop_time": "20250225025324 +0100",
             "title": "Asesinato en Yellowstone",

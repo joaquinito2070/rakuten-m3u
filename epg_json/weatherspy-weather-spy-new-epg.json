@@ -3,34 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224224838 +0100",
-            "stop_time": "20250224231832 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224231838 +0100",
-            "stop_time": "20250224234832 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nJaclyn joins Mark in a ride through the US Midwest during the most prolific tornado season on record.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224234838 +0100",
-            "stop_time": "20250225001832 +0100",
-            "title": "Viral Wild",
-            "description": "| +TP | Estilo de vida |\n\nTake a look at the beautiful little Aquatic creatures that add cuteness to the vast marine life",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225001838 +0100",
-            "stop_time": "20250225004832 +0100",
-            "title": "Viral Wild",
-            "description": "| +TP | Estilo de vida |\n\nWelcome to Zootopia! We have a line-up of wild Friends ready to entertain you.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225004838 +0100",
             "stop_time": "20250225011832 +0100",
             "title": "Storm Hunters",

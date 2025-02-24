@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224223319 +0100",
-            "stop_time": "20250225004040 +0100",
-            "title": "Danger Close",
-            "description": "| +16 | Películas |\n\nUna historia emotiva y emocionante en la línea de grandes clásicos de guerra como Black Hawk, Salvar al solado Ryan...",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/9eaec3e7-f536-4f4a-821a-637ced7fc871-snapshot-1590667500.jpeg"
-        },
-        {
             "start_time": "20250225004041 +0100",
             "stop_time": "20250225030012 +0100",
             "title": "El soldado de Dios",
