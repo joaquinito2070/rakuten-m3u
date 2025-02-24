@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224154653 +0100",
-            "stop_time": "20250224160153 +0100",
-            "title": "La Oveja Shaun",
-            "description": "| +12 | Infantil |\n\nDía De Colada | Rompedientes",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5267c9fc-1fa9-4c4f-b506-0a6aa47ff950.jpeg"
-        },
-        {
             "start_time": "20250224160154 +0100",
             "stop_time": "20250224162636 +0100",
             "title": "The Smurfs",

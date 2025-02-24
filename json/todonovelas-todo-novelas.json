@@ -961,5 +961,5 @@
         }
     ],
     "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/todonovelas-todo-novelas.json",
-    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
 }

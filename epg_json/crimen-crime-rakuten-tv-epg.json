@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224151450 +0100",
-            "stop_time": "20250224160533 +0100",
-            "title": "Pacific Blue",
-            "description": "| +16 | Crime |\n\nEl arma de TC es robada durante la persecución de un ladrón armado, y Bike Patrol intenta mantenerse un paso adelante mientras el arma pasa de persona a persona. Victor y Chris investigan una red de secuestradores de perros. Como broma, Cory contrata a Chris con un servicio de citas por video.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/146cd014-2f89-41bf-8e69-58adaa151ae4.jpeg"
-        },
-        {
             "start_time": "20250224160534 +0100",
             "stop_time": "20250224165620 +0100",
             "title": "Pacific Blue",

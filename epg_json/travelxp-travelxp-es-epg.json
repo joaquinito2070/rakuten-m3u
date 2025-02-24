@@ -3,13 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250224153443 +0100",
-            "stop_time": "20250224160437 +0100",
-            "title": "City Breaks",
-            "description": "| +7 | Estilo de vida |\n\nCada ciudad del mundo tiene su propia personalidad. Nuestros anfitriones encuentran como disfrutar al máximo cada uno de ellos durante su corta visita.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160443 +0100",
             "stop_time": "20250224163437 +0100",
             "title": "City Breaks",

@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224135011 +0100",
-            "stop_time": "20250224160450 +0100",
-            "title": "Viento de libertad",
-            "description": "| +16 | Películas |\n\nEn los años 80 dos familias alemanas de la Alemania oriental intentan pasar a la Alemania occidental en un globo aerostático casero.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b5f19d71-deb7-4218-88bc-f3577d9fe78a.jpeg"
-        },
-        {
             "start_time": "20250224160451 +0100",
             "stop_time": "20250224175348 +0100",
             "title": "Whale Rider",
