@@ -4,7 +4,7 @@ import re
 import xml.etree.ElementTree as ET
 from urllib.parse import unquote
 from urllib.parse import urlparse, urlunparse
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import unicodedata
 from typing import List
 import gzip
@@ -73,14 +73,16 @@ def fetch_epg_xml_data(url):
 
         root = ET.fromstring(xml_content)
         epg_data = {}
+        current_time_utc = datetime.now(timezone.utc) # Get current time in UTC
+
         for channel_element in root.findall('channel'):
             channel_id = channel_element.get('id')
             epg_data[channel_id] = [] # Initialize list for each channel
 
         for program_element in root.findall('programme'):
             channel_epg_id = program_element.get('channel')
-            start_time = program_element.get('start')
-            stop_time = program_element.get('stop')
+            start_time_str = program_element.get('start')
+            stop_time_str = program_element.get('stop')
             title_element = program_element.find('title')
             title_text = title_element.text if title_element is not None else "No Title"
             desc_element = program_element.find('desc')
@@ -88,15 +90,22 @@ def fetch_epg_xml_data(url):
             icon_element = program_element.find('icon')
             icon_src = icon_element.get('src') if icon_element is not None else None
 
+            try:
+                # Parse time strings to datetime objects, assuming they include timezone info
+                start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S %z")
+                stop_time = datetime.strptime(stop_time_str, "%Y%m%d%H%M%S %z")
 
-            if channel_epg_id in epg_data:
-                epg_data[channel_epg_id].append({
-                    "start_time": start_time,
-                    "stop_time": stop_time,
-                    "title": title_text,
-                    "description": desc_text,
-                    "icon": icon_src  # Add icon source
-                })
+                if stop_time > current_time_utc: # Filter out past programs
+                    epg_data[channel_epg_id].append({
+                        "start_time": start_time_str,
+                        "stop_time": stop_time_str,
+                        "title": title_text,
+                        "description": desc_text,
+                        "icon": icon_src
+                    })
+            except ValueError:
+                print(f"Error parsing time for program '{title_text}'. Skipping program.")
+
 
         return epg_data
 
@@ -218,17 +227,29 @@ def main():
         epg_data_map = {} # Proceed without EPG if fetch fails
 
     # Integrate EPG data into channels_data for JSON output
+    current_time_utc_main = datetime.now(timezone.utc) # Get current time in UTC for main function
+
     for channel_info in channels_data:
         channel_epg_id = channel_info['tvg_id']
-        channel_info['epg'] = epg_data_map.get(channel_epg_id, [])
-        # Add icon to EPG data in channels_data for JSON
-        for program in channel_info['epg']: # Iterate through programs for each channel
-            program['icon'] = program.get('icon') # Ensure icon key is present in JSON output
+        channel_epg = epg_data_map.get(channel_epg_id, [])
+
+        future_epg_programs = [] # List to hold future programs
+        for program in channel_epg:
+            try:
+                stop_time = datetime.strptime(program['stop_time'], "%Y%m%d%H%M%S %z")
+                if stop_time > current_time_utc_main: # Filter programs in main function too for JSON
+                    future_epg_programs.append(program)
+            except ValueError:
+                print(f"Error parsing time for program '{program.get('title', 'No Title')}' in main function. Skipping program for JSON.")
+
+        channel_info['epg'] = future_epg_programs # Assign filtered list back
+        for program in channel_info['epg']: # Ensure icon key is present in JSON output for future programs
+            program['icon'] = program.get('icon')
 
 
     # Create M3U playlist and EPG files
     m3u_playlist = create_m3u_playlist(channels_data)
-    epg_tree = create_epg_xml(channels_data, epg_data_map)
+    epg_tree = create_epg_xml(channels_data, epg_data_map) # create_epg_xml uses the full epg_data_map, filtered in fetch_epg_xml_data
 
     # Save files
     save_file(m3u_playlist, output_filename_m3u)
