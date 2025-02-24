@@ -165,15 +165,18 @@ def create_m3u_playlist(channels_data):
 
     for channel_info in channels_data:
         channel_name = channel_info['name']
-        # stream_url = channel_info['stream_url']  # Original line
-        stream_url = channel_info['backup_master_url'] # Modified line to use backup URL
+        stream_url = channel_info['stream_url']
+        backup_master_url = channel_info['backup_master_url']
         tvg_id = channel_info['tvg_id']
         logo_url = channel_info['logo_url']
         group_title = channel_info['group_title']
 
         if stream_url and stream_url not in seen_urls and stream_url != "# no_url":
-            playlist += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo_url}" group-title="{group_title}",{channel_name}\n{stream_url}\n'
+            playlist += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo_url}" group-title="{group_title}",{channel_name} (Original)\n{stream_url}\n'
             seen_urls.add(stream_url)
+        if backup_master_url and backup_master_url not in seen_urls and backup_master_url != "# no_url":
+            playlist += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo_url}" group-title="{group_title}",{channel_name} (Backup)\n{backup_master_url}\n'
+            seen_urls.add(backup_master_url)
     return playlist
 
 def convert_to_xmltv_format(xmltv_time):
@@ -297,7 +300,7 @@ def main():
 
             # Generate channel JSON
             backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
-            channel_info['backup_master_url'] = backup_master_url # Añadido aquí
+            channel_info['backup_master_url'] = backup_master_url
             channel_json_data = create_channel_json_data(channel_info, backup_master_url)
             channel_json_filename = f"json/{tvg_id}.json"
             save_json_output(channel_json_data, channel_json_filename)
