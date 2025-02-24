@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/0.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/94ac6e4c-6362-4fa5-87b7-c78910dac49c/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "2340800",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/1.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/94ac6e4c-6362-4fa5-87b7-c78910dac49c/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "4760800",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/2.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/94ac6e4c-6362-4fa5-87b7-c78910dac49c/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "3511200",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/3.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/94ac6e4c-6362-4fa5-87b7-c78910dac49c/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "1311200",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/4.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/94ac6e4c-6362-4fa5-87b7-c78910dac49c/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "761200",

@@ -3,13 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250224152654 +0100",
-            "stop_time": "20250224155806 +0100",
-            "title": "The Return of Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224155807 +0100",
             "stop_time": "20250224162653 +0100",
             "title": "The Curse of Mr Bean",

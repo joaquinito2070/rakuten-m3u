@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/114d2f35-cd15-406d-90a0-e53510f10242/0.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/3e1eaca3-19ee-4090-8ec2-05253846c29d/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/114d2f35-cd15-406d-90a0-e53510f10242/1.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/3e1eaca3-19ee-4090-8ec2-05253846c29d/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/114d2f35-cd15-406d-90a0-e53510f10242/2.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/3e1eaca3-19ee-4090-8ec2-05253846c29d/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
@@ -35,13 +35,6 @@
         }
     ],
     "epg": [
-        {
-            "start_time": "20250224152837 +0100",
-            "stop_time": "20250224155831 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nLeo va a jugar a casa de Caillou.// Papá tiene una lista de cosas que hacer en casa.// Caillou quiere jugar con sus cromos de animales, pero han desaparecido.// Jonas, un amigo de papá que es todo un vaquero, ha invitado a la familia a visitar su rancho.",
-            "icon": ""
-        },
         {
             "start_time": "20250224155838 +0100",
             "stop_time": "20250224162808 +0100",
