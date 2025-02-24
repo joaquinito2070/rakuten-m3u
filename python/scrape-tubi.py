@@ -108,7 +108,8 @@ def fetch_epg_xml_data(url):
 
 
 def create_m3u_playlist(channels_data):
-    playlist = "#EXTM3U\n"
+    epg_url_m3u_header = "https://github.com/joaquinito2070/rakuten-m3u/raw/refs/heads/main/rakuten_epg.xml"
+    playlist = f"#EXTM3U url-tvg=\"{epg_url_m3u_header}\"\n"
     seen_urls = set()
 
     for channel_info in channels_data:
