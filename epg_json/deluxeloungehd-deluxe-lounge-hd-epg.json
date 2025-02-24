@@ -1,5 +1,727 @@
 {
     "name": "Deluxe Lounge HD",
     "tvg_id": "deluxe-lounge-hd",
-    "epg": []
+    "epg": [
+        {
+            "start_time": "20250224151001 +0100",
+            "stop_time": "20250224172500 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224172501 +0100",
+            "stop_time": "20250224192500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224192501 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250224220000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220001 +0100",
+            "stop_time": "20250224230000 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230001 +0100",
+            "stop_time": "20250224235000 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224235001 +0100",
+            "stop_time": "20250225015000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225015001 +0100",
+            "stop_time": "20250225025500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225025501 +0100",
+            "stop_time": "20250225044000 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225044001 +0100",
+            "stop_time": "20250225064000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225064001 +0100",
+            "stop_time": "20250225091000 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225091001 +0100",
+            "stop_time": "20250225101000 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225101001 +0100",
+            "stop_time": "20250225104500 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225104501 +0100",
+            "stop_time": "20250225121500 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225121501 +0100",
+            "stop_time": "20250225140000 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140001 +0100",
+            "stop_time": "20250225152000 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225152001 +0100",
+            "stop_time": "20250225162500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225162501 +0100",
+            "stop_time": "20250225172500 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225172501 +0100",
+            "stop_time": "20250225192500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225192501 +0100",
+            "stop_time": "20250225212500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225212501 +0100",
+            "stop_time": "20250225231000 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225231001 +0100",
+            "stop_time": "20250226014000 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226014001 +0100",
+            "stop_time": "20250226031000 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226031001 +0100",
+            "stop_time": "20250226034500 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226034501 +0100",
+            "stop_time": "20250226050500 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050501 +0100",
+            "stop_time": "20250226070500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070501 +0100",
+            "stop_time": "20250226081000 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226081001 +0100",
+            "stop_time": "20250226104000 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226104001 +0100",
+            "stop_time": "20250226124000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226124001 +0100",
+            "stop_time": "20250226144000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226144001 +0100",
+            "stop_time": "20250226154000 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226154001 +0100",
+            "stop_time": "20250226172500 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226172501 +0100",
+            "stop_time": "20250226180000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180001 +0100",
+            "stop_time": "20250226190500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190501 +0100",
+            "stop_time": "20250226203500 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226203501 +0100",
+            "stop_time": "20250226224500 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226224501 +0100",
+            "stop_time": "20250227000500 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000501 +0100",
+            "stop_time": "20250227020500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020501 +0100",
+            "stop_time": "20250227040500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040501 +0100",
+            "stop_time": "20250227050500 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050501 +0100",
+            "stop_time": "20250227054000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227054001 +0100",
+            "stop_time": "20250227064500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227064501 +0100",
+            "stop_time": "20250227081500 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227081501 +0100",
+            "stop_time": "20250227100000 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100001 +0100",
+            "stop_time": "20250227122000 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227122001 +0100",
+            "stop_time": "20250227134000 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227134001 +0100",
+            "stop_time": "20250227152500 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227152501 +0100",
+            "stop_time": "20250227162500 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227162501 +0100",
+            "stop_time": "20250227185500 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227185501 +0100",
+            "stop_time": "20250227193000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193001 +0100",
+            "stop_time": "20250227203500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203501 +0100",
+            "stop_time": "20250227213500 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213501 +0100",
+            "stop_time": "20250227233500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233501 +0100",
+            "stop_time": "20250228003500 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003501 +0100",
+            "stop_time": "20250228030500 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030501 +0100",
+            "stop_time": "20250228041000 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228041001 +0100",
+            "stop_time": "20250228054000 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228054001 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228073500 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073501 +0100",
+            "stop_time": "20250228093500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093501 +0100",
+            "stop_time": "20250228112000 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228112001 +0100",
+            "stop_time": "20250228132000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228132001 +0100",
+            "stop_time": "20250228142000 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228142001 +0100",
+            "stop_time": "20250228165000 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228165001 +0100",
+            "stop_time": "20250228175500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228175501 +0100",
+            "stop_time": "20250228192500 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228192501 +0100",
+            "stop_time": "20250228204500 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228204501 +0100",
+            "stop_time": "20250228212000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228212001 +0100",
+            "stop_time": "20250228232000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228232001 +0100",
+            "stop_time": "20250301002500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301002501 +0100",
+            "stop_time": "20250301015500 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301015501 +0100",
+            "stop_time": "20250301025500 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301025501 +0100",
+            "stop_time": "20250301045500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301045501 +0100",
+            "stop_time": "20250301061500 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301061501 +0100",
+            "stop_time": "20250301084500 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301084501 +0100",
+            "stop_time": "20250301103000 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301103001 +0100",
+            "stop_time": "20250301110500 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110501 +0100",
+            "stop_time": "20250301130500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130501 +0100",
+            "stop_time": "20250301141000 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301141001 +0100",
+            "stop_time": "20250301154000 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301154001 +0100",
+            "stop_time": "20250301164000 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301164001 +0100",
+            "stop_time": "20250301184000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301184001 +0100",
+            "stop_time": "20250301211000 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211001 +0100",
+            "stop_time": "20250301225500 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301225501 +0100",
+            "stop_time": "20250301233000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233001 +0100",
+            "stop_time": "20250302020000 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020001 +0100",
+            "stop_time": "20250302032000 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302032001 +0100",
+            "stop_time": "20250302052000 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302052001 +0100",
+            "stop_time": "20250302062000 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302062001 +0100",
+            "stop_time": "20250302075000 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302075001 +0100",
+            "stop_time": "20250302085500 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302085501 +0100",
+            "stop_time": "20250302105500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302105501 +0100",
+            "stop_time": "20250302113000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302113001 +0100",
+            "stop_time": "20250302131500 +0100",
+            "title": "Urban Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302131501 +0100",
+            "stop_time": "20250302154500 +0100",
+            "title": "Underwater Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302154501 +0100",
+            "stop_time": "20250302170500 +0100",
+            "title": "Ice Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170501 +0100",
+            "stop_time": "20250302190500 +0100",
+            "title": "Dusk Dawn Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190501 +0100",
+            "stop_time": "20250302200500 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200501 +0100",
+            "stop_time": "20250302213500 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302213501 +0100",
+            "stop_time": "20250302224000 +0100",
+            "title": "Beach Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302224001 +0100",
+            "stop_time": "20250302234000 +0100",
+            "title": "Dark Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302234001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "Warm Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303013000 +0100",
+            "title": "Cold Lounge",
+            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.",
+            "icon": ""
+        }
+    ]
 }

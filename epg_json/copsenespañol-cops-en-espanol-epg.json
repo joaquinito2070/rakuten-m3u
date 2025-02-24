@@ -1,5 +1,2302 @@
 {
     "name": "Cops En Español",
     "tvg_id": "cops-en-espanol",
-    "epg": []
+    "epg": [
+        {
+            "start_time": "20250224162949 +0100",
+            "stop_time": "20250224165328 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mamá joven con problemas tiene una segunda oportunidad para rehacer su vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224165335 +0100",
+            "stop_time": "20250224171559 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLe va mal a un sospechoso en una moto robada cuando lo rastrean los helicópteros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224171605 +0100",
+            "stop_time": "20250224173814 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa falta de equipo de seguridad llama la atención y es causa para una infracción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173820 +0100",
+            "stop_time": "20250224180244 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso huye mientras los oficiales responden a una pelea.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180250 +0100",
+            "stop_time": "20250224182659 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos problemas matrimoniales se descontrolan cuando un marido recoge a su esposa de la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224182706 +0100",
+            "stop_time": "20250224185115 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna conductora se mete en graves problemas por no saber contar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224185121 +0100",
+            "stop_time": "20250224191516 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn conductor medio vacilón hace bromas para minimizar y quitarle importancia a su error.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191522 +0100",
+            "stop_time": "20250224193947 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre que decide disparar balazos al aire pone de nervios a sus vecinos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224193954 +0100",
+            "stop_time": "20250224200403 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando una madre prefiere a la violencia, la abuela llama a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200409 +0100",
+            "stop_time": "20250224202748 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe sorprende mucho la policía cuando un conductor huyente le habla a su esposa durante la persecución.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224202754 +0100",
+            "stop_time": "20250224205133 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn preso en libertad condicional logra escapar de los oficiales por un rato, pero su suerte se acaba.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224205140 +0100",
+            "stop_time": "20250224211404 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales detienen a un sospechoso sobrio que tal vez no es del mismo planeta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224211410 +0100",
+            "stop_time": "20250224213619 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna persecución de auto termina con una llamada a los paramédicos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213626 +0100",
+            "stop_time": "20250224215951 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn motociclista arrepentido y apenado casi se mata después de estrellarse en una carretera oscura.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224215957 +0100",
+            "stop_time": "20250224222221 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn parecido a “The Rock” descubre una roca de crac.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224222227 +0100",
+            "stop_time": "20250224224636 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía busca la bicicleta robada de un joven y encuentran a un hombre deshecho pasando un mal tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224224643 +0100",
+            "stop_time": "20250224231022 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer excéntrica comete una violación a las normas de tránsito mientras se dirige al salón de belleza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224231028 +0100",
+            "stop_time": "20250224233437 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nA un hombre con grandes aspiraciones se le dificulta explicar por qué sus huellas están en un arma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224233443 +0100",
+            "stop_time": "20250224235852 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre está convencido que si no fuera por su novia él se habría salido con la suya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224235859 +0100",
+            "stop_time": "20250225002108 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea entre familia termina en una fuerte agresión causando daño físico y vuelan partes de cuerpo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225002114 +0100",
+            "stop_time": "20250225004453 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se decepcionan una vez más cuando se topan con una persona que vuelve a infringir la ley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225004500 +0100",
+            "stop_time": "20250225010839 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea entre papá y mamá se convierte violenta, y los niños llaman a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010845 +0100",
+            "stop_time": "20250225013109 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLes divierte a los oficiales un sospechoso usual con dinero en su zapato.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013115 +0100",
+            "stop_time": "20250225015509 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía toma medidas desesperadas con un sospechoso combativo que no para de pelear.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225015515 +0100",
+            "stop_time": "20250225021924 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales encuentran una sorprendente variedad de objetos en el vehículo de un sospechoso.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225021931 +0100",
+            "stop_time": "20250225024340 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna persecución a pie muy precaria termina con el sospechoso en una situación muy vergonzosa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225024347 +0100",
+            "stop_time": "20250225030556 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre corre a través de una ducha para no ser rastreado por la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030602 +0100",
+            "stop_time": "20250225033011 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn pollero tiene una explicación poco clara de los objetos descubiertos en su carro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033017 +0100",
+            "stop_time": "20250225035426 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales descubren objetos interesantes en el vehículo de un padre de familia cuando hacen un registro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225035433 +0100",
+            "stop_time": "20250225041842 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre con un pasado delictivo jura mejorar por su hijo pequeño.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225041848 +0100",
+            "stop_time": "20250225044313 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer que está harta intenta hablar al grano con un hombre que evita y no quiere ver la realidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225044319 +0100",
+            "stop_time": "20250225050728 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn oficial actúa rápidamente cuando ve un objeto peligroso en el asiento trasero de un vehículo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050734 +0100",
+            "stop_time": "20250225053143 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se asombran cuando encuentran en el asiento trasero al hijo del conductor que chocó y se fugó.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225053150 +0100",
+            "stop_time": "20250225055559 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nDos jóvenes reaccionan muy tarde para detener a un ladrón de bicicletas y llaman a la policía pidiendo ayuda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225055605 +0100",
+            "stop_time": "20250225062014 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso deja su helado sin comenzar a comerlo cuando le encuentran más que golosinas en su bolsillo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225062021 +0100",
+            "stop_time": "20250225064430 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre angustiado no puede soportar más a su relación volátil con su novia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225064436 +0100",
+            "stop_time": "20250225070845 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre muy bien vestido maneja su carro a través de barricadas, y los testigos llaman a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070851 +0100",
+            "stop_time": "20250225073300 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales protegen a una madre muy trabajadora de un par de personas que visitan sin invitación.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225073307 +0100",
+            "stop_time": "20250225075731 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nTermina una persecución cuando un auto sin conductor choca de cabeza contra un apartamento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225075737 +0100",
+            "stop_time": "20250225082146 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn delincuente principiante inmediatamente lamenta sus decisiones destructivas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225082153 +0100",
+            "stop_time": "20250225084548 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nDe mala suerte una familia despierta abruptamente cuando un conductor ebrio se estrella en su casa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225084554 +0100",
+            "stop_time": "20250225090933 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso de robo encuentra paz confesando sus acciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090939 +0100",
+            "stop_time": "20250225093318 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer excéntrica acusa a un hombre de querer robarle el pelo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093325 +0100",
+            "stop_time": "20250225095549 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre puede ignorar y no pagar la pensión alimenticia, pero no puede escapar de la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225095555 +0100",
+            "stop_time": "20250225102004 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer en libertad condicional se estresa y asusta cuando se da cuenta de lo que hay en su automóvil.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225102010 +0100",
+            "stop_time": "20250225104219 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales hacen todo lo que pueden para obtener la verdad de un par de sospechosos evasivos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225104226 +0100",
+            "stop_time": "20250225110635 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSupuestos ladrones de joyas intentan escapar de la policía, durante una loca persecución a alta velocidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110641 +0100",
+            "stop_time": "20250225112936 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre casado no parece estar muy preocupado cuando se llevan a su esposa a la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225112942 +0100",
+            "stop_time": "20250225115206 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre furioso le ruega a la policía que le dispare.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225115213 +0100",
+            "stop_time": "20250225121552 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn delincuente intenta convencer a los detectives de que no lo acaban de ver cometiendo un crimen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225121558 +0100",
+            "stop_time": "20250225124007 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre ingenuo se mete en una situación peligrosa cuando trata de ganar dinero fácil.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225124013 +0100",
+            "stop_time": "20250225130352 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn ciclista desafiante recuerda una versión diferente de lo ocurrido antes de que lo arrestaran.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130359 +0100",
+            "stop_time": "20250225132738 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn retén común y corriente provoca que un oficial sospeche de dos ancianos de cometer una actividad criminal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225132744 +0100",
+            "stop_time": "20250225135039 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nHay chispas por todas partes cundo un camionero se fuga en alta velocidad con su familia dentro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135045 +0100",
+            "stop_time": "20250225141254 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando se interroga a un grupo peculiar de personas, rápidamente se echan la culpa unos a otros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225141300 +0100",
+            "stop_time": "20250225143524 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales arrestan a un hombre borracho que no puede dejar de hablar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225143531 +0100",
+            "stop_time": "20250225145940 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUnos oficiales le cuentan el secreto a una mujer de su hermano y ella se sorprende.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225145946 +0100",
+            "stop_time": "20250225152355 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre celoso pierde a la novia y más después de buscar pleito con el hijo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225152402 +0100",
+            "stop_time": "20250225154741 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn novio celoso le cuenta a la policía su versión de los hechos, pero no puede ceñirse a su historia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225154747 +0100",
+            "stop_time": "20250225161141 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre con cuchillo se queja de sus vecinos groseros que no dejan de fumar marihuana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225161147 +0100",
+            "stop_time": "20250225163556 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre asustado trata de llamar la atención de los oficiales y toma un rumbo equivocado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225163603 +0100",
+            "stop_time": "20250225165858 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre en automóvil trata de deshacerse de los policías y huye a pie, pero por error olvida sus zapatos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225165904 +0100",
+            "stop_time": "20250225172259 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa abuela viene al rescate cuando un adolescente asustado es detenido sin licencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225172305 +0100",
+            "stop_time": "20250225174714 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre angustiado quiere confrontar a su esposa por sus acusaciones atrevidas y graves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225174721 +0100",
+            "stop_time": "20250225180930 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nPara conseguir la atención de un conductor despistado, la policía se ve obligada a desactivar su auto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180936 +0100",
+            "stop_time": "20250225183145 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso culpa a un extraño por lo que hay en su billetera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225183151 +0100",
+            "stop_time": "20250225185530 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando un oficial responde a un disturbio, el sospechoso se delata inmediatamente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225185536 +0100",
+            "stop_time": "20250225191800 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre se enoja cuando lo paran por estar bebiendo mientras anda a bicicleta, y se va a pie.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225191807 +0100",
+            "stop_time": "20250225194146 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre no sabe lo que le espera cuando trata de ayudar a su vecino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225194152 +0100",
+            "stop_time": "20250225200547 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe descubre el botín de un ladrón que insiste que lo iba a donar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200553 +0100",
+            "stop_time": "20250225203017 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer ebria llama a la policía cuando su novio trata de tirar las cenizas de su marido en el inodoro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203024 +0100",
+            "stop_time": "20250225205248 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre falla tratando de esconderse en el ático cuando se cae del techo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225205254 +0100",
+            "stop_time": "20250225211703 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre violento amenaza a sus vecinos y luego lanza su ira hacia los oficiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225211709 +0100",
+            "stop_time": "20250225214118 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa dueña de una tienda se asombra cuando un delincuente fugitivo se esconde en su tienda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225214125 +0100",
+            "stop_time": "20250225220519 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales encuentran una pareja semidesnuda durante una competencia de mordisqueos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220525 +0100",
+            "stop_time": "20250225222920 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos condimentos que escoge un hombre levantan una alerta roja y sospechas a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225222926 +0100",
+            "stop_time": "20250225225150 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nNo importa cuántas veces llame un hombre, su esposa no puede hacer nada para que el este fuera de la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225225156 +0100",
+            "stop_time": "20250225231620 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn retén común y corriente se convierte en una carrera todo terreno por toda una zona residencial.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225231627 +0100",
+            "stop_time": "20250225233836 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nMalas decisiones en un estacionamiento inspiran un momento de aprendizaje sobre la vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233842 +0100",
+            "stop_time": "20250226000251 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre nervioso que conduce no logra evadir a la policía y se disculpa raramente con su novia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000258 +0100",
+            "stop_time": "20250226002707 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna familia se llena de alegría cuando un oficial recupera de forma segura a su cachorro robado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002713 +0100",
+            "stop_time": "20250226005122 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre muy hábil se deshace de todos los altos y hace todo lo posible para evadir a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226005128 +0100",
+            "stop_time": "20250226011537 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna discusión fuerte se agranda y pasa a mayores cuando una mujer comienza a quebrar ventanas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226011544 +0100",
+            "stop_time": "20250226013953 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer muy angustiada llama a los policías pidiendo ayuda para detener a su esposo violento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226013959 +0100",
+            "stop_time": "20250226020338 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer problemática revela sus delitos y pone a su matrimonio en riesgo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020344 +0100",
+            "stop_time": "20250226022553 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales entran en una persecución y descubren una pista sobre el fugitivo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226022600 +0100",
+            "stop_time": "20250226024824 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn oficial fuerte vadea por un bosque de mentiras antes de encontrar la droga.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226024830 +0100",
+            "stop_time": "20250226031039 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna joven pareja en un coche estacionado le parece sospechosa a los policías.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226031045 +0100",
+            "stop_time": "20250226033254 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn joven es obligado a ponerse a trabajar después de cometer un error muy caro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033301 +0100",
+            "stop_time": "20250226035510 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sujeto que lleva pocos días preso culpa a su mamá cuando la policía lo interroga sobre su pasado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226035516 +0100",
+            "stop_time": "20250226041855 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre buscado por la ley huye y la policía lo persigue manteniéndose muy de cerca.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226041901 +0100",
+            "stop_time": "20250226044310 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales animan a una mujer que quiere control sobre su vida con una plática que llega al alma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226044316 +0100",
+            "stop_time": "20250226050711 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre que admite a usar drogas dice que él es una persona responsable que usa drogas responsablemente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050718 +0100",
+            "stop_time": "20250226053142 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía desesperadamente intenta obtener la cooperación de un desnudo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226053148 +0100",
+            "stop_time": "20250226055357 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn buen ciudadano observa que dos personas quieren robar el correo, y el los impide.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226055403 +0100",
+            "stop_time": "20250226061757 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía toma medidas desesperadas con un sospechoso combativo que no para de pelear.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226061804 +0100",
+            "stop_time": "20250226064143 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se decepcionan una vez más cuando se topan con una persona que vuelve a infringir la ley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226064149 +0100",
+            "stop_time": "20250226070528 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn padre y una hija se sorprenden cuando cruzan camino con un hombre con un desarmador en mano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070534 +0100",
+            "stop_time": "20250226072912 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se asombran con la elección de vestimenta de un presunto pirómano, o más bien la falta de ropa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226072919 +0100",
+            "stop_time": "20250226075344 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre que decide disparar balazos al aire pone de nervios a sus vecinos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226075350 +0100",
+            "stop_time": "20250226081759 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre asustado trata de llamar la atención de los oficiales y toma un rumbo equivocado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226081805 +0100",
+            "stop_time": "20250226084144 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer excéntrica comete una violación a las normas de tránsito mientras se dirige al salón de belleza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226084151 +0100",
+            "stop_time": "20250226090415 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn parecido a “The Rock” descubre una roca de crac.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090421 +0100",
+            "stop_time": "20250226092800 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer excéntrica acusa a un hombre de querer robarle el pelo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226092807 +0100",
+            "stop_time": "20250226095216 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos problemas matrimoniales se descontrolan cuando un marido recoge a su esposa de la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226095222 +0100",
+            "stop_time": "20250226101601 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía somete a un hombre poco predecible que está convencido de que un animal salvaje lo está siguiendo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226101607 +0100",
+            "stop_time": "20250226103946 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea entre papá y mamá se convierte violenta, y los niños llaman a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226103953 +0100",
+            "stop_time": "20250226110402 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna conductora se mete en graves problemas por no saber contar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110408 +0100",
+            "stop_time": "20250226112617 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe pone rara la situación cuando un hombre agitado trata de revelar todo a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226112624 +0100",
+            "stop_time": "20250226115049 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía persigue a un hombre que se fue en un ciclomotor chatarra que no puede correr más de 40 mph.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226115055 +0100",
+            "stop_time": "20250226121504 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre muy bien vestido maneja su carro a través de barricadas, y los testigos llaman a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226121510 +0100",
+            "stop_time": "20250226123849 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEs como una especie de reunión cuando la policía alcanza a alguien que reconoce.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123856 +0100",
+            "stop_time": "20250226130105 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn policía muy pronto comprende que se le va a dificultar interrogar a una mujer evasiva.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130111 +0100",
+            "stop_time": "20250226132520 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn delincuente intenta convencer a la policía de que es una buena persona y de que no ha cometido un crimen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226132526 +0100",
+            "stop_time": "20250226134750 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso reticente piensa que ve monstruos por todos lados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226134757 +0100",
+            "stop_time": "20250226141136 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe sorprende mucho la policía cuando un conductor huyente le habla a su esposa durante la persecución.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226141142 +0100",
+            "stop_time": "20250226143537 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe reporta una pelea y cuando llegan los policías encuentran evidencia de una discusión sangrienta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143543 +0100",
+            "stop_time": "20250226145937 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLlega la policía cuando un hombre revoltoso dispara su pistola de balines al hijo del vecino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226145944 +0100",
+            "stop_time": "20250226152153 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea sobre un poco de leche toma un giro violento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226152159 +0100",
+            "stop_time": "20250226154608 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe sospecha que un hombre conduce ebrio, y él dice que sólo salió a comprar un bocadillo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226154614 +0100",
+            "stop_time": "20250226160823 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se llevan una sorpresa cuando reconocen a un delincuente reincidente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160829 +0100",
+            "stop_time": "20250226163038 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nHay muchos sentimientos encontrados cuando una mamá enfrenta a su hijo esposado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226163045 +0100",
+            "stop_time": "20250226165454 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre se niega a dar su verdadero nombre, pero los oficiales encuentran una pista a plena vista.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226165500 +0100",
+            "stop_time": "20250226171925 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía interviene cuando van pasando y ven a un padre y a un hijo alegando en público.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226171931 +0100",
+            "stop_time": "20250226174355 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso huye mientras los oficiales responden a una pelea.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226174402 +0100",
+            "stop_time": "20250226180757 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos ocupantes de un vehículo robado dicen que fueron víctimas de una mujer misteriosa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180803 +0100",
+            "stop_time": "20250226183012 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer en mal estado de nutrición hace una llamada para reportar que se siente rodeada de fantasmas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226183018 +0100",
+            "stop_time": "20250226185413 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos condimentos que escoge un hombre levantan una alerta roja y sospechas a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226185419 +0100",
+            "stop_time": "20250226191828 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEs mentira tras mentira cuando los oficiales alcanzan a un ladrón de tiendas que habla mucho.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226191835 +0100",
+            "stop_time": "20250226194229 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso en la fuga provoca una persecución loca directamente hacia el tránsito.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226194235 +0100",
+            "stop_time": "20250226200444 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre extremadamente peleonero se niega a rendirse a los oficiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200450 +0100",
+            "stop_time": "20250226202659 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe atrapa a un sospechoso que intenta huir escondiéndose en un lugar obvio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226202706 +0100",
+            "stop_time": "20250226205045 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn delincuente intenta convencer a los detectives de que no lo acaban de ver cometiendo un crimen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226205051 +0100",
+            "stop_time": "20250226211429 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn ladrón conocido acaba con la buena voluntad de la policía al ser encontrado con bienes robados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226211435 +0100",
+            "stop_time": "20250226213844 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre angustiado quiere confrontar a su esposa por sus acusaciones atrevidas y graves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213851 +0100",
+            "stop_time": "20250226220246 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mamá le pide a su hijo que busque ayuda cuando los oficiales encuentran objetos desagradables en su auto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220252 +0100",
+            "stop_time": "20250226222701 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nA un sospechoso poco astuto se le desmiente cuando su víctima presenta video de una cámara de seguridad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226222707 +0100",
+            "stop_time": "20250226224916 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales hacen todo lo que pueden para obtener la verdad de un par de sospechosos evasivos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226224923 +0100",
+            "stop_time": "20250226231332 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando una madre prefiere a la violencia, la abuela llama a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226231338 +0100",
+            "stop_time": "20250226233547 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso culpa a un extraño por lo que hay en su billetera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233553 +0100",
+            "stop_time": "20250226235802 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa falta de equipo de seguridad llama la atención y es causa para una infracción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226235809 +0100",
+            "stop_time": "20250227002203 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales encuentran una pareja semidesnuda durante una competencia de mordisqueos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227002209 +0100",
+            "stop_time": "20250227004618 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn oficial actúa rápidamente cuando ve un objeto peligroso en el asiento trasero de un vehículo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227004624 +0100",
+            "stop_time": "20250227011003 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn vecino vigilante llama a la policía cuando ve que están robando en la licorería de abajo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227011010 +0100",
+            "stop_time": "20250227013419 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLas cosas empeoran para un conductor cuando su pasajero comienza a hablar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013425 +0100",
+            "stop_time": "20250227015649 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales detienen a un sospechoso sobrio que tal vez no es del mismo planeta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227015656 +0100",
+            "stop_time": "20250227021905 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna discusión durante la cena termina con una llamada a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227021911 +0100",
+            "stop_time": "20250227024320 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna persecución a pie muy precaria termina con el sospechoso en una situación muy vergonzosa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227024327 +0100",
+            "stop_time": "20250227030706 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn ciclista desafiante recuerda una versión diferente de lo ocurrido antes de que lo arrestaran.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030712 +0100",
+            "stop_time": "20250227033051 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn retén común y corriente provoca que un oficial sospeche de dos ancianos de cometer una actividad criminal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227033057 +0100",
+            "stop_time": "20250227035506 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn esposo amargado tiene una reacción negativa cuando su esposa descubre sus actividades en el internet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227035513 +0100",
+            "stop_time": "20250227041852 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre no sabe lo que le espera cuando trata de ayudar a su vecino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227041858 +0100",
+            "stop_time": "20250227044107 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna joven mujer intenta evadir la cárcel haciendo promesas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227044113 +0100",
+            "stop_time": "20250227050352 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales atrapan a un hombre en una operación encubierta, pero aun así no admite su crimen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050359 +0100",
+            "stop_time": "20250227052808 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna persecución a alta velocidad termina abruptamente cuando el sospechoso hace un giro equivocado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227052814 +0100",
+            "stop_time": "20250227055223 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se asombran cuando encuentran en el asiento trasero al hijo del conductor que chocó y se fugó.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227055230 +0100",
+            "stop_time": "20250227061639 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales reaccionan rápidamente y capturan a un sospechoso con antecedentes por el robo de identidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227061645 +0100",
+            "stop_time": "20250227063854 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea entre pareja llama la atención y los oficiales descubren una orden judicial que está pendiente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227063900 +0100",
+            "stop_time": "20250227070309 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre ingenuo se mete en una situación peligrosa cuando trata de ganar dinero fácil.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070315 +0100",
+            "stop_time": "20250227072539 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso veloz provoca que los agentes lo persigan por un arroyo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227072546 +0100",
+            "stop_time": "20250227074925 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEl caos sigue después de que el gerente del club nocturno enfrenta al empleado quien robó su dinero.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227074931 +0100",
+            "stop_time": "20250227081140 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales hacen todo lo que pueden para resolver un conflicto entre recién casados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227081146 +0100",
+            "stop_time": "20250227083555 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nAlguien con un corazón roto maneja peligrosamente intentando escapar de la policía y de su pena.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083602 +0100",
+            "stop_time": "20250227090011 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre celoso pierde a la novia y más después de buscar pleito con el hijo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090017 +0100",
+            "stop_time": "20250227092426 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía busca la bicicleta robada de un joven y encuentran a un hombre deshecho pasando un mal tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227092432 +0100",
+            "stop_time": "20250227094641 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna tía enojada trata, pero no logra desalojar al sobrino y a su novia embarazada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227094648 +0100",
+            "stop_time": "20250227101027 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso de robo encuentra paz confesando sus acciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227101033 +0100",
+            "stop_time": "20250227103442 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUnos oficiales le cuentan el secreto a una mujer de su hermano y ella se sorprende.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103449 +0100",
+            "stop_time": "20250227105913 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nTermina una persecución cuando un auto sin conductor choca de cabeza contra un apartamento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227105919 +0100",
+            "stop_time": "20250227112258 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales encuentran a un hombre que dice padecer de un trastorno que causa que el corra y escape.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227112305 +0100",
+            "stop_time": "20250227114714 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea insignificante entre vecinos intensifica cuando uno recurre a la venganza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227114720 +0100",
+            "stop_time": "20250227121059 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn barrio tranquilo se convierte en el escenario de una peligrosa persecución entre varios carros. Un sujeto cuenta con mala suerte y trata de ocultar su culpabilidad al deshacerse de algunas prendas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227121105 +0100",
+            "stop_time": "20250227123444 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se ven obligados a usar guantes cuando detienen a un sospechoso con condición grave de la piel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123451 +0100",
+            "stop_time": "20250227125900 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre angustiado no puede soportar más a su relación volátil con su novia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227125906 +0100",
+            "stop_time": "20250227132130 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre furioso le ruega a la policía que le dispare.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227132136 +0100",
+            "stop_time": "20250227134600 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEl de la grúa no devuelve el auto a una mujer, entonces ella utiliza el cuerpo de él para practicar bateo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227134607 +0100",
+            "stop_time": "20250227141002 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nDe mala suerte una familia despierta abruptamente cuando un conductor ebrio se estrella en su casa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227141008 +0100",
+            "stop_time": "20250227143232 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre con un vehículo turbo le cuenta una mentira terrible a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143238 +0100",
+            "stop_time": "20250227145617 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna cuestionable cita de pareja termina con el volcamiento de un automóvil y ambos esposados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227145623 +0100",
+            "stop_time": "20250227152018 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales aconsejan a un empleado de un concesionario de autos que invierta en más cámaras de seguridad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227152025 +0100",
+            "stop_time": "20250227154320 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía encuentra a una mujer angustiada porque el exnovio atrancó la puerta del hogar y no puede entrar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227154326 +0100",
+            "stop_time": "20250227160550 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer pidiendo un aventón a casa, casi termina en la cárcel por haber subido al auto de un desconocido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160556 +0100",
+            "stop_time": "20250227163005 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn joven a la mala tiene que madurar y comprender cuando los oficiales lo encuentran infringiendo la ley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163012 +0100",
+            "stop_time": "20250227165350 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn entrometido compañero de casa es mala influencia e impide a la pareja casada dejar atrás sus malos hábitos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227165356 +0100",
+            "stop_time": "20250227171735 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEl tiempo es indispensable cuando los oficiales intentan atrapar a un sospechoso por robo de vehículo armado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227171741 +0100",
+            "stop_time": "20250227174136 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso de robo buscado por la ley se cansa y rinde después de saltar demasiadas bardas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227174143 +0100",
+            "stop_time": "20250227180407 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn retén rutinario termina en órdenes judiciales, embarazo y metanfetamina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180413 +0100",
+            "stop_time": "20250227182622 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre corre a través de una ducha para no ser rastreado por la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227182628 +0100",
+            "stop_time": "20250227185007 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa pasajera de un auto en persecución caótica jura que no conoce al chofer, pero sus registros la desmienten.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227185013 +0100",
+            "stop_time": "20250227191352 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales vienen al rescate cuando un hombre con problemas ha tocado fondo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227191359 +0100",
+            "stop_time": "20250227193738 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando la policía cuestiona a un trío bastante interesante, se vuelve en asunto de dos contra uno.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193744 +0100",
+            "stop_time": "20250227200153 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSupuestos ladrones de joyas intentan escapar de la policía, durante una loca persecución a alta velocidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200200 +0100",
+            "stop_time": "20250227202424 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nDos sospechosos habituales van a regresar a la cárcel por sus aventuras más recientes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227202430 +0100",
+            "stop_time": "20250227204639 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn tipo sospechoso acusa a los policías de ser un grupo del cual no se puede confiar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227204645 +0100",
+            "stop_time": "20250227210909 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUnos oficiales tratan de atar cabos sobre una pelea callejera rara entre un boxeador y su amigo confundido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210915 +0100",
+            "stop_time": "20250227213340 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna madre protectora intenta esconder a su hija de los policías y las consecuencias. Un conductor de transporte compartido es detenido cuando su pasajero levanta las sospechas de los oficiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213347 +0100",
+            "stop_time": "20250227215556 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea entre familia termina en una fuerte agresión causando daño físico y vuelan partes de cuerpo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227215602 +0100",
+            "stop_time": "20250227221811 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos agentes detienen a varios sospechosos después de ubicar a un par de vehículos robados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227221817 +0100",
+            "stop_time": "20250227224026 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía encuentra a un hombre sospechosamente sudado en una calle oscura que esta para dar miedo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227224032 +0100",
+            "stop_time": "20250227230241 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nPara conseguir la atención de un conductor despistado, la policía se ve obligada a desactivar su auto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230247 +0100",
+            "stop_time": "20250227232456 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso de asalto despierta toscamente con un mensaje de voz que prueba su culpabilidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227232503 +0100",
+            "stop_time": "20250227234928 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer que está harta intenta hablar al grano con un hombre que evita y no quiere ver la realidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227234934 +0100",
+            "stop_time": "20250228001343 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso deja su helado sin comenzar a comerlo cuando le encuentran más que golosinas en su bolsillo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228001349 +0100",
+            "stop_time": "20250228003613 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLes divierte a los oficiales un sospechoso usual con dinero en su zapato.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003620 +0100",
+            "stop_time": "20250228005959 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna persecución de vehículos a alta velocidad cambia de rumbo cuando el conductor huye a pie.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010005 +0100",
+            "stop_time": "20250228012244 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn entregador de pizza con mala suerte llama a la policía después de que le roban.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228012250 +0100",
+            "stop_time": "20250228014659 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa dueña de una tienda se asombra cuando un delincuente fugitivo se esconde en su tienda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228014706 +0100",
+            "stop_time": "20250228020915 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn joven provoca una persecución peligrosa, pero no enseña ni un poco de remordimiento cuando lo capturan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020921 +0100",
+            "stop_time": "20250228023246 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn motociclista arrepentido y apenado casi se mata después de estrellarse en una carretera oscura.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023252 +0100",
+            "stop_time": "20250228025647 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn conductor medio vacilón hace bromas para minimizar y quitarle importancia a su error.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228025653 +0100",
+            "stop_time": "20250228032032 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando un oficial responde a un disturbio, el sospechoso se delata inmediatamente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228032039 +0100",
+            "stop_time": "20250228034303 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEl berrinche de una hija casi tumba el apartamento cuando la mamá le quita el Facebook.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228034309 +0100",
+            "stop_time": "20250228040533 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre puede ignorar y no pagar la pensión alimenticia, pero no puede escapar de la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040539 +0100",
+            "stop_time": "20250228042933 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales despliegan una unidad canina cuando un sospechoso de robo se refugia en un limonero.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228042939 +0100",
+            "stop_time": "20250228045234 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre en automóvil trata de deshacerse de los policías y huye a pie, pero por error olvida sus zapatos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228045240 +0100",
+            "stop_time": "20250228051705 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre sospechoso, en propiedad privada, hace muchas preguntas a los oficiales en vez de dar respuestas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228051712 +0100",
+            "stop_time": "20250228054106 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna persona que cuida a un paciente en casa trata de desalojar a un ayudante del paciente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228054112 +0100",
+            "stop_time": "20250228060521 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna lucha frenética entre hermanos enfurecidos termina con un apuñalamiento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060527 +0100",
+            "stop_time": "20250228062751 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales llegan a una fiesta cuando alguien confunde el dedo de otro invitado con postre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228062758 +0100",
+            "stop_time": "20250228065207 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales protegen a una madre muy trabajadora de un par de personas que visitan sin invitación.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228065213 +0100",
+            "stop_time": "20250228071422 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn intruso en propiedad privada armado usa a un cachorro como escudo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228071428 +0100",
+            "stop_time": "20250228073837 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nVarios intentos para detener a un vehículo fugitivo al final valen la pena.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073844 +0100",
+            "stop_time": "20250228080253 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer se enoja y llama a la policía a causa de una bolsa de papas picante.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080259 +0100",
+            "stop_time": "20250228082523 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre se enoja cuando lo paran por estar bebiendo mientras anda a bicicleta, y se va a pie.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228082529 +0100",
+            "stop_time": "20250228084738 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía persigue a un par de ladrones de autos por la ciudad y hacia los arbustos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228084745 +0100",
+            "stop_time": "20250228091154 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía recurre al análisis forense cuando dos sospechosos niegan ser dueños de un paquete de cigarrillos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228091200 +0100",
+            "stop_time": "20250228093555 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn pasajero sin coordinación en un automóvil atrae la atención de la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093601 +0100",
+            "stop_time": "20250228100010 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer asustada simplemente no logra mantener la calma mientras es detenida por la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100017 +0100",
+            "stop_time": "20250228102241 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales reconocen a alguien y corren tras de él por el campo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228102247 +0100",
+            "stop_time": "20250228104656 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre está convencido que si no fuera por su novia él se habría salido con la suya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228104703 +0100",
+            "stop_time": "20250228110912 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales sospechan de varias personas que se encuentran en el asiento trasero de un coche estacionado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110918 +0100",
+            "stop_time": "20250228113327 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer buscada por la ley da un nombre falso a los oficiales, pero su hermano revela la verdad sin querer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113333 +0100",
+            "stop_time": "20250228115712 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn novio celoso le cuenta a la policía su versión de los hechos, pero no puede ceñirse a su historia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228115718 +0100",
+            "stop_time": "20250228122113 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn aviso de desalojo no impide que una mujer furiosa entre sin permiso a una casa rodante.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228122120 +0100",
+            "stop_time": "20250228124459 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mamá joven con problemas tiene una segunda oportunidad para rehacer su vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228124505 +0100",
+            "stop_time": "20250228130714 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso se arriesga en un barranco después de que él y los oficiales llegan a donde ya no hay salida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130720 +0100",
+            "stop_time": "20250228133129 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn pollero tiene una explicación poco clara de los objetos descubiertos en su carro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133136 +0100",
+            "stop_time": "20250228135431 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nHay chispas por todas partes cundo un camionero se fuga en alta velocidad con su familia dentro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228135437 +0100",
+            "stop_time": "20250228141846 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn delincuente que se escapa de la cárcel busca refugio con su abuela.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228141852 +0100",
+            "stop_time": "20250228144101 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando se interroga a un grupo peculiar de personas, rápidamente se echan la culpa unos a otros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228144107 +0100",
+            "stop_time": "20250228150316 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn motociclista le da el nombre de su hermano a los oficiales con la esperanza de no ir a la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150323 +0100",
+            "stop_time": "20250228152547 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales arrestan a un hombre borracho que no puede dejar de hablar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228152553 +0100",
+            "stop_time": "20250228155002 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre con un pasado delictivo jura mejorar por su hijo pequeño.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228155008 +0100",
+            "stop_time": "20250228161417 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn pastor llama a la policía cuando un automóvil sospechoso se estaciona detrás de su iglesia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228161424 +0100",
+            "stop_time": "20250228163849 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe reportó que una mujer conducía ebria, pero ella jura que el exmarido le está tendiendo una trampa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163855 +0100",
+            "stop_time": "20250228170250 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe descubre el botín de un ladrón que insiste que lo iba a donar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170256 +0100",
+            "stop_time": "20250228172551 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre casado no parece estar muy preocupado cuando se llevan a su esposa a la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228172557 +0100",
+            "stop_time": "20250228175006 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales encuentran una sorprendente variedad de objetos en el vehículo de un sospechoso.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228175013 +0100",
+            "stop_time": "20250228181408 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa abuela viene al rescate cuando un adolescente asustado es detenido sin licencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228181414 +0100",
+            "stop_time": "20250228183638 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLe va mal a un sospechoso en una moto robada cuando lo rastrean los helicópteros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183644 +0100",
+            "stop_time": "20250228190053 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso lento y perezoso se rinde cuando se da cuenta de que no puede escapar de la ley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190100 +0100",
+            "stop_time": "20250228192525 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía intenta aplacar a una mujer furiosa que atacó a su exnovio con un martillo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228192531 +0100",
+            "stop_time": "20250228194740 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn oficial se ve obligado a tomar una decisión increíble cuando un hombre armado se niega a obedecer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228194746 +0100",
+            "stop_time": "20250228200955 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn presunto ladrón de cobre se hace el tonto cuando los policías lo alcanzan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228201001 +0100",
+            "stop_time": "20250228203425 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer ebria llama a la policía cuando su novio trata de tirar las cenizas de su marido en el inodoro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228203432 +0100",
+            "stop_time": "20250228205841 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nA un hombre con grandes aspiraciones se le dificulta explicar por qué sus huellas están en un arma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228205847 +0100",
+            "stop_time": "20250228212256 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer en libertad condicional se estresa y asusta cuando se da cuenta de lo que hay en su automóvil.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228212302 +0100",
+            "stop_time": "20250228214641 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nHay muchos sentimientos encontrados durante una pelea incluyendo alcohol y a una mascota.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228214648 +0100",
+            "stop_time": "20250228221042 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre con cuchillo se queja de sus vecinos groseros que no dejan de fumar marihuana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221048 +0100",
+            "stop_time": "20250228223457 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre violento amenaza a sus vecinos y luego lanza su ira hacia los oficiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223503 +0100",
+            "stop_time": "20250228225912 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn conductor somnoliento les pide a los oficiales que le oculten la verdad a su esposa enojada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228225919 +0100",
+            "stop_time": "20250228232343 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía aprende a la mala que a veces ni una pistola de descarga eléctrica puede tumbar a unos sospechosos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228232349 +0100",
+            "stop_time": "20250228234728 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn preso en libertad condicional logra escapar de los oficiales por un rato, pero su suerte se acaba.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228234735 +0100",
+            "stop_time": "20250301001114 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn incendio en la cocina rápidamente expande por toda la casa y deja a un hombre atrapado en el último piso.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301001120 +0100",
+            "stop_time": "20250301003529 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nDos jóvenes reaccionan muy tarde para detener a un ladrón de bicicletas y llaman a la policía pidiendo ayuda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003535 +0100",
+            "stop_time": "20250301005914 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea domestica entre primos se descontrola cuando alguien saca un cuchillo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301005921 +0100",
+            "stop_time": "20250301012330 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn delincuente principiante inmediatamente lamenta sus decisiones destructivas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301012336 +0100",
+            "stop_time": "20250301014545 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna persecución de auto termina con una llamada a los paramédicos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301014552 +0100",
+            "stop_time": "20250301020816 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre falla tratando de esconderse en el ático cuando se cae del techo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020822 +0100",
+            "stop_time": "20250301023217 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales le insisten a una mujer que cambie su vida para que pueda proteger a sus perros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023223 +0100",
+            "stop_time": "20250301025632 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales descubren objetos interesantes en el vehículo de un padre de familia cuando hacen un registro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301025638 +0100",
+            "stop_time": "20250301031847 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEl último esfuerzo de un hombre desesperado para huir de los oficiales termina en llamas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301031854 +0100",
+            "stop_time": "20250301034103 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa mamá de dos hombres llama a la policía cuando uno de ellos amenaza al otro con un cuchillo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301034109 +0100",
+            "stop_time": "20250301040534 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre terco admite cuidadosa y convenientemente cuales objetos son y no son suyos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040540 +0100",
+            "stop_time": "20250301042919 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nSe captura en video a un hombre escondiendo artículos en un lugar no muy bueno.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301042926 +0100",
+            "stop_time": "20250301045335 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn ciclista casi desnudo provoca una carrera loca por toda la vecindad cuando los oficiales corren tras de él.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301045341 +0100",
+            "stop_time": "20250301051735 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn policía juega al portero cuando cacha a un ladrón corriendo hacia él.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301051741 +0100",
+            "stop_time": "20250301053950 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna discusión durante la cena termina con una llamada a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301053957 +0100",
+            "stop_time": "20250301060406 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía recurre al análisis forense cuando dos sospechosos niegan ser dueños de un paquete de cigarrillos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060412 +0100",
+            "stop_time": "20250301062806 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales encuentran una pareja semidesnuda durante una competencia de mordisqueos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301062813 +0100",
+            "stop_time": "20250301065222 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa dueña de una tienda se asombra cuando un delincuente fugitivo se esconde en su tienda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301065228 +0100",
+            "stop_time": "20250301071452 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales reconocen a alguien y corren tras de él por el campo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301071458 +0100",
+            "stop_time": "20250301073722 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn parecido a “The Rock” descubre una roca de crac.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073729 +0100",
+            "stop_time": "20250301080138 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre angustiado quiere confrontar a su esposa por sus acusaciones atrevidas y graves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080144 +0100",
+            "stop_time": "20250301082523 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nCuando la policía cuestiona a un trío bastante interesante, se vuelve en asunto de dos contra uno.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301082529 +0100",
+            "stop_time": "20250301084938 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre muy bien vestido maneja su carro a través de barricadas, y los testigos llaman a la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301084945 +0100",
+            "stop_time": "20250301091354 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nAlguien con un corazón roto maneja peligrosamente intentando escapar de la policía y de su pena.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301091400 +0100",
+            "stop_time": "20250301093609 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn motociclista le da el nombre de su hermano a los oficiales con la esperanza de no ir a la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301093616 +0100",
+            "stop_time": "20250301100025 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre se niega a dar su verdadero nombre, pero los oficiales encuentran una pista a plena vista.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100031 +0100",
+            "stop_time": "20250301102410 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre buscado por la ley huye y la policía lo persigue manteniéndose muy de cerca.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301102417 +0100",
+            "stop_time": "20250301104826 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn pastor llama a la policía cuando un automóvil sospechoso se estaciona detrás de su iglesia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301104832 +0100",
+            "stop_time": "20250301111241 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales animan a una mujer que quiere control sobre su vida con una plática que llega al alma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301111247 +0100",
+            "stop_time": "20250301113656 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer asustada simplemente no logra mantener la calma mientras es detenida por la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301113703 +0100",
+            "stop_time": "20250301120128 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer que está harta intenta hablar al grano con un hombre que evita y no quiere ver la realidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120134 +0100",
+            "stop_time": "20250301122358 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer pidiendo un aventón a casa, casi termina en la cárcel por haber subido al auto de un desconocido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301122404 +0100",
+            "stop_time": "20250301124742 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se asombran con la elección de vestimenta de un presunto pirómano, o más bien la falta de ropa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124748 +0100",
+            "stop_time": "20250301131142 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso en la fuga provoca una persecución loca directamente hacia el tránsito.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301131149 +0100",
+            "stop_time": "20250301133528 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa pasajera de un auto en persecución caótica jura que no conoce al chofer, pero sus registros la desmienten.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133534 +0100",
+            "stop_time": "20250301135743 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre extremadamente peleonero se niega a rendirse a los oficiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301135749 +0100",
+            "stop_time": "20250301142128 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEl tiempo es indispensable cuando los oficiales intentan atrapar a un sospechoso por robo de vehículo armado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301142135 +0100",
+            "stop_time": "20250301144430 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre en automóvil trata de deshacerse de los policías y huye a pie, pero por error olvida sus zapatos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301144436 +0100",
+            "stop_time": "20250301150645 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nMalas decisiones en un estacionamiento inspiran un momento de aprendizaje sobre la vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150651 +0100",
+            "stop_time": "20250301153100 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna pelea insignificante entre vecinos intensifica cuando uno recurre a la venganza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153107 +0100",
+            "stop_time": "20250301155446 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre no sabe lo que le espera cuando trata de ayudar a su vecino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301155452 +0100",
+            "stop_time": "20250301161701 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales sospechan de varias personas que se encuentran en el asiento trasero de un coche estacionado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301161707 +0100",
+            "stop_time": "20250301164132 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía intenta aplacar a una mujer furiosa que atacó a su exnovio con un martillo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301164139 +0100",
+            "stop_time": "20250301170348 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso culpa a un extraño por lo que hay en su billetera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170354 +0100",
+            "stop_time": "20250301172803 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre con un pasado delictivo jura mejorar por su hijo pequeño.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301172809 +0100",
+            "stop_time": "20250301175018 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn policía muy pronto comprende que se le va a dificultar interrogar a una mujer evasiva.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301175024 +0100",
+            "stop_time": "20250301181433 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mujer buscada por la ley da un nombre falso a los oficiales, pero su hermano revela la verdad sin querer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301181440 +0100",
+            "stop_time": "20250301183835 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos ocupantes de un vehículo robado dicen que fueron víctimas de una mujer misteriosa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183841 +0100",
+            "stop_time": "20250301190250 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nVarios intentos para detener a un vehículo fugitivo al final valen la pena.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190256 +0100",
+            "stop_time": "20250301192505 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía encuentra a un hombre sospechosamente sudado en una calle oscura que esta para dar miedo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301192511 +0100",
+            "stop_time": "20250301194935 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nEl de la grúa no devuelve el auto a una mujer, entonces ella utiliza el cuerpo de él para practicar bateo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301194942 +0100",
+            "stop_time": "20250301201151 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn sospechoso se arriesga en un barranco después de que él y los oficiales llegan a donde ya no hay salida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301201157 +0100",
+            "stop_time": "20250301203606 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUnos oficiales le cuentan el secreto a una mujer de su hermano y ella se sorprende.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301203612 +0100",
+            "stop_time": "20250301210007 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn pasajero sin coordinación en un automóvil atrae la atención de la policía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210014 +0100",
+            "stop_time": "20250301212353 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales se decepcionan una vez más cuando se topan con una persona que vuelve a infringir la ley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301212359 +0100",
+            "stop_time": "20250301214623 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLe va mal a un sospechoso en una moto robada cuando lo rastrean los helicópteros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301214629 +0100",
+            "stop_time": "20250301221038 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn oficial actúa rápidamente cuando ve un objeto peligroso en el asiento trasero de un vehículo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301221045 +0100",
+            "stop_time": "20250301223440 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUna mamá le pide a su hijo que busque ayuda cuando los oficiales encuentran objetos desagradables en su auto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223446 +0100",
+            "stop_time": "20250301225655 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales hacen todo lo que pueden para resolver un conflicto entre recién casados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301225701 +0100",
+            "stop_time": "20250301232040 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía somete a un hombre poco predecible que está convencido de que un animal salvaje lo está siguiendo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301232047 +0100",
+            "stop_time": "20250301234311 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nNo importa cuántas veces llame un hombre, su esposa no puede hacer nada para que el este fuera de la cárcel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301234317 +0100",
+            "stop_time": "20250302000741 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn retén común y corriente se convierte en una carrera todo terreno por toda una zona residencial.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000747 +0100",
+            "stop_time": "20250302003156 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nUn hombre nervioso que conduce no logra evadir a la policía y se disculpa raramente con su novia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302003203 +0100",
+            "stop_time": "20250302005412 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLa policía persigue a un par de ladrones de autos por la ciudad y hacia los arbustos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302005418 +0100",
+            "stop_time": "20250302011812 +0100",
+            "title": "Cops en Español",
+            "description": "| +12 | Entretenimiento |\n\nLos oficiales despliegan una unidad canina cuando un sospechoso de robo se refugia en un limonero.",
+            "icon": ""
+        }
+    ]
 }

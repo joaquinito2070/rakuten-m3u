@@ -1,5 +1,1728 @@
 {
     "name": "Fail Army",
     "tvg_id": "jukin-fail-army-new",
-    "epg": []
+    "epg": [
+        {
+            "start_time": "20250224161038 +0100",
+            "stop_time": "20250224164132 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224164138 +0100",
+            "stop_time": "20250224171232 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nFestive mishaps take center stage as humans navigate the wild and wacky side of the holiday season!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224171238 +0100",
+            "stop_time": "20250224174332 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nMother nature always runs on her own agenda. Careful, this episode might blow you away!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224174338 +0100",
+            "stop_time": "20250224181432 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nA single mistake sends everything spiraling out of control",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224181438 +0100",
+            "stop_time": "20250224184532 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nHow much does a fail cost?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224184538 +0100",
+            "stop_time": "20250224191732 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191738 +0100",
+            "stop_time": "20250224194932 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for February '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224194938 +0100",
+            "stop_time": "20250224202032 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Starvings Artists, Friends and Families have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224202038 +0100",
+            "stop_time": "20250224205132 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Wagons, Deer and Paint have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224205138 +0100",
+            "stop_time": "20250224212332 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nOld fails to young fails. In that order.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224212338 +0100",
+            "stop_time": "20250224215532 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe best fails happen when we're having fun.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224215538 +0100",
+            "stop_time": "20250224222733 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nPeople seem to make a lot of terrible decisions when wearing a costume.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224222739 +0100",
+            "stop_time": "20250224225934 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nGet your fails well done in this episode featuring food and cooking.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224225940 +0100",
+            "stop_time": "20250224233134 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Tough Little Boys,\" \"Till I Collapse,\" and \"Wrecking Ball.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224233140 +0100",
+            "stop_time": "20250225000334 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Wrong Way,\" \"Hit Me Baby One More Time\" and \"Speed King.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000340 +0100",
+            "stop_time": "20250225003534 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWhy do the easiest tasks end up being the hardest?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225003540 +0100",
+            "stop_time": "20250225010734 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nTry as you might, wiping out is inevitable.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010740 +0100",
+            "stop_time": "20250225013934 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe temperature may be dropping, but the fails keep coming!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013940 +0100",
+            "stop_time": "20250225021134 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt doesn't take much to fail on the field!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225021140 +0100",
+            "stop_time": "20250225024334 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt's that time of the year.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225024340 +0100",
+            "stop_time": "20250225031534 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWear a helmet, watch your step, and don't do what these people did. You'll hurt yourself!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225031540 +0100",
+            "stop_time": "20250225034734 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nOops!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225034740 +0100",
+            "stop_time": "20250225041934 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWas the challenge worth the fail? Sometimes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225041940 +0100",
+            "stop_time": "20250225045034 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nRenovations spiral out of control as humans attempt to fix it all, but instead, lose it all!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225045040 +0100",
+            "stop_time": "20250225052134 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nIt's time to witness the fitness. Will humans power through pain, or is failure a destined SWOLLmate?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225052140 +0100",
+            "stop_time": "20250225055234 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nGear up to watch this wheel-powered showdown: Can the humans cruise to victory or do they skid into defeat?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225055240 +0100",
+            "stop_time": "20250225062334 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nIt’s all fun and games until the pranks begin. Humans are pitted against each other in this mischief showdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225062340 +0100",
+            "stop_time": "20250225065534 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWhy do the easiest tasks end up being the hardest?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225065540 +0100",
+            "stop_time": "20250225072734 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nTry as you might, wiping out is inevitable.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225072740 +0100",
+            "stop_time": "20250225075934 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe temperature may be dropping, but the fails keep coming!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225075940 +0100",
+            "stop_time": "20250225083134 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt doesn't take much to fail on the field!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083140 +0100",
+            "stop_time": "20250225090334 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt's that time of the year.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090340 +0100",
+            "stop_time": "20250225093534 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWear a helmet, watch your step, and don't do what these people did. You'll hurt yourself!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093540 +0100",
+            "stop_time": "20250225100734 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nOops!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100740 +0100",
+            "stop_time": "20250225103934 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWas the challenge worth the fail? Sometimes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225103940 +0100",
+            "stop_time": "20250225111034 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nIt’s all fun and games until the pranks begin. Humans are pitted against each other in this mischief showdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225111040 +0100",
+            "stop_time": "20250225114234 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWhy do the easiest tasks end up being the hardest?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225114240 +0100",
+            "stop_time": "20250225121434 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nTry as you might, wiping out is inevitable.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225121440 +0100",
+            "stop_time": "20250225124634 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe temperature may be dropping, but the fails keep coming!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225124640 +0100",
+            "stop_time": "20250225131834 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt doesn't take much to fail on the field!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225131840 +0100",
+            "stop_time": "20250225135034 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt's that time of the year.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135040 +0100",
+            "stop_time": "20250225142234 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWear a helmet, watch your step, and don't do what these people did. You'll hurt yourself!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225142240 +0100",
+            "stop_time": "20250225145434 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nOops!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225145440 +0100",
+            "stop_time": "20250225152634 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWas the challenge worth the fail? Sometimes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225152640 +0100",
+            "stop_time": "20250225155734 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nRenovations spiral out of control as humans attempt to fix it all, but instead, lose it all!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225155740 +0100",
+            "stop_time": "20250225162834 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nIt's time to witness the fitness. Will humans power through pain, or is failure a destined SWOLLmate?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225162840 +0100",
+            "stop_time": "20250225165934 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nGear up to watch this wheel-powered showdown: Can the humans cruise to victory or do they skid into defeat?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225165940 +0100",
+            "stop_time": "20250225173034 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nIt’s all fun and games until the pranks begin. Humans are pitted against each other in this mischief showdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225173040 +0100",
+            "stop_time": "20250225180134 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nYou don't have to go back in time to enjoy these fails!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180140 +0100",
+            "stop_time": "20250225183234 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nThere's an expensive fail in that temple...can you get it?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225183240 +0100",
+            "stop_time": "20250225190334 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190340 +0100",
+            "stop_time": "20250225193534 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for March '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225193540 +0100",
+            "stop_time": "20250225200634 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Parks, Running and Shoes have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200640 +0100",
+            "stop_time": "20250225203734 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Dads, Rains and Slack Line have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203740 +0100",
+            "stop_time": "20250225210934 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nAt least when you fail at home you are surrounded by people who love you.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210940 +0100",
+            "stop_time": "20250225214134 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nFailing has never been this epic.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225214140 +0100",
+            "stop_time": "20250225221335 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThis episode is all about the GOAT... and other farm animals.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225221341 +0100",
+            "stop_time": "20250225224536 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nSome go to nature to be healed. Not these people.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225224542 +0100",
+            "stop_time": "20250225231736 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Come Clean\", \"Vicious Games\" and \"1, 2, Step.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225231742 +0100",
+            "stop_time": "20250225234936 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nCheck out this playlist of some of the best themed compilations accompanied by music to set the mood.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225234942 +0100",
+            "stop_time": "20250226002136 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for September '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002142 +0100",
+            "stop_time": "20250226005336 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for October '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226005342 +0100",
+            "stop_time": "20250226012536 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for November '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226012542 +0100",
+            "stop_time": "20250226015736 +0100",
+            "title": "FailArmy Top 100 of 2020",
+            "description": "| +TP | Entretenimiento |\n\nA journey through the most amazing fails of 2020.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226015742 +0100",
+            "stop_time": "20250226022836 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226022842 +0100",
+            "stop_time": "20250226025936 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226025942 +0100",
+            "stop_time": "20250226033036 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nBoats sink, trains crash, cars collide, and bills go up.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033042 +0100",
+            "stop_time": "20250226040136 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nTechnology has definitely progressed, but we found out the expensive way that boats can't drive themselves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040142 +0100",
+            "stop_time": "20250226043336 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Close Call,\" \"Facepalm\" and \"Crazy.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043342 +0100",
+            "stop_time": "20250226050536 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Save Me,\" \"Broken Glass\" and \"Such a Mess.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050542 +0100",
+            "stop_time": "20250226053736 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"My Own Worst Enemy,\" \"Regrets\" and \"Uncomfortable.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226053742 +0100",
+            "stop_time": "20250226060936 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Gut Reaction,\" \"From Russia with Love\" and \"Fool Me Once.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060942 +0100",
+            "stop_time": "20250226064136 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for September '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226064142 +0100",
+            "stop_time": "20250226071336 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for October '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226071342 +0100",
+            "stop_time": "20250226074536 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for November '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226074542 +0100",
+            "stop_time": "20250226081736 +0100",
+            "title": "FailArmy Top 100 of 2020",
+            "description": "| +TP | Entretenimiento |\n\nA journey through the most amazing fails of 2020.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226081742 +0100",
+            "stop_time": "20250226084836 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226084842 +0100",
+            "stop_time": "20250226091936 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226091942 +0100",
+            "stop_time": "20250226095036 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nBoats sink, trains crash, cars collide, and bills go up.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226095042 +0100",
+            "stop_time": "20250226102136 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nTechnology has definitely progressed, but we found out the expensive way that boats can't drive themselves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226102142 +0100",
+            "stop_time": "20250226105336 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"My Own Worst Enemy,\" \"Regrets\" and \"Uncomfortable.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226105342 +0100",
+            "stop_time": "20250226112536 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Gut Reaction,\" \"From Russia with Love\" and \"Fool Me Once.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226112542 +0100",
+            "stop_time": "20250226115736 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for September '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226115742 +0100",
+            "stop_time": "20250226122936 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for October '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226122942 +0100",
+            "stop_time": "20250226130136 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for November '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130142 +0100",
+            "stop_time": "20250226133336 +0100",
+            "title": "FailArmy Top 100 of 2020",
+            "description": "| +TP | Entretenimiento |\n\nA journey through the most amazing fails of 2020.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133342 +0100",
+            "stop_time": "20250226140436 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140442 +0100",
+            "stop_time": "20250226143536 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143542 +0100",
+            "stop_time": "20250226150636 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nBoats sink, trains crash, cars collide, and bills go up.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150642 +0100",
+            "stop_time": "20250226153736 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nTechnology has definitely progressed, but we found out the expensive way that boats can't drive themselves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153742 +0100",
+            "stop_time": "20250226160936 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Close Call,\" \"Facepalm\" and \"Crazy.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160942 +0100",
+            "stop_time": "20250226164136 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Save Me,\" \"Broken Glass\" and \"Such a Mess.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226164142 +0100",
+            "stop_time": "20250226171336 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"My Own Worst Enemy,\" \"Regrets\" and \"Uncomfortable.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226171342 +0100",
+            "stop_time": "20250226174536 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Gut Reaction,\" \"From Russia with Love\" and \"Fool Me Once.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226174542 +0100",
+            "stop_time": "20250226181636 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nYou always fail when you least expect it.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226181642 +0100",
+            "stop_time": "20250226184736 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nRosebud...rosebud...wait, it's a sled? FAIL.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226184742 +0100",
+            "stop_time": "20250226191936 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for April '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226191942 +0100",
+            "stop_time": "20250226195136 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for May '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226195142 +0100",
+            "stop_time": "20250226202236 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Dogs, Balance and Candy have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226202242 +0100",
+            "stop_time": "20250226205336 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Windows, Drive-throughs and Stores have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226205342 +0100",
+            "stop_time": "20250226212536 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nExtreme sports that are extremely painful.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226212542 +0100",
+            "stop_time": "20250226215736 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nSometimes trying hard end ends up as failing hard.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226215742 +0100",
+            "stop_time": "20250226222937 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe best holiday fails wrapped up in a neat little package.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226222943 +0100",
+            "stop_time": "20250226230138 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nYou miss 100% of the shots you don't take —Wayne Gretzky —Michael Scott",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230144 +0100",
+            "stop_time": "20250226233338 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Crash Street Kidds,\"' \"Fall From Grace\" and \"Girl On Fire.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233344 +0100",
+            "stop_time": "20250227000538 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Vacuum,\" \"Down for Double\" and \"Curb Your Enthusiasm.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000544 +0100",
+            "stop_time": "20250227003638 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nWater reigns as the ultimate challenger. Careful, or you'll be saying H2Ooooh No!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227003644 +0100",
+            "stop_time": "20250227010738 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nHumans face off against nature's fiercest in the animal kingdom. Do they survive or surrender?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010744 +0100",
+            "stop_time": "20250227013838 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nFrom heartfelt highs to hilarious fails, it's a wild ride in the name of love!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013844 +0100",
+            "stop_time": "20250227020938 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nChaos Unleashed: Humans versus their fur-ever friends in a battle of wits and 'purr'-sonality clashes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020944 +0100",
+            "stop_time": "20250227024038 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nIt’s the appearance obsessed versus the sport obsessed. Looks vs Jocks are competing to be our fail champion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227024044 +0100",
+            "stop_time": "20250227031138 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nWe’re hitting the road and watching the fails race by in cars vs trucks and looking for our FAIL champion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227031144 +0100",
+            "stop_time": "20250227034238 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nAthletes train and prepare while others are off the cuff and get caught on camera, but who fails harder?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227034244 +0100",
+            "stop_time": "20250227041338 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nGet in the ring, we’re taking a look at what phase of the relationship fails harder the dates or the weddings.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227041344 +0100",
+            "stop_time": "20250227044438 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227044444 +0100",
+            "stop_time": "20250227051638 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227051644 +0100",
+            "stop_time": "20250227054838 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for February '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227054844 +0100",
+            "stop_time": "20250227062038 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for March '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227062044 +0100",
+            "stop_time": "20250227065138 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nWater reigns as the ultimate challenger. Careful, or you'll be saying H2Ooooh No!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227065144 +0100",
+            "stop_time": "20250227072238 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nHumans face off against nature's fiercest in the animal kingdom. Do they survive or surrender?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227072244 +0100",
+            "stop_time": "20250227075338 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nFrom heartfelt highs to hilarious fails, it's a wild ride in the name of love!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227075344 +0100",
+            "stop_time": "20250227082438 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nChaos Unleashed: Humans versus their fur-ever friends in a battle of wits and 'purr'-sonality clashes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227082444 +0100",
+            "stop_time": "20250227085538 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nIt’s the appearance obsessed versus the sport obsessed. Looks vs Jocks are competing to be our fail champion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227085544 +0100",
+            "stop_time": "20250227092638 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nWe’re hitting the road and watching the fails race by in cars vs trucks and looking for our FAIL champion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227092644 +0100",
+            "stop_time": "20250227095738 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227095744 +0100",
+            "stop_time": "20250227102938 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227102944 +0100",
+            "stop_time": "20250227110138 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for February '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110144 +0100",
+            "stop_time": "20250227113338 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for March '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227113344 +0100",
+            "stop_time": "20250227120438 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nWater reigns as the ultimate challenger. Careful, or you'll be saying H2Ooooh No!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120444 +0100",
+            "stop_time": "20250227123538 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nHumans face off against nature's fiercest in the animal kingdom. Do they survive or surrender?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123544 +0100",
+            "stop_time": "20250227130638 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nFrom heartfelt highs to hilarious fails, it's a wild ride in the name of love!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130644 +0100",
+            "stop_time": "20250227133738 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nChaos Unleashed: Humans versus their fur-ever friends in a battle of wits and 'purr'-sonality clashes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133744 +0100",
+            "stop_time": "20250227140838 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nIt’s the appearance obsessed versus the sport obsessed. Looks vs Jocks are competing to be our fail champion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140844 +0100",
+            "stop_time": "20250227143938 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nWe’re hitting the road and watching the fails race by in cars vs trucks and looking for our FAIL champion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143944 +0100",
+            "stop_time": "20250227151038 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nAthletes train and prepare while others are off the cuff and get caught on camera, but who fails harder?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227151044 +0100",
+            "stop_time": "20250227154138 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nGet in the ring, we’re taking a look at what phase of the relationship fails harder the dates or the weddings.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227154144 +0100",
+            "stop_time": "20250227161238 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227161244 +0100",
+            "stop_time": "20250227164438 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227164444 +0100",
+            "stop_time": "20250227171638 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for February '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227171644 +0100",
+            "stop_time": "20250227174838 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for March '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227174844 +0100",
+            "stop_time": "20250227181938 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nThe mighty Fail Empire has returned.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227181944 +0100",
+            "stop_time": "20250227185038 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nThese fails are FANTASTIC!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227185044 +0100",
+            "stop_time": "20250227192238 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for June '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227192244 +0100",
+            "stop_time": "20250227195438 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for July '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227195444 +0100",
+            "stop_time": "20250227202538 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Moms, Milk and Parties have in common? They&apos;re all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227202544 +0100",
+            "stop_time": "20250227205638 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Games, Animals and Collisions have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227205644 +0100",
+            "stop_time": "20250227212838 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nHumans aren't the only ones with embarrassing fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227212844 +0100",
+            "stop_time": "20250227220038 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nEmphasis on the down.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220044 +0100",
+            "stop_time": "20250227223239 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWatch and relax as these fails do a drive by.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223245 +0100",
+            "stop_time": "20250227230440 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nMoisture is the essence of wetness, and wetness is the essence of failure.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230446 +0100",
+            "stop_time": "20250227233640 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Slow Motion,\" \"Blind Rage\" and \"Challenge Accepted.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233646 +0100",
+            "stop_time": "20250228000840 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"We Used to Be Friends,\" \"What's My Age Again?\" and \"Reactions.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000846 +0100",
+            "stop_time": "20250228003940 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Workplaces, Landlords and Pets have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003946 +0100",
+            "stop_time": "20250228011040 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Fish, Lakes and Tech have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228011046 +0100",
+            "stop_time": "20250228014140 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Logs, Rains and Karma have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228014146 +0100",
+            "stop_time": "20250228021240 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Doors, Families and annoyance have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228021246 +0100",
+            "stop_time": "20250228024340 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228024346 +0100",
+            "stop_time": "20250228031540 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for April '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228031546 +0100",
+            "stop_time": "20250228034640 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228034646 +0100",
+            "stop_time": "20250228041740 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228041746 +0100",
+            "stop_time": "20250228044940 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThese animals can't be tamed.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228044946 +0100",
+            "stop_time": "20250228052140 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThere's no rhyme or reason to the order of these fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228052146 +0100",
+            "stop_time": "20250228055340 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt was supposed to be a fun day off.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228055346 +0100",
+            "stop_time": "20250228062540 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nSlip on a speedo and dive into these aquatic fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228062546 +0100",
+            "stop_time": "20250228065640 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Workplaces, Landlords and Pets have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228065646 +0100",
+            "stop_time": "20250228072740 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Fish, Lakes and Tech have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228072746 +0100",
+            "stop_time": "20250228075840 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Logs, Rains and Karma have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228075846 +0100",
+            "stop_time": "20250228082940 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Doors, Families and annoyance have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228082946 +0100",
+            "stop_time": "20250228090040 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090046 +0100",
+            "stop_time": "20250228093240 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThese animals can't be tamed.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093246 +0100",
+            "stop_time": "20250228100440 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThere's no rhyme or reason to the order of these fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100446 +0100",
+            "stop_time": "20250228103640 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt was supposed to be a fun day off.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228103646 +0100",
+            "stop_time": "20250228110840 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nSlip on a speedo and dive into these aquatic fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110846 +0100",
+            "stop_time": "20250228113940 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Workplaces, Landlords and Pets have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113946 +0100",
+            "stop_time": "20250228121040 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Fish, Lakes and Tech have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228121046 +0100",
+            "stop_time": "20250228124140 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Logs, Rains and Karma have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228124146 +0100",
+            "stop_time": "20250228131240 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Doors, Families and annoyance have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228131246 +0100",
+            "stop_time": "20250228134340 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228134346 +0100",
+            "stop_time": "20250228141540 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for April '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228141546 +0100",
+            "stop_time": "20250228144640 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228144646 +0100",
+            "stop_time": "20250228151740 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228151746 +0100",
+            "stop_time": "20250228154940 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThese animals can't be tamed.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228154946 +0100",
+            "stop_time": "20250228162140 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThere's no rhyme or reason to the order of these fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228162146 +0100",
+            "stop_time": "20250228165340 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nIt was supposed to be a fun day off.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228165346 +0100",
+            "stop_time": "20250228172540 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nSlip on a speedo and dive into these aquatic fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228172546 +0100",
+            "stop_time": "20250228175640 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nOnly one per district is chosen...but all of us win.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228175646 +0100",
+            "stop_time": "20250228182740 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nYou may fail only in your dreams...but we put it on TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228182746 +0100",
+            "stop_time": "20250228185940 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for August '20.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228185946 +0100",
+            "stop_time": "20250228193040 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '25.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193046 +0100",
+            "stop_time": "20250228200140 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Pugs, Birds and Winter have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200146 +0100",
+            "stop_time": "20250228203240 +0100",
+            "title": "FailArmy Now",
+            "description": "| +TP | Entretenimiento |\n\nWhat do Bad ideas, Schools and Farms have in common? They're all in this episode of FAILARMY NOW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228203246 +0100",
+            "stop_time": "20250228210440 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nFilled with fails from up high and down low.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210446 +0100",
+            "stop_time": "20250228213640 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe apple doesn't fall far from the tree when failing runs through the family.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213646 +0100",
+            "stop_time": "20250228220841 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nTwo famous foes go at it in this episode of cat and bird fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220847 +0100",
+            "stop_time": "20250228224042 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nBig air, celebrations, animals and beer. What else do you need in life?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228224048 +0100",
+            "stop_time": "20250228231242 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Boys Will Be Boys,\" \"Wrecking Ball\" and \"Mistakes.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228231248 +0100",
+            "stop_time": "20250228234442 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nOther hits on this playlist include \"Bad Day,\" \"Amateur Hour\" and \"By the Sea.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228234448 +0100",
+            "stop_time": "20250301001542 +0100",
+            "title": "World's Messiest Fails",
+            "description": "| +TP | Entretenimiento |\n\nWe pulled out all the stops to rack up a cleanup time for the books. You’re welcome!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301001548 +0100",
+            "stop_time": "20250301004642 +0100",
+            "title": "World's Messiest Fails",
+            "description": "| +TP | Entretenimiento |\n\nThings are breaking, spilling, and just getting everywhere on this episode of World’s Messiest Fails",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301004648 +0100",
+            "stop_time": "20250301011742 +0100",
+            "title": "World's Messiest Fails",
+            "description": "| +TP | Entretenimiento |\n\nThe only thing worse than making a fool of yourself is how long it takes to clean up the damage!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301011748 +0100",
+            "stop_time": "20250301014842 +0100",
+            "title": "World's Messiest Fails",
+            "description": "| +TP | Entretenimiento |\n\nIn today’s episode, shoppers, drivers, kids, and Mother Nature herself all want in on the action!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301014848 +0100",
+            "stop_time": "20250301021942 +0100",
+            "title": "Around the World in 80 Fails",
+            "description": "| +TP | Entretenimiento |\n\nNature’s got jokes! Around the world, from camping fails to wild animal encounters, adventures go off track.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301021948 +0100",
+            "stop_time": "20250301025042 +0100",
+            "title": "Around the World in 80 Fails",
+            "description": "| +TP | Entretenimiento |\n\nFrom travel fails to food flops & nightlife disasters, Fail Army guides you through hilarious global mishaps!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301025048 +0100",
+            "stop_time": "20250301032142 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nWhen chaos strikes, the financial toll is just as damaging as the physical destruction.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301032148 +0100",
+            "stop_time": "20250301035242 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nA single mistake sends everything spiraling out of control",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301035248 +0100",
+            "stop_time": "20250301042342 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nGet ready for a cooking catastrophe! Can the humans handle the heat or do they end up burnt?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301042348 +0100",
+            "stop_time": "20250301045442 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nPrepare for this electrifying showdown. Do the humans dominate, or accept digital defeat?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301045448 +0100",
+            "stop_time": "20250301052542 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301052548 +0100",
+            "stop_time": "20250301055642 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301055648 +0100",
+            "stop_time": "20250301062742 +0100",
+            "title": "Around the World in 80 Fails",
+            "description": "| +TP | Entretenimiento |\n\nNature’s got jokes! Around the world, from camping fails to wild animal encounters, adventures go off track.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301062748 +0100",
+            "stop_time": "20250301065842 +0100",
+            "title": "Around the World in 80 Fails",
+            "description": "| +TP | Entretenimiento |\n\nFrom travel fails to food flops & nightlife disasters, Fail Army guides you through hilarious global mishaps!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301065848 +0100",
+            "stop_time": "20250301072942 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nWhen chaos strikes, the financial toll is just as damaging as the physical destruction.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301072948 +0100",
+            "stop_time": "20250301080042 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nA single mistake sends everything spiraling out of control",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080048 +0100",
+            "stop_time": "20250301083142 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nGet ready for a cooking catastrophe! Can the humans handle the heat or do they end up burnt?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301083148 +0100",
+            "stop_time": "20250301090242 +0100",
+            "title": "Humans VS. Everything",
+            "description": "| +TP | Entretenimiento |\n\nPrepare for this electrifying showdown. Do the humans dominate, or accept digital defeat?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090248 +0100",
+            "stop_time": "20250301093342 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301093348 +0100",
+            "stop_time": "20250301100442 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100448 +0100",
+            "stop_time": "20250301103642 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Sour Times,\" \"Reach for the Sky\" and \"Check It Out.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301103648 +0100",
+            "stop_time": "20250301110842 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Insult to Injury,\" \"Plot Twist\" and \"Bounce.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110848 +0100",
+            "stop_time": "20250301114042 +0100",
+            "title": "FailArmy Playlist",
+            "description": "| +TP | Entretenimiento |\n\nHits on this playlist include \"Rude,\" \"Keep Your Head Up\" and \"#SELFIE.\"",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301114048 +0100",
+            "stop_time": "20250301121243 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThis collection of animal fails is full of wild cards.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301121249 +0100",
+            "stop_time": "20250301124444 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nSome people (and animals) will do anything for 15 minutes of fame.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124450 +0100",
+            "stop_time": "20250301131544 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301131550 +0100",
+            "stop_time": "20250301134644 +0100",
+            "title": "FailArmy Trivia",
+            "description": "| +TP | Entretenimiento |\n\nFrom low-rise jeans to flip phones, get ready to dust off your Y2K knowledge with some FailArmy Trivia!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301134650 +0100",
+            "stop_time": "20250301141844 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nNo matter how much make up you put on it, a fail is still a fail.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301141850 +0100",
+            "stop_time": "20250301145044 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nALL EXTREME!! ALL THE TIME!!! HENCE THE YELLING!!!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301145050 +0100",
+            "stop_time": "20250301152144 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nWhen chaos strikes, the financial toll is just as damaging as the physical destruction.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301152150 +0100",
+            "stop_time": "20250301155343 +0100",
+            "title": "World's Most Expensive Fails",
+            "description": "| +TP | Entretenimiento |\n\nSpeed. Row. Party. No boats are safe in this episode.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301155349 +0100",
+            "stop_time": "20250301162543 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for July '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301162549 +0100",
+            "stop_time": "20250301165743 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for August '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301165749 +0100",
+            "stop_time": "20250301172943 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for September '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301172949 +0100",
+            "stop_time": "20250301180143 +0100",
+            "title": "Best Fails of the Month",
+            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for October '21.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180149 +0100",
+            "stop_time": "20250301183243 +0100",
+            "title": "FailArmy Hoop Fails",
+            "description": "| +TP | Entretenimiento |\n\nPrepare to dribble, dunk, and drop the ball in this epic Basketball Fails showdown—just in time for March Madness!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183249 +0100",
+            "stop_time": "20250301190443 +0100",
+            "title": "FailArmy Ball Busters",
+            "description": "| +TP | Entretenimiento |\n\nThe ultimate compilation of ball busting fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190449 +0100",
+            "stop_time": "20250301193643 +0100",
+            "title": "FailArmy Get Ripped",
+            "description": "| +TP | Entretenimiento |\n\nIn this special it's all pain and no gain.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301193649 +0100",
+            "stop_time": "20250301200743 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nAthletes train and prepare while others are off the cuff and get caught on camera, but who fails harder?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200749 +0100",
+            "stop_time": "20250301203944 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe real MVPs are the ones that caught these sports fails on camera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301203950 +0100",
+            "stop_time": "20250301211145 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWhen extreme sports go wrong, it makes for some gnarly fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211151 +0100",
+            "stop_time": "20250301214346 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nSports are 90% mental. The other half are fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301214352 +0100",
+            "stop_time": "20250301221546 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nExtreme sports that are extremely painful.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301221552 +0100",
+            "stop_time": "20250301224646 +0100",
+            "title": "FailArmy Hoop Fails",
+            "description": "| +TP | Entretenimiento |\n\nPrepare to dribble, dunk, and drop the ball in this epic Basketball Fails showdown—just in time for March Madness!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301224652 +0100",
+            "stop_time": "20250301231846 +0100",
+            "title": "FailArmy Ball Busters",
+            "description": "| +TP | Entretenimiento |\n\nThe ultimate compilation of ball busting fails.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301231852 +0100",
+            "stop_time": "20250301235046 +0100",
+            "title": "FailArmy Get Ripped",
+            "description": "| +TP | Entretenimiento |\n\nIn this special it's all pain and no gain.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301235052 +0100",
+            "stop_time": "20250302002146 +0100",
+            "title": "FAILARMY: 50 VS. 50",
+            "description": "| +TP | Entretenimiento |\n\nAthletes train and prepare while others are off the cuff and get caught on camera, but who fails harder?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302002152 +0100",
+            "stop_time": "20250302005347 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nThe real MVPs are the ones that caught these sports fails on camera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302005353 +0100",
+            "stop_time": "20250302012548 +0100",
+            "title": "FailFactory",
+            "description": "| +TP | Entretenimiento |\n\nWhen extreme sports go wrong, it makes for some gnarly fails.",
+            "icon": ""
+        }
+    ]
 }

@@ -1,5 +1,965 @@
 {
     "name": "Top Gear en español",
     "tvg_id": "bbc-top-gear-es",
-    "epg": []
+    "epg": [
+        {
+            "start_time": "20250224161957 +0100",
+            "stop_time": "20250224171914 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl chef Gordon Ramsay es la estrella del auto económico.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224171920 +0100",
+            "stop_time": "20250224181907 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos intentan construir un auto anfibio que funcione tan bien en el agua como en la tierra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224181913 +0100",
+            "stop_time": "20250224191723 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard enfrenta al Porshe Cayenne Turbo S con el equipo de paracaidistas de caída libre de la RAF.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191729 +0100",
+            "stop_time": "20250224201503 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl Toyota Aygos se enfrenta a un equipo de VW Fox.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224201509 +0100",
+            "stop_time": "20250224211313 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJames, Richard y Jeremy se toman un descanso de la explosión de caravanas para irse de vacaciones en una.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224211320 +0100",
+            "stop_time": "20250224221306 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy y Stig compiten con dos Caterham 7 en un circuito de Escocia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224221312 +0100",
+            "stop_time": "20250224231211 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy, James y Richard se ponen al volante de sus camionetas blancas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224231217 +0100",
+            "stop_time": "20250225000831 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo se dirige a un campo de golf para encontrar el mejor coupé.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000837 +0100",
+            "stop_time": "20250225010628 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard Hammond y James May intentan construir un transbordador espacial a partir de un Reliant Robin.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010634 +0100",
+            "stop_time": "20250225020713 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos se ponen en plan rural y aprovechan un grupo de tractores de alta tecnología.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020720 +0100",
+            "stop_time": "20250225030734 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos presentadores construyen sus propias limusinas a partir de los autos más inverosímiles.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030740 +0100",
+            "stop_time": "20250225040704 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo de Top Gear regresa en una nueva serie con la búsqueda de la mejor carretera de Europa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040710 +0100",
+            "stop_time": "20250225050534 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos presentadores retoman su intento de construir autos anfibios.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050540 +0100",
+            "stop_time": "20250225060410 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard Hammond compite con el Bugatti Veyron contra el caza Typhoon de la RAF.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060416 +0100",
+            "stop_time": "20250225070225 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos presentadores de Top Gear compiten en una carrera épica por Londres.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070232 +0100",
+            "stop_time": "20250225075941 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy se vuelve loco en dos fincas rápidas y Richard inventa las carreras de autocaravanas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225075947 +0100",
+            "stop_time": "20250225085821 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo de Top Gear celebra los 40 años de British Leyland revisando tres de sus autos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225085827 +0100",
+            "stop_time": "20250225095701 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLa estrella de la Fórmula 1 Lewis Hamilton y el cantante James Blunt son los invitados en el estudio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225095707 +0100",
+            "stop_time": "20250225105611 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy, Richard y James participan en una carrera de resistencia de 24 horas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225105617 +0100",
+            "stop_time": "20250225115421 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy, James y Richard llevan el nuevo BMW M3, el Mercedes C63 AMG y el Audi RS4 a España.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225115428 +0100",
+            "stop_time": "20250225125330 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos presentadores de Top Gear son retados a comprar un coche de policía a precio de ganga.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225125336 +0100",
+            "stop_time": "20250225135227 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy se enamora del Mercedes CLK Black mientras Richard conduce el Audi RS6.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135233 +0100",
+            "stop_time": "20250225145137 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson realiza la prueba de potencia menos apropiada de la historia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225145143 +0100",
+            "stop_time": "20250225155140 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy, James y Richard participan en una carrera épica por Japón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225155146 +0100",
+            "stop_time": "20250225165124 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl Nissan GT-R se somete a un exhaustivo entrenamiento en el legendario circuito japonés de Fuji.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225165131 +0100",
+            "stop_time": "20250225175110 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy, Richard y James se enfrentan a sus rivales del equivalente alemán de Top Gear.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225175116 +0100",
+            "stop_time": "20250225185124 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo decide comprar camiones de segunda mano para averiguar lo fácil que es ser conductor de camiones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225185130 +0100",
+            "stop_time": "20250225195114 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos presentadores de Top Gear se embarcan en un épico viaje por carretera en EE.UU.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225195120 +0100",
+            "stop_time": "20250225204913 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo intenta que un auto de segunda mano dé una vuelta a la pista de pruebas tan rápido como nueva.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225204919 +0100",
+            "stop_time": "20250225214830 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\n¿Podrán los chicos ir desde Suiza hasta el noroeste de Inglaterra con un solo tanque de gasolina?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225214837 +0100",
+            "stop_time": "20250225224757 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard celebra el 40º cumpleaños del Ferrari Daytona en la Riviera italiana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225224803 +0100",
+            "stop_time": "20250225234806 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy y James invaden la base aérea de Greenham Common.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225234812 +0100",
+            "stop_time": "20250226004742 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl Lamborghini Aventador, el McLaren MP4-12C y el Noble M600 se enfrentan en Italia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226004748 +0100",
+            "stop_time": "20250226014709 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard Hammond está en Texas para sumergirse en el mundo de las carreras de la NASCAR.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226014715 +0100",
+            "stop_time": "20250226024618 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy y Richard se encargan de una persecución de autos en el set de la película The Sweeney.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226024625 +0100",
+            "stop_time": "20250226034532 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos vehículos de movilidad se llevan fuera de la carretera y Michael Fassbender prueba su suerte en la pista.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226034538 +0100",
+            "stop_time": "20250226044437 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nUn hombre volador impulsado por un cohete compite con un auto de rally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226044443 +0100",
+            "stop_time": "20250226054257 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy sale a la pista para recrear la Batalla de Inglaterra utilizando un Bentley y un BMW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226054303 +0100",
+            "stop_time": "20250226064315 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nSe revisa el nuevo BMW M5 y los chicos experimentan con las carreras de coches con un presupuesto reducido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226064321 +0100",
+            "stop_time": "20250226073452 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy construye un auto miniatura, James y Richard prueban un nuevo Bentley y Pagani.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073459 +0100",
+            "stop_time": "20250226082654 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos realizan un épico viaje por carretera por el lado oeste de Estados Unidos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226082700 +0100",
+            "stop_time": "20250226091850 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nClarkson, Hammond y May compiten en una carrera épica de Wembley al estadio San Siro en Milán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226091857 +0100",
+            "stop_time": "20250226101039 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nClarkson y May ven el nuevo Kia Cee'd, Hammond conduce el más reciente deportivo Mastretta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226101045 +0100",
+            "stop_time": "20250226110236 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nUn vistazo a la creciente complejidad de los autos modernos y un paseo en el nuevo Range Rover.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110242 +0100",
+            "stop_time": "20250226115412 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl programa de autos más popular del mundo pone a los presentadores en una carrera de un auto contra un yate.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226115418 +0100",
+            "stop_time": "20250226124606 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson y James May ponen en competencia a un auto contra un bote en Nueva Zelanda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226124613 +0100",
+            "stop_time": "20250226133802 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nPresentando el sensacional Ferrari F12 y la búsqueda del mejor taxi del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133809 +0100",
+            "stop_time": "20250226142943 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy, Richard y James conducen por España en súper autos de gama media.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226142949 +0100",
+            "stop_time": "20250226152142 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos brindan alivio a las zonas inundadas de Gran Bretaña construyendo un auto aerodeslizador.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226152149 +0100",
+            "stop_time": "20250226161334 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson y James May investigan el cada vez más popular 'crossover'.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226161341 +0100",
+            "stop_time": "20250226170528 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo celebra todo lo grandioso de la industria automovilística británica.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170534 +0100",
+            "stop_time": "20250226175721 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos conducen autos diminutos en Ucrania, camiones en Birmania y reviven algunos 'clásicos' de los 80.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226175727 +0100",
+            "stop_time": "20250226184856 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo trata de demostrar que los cinco puertas de su juventud eran mejores que sus equivalentes modernos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226184902 +0100",
+            "stop_time": "20250226194047 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nPresentando autos deportivos italianos, maniobras militares y un viaje a Bélgica.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226194054 +0100",
+            "stop_time": "20250226203235 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nUn viaje por carretera a Ucrania termina con una travesía por el páramo nuclear de Chernóbil.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226203241 +0100",
+            "stop_time": "20250226212401 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson, Richard Hammond y James May compiten por San Petersburgo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226212408 +0100",
+            "stop_time": "20250226221242 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson, Richard Hammond y James May recorren el Territorio del Norte de Australia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226221248 +0100",
+            "stop_time": "20250226230429 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson, Richard Hammond y James May intentan mejorar la ambulancia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230435 +0100",
+            "stop_time": "20250226235616 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard Hammond anuncia la inminente desaparición del legendario Land Rover Defender.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226235622 +0100",
+            "stop_time": "20250227004800 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson y James May se encuentran con proyectiles de artillería, corsés y utilitarios calientes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227004806 +0100",
+            "stop_time": "20250227013919 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nHammond se deja caer en la remota Canadá para probar un reloj con una baliza de emergencia incorporada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013926 +0100",
+            "stop_time": "20250227023101 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJames May participa en una carrera de World Rallycross con un coche de 600 caballos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227023107 +0100",
+            "stop_time": "20250227032909 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson conduce el increíblemente raro Alfa Romeo Disco Volante de Touring.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227032915 +0100",
+            "stop_time": "20250227042732 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLa estrella de Breaking Bad Aaron Paul llega a la pista y Richard Hammond analiza el Porsche 918.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227042738 +0100",
+            "stop_time": "20250227052553 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nTop Gear regresa con nuevos presentadores y nuevas emociones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227052559 +0100",
+            "stop_time": "20250227062516 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nChris Evans y Matt LeBlanc viajan a Blackpool en un par de vehículos de tres ruedas Reliant.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227062523 +0100",
+            "stop_time": "20250227072302 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nDamian Lewis es la Estrella de esta semana en un Auto Rallycross.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227072308 +0100",
+            "stop_time": "20250227082250 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nChris Evans lucha por mantener adentro su almuerzo al correr en el nuevo Audi R8.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227082256 +0100",
+            "stop_time": "20250227093137 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEste episodio presenta el asombroso y ultra exclusivo Ferrari FXX K.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093143 +0100",
+            "stop_time": "20250227104035 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLa continuación de el sorprendente y ultra exclusivo Ferrari FXX K.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227104041 +0100",
+            "stop_time": "20250227114933 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt y Chris se embarcan en un viaje por carretera por Estados Unidos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227114940 +0100",
+            "stop_time": "20250227125800 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt revisa el Aston Martin DB11 mientras Rory Reid y Sabine Schmitz recorren Nurburgring.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227125806 +0100",
+            "stop_time": "20250227140540 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nChris Harris y el Bugatti Chiron hacen una carrera con Matt LeBlanc por la Península Arábiga.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140546 +0100",
+            "stop_time": "20250227151303 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt prueba el Ford GT y Chris y Sabine se enfrentan en una carrera de buggies por el desierto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227151309 +0100",
+            "stop_time": "20250227162049 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt prueba el Mercedes-AMG GT R. Ross Noble sale a la pista de Top Gear.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227162055 +0100",
+            "stop_time": "20250227165033 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nMatt conduce un vehículo de rescate de ocho ruedas y Chris revisa el nuevo Porsche Cayman.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227165040 +0100",
+            "stop_time": "20250227171745 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nChris y Rory se unen a George en el estudio para ahondar en su aventura en Kazajistán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227171751 +0100",
+            "stop_time": "20250227174624 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nCon escenas extra del desafío de supercoches de EE.UU. y la película del Alfa Guilia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227174630 +0100",
+            "stop_time": "20250227181418 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nChris, Rory y George se meten bajo el capó del nuevo Bugatti Chiron.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227181424 +0100",
+            "stop_time": "20250227184236 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nGeorge y Rory hacen off-road con la ayuda de dos pilotos británicos del \"King of the Hammers\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227184242 +0100",
+            "stop_time": "20250227191019 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nRory y Chris nos cuentan cómo fue conducir juntos por Cuba.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227191025 +0100",
+            "stop_time": "20250227193734 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nUna ojeada detrás de las cámaras a la aventura náutica de Matt, Chris y Rory.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193740 +0100",
+            "stop_time": "20250227204739 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt LeBlanc, Chris Harris y Rory Reid viajan por carretera a través del salvaje oeste americano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227204745 +0100",
+            "stop_time": "20250227215705 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt LeBlanc y Chris Harris cazan a Big Foot. Lee Mack es el invitado del estudio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227215712 +0100",
+            "stop_time": "20250227230639 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt y Chris compran autos deportivos de segunda mano en una subasta para un gran viaje.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230645 +0100",
+            "stop_time": "20250228001517 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt LeBlanc prueba el auto más rápido del mundo, con un poco de ayuda de la NASA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228001523 +0100",
+            "stop_time": "20250228012201 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt LeBlanc y Chris Harris intentan conducir a toda velocidad por las carreteras británicas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228012207 +0100",
+            "stop_time": "20250228023144 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nMatt, Chris y Rory prueban los últimos vehículos todoterreno mediante pruebas con caballos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023150 +0100",
+            "stop_time": "20250228025929 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nEl tuneador tejano John Hennessey y Sabine Schmitz acompañan al presentador Rory Reid en el estudio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228025936 +0100",
+            "stop_time": "20250228032706 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nExtra Gear va detrás de las cámaras de la prueba de potencia del McLaren 720S.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228032712 +0100",
+            "stop_time": "20250228035500 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nRory recibe una invitación exclusiva a un almacén secreto de autos en Japón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228035506 +0100",
+            "stop_time": "20250228042333 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nExtra Gear se mete detrás de las escenas de la película del Kia Stinger.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228042339 +0100",
+            "stop_time": "20250228045158 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nLos sueños de Rory sobre un supercoche se hacen realidad en forma de Lamborghini Countach.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228045204 +0100",
+            "stop_time": "20250228052033 +0100",
+            "title": "Top Gear: Extra Gear",
+            "description": "| +16 | Entretenimiento |\n\nExtra Gear vuelve a Japón para enfrentarse a los problemas de transporte de Tokio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228052039 +0100",
+            "stop_time": "20250228061737 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy pone a prueba el tostador inteligente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228061743 +0100",
+            "stop_time": "20250228071829 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy disfruta de una vuelta en un suntuoso Rolls-Royce Phantom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228071836 +0100",
+            "stop_time": "20250228081707 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo de Top Gear se enfrenta a algunos de los mejores supercoches del mundo con un Jaguar de £300 libras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228081713 +0100",
+            "stop_time": "20250228091533 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy, Richard y James se lanzan a la acción con un programa dedicado a los Jaguar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228091539 +0100",
+            "stop_time": "20250228101601 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl Mitsubishi Evo VIII y el Subaru Impreza Sti se enfrentan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228101607 +0100",
+            "stop_time": "20250228111713 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy prueba la respuesta sueca al supercoche, el Koenigsegg.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228111719 +0100",
+            "stop_time": "20250228121831 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard y James se embarcan en unas vacaciones de verano en coches descapotables.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228121838 +0100",
+            "stop_time": "20250228131918 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJean Luc Picard, de Star Trek, cambia el Enterprise por el Suzuki Liana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228131924 +0100",
+            "stop_time": "20250228142309 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nSe busca al mejor supercoche construido en un cobertizo en el Reino Unido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228142315 +0100",
+            "stop_time": "20250228152830 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard Hammond celebra los cuarenta años del Porsche 911 llevando al límite el superrápido GT3.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228152836 +0100",
+            "stop_time": "20250228163515 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nUna edición especial que muestra lo que el equipo hizo durante sus vacaciones de verano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163521 +0100",
+            "stop_time": "20250228174251 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson describe el cambio de imagen de Bentley con el Continental GT.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228174258 +0100",
+            "stop_time": "20250228184925 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLa herencia del emblemático fabricante Lamborghini se celebra en una edición especial del programa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228184931 +0100",
+            "stop_time": "20250228195554 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy desafía al nuevo pick-up de Toyota, el Hilux, a una serie de tareas extraordinarias.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228195600 +0100",
+            "stop_time": "20250228210421 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos coches en el punto de mira son los \"héroes de la calle\", ya que Jeremy conduce el último C2 de Citreon.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210427 +0100",
+            "stop_time": "20250228221055 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEn una mirada a la contribución de Alemania al mundo del automovilismo, Jeremy pone a Porsche a prueba.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221101 +0100",
+            "stop_time": "20250228231805 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson compara el Mercedes SL actual con el mismo modelo de 1972.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228231812 +0100",
+            "stop_time": "20250301002612 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEn el último programa de la serie, Jeremy Clarkson conduce el Chrysler Crossfire.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301002618 +0100",
+            "stop_time": "20250301012800 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos vuelven con una carrera de alto octanaje a Montecarlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301012806 +0100",
+            "stop_time": "20250301022804 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson prueba el supercoche McLaren Mercedes SLR.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301022810 +0100",
+            "stop_time": "20250301032701 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos presentadores de Top Gear se enfrentan al reto de comprar un auto por menos de 100 libras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301032707 +0100",
+            "stop_time": "20250301042628 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\n¿Puede un Audi A8 ir a Edimburgo y volver con un sólo tanque de gasolina?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301042635 +0100",
+            "stop_time": "20250301052344 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos se dirigen a la playa para competir con un Jaguar, un Porsche y un BMW.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301052350 +0100",
+            "stop_time": "20250301062430 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson lanza su mirada crítica sobre el Nissan Cube.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301062436 +0100",
+            "stop_time": "20250301072254 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard y James prueban el mini-cabrio y Jeremy prueba el Spyker C8 Spyder.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301072300 +0100",
+            "stop_time": "20250301082149 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJames prueba el Maserati Quattroporte y Jeremy pone a prueba el Ford GT.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301082155 +0100",
+            "stop_time": "20250301091956 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos se dirigen a la Isla de Harris para probar unos Cabriolets.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301092003 +0100",
+            "stop_time": "20250301101923 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy prueba el X3 de BMW y Richard descubre un Corvette que realmente puede hacer curvas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301101929 +0100",
+            "stop_time": "20250301111951 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl Vauxhall Astra hace que Jeremy se coma algo más que sus palabras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301111957 +0100",
+            "stop_time": "20250301122146 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy encuentra una forma innovadora de conseguir un Ferrari Enzo F60.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301122152 +0100",
+            "stop_time": "20250301132356 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy intenta conducir un Land Rover Discovery por una montaña escocesa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301132402 +0100",
+            "stop_time": "20250301142442 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichard se dirige al sur de Francia, pasando por los Alpes, en el roadster Pagani Zonda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301142449 +0100",
+            "stop_time": "20250301152516 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy prueba el Jaguar S-Type en el famoso circuito alemán de Nürburgring.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301152522 +0100",
+            "stop_time": "20250301162532 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos chicos descubren si se puede comprar un Porsche decente por menos de 1.500 libras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301162538 +0100",
+            "stop_time": "20250301172652 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nRichards se lleva un auto Mustang norteamericano en una road movie por Lincolnshire.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301172658 +0100",
+            "stop_time": "20250301182544 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nLos presentadores de Top Gear participan en una carrera épica hacia los Alpes suizos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301182550 +0100",
+            "stop_time": "20250301191455 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nA Jeremy le arranca la cara el Ariel Atom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301191502 +0100",
+            "stop_time": "20250301201537 +0100",
+            "title": "Top Gear: Best Of",
+            "description": "| +16 | Entretenimiento |\n\nUna recopilación especial de los mejores retos que ha protagonizado Top Gear.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301201543 +0100",
+            "stop_time": "20250301211447 +0100",
+            "title": "Top Gear: Best Of",
+            "description": "| +16 | Entretenimiento |\n\nUn repaso a algunos de los mejores reportajes de Supercars de las últimas series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211453 +0100",
+            "stop_time": "20250301221537 +0100",
+            "title": "Top Gear: Best Of",
+            "description": "| +16 | Entretenimiento |\n\nUna retrospectiva de algunos de los mejores invitados de las últimas series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301221543 +0100",
+            "stop_time": "20250301231301 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJames y Richard juegan a la pelota en el nuevo Toyota Aygo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301231307 +0100",
+            "stop_time": "20250302001052 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nEl equipo averigua si se puede comprar un elegante coupé de dos puertas por menos de 1.500 libras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302001059 +0100",
+            "stop_time": "20250302010519 +0100",
+            "title": "Top Gear UK",
+            "description": "| +16 | Entretenimiento |\n\nJeremy Clarkson causa sensación al inaugurar una piscina local.",
+            "icon": ""
+        }
+    ]
 }

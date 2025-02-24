@@ -1,5 +1,405 @@
 {
     "name": "PFL MMA",
     "tvg_id": "pfl-mma",
-    "epg": []
+    "epg": [
+        {
+            "start_time": "20250224145239 +0100",
+            "stop_time": "20250224190935 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nMoraes vs. Hill 2",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190941 +0100",
+            "stop_time": "20250224221140 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nArlovski vs. Johnson",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224221147 +0100",
+            "stop_time": "20250225000257 +0100",
+            "title": "Best Of: Fedor Emelianenko",
+            "description": "| +16 | Deportes |\n\nFedor Emelianenko Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000304 +0100",
+            "stop_time": "20250225020500 +0100",
+            "title": "Best Of: Michael Venom Page",
+            "description": "| +16 | Deportes |\n\nMichael Venom Page Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020506 +0100",
+            "stop_time": "20250225035934 +0100",
+            "title": "Best Of: Eddie Alvarez",
+            "description": "| +16 | Deportes |\n\nEddie Alvarez Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225035940 +0100",
+            "stop_time": "20250225045846 +0100",
+            "title": "PFL 4 2024 - CutDown",
+            "description": "| +16 | Deportes |\n\nThe most action-packed rounds of PFL 4 2024",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225045853 +0100",
+            "stop_time": "20250225055759 +0100",
+            "title": "PFL 2 2024 - CutDown",
+            "description": "| +16 | Deportes |\n\nThe most action-packed rounds of PFL 2 2024",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225055806 +0100",
+            "stop_time": "20250225084233 +0100",
+            "title": "Best Playoff Fights In PFL History",
+            "description": "| +16 | Deportes |\n\nBest playoff performances in PFL history",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225084239 +0100",
+            "stop_time": "20250225115322 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nPalomino vs. Gonzalez",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225115328 +0100",
+            "stop_time": "20250225135524 +0100",
+            "title": "Best Of: Michael Venom Page",
+            "description": "| +16 | Deportes |\n\nMichael Venom Page Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135530 +0100",
+            "stop_time": "20250225154958 +0100",
+            "title": "Best Of: Eddie Alvarez",
+            "description": "| +16 | Deportes |\n\nEddie Alvarez Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225155005 +0100",
+            "stop_time": "20250225170158 +0100",
+            "title": "PFL Road to Dubai Champions Series: Nurmagomedov vs. Hughes",
+            "description": "| +16 | Deportes |\n\nChampions Series Dubai: 1 Hour Cutdown",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170205 +0100",
+            "stop_time": "20250225211936 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nSpong vs. DeAnda",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225211943 +0100",
+            "stop_time": "20250226002214 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nGaethje vs. Patishnock",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002220 +0100",
+            "stop_time": "20250226030115 +0100",
+            "title": "Best Of: Michael Chandler",
+            "description": "| +16 | Deportes |\n\nMichael Chandler Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030121 +0100",
+            "stop_time": "20250226045231 +0100",
+            "title": "Best Of: Fedor Emelianenko",
+            "description": "| +16 | Deportes |\n\nFedor Emelianenko Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226045238 +0100",
+            "stop_time": "20250226084101 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nPalhares vs. Fitch",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226084108 +0100",
+            "stop_time": "20250226124739 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nIvanov vs. Copeland",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226124746 +0100",
+            "stop_time": "20250226152641 +0100",
+            "title": "Best Of: Michael Chandler",
+            "description": "| +16 | Deportes |\n\nMichael Chandler Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226152647 +0100",
+            "stop_time": "20250226191901 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nBranch vs. Okami",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226191908 +0100",
+            "stop_time": "20250226213539 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nFord vs. Shields",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213546 +0100",
+            "stop_time": "20250226224739 +0100",
+            "title": "PFL Road to Dubai Champions Series: Nurmagomedov vs. Hughes",
+            "description": "| +16 | Deportes |\n\nChampions Series Dubai: 1 Hour Cutdown",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226224746 +0100",
+            "stop_time": "20250227011640 +0100",
+            "title": "Best Of: Pitbull Brothers",
+            "description": "| +16 | Deportes |\n\nPitbull Brothers Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227011646 +0100",
+            "stop_time": "20250227020409 +0100",
+            "title": "Best Of: A.J. Mckee",
+            "description": "| +16 | Deportes |\n\nA.J. Mckee Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020416 +0100",
+            "stop_time": "20250227043843 +0100",
+            "title": "Legends of MMA",
+            "description": "| +16 | Deportes |\n\nLegends of MMA Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043850 +0100",
+            "stop_time": "20250227054019 +0100",
+            "title": "Fighter Compilation",
+            "description": "| +16 | Deportes |\n\nPFL FIght Week Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227054025 +0100",
+            "stop_time": "20250227093325 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nIvanov vs. Jordan",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093331 +0100",
+            "stop_time": "20250227123602 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nGaethje vs. Patishnock",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123609 +0100",
+            "stop_time": "20250227142719 +0100",
+            "title": "Best Of: Fedor Emelianenko",
+            "description": "| +16 | Deportes |\n\nFedor Emelianenko Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227142726 +0100",
+            "stop_time": "20250227151449 +0100",
+            "title": "Best Of: A.J. Mckee",
+            "description": "| +16 | Deportes |\n\nA.J. Mckee Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227151455 +0100",
+            "stop_time": "20250227175944 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nFirmino vs. Fodor",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227175951 +0100",
+            "stop_time": "20250227223409 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nFitch vs. Okami",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223416 +0100",
+            "stop_time": "20250228010843 +0100",
+            "title": "Legends of MMA",
+            "description": "| +16 | Deportes |\n\nLegends of MMA Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010850 +0100",
+            "stop_time": "20250228015613 +0100",
+            "title": "Best Of: A.J. Mckee",
+            "description": "| +16 | Deportes |\n\nA.J. Mckee Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228015620 +0100",
+            "stop_time": "20250228035816 +0100",
+            "title": "Best Of: Michael Venom Page",
+            "description": "| +16 | Deportes |\n\nMichael Venom Page Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228035822 +0100",
+            "stop_time": "20250228071246 +0100",
+            "title": "Women of PFL Championship Fight Collection",
+            "description": "| +16 | Deportes |\n\nKayla Harrison - 2019 Championship fight, Kayla Harrison - 2021 Championship fight, Larissa Pachecho - 2022 Championship fight, Larissa Pachecho - 2023 Championship fight, Dakota Ditcheva - 2023 PFL Europe Championship fight",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228071252 +0100",
+            "stop_time": "20250228102840 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nFitch vs. Burkman 2",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228102847 +0100",
+            "stop_time": "20250228112753 +0100",
+            "title": "PFL 6 2024 - CutDown",
+            "description": "| +16 | Deportes |\n\nThe most action-packed rounds of PFL 6 2024",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228112800 +0100",
+            "stop_time": "20250228132956 +0100",
+            "title": "Best Of: Michael Venom Page",
+            "description": "| +16 | Deportes |\n\nMichael Venom Page Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133002 +0100",
+            "stop_time": "20250228152430 +0100",
+            "title": "Best Of: Eddie Alvarez",
+            "description": "| +16 | Deportes |\n\nEddie Alvarez Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228152437 +0100",
+            "stop_time": "20250228171547 +0100",
+            "title": "Best Of: Fedor Emelianenko",
+            "description": "| +16 | Deportes |\n\nFedor Emelianenko Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228171553 +0100",
+            "stop_time": "20250228181722 +0100",
+            "title": "Fighter Compilation",
+            "description": "| +16 | Deportes |\n\nPFL FIght Week Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228181729 +0100",
+            "stop_time": "20250228210156 +0100",
+            "title": "Best Playoff Fights In PFL History",
+            "description": "| +16 | Deportes |\n\nBest playoff performances in PFL history",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210202 +0100",
+            "stop_time": "20250228221355 +0100",
+            "title": "PFL Road to Dubai Champions Series: Nurmagomedov vs. Hughes",
+            "description": "| +16 | Deportes |\n\nChampions Series Dubai: 1 Hour Cutdown",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221401 +0100",
+            "stop_time": "20250301011928 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nPalhares vs. Shields",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301011935 +0100",
+            "stop_time": "20250301035402 +0100",
+            "title": "Legends of MMA",
+            "description": "| +16 | Deportes |\n\nLegends of MMA Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301035409 +0100",
+            "stop_time": "20250301055605 +0100",
+            "title": "Best Of: Michael Venom Page",
+            "description": "| +16 | Deportes |\n\nMichael Venom Page Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301055611 +0100",
+            "stop_time": "20250301084339 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nArlovski vs. Cole",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301084346 +0100",
+            "stop_time": "20250301094252 +0100",
+            "title": "PFL 2 2024 - CutDown",
+            "description": "| +16 | Deportes |\n\nThe most action-packed rounds of PFL 2 2024",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301094259 +0100",
+            "stop_time": "20250301105452 +0100",
+            "title": "PFL Road to Dubai Champions Series: Nurmagomedov vs. Hughes",
+            "description": "| +16 | Deportes |\n\nChampions Series Dubai: 1 Hour Cutdown",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301105458 +0100",
+            "stop_time": "20250301132352 +0100",
+            "title": "Best Of: Pitbull Brothers",
+            "description": "| +16 | Deportes |\n\nPitbull Brothers Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301132359 +0100",
+            "stop_time": "20250301174055 +0100",
+            "title": "World Series of Fighting",
+            "description": "| +16 | Deportes |\n\nMoraes vs. Hill 2",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301174101 +0100",
+            "stop_time": "20250301201956 +0100",
+            "title": "Best Of: Michael Chandler",
+            "description": "| +16 | Deportes |\n\nMichael Chandler Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301202002 +0100",
+            "stop_time": "20250301212131 +0100",
+            "title": "Fighter Compilation",
+            "description": "| +16 | Deportes |\n\nPFL FIght Week Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301212138 +0100",
+            "stop_time": "20250301222044 +0100",
+            "title": "PFL 3 2024 - CutDown",
+            "description": "| +16 | Deportes |\n\nThe most action-packed rounds of PFL 3 2024",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301222050 +0100",
+            "stop_time": "20250302005517 +0100",
+            "title": "Legends of MMA",
+            "description": "| +16 | Deportes |\n\nLegends of MMA Best Fights Compilation",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302005524 +0100",
+            "stop_time": "20250302025720 +0100",
+            "title": "Best Of: Michael Venom Page",
+            "description": "| +16 | Deportes |\n\nMichael Venom Page Best Fights Compilation",
+            "icon": ""
+        }
+    ]
 }

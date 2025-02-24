@@ -1,5 +1,909 @@
 {
     "name": "Gusto TV",
     "tvg_id": "gusto-tv-new",
-    "epg": []
+    "epg": [
+        {
+            "start_time": "20250224160005 +0100",
+            "stop_time": "20250224165958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170005 +0100",
+            "stop_time": "20250224175958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180005 +0100",
+            "stop_time": "20250224185958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190005 +0100",
+            "stop_time": "20250224195958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200005 +0100",
+            "stop_time": "20250224205958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210005 +0100",
+            "stop_time": "20250224215958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220005 +0100",
+            "stop_time": "20250224225958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230005 +0100",
+            "stop_time": "20250224235958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000005 +0100",
+            "stop_time": "20250225005958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010006 +0100",
+            "stop_time": "20250225015959 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020005 +0100",
+            "stop_time": "20250225025958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030005 +0100",
+            "stop_time": "20250225035958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040005 +0100",
+            "stop_time": "20250225045958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050005 +0100",
+            "stop_time": "20250225055958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060005 +0100",
+            "stop_time": "20250225065958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070005 +0100",
+            "stop_time": "20250225075958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080005 +0100",
+            "stop_time": "20250225085958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090005 +0100",
+            "stop_time": "20250225095958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100005 +0100",
+            "stop_time": "20250225105958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110005 +0100",
+            "stop_time": "20250225115958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120005 +0100",
+            "stop_time": "20250225125958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130005 +0100",
+            "stop_time": "20250225135958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140005 +0100",
+            "stop_time": "20250225145958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150005 +0100",
+            "stop_time": "20250225155958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160005 +0100",
+            "stop_time": "20250225165958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170005 +0100",
+            "stop_time": "20250225175958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180005 +0100",
+            "stop_time": "20250225185958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190005 +0100",
+            "stop_time": "20250225195958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200005 +0100",
+            "stop_time": "20250225205958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210005 +0100",
+            "stop_time": "20250225215958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220005 +0100",
+            "stop_time": "20250225225958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230005 +0100",
+            "stop_time": "20250225235958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000005 +0100",
+            "stop_time": "20250226005958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010006 +0100",
+            "stop_time": "20250226015959 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020005 +0100",
+            "stop_time": "20250226025958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030005 +0100",
+            "stop_time": "20250226035958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040005 +0100",
+            "stop_time": "20250226045958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050005 +0100",
+            "stop_time": "20250226055958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060005 +0100",
+            "stop_time": "20250226065958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070005 +0100",
+            "stop_time": "20250226075958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080005 +0100",
+            "stop_time": "20250226085958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090005 +0100",
+            "stop_time": "20250226095958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100005 +0100",
+            "stop_time": "20250226105958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110005 +0100",
+            "stop_time": "20250226115958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120005 +0100",
+            "stop_time": "20250226125958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130005 +0100",
+            "stop_time": "20250226135958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140005 +0100",
+            "stop_time": "20250226145958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150005 +0100",
+            "stop_time": "20250226155958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160005 +0100",
+            "stop_time": "20250226165958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170005 +0100",
+            "stop_time": "20250226175958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180005 +0100",
+            "stop_time": "20250226185958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190005 +0100",
+            "stop_time": "20250226195958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200005 +0100",
+            "stop_time": "20250226205958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210005 +0100",
+            "stop_time": "20250226215958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220005 +0100",
+            "stop_time": "20250226225958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230005 +0100",
+            "stop_time": "20250226235958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000005 +0100",
+            "stop_time": "20250227005958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010006 +0100",
+            "stop_time": "20250227015959 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020005 +0100",
+            "stop_time": "20250227025958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030005 +0100",
+            "stop_time": "20250227035958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040005 +0100",
+            "stop_time": "20250227045958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050005 +0100",
+            "stop_time": "20250227055958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060005 +0100",
+            "stop_time": "20250227065958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070005 +0100",
+            "stop_time": "20250227075958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080005 +0100",
+            "stop_time": "20250227085958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090005 +0100",
+            "stop_time": "20250227095958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100005 +0100",
+            "stop_time": "20250227105958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110005 +0100",
+            "stop_time": "20250227115958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120005 +0100",
+            "stop_time": "20250227125958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130005 +0100",
+            "stop_time": "20250227135958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140005 +0100",
+            "stop_time": "20250227145958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150005 +0100",
+            "stop_time": "20250227155958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160005 +0100",
+            "stop_time": "20250227165958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170005 +0100",
+            "stop_time": "20250227175958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180005 +0100",
+            "stop_time": "20250227185958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190005 +0100",
+            "stop_time": "20250227195958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200005 +0100",
+            "stop_time": "20250227205958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210005 +0100",
+            "stop_time": "20250227215958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220005 +0100",
+            "stop_time": "20250227225958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230005 +0100",
+            "stop_time": "20250227235958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000005 +0100",
+            "stop_time": "20250228005958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010006 +0100",
+            "stop_time": "20250228015959 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020005 +0100",
+            "stop_time": "20250228025958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030005 +0100",
+            "stop_time": "20250228035958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040005 +0100",
+            "stop_time": "20250228045958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050005 +0100",
+            "stop_time": "20250228055958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060005 +0100",
+            "stop_time": "20250228065958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070005 +0100",
+            "stop_time": "20250228075958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080005 +0100",
+            "stop_time": "20250228085958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090005 +0100",
+            "stop_time": "20250228095958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100005 +0100",
+            "stop_time": "20250228105958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110005 +0100",
+            "stop_time": "20250228115958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120005 +0100",
+            "stop_time": "20250228125958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130005 +0100",
+            "stop_time": "20250228135958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140005 +0100",
+            "stop_time": "20250228145958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150005 +0100",
+            "stop_time": "20250228155958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160005 +0100",
+            "stop_time": "20250228165958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170005 +0100",
+            "stop_time": "20250228175958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180005 +0100",
+            "stop_time": "20250228185958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190005 +0100",
+            "stop_time": "20250228195958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200005 +0100",
+            "stop_time": "20250228205958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210005 +0100",
+            "stop_time": "20250228215958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220005 +0100",
+            "stop_time": "20250228225958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230005 +0100",
+            "stop_time": "20250228235958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000005 +0100",
+            "stop_time": "20250301005958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010006 +0100",
+            "stop_time": "20250301015959 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020005 +0100",
+            "stop_time": "20250301025958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030005 +0100",
+            "stop_time": "20250301035958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040005 +0100",
+            "stop_time": "20250301045958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050005 +0100",
+            "stop_time": "20250301055958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060005 +0100",
+            "stop_time": "20250301065958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070005 +0100",
+            "stop_time": "20250301075958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080005 +0100",
+            "stop_time": "20250301085958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090005 +0100",
+            "stop_time": "20250301095958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100005 +0100",
+            "stop_time": "20250301105958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110005 +0100",
+            "stop_time": "20250301115958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120005 +0100",
+            "stop_time": "20250301125958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130005 +0100",
+            "stop_time": "20250301135958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140005 +0100",
+            "stop_time": "20250301145958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150005 +0100",
+            "stop_time": "20250301155958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160005 +0100",
+            "stop_time": "20250301165958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170005 +0100",
+            "stop_time": "20250301175958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180005 +0100",
+            "stop_time": "20250301185958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190005 +0100",
+            "stop_time": "20250301195958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200005 +0100",
+            "stop_time": "20250301205958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210005 +0100",
+            "stop_time": "20250301215958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220005 +0100",
+            "stop_time": "20250301225958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230005 +0100",
+            "stop_time": "20250301235958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000005 +0100",
+            "stop_time": "20250302005958 +0100",
+            "title": "Gusto TV",
+            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
+            "icon": ""
+        }
+    ]
 }

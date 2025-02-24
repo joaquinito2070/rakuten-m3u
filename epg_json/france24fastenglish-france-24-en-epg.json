@@ -1,5 +1,2526 @@
 {
     "name": "France 24 FAST English",
     "tvg_id": "france-24-en",
-    "epg": []
+    "epg": [
+        {
+            "start_time": "20250224163001 +0100",
+            "stop_time": "20250224164500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224164501 +0100",
+            "stop_time": "20250224170000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170001 +0100",
+            "stop_time": "20250224171500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224171501 +0100",
+            "stop_time": "20250224173000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173001 +0100",
+            "stop_time": "20250224174500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224174501 +0100",
+            "stop_time": "20250224180000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180001 +0100",
+            "stop_time": "20250224181500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224181501 +0100",
+            "stop_time": "20250224183000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224183001 +0100",
+            "stop_time": "20250224184500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224184501 +0100",
+            "stop_time": "20250224190000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190001 +0100",
+            "stop_time": "20250224191500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191501 +0100",
+            "stop_time": "20250224193000 +0100",
+            "title": "Business",
+            "description": "| +7 | Noticias |\n\nA daily update on the latest business and economic news.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224193001 +0100",
+            "stop_time": "20250224194500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224194501 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "Truth Or Fake",
+            "description": "| +7 | Noticias |\n\nTruth or Fake is a fact-checking rendez-vous in association with the FRANCE 24 Observers. Our content focuses on false images circulating online and how to identify them.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250224201500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224201501 +0100",
+            "stop_time": "20250224203000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224203001 +0100",
+            "stop_time": "20250224204500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224204501 +0100",
+            "stop_time": "20250224210000 +0100",
+            "title": "Eye On Africa",
+            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210001 +0100",
+            "stop_time": "20250224211500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224211501 +0100",
+            "stop_time": "20250224213000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213001 +0100",
+            "stop_time": "20250224214500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224214501 +0100",
+            "stop_time": "20250224220000 +0100",
+            "title": "Eye On Africa",
+            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220001 +0100",
+            "stop_time": "20250224221500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224221501 +0100",
+            "stop_time": "20250224223000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223001 +0100",
+            "stop_time": "20250224224500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224224501 +0100",
+            "stop_time": "20250224230000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230001 +0100",
+            "stop_time": "20250224231500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224231501 +0100",
+            "stop_time": "20250224233000 +0100",
+            "title": "Focus",
+            "description": "| +7 | Noticias |\n\nOur Focus programme brings you exclusive reports from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133001 +0100",
+            "stop_time": "20250227134500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227134501 +0100",
+            "stop_time": "20250227140000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143001 +0100",
+            "stop_time": "20250227144500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227144501 +0100",
+            "stop_time": "20250227150000 +0100",
+            "title": "Revisited",
+            "description": "| +7 | Noticias |\n\nWe return to places which have been in the news often a long time ago, sometimes recently to see how local people are rebuilding their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150001 +0100",
+            "stop_time": "20250227151500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227151501 +0100",
+            "stop_time": "20250227153000 +0100",
+            "title": "Fashion",
+            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153001 +0100",
+            "stop_time": "20250227154500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227154501 +0100",
+            "stop_time": "20250227160000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227161500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227161501 +0100",
+            "stop_time": "20250227163000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163001 +0100",
+            "stop_time": "20250227164500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227164501 +0100",
+            "stop_time": "20250227170000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170001 +0100",
+            "stop_time": "20250227171500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227171501 +0100",
+            "stop_time": "20250227173000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173001 +0100",
+            "stop_time": "20250227174500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227174501 +0100",
+            "stop_time": "20250227180000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180001 +0100",
+            "stop_time": "20250227181500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227181501 +0100",
+            "stop_time": "20250227183000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227183001 +0100",
+            "stop_time": "20250227184500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227184501 +0100",
+            "stop_time": "20250227190000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190001 +0100",
+            "stop_time": "20250227191500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227191501 +0100",
+            "stop_time": "20250227193000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193001 +0100",
+            "stop_time": "20250227194500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227194501 +0100",
+            "stop_time": "20250227200000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200001 +0100",
+            "stop_time": "20250227201500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227201501 +0100",
+            "stop_time": "20250227203000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203001 +0100",
+            "stop_time": "20250227204500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227204501 +0100",
+            "stop_time": "20250227210000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210001 +0100",
+            "stop_time": "20250227211500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227211501 +0100",
+            "stop_time": "20250227213000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213001 +0100",
+            "stop_time": "20250227214500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227214501 +0100",
+            "stop_time": "20250227220000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220001 +0100",
+            "stop_time": "20250227221500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227221501 +0100",
+            "stop_time": "20250227223000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223001 +0100",
+            "stop_time": "20250227224500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227224501 +0100",
+            "stop_time": "20250227230000 +0100",
+            "title": "Revisited",
+            "description": "| +7 | Noticias |\n\nWe return to places which have been in the news often a long time ago, sometimes recently to see how local people are rebuilding their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230001 +0100",
+            "stop_time": "20250227231500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227231501 +0100",
+            "stop_time": "20250227233000 +0100",
+            "title": "Focus",
+            "description": "| +7 | Noticias |\n\nOur Focus programme brings you exclusive reports from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233001 +0100",
+            "stop_time": "20250227234500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227234501 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228001500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228001501 +0100",
+            "stop_time": "20250228003000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003001 +0100",
+            "stop_time": "20250228004500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228004501 +0100",
+            "stop_time": "20250228010000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010001 +0100",
+            "stop_time": "20250228011500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228011501 +0100",
+            "stop_time": "20250228013000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013001 +0100",
+            "stop_time": "20250228014500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228014501 +0100",
+            "stop_time": "20250228020000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020001 +0100",
+            "stop_time": "20250228021500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228021501 +0100",
+            "stop_time": "20250228023000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023001 +0100",
+            "stop_time": "20250228024500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228024501 +0100",
+            "stop_time": "20250228030000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030001 +0100",
+            "stop_time": "20250228031500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228031501 +0100",
+            "stop_time": "20250228033000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228033001 +0100",
+            "stop_time": "20250228034500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228034501 +0100",
+            "stop_time": "20250228040000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228041500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228041501 +0100",
+            "stop_time": "20250228043000 +0100",
+            "title": "Revisited",
+            "description": "| +7 | Noticias |\n\nWe return to places which have been in the news often a long time ago, sometimes recently to see how local people are rebuilding their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228043001 +0100",
+            "stop_time": "20250228044500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228044501 +0100",
+            "stop_time": "20250228050000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050001 +0100",
+            "stop_time": "20250228051500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228051501 +0100",
+            "stop_time": "20250228053000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053001 +0100",
+            "stop_time": "20250228054500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228054501 +0100",
+            "stop_time": "20250228060000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060001 +0100",
+            "stop_time": "20250228061500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228061501 +0100",
+            "stop_time": "20250228063000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063001 +0100",
+            "stop_time": "20250228064500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228064501 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228071700 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228071701 +0100",
+            "stop_time": "20250228073000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073001 +0100",
+            "stop_time": "20250228074500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228074501 +0100",
+            "stop_time": "20250228080000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080001 +0100",
+            "stop_time": "20250228081500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228081501 +0100",
+            "stop_time": "20250228083000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083001 +0100",
+            "stop_time": "20250228084500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228084501 +0100",
+            "stop_time": "20250228090000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090001 +0100",
+            "stop_time": "20250228091500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228091501 +0100",
+            "stop_time": "20250228093000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093001 +0100",
+            "stop_time": "20250228094500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228094501 +0100",
+            "stop_time": "20250228100000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100001 +0100",
+            "stop_time": "20250228101500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228101501 +0100",
+            "stop_time": "20250228103000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228103001 +0100",
+            "stop_time": "20250228104500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228104501 +0100",
+            "stop_time": "20250228110000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110001 +0100",
+            "stop_time": "20250228111500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228111501 +0100",
+            "stop_time": "20250228113000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113001 +0100",
+            "stop_time": "20250228114500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228114501 +0100",
+            "stop_time": "20250228120000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120001 +0100",
+            "stop_time": "20250228121500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228121501 +0100",
+            "stop_time": "20250228123000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123001 +0100",
+            "stop_time": "20250228124500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228124501 +0100",
+            "stop_time": "20250228130000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130001 +0100",
+            "stop_time": "20250228131500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228131501 +0100",
+            "stop_time": "20250228133000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133001 +0100",
+            "stop_time": "20250228134500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228134501 +0100",
+            "stop_time": "20250228140000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140001 +0100",
+            "stop_time": "20250228141500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228141501 +0100",
+            "stop_time": "20250228143000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228143001 +0100",
+            "stop_time": "20250228144500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228144501 +0100",
+            "stop_time": "20250228150000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150001 +0100",
+            "stop_time": "20250228151500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228151501 +0100",
+            "stop_time": "20250228153000 +0100",
+            "title": "Focus",
+            "description": "| +7 | Noticias |\n\nOur Focus programme brings you exclusive reports from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153001 +0100",
+            "stop_time": "20250228154500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228154501 +0100",
+            "stop_time": "20250228160000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160001 +0100",
+            "stop_time": "20250228161500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228161501 +0100",
+            "stop_time": "20250228163000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163001 +0100",
+            "stop_time": "20250228164500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228164501 +0100",
+            "stop_time": "20250228170000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170001 +0100",
+            "stop_time": "20250228171500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228171501 +0100",
+            "stop_time": "20250228173000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173001 +0100",
+            "stop_time": "20250228174500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228174501 +0100",
+            "stop_time": "20250228180000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180001 +0100",
+            "stop_time": "20250228181500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228181501 +0100",
+            "stop_time": "20250228183000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183001 +0100",
+            "stop_time": "20250228184500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228184501 +0100",
+            "stop_time": "20250228190000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190001 +0100",
+            "stop_time": "20250228191500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228191501 +0100",
+            "stop_time": "20250228193000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193001 +0100",
+            "stop_time": "20250228194500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228194501 +0100",
+            "stop_time": "20250228200000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200001 +0100",
+            "stop_time": "20250228201500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228201501 +0100",
+            "stop_time": "20250228203000 +0100",
+            "title": "Revisited",
+            "description": "| +7 | Noticias |\n\nWe return to places which have been in the news often a long time ago, sometimes recently to see how local people are rebuilding their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228203001 +0100",
+            "stop_time": "20250228204500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228204501 +0100",
+            "stop_time": "20250228210000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210001 +0100",
+            "stop_time": "20250228211500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228211501 +0100",
+            "stop_time": "20250228213000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213001 +0100",
+            "stop_time": "20250228214500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228214501 +0100",
+            "stop_time": "20250228220000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220001 +0100",
+            "stop_time": "20250228221500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221501 +0100",
+            "stop_time": "20250228223000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223001 +0100",
+            "stop_time": "20250228224500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228224501 +0100",
+            "stop_time": "20250228230000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230001 +0100",
+            "stop_time": "20250228231500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228231501 +0100",
+            "stop_time": "20250228233000 +0100",
+            "title": "Focus",
+            "description": "| +7 | Noticias |\n\nOur Focus programme brings you exclusive reports from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233001 +0100",
+            "stop_time": "20250228234500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228234501 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301001500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301001501 +0100",
+            "stop_time": "20250301003000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003001 +0100",
+            "stop_time": "20250301004500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301004501 +0100",
+            "stop_time": "20250301010000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010001 +0100",
+            "stop_time": "20250301011500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301011501 +0100",
+            "stop_time": "20250301013000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301013001 +0100",
+            "stop_time": "20250301014500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301014501 +0100",
+            "stop_time": "20250301020000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020001 +0100",
+            "stop_time": "20250301021500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301021501 +0100",
+            "stop_time": "20250301023000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023001 +0100",
+            "stop_time": "20250301024500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301024501 +0100",
+            "stop_time": "20250301030000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030001 +0100",
+            "stop_time": "20250301031500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301031501 +0100",
+            "stop_time": "20250301033000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301033001 +0100",
+            "stop_time": "20250301034500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301034501 +0100",
+            "stop_time": "20250301040000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040001 +0100",
+            "stop_time": "20250301041500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301041501 +0100",
+            "stop_time": "20250301043000 +0100",
+            "title": "Revisited",
+            "description": "| +7 | Noticias |\n\nWe return to places which have been in the news often a long time ago, sometimes recently to see how local people are rebuilding their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043001 +0100",
+            "stop_time": "20250301044500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301044501 +0100",
+            "stop_time": "20250301050000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050001 +0100",
+            "stop_time": "20250301051500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301051501 +0100",
+            "stop_time": "20250301053000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301053001 +0100",
+            "stop_time": "20250301054500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301054501 +0100",
+            "stop_time": "20250301060000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060001 +0100",
+            "stop_time": "20250301061500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301061501 +0100",
+            "stop_time": "20250301063000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301063001 +0100",
+            "stop_time": "20250301064500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301064501 +0100",
+            "stop_time": "20250301070000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070001 +0100",
+            "stop_time": "20250301071700 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301071701 +0100",
+            "stop_time": "20250301073000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073001 +0100",
+            "stop_time": "20250301074500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301074501 +0100",
+            "stop_time": "20250301080000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080001 +0100",
+            "stop_time": "20250301081500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301081501 +0100",
+            "stop_time": "20250301083000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301083001 +0100",
+            "stop_time": "20250301084500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301084501 +0100",
+            "stop_time": "20250301090000 +0100",
+            "title": "Fashion",
+            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090001 +0100",
+            "stop_time": "20250301091500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301091501 +0100",
+            "stop_time": "20250301093000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301093001 +0100",
+            "stop_time": "20250301094500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301094501 +0100",
+            "stop_time": "20250301100000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100001 +0100",
+            "stop_time": "20250301101500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301101501 +0100",
+            "stop_time": "20250301103000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301103001 +0100",
+            "stop_time": "20250301104500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301104501 +0100",
+            "stop_time": "20250301110000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110001 +0100",
+            "stop_time": "20250301111500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301111501 +0100",
+            "stop_time": "20250301113000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301113001 +0100",
+            "stop_time": "20250301114500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301114501 +0100",
+            "stop_time": "20250301120000 +0100",
+            "title": "The Interview",
+            "description": "| +7 | Noticias |\n\nAn interview with a French or international personality from the world of economics, politics, culture or diplomacy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120001 +0100",
+            "stop_time": "20250301121500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301121501 +0100",
+            "stop_time": "20250301123000 +0100",
+            "title": "Business",
+            "description": "| +7 | Noticias |\n\nA daily update on the latest business and economic news.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301123001 +0100",
+            "stop_time": "20250301124500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124501 +0100",
+            "stop_time": "20250301130000 +0100",
+            "title": "In The Press",
+            "description": "| +7 | Noticias |\n\nAn overview of the stories making the French and international newspaper headlines.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130001 +0100",
+            "stop_time": "20250301131500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301131501 +0100",
+            "stop_time": "20250301133000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133001 +0100",
+            "stop_time": "20250301134500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301134501 +0100",
+            "stop_time": "20250301140000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140001 +0100",
+            "stop_time": "20250301141500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301141501 +0100",
+            "stop_time": "20250301143000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301143001 +0100",
+            "stop_time": "20250301144500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301144501 +0100",
+            "stop_time": "20250301150000 +0100",
+            "title": "The Interview",
+            "description": "| +7 | Noticias |\n\nAn interview with a French or international personality from the world of economics, politics, culture or diplomacy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150001 +0100",
+            "stop_time": "20250301151500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301151501 +0100",
+            "stop_time": "20250301153000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153001 +0100",
+            "stop_time": "20250301154500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301154501 +0100",
+            "stop_time": "20250301160000 +0100",
+            "title": "Fashion",
+            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160001 +0100",
+            "stop_time": "20250301161500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301161501 +0100",
+            "stop_time": "20250301163000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301163001 +0100",
+            "stop_time": "20250301164500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301164501 +0100",
+            "stop_time": "20250301170000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170001 +0100",
+            "stop_time": "20250301171500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301171501 +0100",
+            "stop_time": "20250301173000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301173001 +0100",
+            "stop_time": "20250301174500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301174501 +0100",
+            "stop_time": "20250301180000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180001 +0100",
+            "stop_time": "20250301181500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301181501 +0100",
+            "stop_time": "20250301183000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183001 +0100",
+            "stop_time": "20250301184500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301184501 +0100",
+            "stop_time": "20250301190000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190001 +0100",
+            "stop_time": "20250301191500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301191501 +0100",
+            "stop_time": "20250301193000 +0100",
+            "title": "Business",
+            "description": "| +7 | Noticias |\n\nA daily update on the latest business and economic news.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301193001 +0100",
+            "stop_time": "20250301194500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301194501 +0100",
+            "stop_time": "20250301200000 +0100",
+            "title": "Truth Or Fake",
+            "description": "| +7 | Noticias |\n\nTruth or Fake is a fact-checking rendez-vous in association with the FRANCE 24 Observers. Our content focuses on false images circulating online and how to identify them.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200001 +0100",
+            "stop_time": "20250301201500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301201501 +0100",
+            "stop_time": "20250301203000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301203001 +0100",
+            "stop_time": "20250301204500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301204501 +0100",
+            "stop_time": "20250301210000 +0100",
+            "title": "Eye On Africa",
+            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210001 +0100",
+            "stop_time": "20250301211500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211501 +0100",
+            "stop_time": "20250301213000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301213001 +0100",
+            "stop_time": "20250301214500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301214501 +0100",
+            "stop_time": "20250301220000 +0100",
+            "title": "Eye On Africa",
+            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220001 +0100",
+            "stop_time": "20250301221500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301221501 +0100",
+            "stop_time": "20250301223000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223001 +0100",
+            "stop_time": "20250301224500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301224501 +0100",
+            "stop_time": "20250301230000 +0100",
+            "title": "The Interview",
+            "description": "| +7 | Noticias |\n\nAn interview with a French or international personality from the world of economics, politics, culture or diplomacy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230001 +0100",
+            "stop_time": "20250301231500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301231501 +0100",
+            "stop_time": "20250301233000 +0100",
+            "title": "Focus",
+            "description": "| +7 | Noticias |\n\nOur Focus programme brings you exclusive reports from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233001 +0100",
+            "stop_time": "20250301234500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301234501 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302001500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302001501 +0100",
+            "stop_time": "20250302003000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302003001 +0100",
+            "stop_time": "20250302004500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302004501 +0100",
+            "stop_time": "20250302010000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302010001 +0100",
+            "stop_time": "20250302011500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302011501 +0100",
+            "stop_time": "20250302013000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302013001 +0100",
+            "stop_time": "20250302014500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302014501 +0100",
+            "stop_time": "20250302020000 +0100",
+            "title": "Talking Europe",
+            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020001 +0100",
+            "stop_time": "20250302021500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302021501 +0100",
+            "stop_time": "20250302023000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302023001 +0100",
+            "stop_time": "20250302024500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302024501 +0100",
+            "stop_time": "20250302030000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030001 +0100",
+            "stop_time": "20250302031500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302031501 +0100",
+            "stop_time": "20250302033000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302033001 +0100",
+            "stop_time": "20250302034500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302034501 +0100",
+            "stop_time": "20250302040000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302041500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302041501 +0100",
+            "stop_time": "20250302043000 +0100",
+            "title": "Revisited",
+            "description": "| +7 | Noticias |\n\nWe return to places which have been in the news often a long time ago, sometimes recently to see how local people are rebuilding their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302043001 +0100",
+            "stop_time": "20250302044500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302044501 +0100",
+            "stop_time": "20250302050000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050001 +0100",
+            "stop_time": "20250302051500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302051501 +0100",
+            "stop_time": "20250302053000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302053001 +0100",
+            "stop_time": "20250302054500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302054501 +0100",
+            "stop_time": "20250302060000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302060001 +0100",
+            "stop_time": "20250302061500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302061501 +0100",
+            "stop_time": "20250302063000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302063001 +0100",
+            "stop_time": "20250302064500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302064501 +0100",
+            "stop_time": "20250302070000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302070001 +0100",
+            "stop_time": "20250302071700 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302071701 +0100",
+            "stop_time": "20250302073000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302073001 +0100",
+            "stop_time": "20250302074500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302074501 +0100",
+            "stop_time": "20250302080000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302080001 +0100",
+            "stop_time": "20250302081500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302081501 +0100",
+            "stop_time": "20250302083000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302083001 +0100",
+            "stop_time": "20250302084500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302084501 +0100",
+            "stop_time": "20250302090000 +0100",
+            "title": "Fashion",
+            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090001 +0100",
+            "stop_time": "20250302091500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302091501 +0100",
+            "stop_time": "20250302093000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302093001 +0100",
+            "stop_time": "20250302094500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302094501 +0100",
+            "stop_time": "20250302100000 +0100",
+            "title": "Sports",
+            "description": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100001 +0100",
+            "stop_time": "20250302101500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302101501 +0100",
+            "stop_time": "20250302103000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302103001 +0100",
+            "stop_time": "20250302104500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302104501 +0100",
+            "stop_time": "20250302110000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302110001 +0100",
+            "stop_time": "20250302111500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302111501 +0100",
+            "stop_time": "20250302113000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302113001 +0100",
+            "stop_time": "20250302114500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302114501 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "Fashion",
+            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302121500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302121501 +0100",
+            "stop_time": "20250302123000 +0100",
+            "title": "Business",
+            "description": "| +7 | Noticias |\n\nA daily update on the latest business and economic news.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302123001 +0100",
+            "stop_time": "20250302124500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302124501 +0100",
+            "stop_time": "20250302130000 +0100",
+            "title": "In The Press",
+            "description": "| +7 | Noticias |\n\nAn overview of the stories making the French and international newspaper headlines.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302130001 +0100",
+            "stop_time": "20250302131500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302131501 +0100",
+            "stop_time": "20250302133000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302133001 +0100",
+            "stop_time": "20250302134500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302134501 +0100",
+            "stop_time": "20250302140000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302140001 +0100",
+            "stop_time": "20250302141500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302141501 +0100",
+            "stop_time": "20250302143000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302143001 +0100",
+            "stop_time": "20250302144500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302144501 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302151500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302151501 +0100",
+            "stop_time": "20250302153000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302153001 +0100",
+            "stop_time": "20250302154500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302154501 +0100",
+            "stop_time": "20250302160000 +0100",
+            "title": "Fashion",
+            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302161500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302161501 +0100",
+            "stop_time": "20250302163000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302163001 +0100",
+            "stop_time": "20250302164500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302164501 +0100",
+            "stop_time": "20250302170000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170001 +0100",
+            "stop_time": "20250302171500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302171501 +0100",
+            "stop_time": "20250302173000 +0100",
+            "title": "Reporters",
+            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302173001 +0100",
+            "stop_time": "20250302174500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302174501 +0100",
+            "stop_time": "20250302180000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180001 +0100",
+            "stop_time": "20250302181500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302181501 +0100",
+            "stop_time": "20250302183000 +0100",
+            "title": "The 51 Percent",
+            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302183001 +0100",
+            "stop_time": "20250302184500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302184501 +0100",
+            "stop_time": "20250302190000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190001 +0100",
+            "stop_time": "20250302191500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302191501 +0100",
+            "stop_time": "20250302193000 +0100",
+            "title": "Business",
+            "description": "| +7 | Noticias |\n\nA daily update on the latest business and economic news.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302193001 +0100",
+            "stop_time": "20250302194500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302194501 +0100",
+            "stop_time": "20250302200000 +0100",
+            "title": "Truth Or Fake",
+            "description": "| +7 | Noticias |\n\nTruth or Fake is a fact-checking rendez-vous in association with the FRANCE 24 Observers. Our content focuses on false images circulating online and how to identify them.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200001 +0100",
+            "stop_time": "20250302201500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302201501 +0100",
+            "stop_time": "20250302203000 +0100",
+            "title": "France In Focus",
+            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302203001 +0100",
+            "stop_time": "20250302204500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302204501 +0100",
+            "stop_time": "20250302210000 +0100",
+            "title": "Eye On Africa",
+            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210001 +0100",
+            "stop_time": "20250302211500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302211501 +0100",
+            "stop_time": "20250302213000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302213001 +0100",
+            "stop_time": "20250302214500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302214501 +0100",
+            "stop_time": "20250302220000 +0100",
+            "title": "Eye On Africa",
+            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220001 +0100",
+            "stop_time": "20250302221500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302221501 +0100",
+            "stop_time": "20250302223000 +0100",
+            "title": "People And Profit",
+            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302223001 +0100",
+            "stop_time": "20250302224500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302224501 +0100",
+            "stop_time": "20250302230000 +0100",
+            "title": "French Connections",
+            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302230001 +0100",
+            "stop_time": "20250302231500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302231501 +0100",
+            "stop_time": "20250302233000 +0100",
+            "title": "Focus",
+            "description": "| +7 | Noticias |\n\nOur Focus programme brings you exclusive reports from around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302233001 +0100",
+            "stop_time": "20250302234500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302234501 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "Down To Earth",
+            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303001500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303001501 +0100",
+            "stop_time": "20250303003000 +0100",
+            "title": "The Observers",
+            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303003001 +0100",
+            "stop_time": "20250303004500 +0100",
+            "title": "News",
+            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303004501 +0100",
+            "stop_time": "20250303010000 +0100",
+            "title": "Encore",
+            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
+            "icon": ""
+        }
+    ]
 }
