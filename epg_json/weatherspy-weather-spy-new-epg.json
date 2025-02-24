@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224214838 +0100",
-            "stop_time": "20250224221832 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nMark joins George  and a team of scientists in exploring the world’s largest lava lake - Mount Nyiragongo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224221838 +0100",
-            "stop_time": "20250224224832 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224224838 +0100",
             "stop_time": "20250224231832 +0100",
             "title": "Storm Hunters",

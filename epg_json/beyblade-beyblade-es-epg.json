@@ -3,20 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250224220641 +0100",
-            "stop_time": "20250224223402 +0100",
-            "title": "El juramento del Phoenix",
-            "description": "| +TP | Anime |\n\nGingka un nuevo Digital Power Launcher que calcula su poder de lanzamiento mientras practica y también lleva sus puntos ganados en la batalla. Cuando Tetsuya se disfraza, los engaña para que le den el Bey Pointer de Gingka y trata de huir con él. Phoenix viene al rescate, pero luego desafía la voluntad de Gingka como espadachín, es decir, si realmente estuviera decidido a ganar, cuidaría mejor su puntero.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224223403 +0100",
-            "stop_time": "20250224230124 +0100",
-            "title": "Brilla, Virgo",
-            "description": "| +TP | Anime |\n\nDespués de haber perdido todos sus puntos en un partido anterior con Phoenix, Gingka está decidido a ganar cada partido hasta que llegue a Battle Bladers y finalmente pueda derrotar a Ryuga. En su primer combate, conoce a Teru, un blader que solía ser un bailarín talentoso hasta que estuvo involucrado en un accidente en el escenario.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224230125 +0100",
             "stop_time": "20250224232846 +0100",
             "title": "L-Drago se pone en marcha",

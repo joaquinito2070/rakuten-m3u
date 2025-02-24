@@ -3,20 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250224220001 +0100",
-            "stop_time": "20250224223000 +0100",
-            "title": "Take Me Back to 1992 ...",
-            "description": "| +7 | Deportes |\n\nSam digs into a 1992 Camaro RS project from Ed Morse Automotive Group.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224223001 +0100",
-            "stop_time": "20250224230000 +0100",
-            "title": "Front End Gets Overhauled",
-            "description": "| +7 | Deportes |\n\nMevotech provides a superior front-end suspension upgrade on a 2010 Silverado.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224230001 +0100",
             "stop_time": "20250224233000 +0100",
             "title": "New Wires Are Painless!",

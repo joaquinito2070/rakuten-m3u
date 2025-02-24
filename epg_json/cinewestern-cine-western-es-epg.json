@@ -3,13 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250224205915 +0100",
-            "stop_time": "20250224225851 +0100",
-            "title": "El último de los Apaches",
-            "description": "| +7 | Películas |\n\nUna banda de sádicos vaqueros no deja que nada se interponga en su camino en busca de oro.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224225852 +0100",
             "stop_time": "20250225011547 +0100",
             "title": "Death Alley",

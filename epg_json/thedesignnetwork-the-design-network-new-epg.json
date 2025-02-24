@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250224220001 +0100",
-            "stop_time": "20250224223000 +0100",
-            "title": "Once Upon a Time: Fairy Tale Homes",
-            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224223001 +0100",
-            "stop_time": "20250224230000 +0100",
-            "title": "From Cats to Co-Living: A Place for Everyone",
-            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224230001 +0100",
             "stop_time": "20250224233000 +0100",
             "title": "Innovation, Design and Style: Modern Marvels",

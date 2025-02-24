@@ -3,20 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250224215538 +0100",
-            "stop_time": "20250224222733 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nPeople seem to make a lot of terrible decisions when wearing a costume.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224222739 +0100",
-            "stop_time": "20250224225934 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nGet your fails well done in this episode featuring food and cooking.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224225940 +0100",
             "stop_time": "20250224233134 +0100",
             "title": "FailArmy Playlist",

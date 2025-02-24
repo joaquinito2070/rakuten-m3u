@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224221001 +0100",
-            "stop_time": "20250224223000 +0100",
-            "title": "Movimento - Algas",
-            "description": "| +7 | Deportes |\n\nJoão Kopke and Joana Duarte reveal the sustainable and nutritious power of algae.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224223001 +0100",
-            "stop_time": "20250224231000 +0100",
-            "title": "Issue by Dabble Video Magazine - Season 1 - Dabble Video Mag Issue 19",
-            "description": "| +7 | Deportes |\n\nMark Appleyard and Bryan Herman host iDabble #19 with Lizzie Armanto and fresh skating action.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224231001 +0100",
             "stop_time": "20250224233000 +0100",
             "title": "VITO",

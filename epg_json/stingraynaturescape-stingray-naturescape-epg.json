@@ -3,20 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250224215901 +0100",
-            "stop_time": "20250224225900 +0100",
-            "title": "Above & Below the Caribbean",
-            "description": "| +TP | Estilo de vida |\n\nA static scene of Curacao, Caribbean; featuring swimming fish, passing clouds, and sunshine glistening; filmed by Tilo and Yvonne Kühnast.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224225901 +0100",
-            "stop_time": "20250224231000 +0100",
-            "title": "Above the Fiji Islands II",
-            "description": "| +TP | Estilo de vida |\n\nFiji Yasawa Islands.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224231001 +0100",
             "stop_time": "20250224232500 +0100",
             "title": "Above the Fiji Islands II",

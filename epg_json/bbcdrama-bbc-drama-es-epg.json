@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250224212502 +0100",
-            "stop_time": "20250224222332 +0100",
-            "title": "Episodio 5",
-            "description": "| +13 | Series |\n\nEl equipo se enfrenta a un caso muy inquietante de asesinato y abusos en un hogar infantil.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224222333 +0100",
             "stop_time": "20250224232203 +0100",
             "title": "Episodio 6",

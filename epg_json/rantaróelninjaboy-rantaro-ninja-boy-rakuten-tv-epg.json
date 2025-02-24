@@ -3,20 +3,6 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224214537 +0100",
-            "stop_time": "20250224221507 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Por qué no se duerme?",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/c70b8757-a570-43e4-a461-7378dc0b3680.jpeg"
-        },
-        {
-            "start_time": "20250224221508 +0100",
-            "stop_time": "20250224224438 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los peces de Kyoemaru tercero.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/8df5cc59-c367-498d-a793-9ac59ed39f1d.jpeg"
-        },
-        {
             "start_time": "20250224224439 +0100",
             "stop_time": "20250224231409 +0100",
             "title": "Rantaro, el Ninja Boy",

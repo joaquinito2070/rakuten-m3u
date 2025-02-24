@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224215802 +0100",
-            "stop_time": "20250224222401 +0100",
-            "title": "Tacos de guisado",
-            "description": "| +7 | Cocina y comida |\n\nEstos tacos son clásicos en todo el país.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224222402 +0100",
-            "stop_time": "20250224225001 +0100",
-            "title": "Cadereyta en Querétaro",
-            "description": "| +7 | Cocina y comida |\n\nCadereyta es un pueblo mágico ubicado en el estado de Querétaro.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224225002 +0100",
             "stop_time": "20250224231601 +0100",
             "title": "Val'quirico y Bernal",

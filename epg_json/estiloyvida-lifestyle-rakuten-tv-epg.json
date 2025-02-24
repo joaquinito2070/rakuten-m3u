@@ -3,13 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224203939 +0100",
-            "stop_time": "20250224221539 +0100",
-            "title": "Gipsy Kings",
-            "description": "| +16 | Estilo de vida |\n\nDespués de la reconciliación de Kiki y ‘La Gordita’, los Fernández-Navarro cambiarán su habitual lugar de residencia, Mallorca, para trasladarse hasta Badajoz, donde les espera un evento familiar. El viaje, cómo no, va a convertirse en una total odisea.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/5f2d3ed5-6193-4d03-9615-1df01173faf4.jpeg"
-        },
-        {
             "start_time": "20250224221540 +0100",
             "stop_time": "20250224235502 +0100",
             "title": "Gipsy Kings",

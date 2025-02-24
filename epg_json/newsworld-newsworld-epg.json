@@ -3,20 +3,6 @@
     "tvg_id": "newsworld",
     "epg": [
         {
-            "start_time": "20250224220001 +0100",
-            "stop_time": "20250224223000 +0100",
-            "title": "News",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224223001 +0100",
-            "stop_time": "20250224230000 +0100",
-            "title": "News",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224230001 +0100",
             "stop_time": "20250224233000 +0100",
             "title": "ABC News Mornings",

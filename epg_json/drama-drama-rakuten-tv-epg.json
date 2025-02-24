@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224213632 +0100",
-            "stop_time": "20250224231322 +0100",
-            "title": "La decisión de Gracie",
-            "description": "| +16 | Películas |\n\nUna adolescente intenta criar sola a sus tres hermanastros y una hermanastra después de que su madre, drogadicta, sea enviada a la cárcel.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/56367560-46ba-45de-ab3b-f06fbe510d1e.jpeg"
-        },
-        {
             "start_time": "20250224231323 +0100",
             "stop_time": "20250225010539 +0100",
             "title": "Hermanos",

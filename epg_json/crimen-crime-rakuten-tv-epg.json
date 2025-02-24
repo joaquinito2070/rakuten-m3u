@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224214515 +0100",
-            "stop_time": "20250224224831 +0100",
-            "title": "Miss Fisher's Murder Mysteries",
-            "description": "| +16 | Crime |\n\nLa jovialidad del famoso paseo marítimo de St. Kilda se ve alterada por laviolencia de las luchas entre las bandas y la policía que intenta controlarlas.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/2870a7e6-3943-441d-b3b1-639314f34d8b.jpeg"
-        },
-        {
             "start_time": "20250224224832 +0100",
             "stop_time": "20250224235112 +0100",
             "title": "Miss Fisher's Murder Mysteries",

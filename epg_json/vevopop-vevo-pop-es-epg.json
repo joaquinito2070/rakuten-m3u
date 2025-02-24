@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250224220001 +0100",
-            "stop_time": "20250224230000 +0100",
-            "title": "Made In Spain",
-            "description": "| +16 | Música |\n\n¡La mejor música hecha en España! Disfruta de las mejores voces del país de la mano de decenas de artistas nacionales. ",
-            "icon": ""
-        },
-        {
             "start_time": "20250224230001 +0100",
             "stop_time": "20250225000000 +0100",
             "title": "Momento Chill",

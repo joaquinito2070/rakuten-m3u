@@ -3,13 +3,6 @@
     "tvg_id": "bloomberg-originals",
     "epg": [
         {
-            "start_time": "20250224220005 +0100",
-            "stop_time": "20250224222959 +0100",
-            "title": "Quicktake Geo",
-            "description": "| +12 | Documental |\n\nThe most interesting story of the news cycle, through a global lens.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224223005 +0100",
             "stop_time": "20250225005958 +0100",
             "title": "Take the Lead",

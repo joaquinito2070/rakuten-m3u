@@ -3,13 +3,6 @@
     "tvg_id": "mytime-movie-network-spanish",
     "epg": [
         {
-            "start_time": "20250224204537 +0100",
-            "stop_time": "20250224223056 +0100",
-            "title": "Una oportunidad para el amor",
-            "description": "| +TP | Películas |\n\nUna columnista de historias del corazón reflexiona sobre la pasión y el amor verdadero en su propia vida.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224223057 +0100",
             "stop_time": "20250225001116 +0100",
             "title": "Amor en Bucle",

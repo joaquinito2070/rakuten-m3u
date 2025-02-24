@@ -3,41 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224220407 +0100",
-            "stop_time": "20250224221706 +0100",
-            "title": "Tiro al coco",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224221707 +0100",
-            "stop_time": "20250224223006 +0100",
-            "title": "Viaje en autobús",
-            "description": "| +TP | Infantil |\n\nBean quiere evitar a toda costa almorzar con la mamá de Irma.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224223007 +0100",
-            "stop_time": "20250224224306 +0100",
-            "title": "Telefono Bean",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224224307 +0100",
-            "stop_time": "20250224225605 +0100",
-            "title": "La sombra",
-            "description": "| +TP | Infantil |\n\nMr. Bean cava un agujero en su jardín y... ¡aparece una bomba!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224225606 +0100",
-            "stop_time": "20250224230905 +0100",
-            "title": "Cumpleaños Molesto",
-            "description": "| +TP | Infantil |\n\nEs el cumpleaños de Irma. Bean compra un montón de tarjetas baratas y escribe dos: una bonita y otra tonta.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224230906 +0100",
             "stop_time": "20250224232205 +0100",
             "title": "Vacaciones con Teddy",

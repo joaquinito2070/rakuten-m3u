@@ -3,13 +3,6 @@
     "tvg_id": "motorsport-tv-en",
     "epg": [
         {
-            "start_time": "20250224214343 +0100",
-            "stop_time": "20250224221742 +0100",
-            "title": "2 + 4 = 24 documentary",
-            "description": "| +TP | Deportes |\n\n1 Rider. 1 Driver. 2 Races - each over 24 hours.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224221748 +0100",
             "stop_time": "20250224235518 +0100",
             "title": "Porsche Carrera Cup Middle East",

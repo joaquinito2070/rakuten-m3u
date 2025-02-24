@@ -3,27 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224215957 +0100",
-            "stop_time": "20250224222221 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn parecido a “The Rock” descubre una roca de crac.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224222227 +0100",
-            "stop_time": "20250224224636 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLa policía busca la bicicleta robada de un joven y encuentran a un hombre deshecho pasando un mal tiempo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224224643 +0100",
-            "stop_time": "20250224231022 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna mujer excéntrica comete una violación a las normas de tránsito mientras se dirige al salón de belleza.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224231028 +0100",
             "stop_time": "20250224233437 +0100",
             "title": "Cops en Español",

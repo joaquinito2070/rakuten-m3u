@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224210623 +0100",
-            "stop_time": "20250224223708 +0100",
-            "title": "La última aventura",
-            "description": "| +16 | Películas |\n\nCuando el cirujano retirado Ben Givens descubre que tiene un cáncer terminal, coge a su perro y regresa al hogar de su infancia en el este de Washington, decidido a vivir el final de su vida a su manera.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f18d52ad-0607-41ea-b158-9d06489a440c.jpeg"
-        },
-        {
             "start_time": "20250224223709 +0100",
             "stop_time": "20250225003755 +0100",
             "title": "Zulu",

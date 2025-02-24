@@ -3,13 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250224220001 +0100",
-            "stop_time": "20250224230000 +0100",
-            "title": "Clubbing Experience",
-            "description": "| +12 | Música |\n\nRecorded Live from festivals all around the globe, get a total immersion in the Underground music scene and party with a lot of techno, minimal and house sets",
-            "icon": ""
-        },
-        {
             "start_time": "20250224230001 +0100",
             "stop_time": "20250225000000 +0100",
             "title": "(Y)our House",

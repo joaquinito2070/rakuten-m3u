@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224211339 +0100",
-            "stop_time": "20250224225011 +0100",
-            "title": "Pérez, el ratoncito de tus sueños",
-            "description": "| +12 | Infantil |\n\nLucía vive con sus padres en un barrio tranquilo. La noche que pierde su primer diente, el Ratoncito Pérez no llega a dejarle la moneda. Lucía se preocupa y siente que algo malo le ha sucedido a Pérez. Así pues, decide emprender la búsqueda de Pérez, ayudada por su primo Ramiro.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/72d675c2-93c7-40b9-8c20-ab022cbfadcb-snapshot-1590660542.jpeg"
-        },
-        {
             "start_time": "20250224225012 +0100",
             "stop_time": "20250225002116 +0100",
             "title": "Stubby: un héroe muy especial",

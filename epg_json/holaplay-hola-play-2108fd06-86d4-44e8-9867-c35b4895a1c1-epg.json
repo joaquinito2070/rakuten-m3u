@@ -3,20 +3,6 @@
     "tvg_id": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
     "epg": [
         {
-            "start_time": "20250224215424 +0100",
-            "stop_time": "20250224222359 +0100",
-            "title": "Royals",
-            "description": "| +13 | Estilo de vida |\n\nPolifacética, carismática y rebelde. La Princesa Estefanía de Mónaco, la menor de los hijos de Raniero y Gracia de Mónaco, se ha alejado siempre de cualquier convencionalismo de Palacio.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/53646de0-5635-49ac-83fd-0e95e76a667d-estefania-de-monaco-1626968354.jpeg"
-        },
-        {
-            "start_time": "20250224222400 +0100",
-            "stop_time": "20250224225356 +0100",
-            "title": "Universo Starlite",
-            "description": "| +13 | Estilo de vida |\n\nEn el segundo programa de ‘Universo Starlite’ descubrimos los ritmos más flamencos de la mano de José Mercé o Vanesa Martín y el gran Chucho Valdés se subirá al escenario rodeado de grandes amigos.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/eaf47381-1787-48d0-a2d7-8d98b0bf84db.jpeg"
-        },
-        {
             "start_time": "20250224225357 +0100",
             "stop_time": "20250224232250 +0100",
             "title": "Royals",

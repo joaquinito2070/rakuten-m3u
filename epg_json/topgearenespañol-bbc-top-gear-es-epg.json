@@ -3,20 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250224211320 +0100",
-            "stop_time": "20250224221306 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nJeremy y Stig compiten con dos Caterham 7 en un circuito de Escocia.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224221312 +0100",
-            "stop_time": "20250224231211 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nJeremy, James y Richard se ponen al volante de sus camionetas blancas.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224231217 +0100",
             "stop_time": "20250225000831 +0100",
             "title": "Top Gear UK",
