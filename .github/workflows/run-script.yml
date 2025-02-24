@@ -22,4 +22,4 @@ jobs:
 
     - name: Run script
       run: |
-        python scrape-tubi.py
+        python ./python/scrape-tubi.py
