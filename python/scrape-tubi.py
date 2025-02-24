@@ -331,7 +331,7 @@ def main():
         master_url = channel_info['stream_url']
         tvg_id = channel_info['tvg_id']
         if master_url and master_url != "# no_url":
-            print(f"**DEBUG - Channel Name: {channel_info['name']}, tvg_id: {tvg_id}**") # Añadido DEBUG PRINT
+            print(f"**DEBUG - Channel Name: {channel_info['name']}, tvg_id: {channel_info['tvg_id']}**") # DEBUG PRINT using channel_info['tvg_id']
             print(f"Fetching qualities for channel: {channel_info['name']} from {master_url}")
             channel_info['qualities'] = fetch_m3u8_qualities(master_url)
 
@@ -377,23 +377,10 @@ def main():
         channel_epg = epg_data_map.get(channel_epg_id, [])
 
         future_epg_programs = []  # List to hold future programs
-        # --- ELIMINAR ESTE BLOQUE ENTERO ---
-        # for program in channel_epg:
-        #    try:
-        #        stop_time = datetime.strptime(program['stop_time'], "%Y%m%d%H%M%S %z")
-        #        if stop_time > current_time_utc_main:  # Filter programs in main function too for JSON
-        #            future_epg_programs.append(program)
-        #    except ValueError:
-        #        print(f"Error parsing time for program '{program.get('title', 'No Title')}' in main function. Skipping program for JSON.")
-
-        # channel_info['epg'] = future_epg_programs  # Assign filtered list back
-        # for program in channel_info['epg']:  # Ensure icon key is present in JSON output for future programs
-        #    program['icon'] = program.get('icon')
-        # --- FIN BLOQUE ELIMINADO ---
 
 
         # Generate channel JSON with correct epg_url
-        backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
+        backup_master_url = f"{github_base_url}master/{channel_info['tvg_id']}/master.m3u8" # Using channel_info['tvg_id'] here as well to be extra sure
         channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
         channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json"  # Unique filename
         channel_json_url = f"{github_base_url}{channel_json_filename}"  # Construct JSON URL
