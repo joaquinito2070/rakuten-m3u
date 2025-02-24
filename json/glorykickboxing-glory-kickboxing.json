@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/19757341-1c8d-4668-8b7f-81fb15300e94/0.m3u8",
+            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/af97ee9f-753d-49f0-a0f4-3a77142d6d99/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "1222701",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/19757341-1c8d-4668-8b7f-81fb15300e94/1.m3u8",
+            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/af97ee9f-753d-49f0-a0f4-3a77142d6d99/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "2035016",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/19757341-1c8d-4668-8b7f-81fb15300e94/2.m3u8",
+            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/af97ee9f-753d-49f0-a0f4-3a77142d6d99/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "3046884",
@@ -41,253 +41,6 @@
                 "BANDWIDTH": "3046884",
                 "CLOSED-CAPTIONS": "CC"
             }
-        }
-    ],
-    "epg": [
-        {
-            "start_time": "20250224110417 +0100",
-            "stop_time": "20250224172815 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nA Champ vs. Champ superfight takes place in the main event as GLORY welterweight world champion Chico Kwasi (43-5, 23 KO) puts his title on the line against GLORY lightweight world champ Tyjani Beztati (27-4, 9 KO). In the co-main event, Donovan Wisse (21-1, 10 KO) aims to defend his GLORY middleweight world championship for a fifth time when he welcomes the challenge of top German Sergej Braun (44-13, 27 KO).",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224172821 +0100",
-            "stop_time": "20250224234333 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nA five-round heavyweight title eliminator between the number one ranked contender Levi Rigters (18-2, 8 KO) and ‘The Golden Wolf’ Bahram Rajabzadeh (69-3, 61 KO). The winner will face ‘The King of Kickboxing’ Rico Verhoeven (64-10, 21 KO) on December 7 in the main event of COLLISION 7. In the co-main event of the evening, Tariq ‘Cookie’ Osaro (25-4-1, 13 KO) clashes with Nico ‘Big Sexy’ Horta (23-9, 3 KO) in a monster heavyweight clash with big implication for the rankings. Croatian kickboxing legend Mladen Brestovac (55-14-1, 37 KO) will make his final walk to the ring in his hometown of Zagreb. ‘The Scorpion Sting’ will take on newcomer Karim Dian (16-13, 3 KO) to cap off an illustrious...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224234340 +0100",
-            "stop_time": "20250225060738 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nA Champ vs. Champ superfight takes place in the main event as GLORY welterweight world champion Chico Kwasi (43-5, 23 KO) puts his title on the line against GLORY lightweight world champ Tyjani Beztati (27-4, 9 KO). In the co-main event, Donovan Wisse (21-1, 10 KO) aims to defend his GLORY middleweight world championship for a fifth time when he welcomes the challenge of top German Sergej Braun (44-13, 27 KO).",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225060744 +0100",
-            "stop_time": "20250225124508 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nIn the main event, ‘The King of Kickboxing’ Rico Verhoeven put his GLORY world heavyweight title on the line against number one contender ‘The Prince’ Levi Rigters in a hotly anticipated rematch from their GLORY Grand Prix final earlier this year. GLORY light heavyweight world champion Tarik Khbabez will collide with Donegi Abena in a trilogy fight to end their heated rivalry in the co-main event.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225124515 +0100",
-            "stop_time": "20250225162209 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nEight of the best and most exciting featherweights on the planet go head-to-head in a one-night tournament. GLORY featherweight champion Petch (170-40-3, 27 KO) goes up against former RISE champion Taiju Shiratori (30-10-1, 12 KO), the in-form Berjan Peposhi (30-4, 16 KO) takes on ‘The Korean Monster’ Sunghyun Lee (69-11-2, 17 KO), the always exciting Abraham Vidales (16-3, 13 KO) collides with current RISE champ Chadd Collins (63-17-2, 32 KO), and number one ranked GLORY featherweight Miguel Trindade (59-6, 24 KO) faces RISE great & former GLORY title contender Kento Haraguchi (26-4-1, 17 KO).",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225162216 +0100",
-            "stop_time": "20250225225940 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nIn the main event, ‘The King of Kickboxing’ Rico Verhoeven put his GLORY world heavyweight title on the line against number one contender ‘The Prince’ Levi Rigters in a hotly anticipated rematch from their GLORY Grand Prix final earlier this year. GLORY light heavyweight world champion Tarik Khbabez will collide with Donegi Abena in a trilogy fight to end their heated rivalry in the co-main event.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225225946 +0100",
-            "stop_time": "20250226023640 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nEight of the best and most exciting featherweights on the planet go head-to-head in a one-night tournament. GLORY featherweight champion Petch (170-40-3, 27 KO) goes up against former RISE champion Taiju Shiratori (30-10-1, 12 KO), the in-form Berjan Peposhi (30-4, 16 KO) takes on ‘The Korean Monster’ Sunghyun Lee (69-11-2, 17 KO), the always exciting Abraham Vidales (16-3, 13 KO) collides with current RISE champ Chadd Collins (63-17-2, 32 KO), and number one ranked GLORY featherweight Miguel Trindade (59-6, 24 KO) faces RISE great & former GLORY title contender Kento Haraguchi (26-4-1, 17 KO).",
-            "icon": ""
-        },
-        {
-            "start_time": "20250226023647 +0100",
-            "stop_time": "20250226051025 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250226051032 +0100",
-            "stop_time": "20250226095055 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nGLORY 01: Stockholm from the Ericsson Globe in Stockholm, Sweden on May 26, 2012. This event featured the world title fight for the inaugural Glory Heavyweight championship between Semmy Schilt and Errol Zimmerman as headliner. The event also featured qualification bouts for the Glory 70kg Slam Tournament.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250226095101 +0100",
-            "stop_time": "20250226125248 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nFinal Elimination tournament for the top sixteen Heavyweigh fighters. The winners qualified for the K-1 World GP 2006 Final.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250226125254 +0100",
-            "stop_time": "20250226152632 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250226152638 +0100",
-            "stop_time": "20250226200701 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nGLORY 01: Stockholm from the Ericsson Globe in Stockholm, Sweden on May 26, 2012. This event featured the world title fight for the inaugural Glory Heavyweight championship between Semmy Schilt and Errol Zimmerman as headliner. The event also featured qualification bouts for the Glory 70kg Slam Tournament.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250226200708 +0100",
-            "stop_time": "20250226230855 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nFinal Elimination tournament for the top sixteen Heavyweigh fighters. The winners qualified for the K-1 World GP 2006 Final.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250226230901 +0100",
-            "stop_time": "20250227014239 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227014245 +0100",
-            "stop_time": "20250227034546 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227034553 +0100",
-            "stop_time": "20250227073607 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nThe top 8 Heavyweight kickboxers in the world compete in a 1 day tournament to see who will be crowned World Grand Prix Champion for 2006.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227073614 +0100",
-            "stop_time": "20250227114038 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nFrom the Forest National in Brussels, Belgium on October 6, 2012. This event featured a super fight between Remy Bonjasky and Anderson Silva as headliner, Also this event featured non-tournament super fight series.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227114045 +0100",
-            "stop_time": "20250227134346 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227134353 +0100",
-            "stop_time": "20250227173407 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nThe top 8 Heavyweight kickboxers in the world compete in a 1 day tournament to see who will be crowned World Grand Prix Champion for 2006.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227173414 +0100",
-            "stop_time": "20250227213838 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nFrom the Forest National in Brussels, Belgium on October 6, 2012. This event featured a super fight between Remy Bonjasky and Anderson Silva as headliner, Also this event featured non-tournament super fight series.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227213845 +0100",
-            "stop_time": "20250227234146 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250227234153 +0100",
-            "stop_time": "20250228033207 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nThe top 8 Heavyweight kickboxers in the world compete in a 1 day tournament to see who will be crowned World Grand Prix Champion for 2006.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250228033214 +0100",
-            "stop_time": "20250228055151 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250228055158 +0100",
-            "stop_time": "20250228091636 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nFinal Elimination tournament for the top sixteen Heavyweigh fighters. The winners qualified for the K-1 World GP 2007 Final.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250228091642 +0100",
-            "stop_time": "20250228130247 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nFrom the PaloLottomatica in Rome, Italy on November 3, 2012. This event featured the Glory 70kg Slam Tournament final 8 Quarter Finals, Semifinals and Final. Albert Kraus withdrew from the tournament due to the flu and was replaced by Yoshihiro Sato.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250228130254 +0100",
-            "stop_time": "20250228152231 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250228152238 +0100",
-            "stop_time": "20250228184716 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nFinal Elimination tournament for the top sixteen Heavyweigh fighters. The winners qualified for the K-1 World GP 2007 Final.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250228184723 +0100",
-            "stop_time": "20250228223328 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nFrom the PaloLottomatica in Rome, Italy on November 3, 2012. This event featured the Glory 70kg Slam Tournament final 8 Quarter Finals, Semifinals and Final. Albert Kraus withdrew from the tournament due to the flu and was replaced by Yoshihiro Sato.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250228223335 +0100",
-            "stop_time": "20250301005312 +0100",
-            "title": "Nothing But Bangers",
-            "description": "| +12 | Deportes |\n\n2 hours of nothing but great knockouts and exciting fights.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250301005318 +0100",
-            "stop_time": "20250301041756 +0100",
-            "title": "K1",
-            "description": "| +12 | Deportes |\n\nFinal Elimination tournament for the top sixteen Heavyweigh fighters. The winners qualified for the K-1 World GP 2007 Final.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250301041803 +0100",
-            "stop_time": "20250301084248 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nGLORY 4 Tokyo featured a one-night, single-elimination 16-man Glory Heavyweight Grand Slam Tournament. The winner brought home a $400,000 first-place prize and the runner-up a $100,000 second-place prize.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250301084255 +0100",
-            "stop_time": "20250301133403 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nThe GLORY welterweight title will be on the line in the main event as the reigning & defending champion Endy Semeleer (35-1, 17 KO) welcomes the challenge of top contender Chico Kwasi (42-5, 22 KO). In the co-main event, after his crazy GLORY Heavyweight Grand Prix performance, the wild & exciting Bahram Rajabzadeh (66-2, 58 KO) steps down to light heavyweight and meets the hard-hitting Paris-based Kevin Oumar (33-4, 7 KO), a French kickboxing champion & budding MMA star. Belgian-Moroccan superstar Youssef Boughanem (187-43-8, 119 KO) steps into the GLORY ring for the very first time in his illustrious career as he meets the Ukraine’s Stanislav Kazantsev (25-8-1, 7 KO). The best of French...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250301133409 +0100",
-            "stop_time": "20250301183013 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nDonovan Wisse (20-1, 10 KO) puts his middleweight championship on the line against number one contender Ulric Bokeme (32-4, 17 KO) in the main event of the evening. Wisse is one of the top P4P kickboxers on the planet today and is chasing his fourth straight title defense. After his Grand Prix heroics, the number one ranked heavyweight Levi Rigters (17-2, 8 KO) returns to action to take on dangerous late notice replacement Nico Pereira Horta (22-8, 3 KO) in the co-main event. The ‘King of The Hague’ crown is up for grabs when rivals Michael Boapeah (16-4-1, 7 KO) and Serkan Ozcaglayan (45-9, 36 KO) clash. The two top middleweights meet in this local derby match-up where the winner walks...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250301183020 +0100",
-            "stop_time": "20250301225505 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nGLORY 4 Tokyo featured a one-night, single-elimination 16-man Glory Heavyweight Grand Slam Tournament. The winner brought home a $400,000 first-place prize and the runner-up a $100,000 second-place prize.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250301225512 +0100",
-            "stop_time": "20250302034620 +0100",
-            "title": "GLORY Kickboxing",
-            "description": "| +12 | Deportes |\n\nThe GLORY welterweight title will be on the line in the main event as the reigning & defending champion Endy Semeleer (35-1, 17 KO) welcomes the challenge of top contender Chico Kwasi (42-5, 22 KO). In the co-main event, after his crazy GLORY Heavyweight Grand Prix performance, the wild & exciting Bahram Rajabzadeh (66-2, 58 KO) steps down to light heavyweight and meets the hard-hitting Paris-based Kevin Oumar (33-4, 7 KO), a French kickboxing champion & budding MMA star. Belgian-Moroccan superstar Youssef Boughanem (187-43-8, 119 KO) steps into the GLORY ring for the very first time in his illustrious career as he meets the Ukraine’s Stanislav Kazantsev (25-8-1, 7 KO). The best of French...",
-            "icon": ""
         }
     ],
     "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/glorykickboxing-glory-kickboxing.json",
