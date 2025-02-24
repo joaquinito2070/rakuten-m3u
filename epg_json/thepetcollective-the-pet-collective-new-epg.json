@@ -3,20 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250224195229 +0100",
-            "stop_time": "20250224202323 +0100",
-            "title": "Countdown: The Funniest Pets",
-            "description": "| +7 | Entretenimiento |\n\nWe’ve got creative cats, dancing guinea pigs, and even a yogi who doubles as a horse!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224202329 +0100",
-            "stop_time": "20250224205423 +0100",
-            "title": "Countdown: The Funniest Pets",
-            "description": "| +7 | Entretenimiento |\n\nWe’ve got dogs facing their fears, cats playing with their tails, and a bonus batch of raccoon rascals!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205429 +0100",
             "stop_time": "20250224212623 +0100",
             "title": "We Heart Animals",

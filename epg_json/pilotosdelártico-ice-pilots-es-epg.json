@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250224194419 +0100",
-            "stop_time": "20250224203843 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nDespués de tomar el mando de un puente aéreo intenso y lidiar con la carga de Electra más fea que jamás haya visto.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224203844 +0100",
             "stop_time": "20250224213308 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

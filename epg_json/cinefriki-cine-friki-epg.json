@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250224190153 +0100",
-            "stop_time": "20250224205906 +0100",
-            "title": "The DaVinci Treasure",
-            "description": "| +12 | Películas |\n\nUn antropólogo debe descifrar el código oculto en las obras de Leonardo Da Vinci para encontrar el mayor tesoro de la historia, uno que podría cambiar el cristianismo para siempre.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205907 +0100",
             "stop_time": "20250224225535 +0100",
             "title": "Choque Mortal",

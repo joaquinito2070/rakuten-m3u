@@ -3,27 +3,6 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224194733 +0100",
-            "stop_time": "20250224201703 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Makinosuke preocupado.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/5787cd8b-55cd-47ce-89f5-a4ac76edd2d3.jpeg"
-        },
-        {
-            "start_time": "20250224201704 +0100",
-            "stop_time": "20250224204634 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El misterioso estudiante de intercambio.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/86ab40f2-1a38-4882-9f7b-b6a0891e3d7c.jpeg"
-        },
-        {
-            "start_time": "20250224204635 +0100",
-            "stop_time": "20250224211605 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El enfado.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/ea34fe4e-4de2-462e-a4a5-544244512f47.jpeg"
-        },
-        {
             "start_time": "20250224211606 +0100",
             "stop_time": "20250224214536 +0100",
             "title": "Rantaro, el Ninja Boy",

@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224194040 +0100",
-            "stop_time": "20250224204315 +0100",
-            "title": "Miss Fisher's Murder Mysteries",
-            "description": "| +16 | Crime |\n\nPhryne hace de anfitriona de unos soldados fantasmales y unos espiritistas exóticos. La tía Prudence se deja llevar por la moda del espiritismo y recluta a la famosa señora Bolkonsky para que contacte con su ahijado muerto, el teniente coronel Roland Claremont.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0668f6b6-9dda-4a28-9681-d5f7a7b5736e.jpeg"
-        },
-        {
             "start_time": "20250224204316 +0100",
             "stop_time": "20250224214514 +0100",
             "title": "Miss Fisher's Murder Mysteries",

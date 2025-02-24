@@ -3,27 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224194802 +0100",
-            "stop_time": "20250224201401 +0100",
-            "title": "Venezuela a la plancha",
-            "description": "| +7 | Cocina y comida |\n\nLa chef Ivanova Hidalgo presenta sus platillos venezolanos favoritos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201402 +0100",
-            "stop_time": "20250224204001 +0100",
-            "title": "Cocina Asiática",
-            "description": "| +7 | Cocina y comida |\n\nWasabi, ramen, hondashi, canela coreana y muchos ingredientes asiáticos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224204002 +0100",
-            "stop_time": "20250224210601 +0100",
-            "title": "Tacos para la cruda",
-            "description": "| +7 | Cocina y comida |\n\nFran, taquero de profesión, nos enseña a preparar taquitos para los días de resaca",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210602 +0100",
             "stop_time": "20250224213201 +0100",
             "title": "Tacos con historia",

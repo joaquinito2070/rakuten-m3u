@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224194838 +0100",
-            "stop_time": "20250224201832 +0100",
-            "title": "Extreme Weather Countdown",
-            "description": "| +TP | Estilo de vida |\n\nDo you ever wish you could see all the wackiest weather from around the world, without moving a muscle or lifting a finger? Your wish is our command here on a brand new episode of Extreme Weather Countdown!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201838 +0100",
-            "stop_time": "20250224204832 +0100",
-            "title": "Extreme Weather Countdown",
-            "description": "| +TP | Estilo de vida |\n\nWe have a brand new lineup bursting at the seams with some of the craziest climate events caught on camera.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224204838 +0100",
             "stop_time": "20250224211832 +0100",
             "title": "Sinister Storms",

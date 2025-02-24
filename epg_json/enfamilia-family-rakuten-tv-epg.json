@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224194114 +0100",
-            "stop_time": "20250224211338 +0100",
-            "title": "Pequeños Invasores",
-            "description": "| +12 | Infantil |\n\nLos Pearson son una familia que llega a una casa para pasar las vacaciones de verano. Su periodo de descanso se verá alterado por cuatro alienígenas que llegaron antes que ellos.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/1614209c-01fa-4fa7-a9ec-ab0e61cdf133-snapshot-1590664751.jpeg"
-        },
-        {
             "start_time": "20250224211339 +0100",
             "stop_time": "20250224225011 +0100",
             "title": "Pérez, el ratoncito de tus sueños",

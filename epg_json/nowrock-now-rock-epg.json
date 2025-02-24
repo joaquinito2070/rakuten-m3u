@@ -3,20 +3,6 @@
     "tvg_id": "now-rock",
     "epg": [
         {
-            "start_time": "20250224193001 +0100",
-            "stop_time": "20250224203000 +0100",
-            "title": "80s v 90s Rock Legends!",
-            "description": "| +TP | Música |\n\n30 hit songs, 15 top rock legends - one track as they were in the 80s, and another in the 90s - simple! ",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224203001 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Monsters of Rock! 2000-2009",
-            "description": "| +TP | Música |\n\nA definitive 6 hour marathon of 00s rock anthems in order! From Alien Ant Farm to The Arctic Monkeys, Fall Out Boy to The Foo Fighters, Weezer to the White Stripes. ",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210001 +0100",
             "stop_time": "20250224220000 +0100",
             "title": "Turn Up The Pop Punk Anthems!",

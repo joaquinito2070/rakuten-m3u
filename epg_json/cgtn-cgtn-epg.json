@@ -3,13 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250224173001 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Razor",
-            "description": "| +7 | Asian |\n\nCGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already \"living in the future\"!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210001 +0100",
             "stop_time": "20250224213000 +0100",
             "title": "The World Today",

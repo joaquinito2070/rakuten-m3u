@@ -3,27 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224200409 +0100",
-            "stop_time": "20250224202748 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nSe sorprende mucho la policía cuando un conductor huyente le habla a su esposa durante la persecución.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224202754 +0100",
-            "stop_time": "20250224205133 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn preso en libertad condicional logra escapar de los oficiales por un rato, pero su suerte se acaba.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224205140 +0100",
-            "stop_time": "20250224211404 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLos oficiales detienen a un sospechoso sobrio que tal vez no es del mismo planeta.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224211410 +0100",
             "stop_time": "20250224213619 +0100",
             "title": "Cops en Español",

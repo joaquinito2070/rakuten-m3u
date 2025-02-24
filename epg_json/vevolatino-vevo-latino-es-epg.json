@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Clásicos Latinos",
-            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210001 +0100",
             "stop_time": "20250224220000 +0100",
             "title": "Sonido Urbano",

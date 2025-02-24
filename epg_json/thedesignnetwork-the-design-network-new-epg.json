@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250224203000 +0100",
-            "title": "Architectural Masterpieces",
-            "description": "| +TP | Estilo de vida |\n\nMatthew tours some of the most architecturally significant properties you’ve ever seen.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224203001 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Living in Art: Kaleidoscopic Homes",
-            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210001 +0100",
             "stop_time": "20250224213000 +0100",
             "title": "Container Homes: All Shapes and Sizes",

@@ -3,13 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250224200549 +0100",
-            "stop_time": "20250224205647 +0100",
-            "title": "El juego largo",
-            "description": "| +7 | Series |\n\nEl Doctor investiga un extraño satélite y las habilidades de Adam como asistente se ponen a prueba. Simon Pegg como estrellla invitada.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205648 +0100",
             "stop_time": "20250224214622 +0100",
             "title": "Dia del padre",

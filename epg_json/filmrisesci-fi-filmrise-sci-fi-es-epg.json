@@ -3,20 +3,6 @@
     "tvg_id": "filmrise-sci-fi-es",
     "epg": [
         {
-            "start_time": "20250224192149 +0100",
-            "stop_time": "20250224201548 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nDylan protege a la Andrómeda de los mercenarios mientras Beka comienza a preguntarse si están luchando por el lado equivocado.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201549 +0100",
-            "stop_time": "20250224210947 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nLa tripulación de Andrómeda todavía está aprendiendo a trabajar juntos mientras son atacados por los Restauradores.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210948 +0100",
             "stop_time": "20250224220347 +0100",
             "title": "Andromeda",

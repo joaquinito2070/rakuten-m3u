@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224185357 +0100",
-            "stop_time": "20250224210320 +0100",
-            "title": "El caso Farewell",
-            "description": "| +16 | Películas |\n\nThriller político con una trama brillantemente construida, sin trampas y fiel a los datos históricos, protagonizado por Guillaume Canet y Emir Kusturica. Un ingeniero francés se ve implicado en uno de los asuntos de espionaje más espectaculares del siglo XX, en plena Guerra Fría.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/7ff895aa-78fe-47ac-8d20-54702b83f8f1.jpeg"
-        },
-        {
             "start_time": "20250224210321 +0100",
             "stop_time": "20250224232621 +0100",
             "title": "Los amos de Brooklyn",

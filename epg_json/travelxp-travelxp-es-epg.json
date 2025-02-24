@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250224200448 +0100",
-            "stop_time": "20250224203442 +0100",
-            "title": "Bucket List",
-            "description": "| +7 | Estilo de vida |\n\nDaniel Coll y Paddy Doherty descubren algunos de los mejores lugares de Kyushu para probar licores fuertes locales y bonito, un manjar de marisco local.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224203449 +0100",
-            "stop_time": "20250224210443 +0100",
-            "title": "City Breaks",
-            "description": "| +7 | Estilo de vida |\n\nMachen Sie eine Pause von Ihrer alltäglichen Routine und entdecken Sie, was verschiedene Städte mit City Breaks zu bieten haben.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210449 +0100",
             "stop_time": "20250224213443 +0100",
             "title": "Unwind",

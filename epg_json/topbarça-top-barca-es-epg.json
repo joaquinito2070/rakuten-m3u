@@ -3,13 +3,6 @@
     "tvg_id": "top-barca-es",
     "epg": [
         {
-            "start_time": "20250224174506 +0100",
-            "stop_time": "20250224210602 +0100",
-            "title": "All the goals. 2010/2011 Season",
-            "description": "| +TP | Deportes |\n\nInfo not available",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210603 +0100",
             "stop_time": "20250224235152 +0100",
             "title": "All the goals. Robert Lewandowski",

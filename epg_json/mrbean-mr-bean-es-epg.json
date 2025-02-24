@@ -3,41 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224200618 +0100",
-            "stop_time": "20250224201929 +0100",
-            "title": "Niño artilugios",
-            "description": "| +TP | Infantil |\n\nLa alta tecnología y su poco ingenio dejan a Mr. Bean bloqueado",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201930 +0100",
-            "stop_time": "20250224203242 +0100",
-            "title": "Doble problema",
-            "description": "| +TP | Infantil |\n\nMr. Bean encuentra su alma gemela.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224203243 +0100",
-            "stop_time": "20250224204554 +0100",
-            "title": "Obras en la calle",
-            "description": "| +TP | Infantil |\n\nMr. Bean se distrae por el ruido",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224204555 +0100",
-            "stop_time": "20250224205855 +0100",
-            "title": "La Gran Congelación",
-            "description": "| +TP | Infantil |\n\nBean se despierta en una gélida mañana de invierno y descubre que la caldera está rota.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224205856 +0100",
-            "stop_time": "20250224211207 +0100",
-            "title": "¡Se busca!",
-            "description": "| +TP | Infantil |\n\nUn prisionero escapa de la cárcel y atrapan a Mr. Bean",
-            "icon": ""
-        },
-        {
             "start_time": "20250224211208 +0100",
             "stop_time": "20250224212507 +0100",
             "title": "Cuidando el pez",

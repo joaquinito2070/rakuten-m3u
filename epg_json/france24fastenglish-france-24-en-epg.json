@@ -3,41 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250224201500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201501 +0100",
-            "stop_time": "20250224203000 +0100",
-            "title": "France In Focus",
-            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224203001 +0100",
-            "stop_time": "20250224204500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224204501 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Eye On Africa",
-            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224210001 +0100",
-            "stop_time": "20250224211500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224211501 +0100",
             "stop_time": "20250224213000 +0100",
             "title": "Encore",

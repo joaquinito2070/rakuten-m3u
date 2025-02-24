@@ -3,20 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250224191729 +0100",
-            "stop_time": "20250224201503 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nEl Toyota Aygos se enfrenta a un equipo de VW Fox.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201509 +0100",
-            "stop_time": "20250224211313 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nJames, Richard y Jeremy se toman un descanso de la explosión de caravanas para irse de vacaciones en una.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224211320 +0100",
             "stop_time": "20250224221306 +0100",
             "title": "Top Gear UK",

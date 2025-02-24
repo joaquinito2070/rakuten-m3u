@@ -3,20 +3,6 @@
     "tvg_id": "afv-family",
     "epg": [
         {
-            "start_time": "20250224194950 +0100",
-            "stop_time": "20250224201946 +0100",
-            "title": "Funny Runs In The Family",
-            "description": "| +TP | Entretenimiento |\n\nAFV Family presents the funniest videos from its family of comedy brands AFV, What The Family, Peachy, and Kyoot. Episode 3",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201952 +0100",
-            "stop_time": "20250224204952 +0100",
-            "title": "Funny Videos Now Countdown",
-            "description": "| +TP | Entretenimiento |\n\nFunny Videos Now Countdown does exactly that - we're counting down the funniest home videos from the America's Funniest Home Videos library. With hilarious themed countdown compilations and specialty compilations like \"AFV Extreme\" and \"AFV's How To\" - you'll be laughing all day! Hosted by Henry..",
-            "icon": ""
-        },
-        {
             "start_time": "20250224204958 +0100",
             "stop_time": "20250224214800 +0100",
             "title": "Funny Videos Power Hour",

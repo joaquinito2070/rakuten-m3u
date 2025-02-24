@@ -3,20 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250224195703 +0100",
-            "stop_time": "20250224202534 +0100",
-            "title": "Bakc to School Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224202535 +0100",
-            "stop_time": "20250224205633 +0100",
-            "title": "Tee Off, Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205634 +0100",
             "stop_time": "20250224212642 +0100",
             "title": "Good Night Mr Bean",

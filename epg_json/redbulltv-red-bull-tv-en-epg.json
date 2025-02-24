@@ -3,20 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250224194004 +0100",
-            "stop_time": "20250224201556 +0100",
-            "title": "In the Wings",
-            "description": "| +12 | Deportes |\n\nThrust into the Formula One spotlight during a chaotic Dutch GP, driver Liam Lawson fights to prove himself while simultaneously contending for the Super Formula Japan titles.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224201602 +0100",
-            "stop_time": "20250224205156 +0100",
-            "title": "Milestone",
-            "description": "| +12 | Deportes |\n\nFollow professional snowboarder Eero Ettala behind the scenes as he works on a video part while balancing family life. The film reflects on his achievements throughout his career.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205202 +0100",
             "stop_time": "20250224224112 +0100",
             "title": "Born to Fly",

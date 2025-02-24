@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224181220 +0100",
-            "stop_time": "20250224201526 +0100",
-            "title": "Junglee: Alma Salvaje",
-            "description": "| +16 | Películas |\n\nUn veterano de guerra vuelve a casa, a la reserva de elefantes de su padre, donde tendrá que luchar contra unos cazadores furtivos.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/c4b7b009-e6e7-475d-b0d9-86121eb10795-junglee-1640619448.jpeg"
-        },
-        {
             "start_time": "20250224201527 +0100",
             "stop_time": "20250224223318 +0100",
             "title": "En el nombre del rey",

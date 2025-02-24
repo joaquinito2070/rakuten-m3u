@@ -3,13 +3,6 @@
     "tvg_id": "cgtn-documentary",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Today’s Top Pick",
-            "description": "| +7 | Asian |\n\nDocumentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210001 +0100",
             "stop_time": "20250224220000 +0100",
             "title": "Today’s Top Pick",

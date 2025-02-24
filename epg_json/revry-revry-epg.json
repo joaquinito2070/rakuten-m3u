@@ -3,13 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250224183006 +0100",
-            "stop_time": "20250224203000 +0100",
-            "title": "The Exchange",
-            "description": "| +TP | Entretenimiento |\n\nSabina and Esther's relationship is pushed to the limit when an exchange student comes to stay.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224203006 +0100",
             "stop_time": "20250224223000 +0100",
             "title": "Braking For Whales",

@@ -3,20 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250224203000 +0100",
-            "title": "Nova Gets a New Camshaft",
-            "description": "| +7 | Deportes |\n\nSam installs a new camshaft from Summit Racing in a 1976 Nova.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224203001 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Gauges Get a New Look",
-            "description": "| +7 | Deportes |\n\nSam installs Dakota Digital gauges on his '49 Chevy hemi pickup.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210001 +0100",
             "stop_time": "20250224213000 +0100",
             "title": "PerformaBuilt Perfection",

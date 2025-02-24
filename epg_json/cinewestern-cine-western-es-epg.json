@@ -3,13 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250224185620 +0100",
-            "stop_time": "20250224205914 +0100",
-            "title": "La Promesa del Pistolero",
-            "description": "| +7 | Películas |\n\nTras el asesinato de su mujer y su hijo a manos de un delincuente fugado, el sheriff Matt Austin se dispone a capturarlo, pero descubre que ha sido contratado por un codicioso barón de la tierra que pretende arrebatarle las tierras a una viuda y su hijo.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205915 +0100",
             "stop_time": "20250224225851 +0100",
             "title": "El último de los Apaches",

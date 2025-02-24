@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224192455 +0100",
-            "stop_time": "20250224210622 +0100",
-            "title": "Atraco en Belfast",
-            "description": "| +16 | Películas |\n\nJimbo, un jugador que necesita saldar cuentas con el jefe de la mafia local, roba inadvertidamente en la misma tienda que el mafioso utiliza como fachada, y la pequeña deuda se convierte gigantesca...",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bf01045f-e964-4c56-8f09-45fa09305f55.jpeg"
-        },
-        {
             "start_time": "20250224210623 +0100",
             "stop_time": "20250224223708 +0100",
             "title": "La última aventura",

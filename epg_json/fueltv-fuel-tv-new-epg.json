@@ -3,13 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250224210000 +0100",
-            "title": "Vans Get-N Classic - Vol 3",
-            "description": "| +7 | Deportes |\n\nGet-N Classic, Vol. 3 features breathtaking destinations and phenomenal once in a lifetime waves.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224210001 +0100",
             "stop_time": "20250224213000 +0100",
             "title": "Bubba's World - Season 2 - The Sponsors",

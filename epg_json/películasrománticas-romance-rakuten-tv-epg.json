@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224191631 +0100",
-            "stop_time": "20250224211305 +0100",
-            "title": "Devuélveme mi suerte",
-            "description": "| +16 | Películas |\n\nAshley (Lindsay Lohan) es muy afortunada, tiene muy buena suerte y siempre le ha salido todo bien. Pero un día, Ashley besa a Jake (Chris Pine), el joven con peor suerte de la ciudad, y sus papeles se intercambian...",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/97a5f106-34a7-4774-bf04-24b0c78a2f86.jpeg"
-        },
-        {
             "start_time": "20250224211306 +0100",
             "stop_time": "20250224224939 +0100",
             "title": "Un plan para enamorarse",

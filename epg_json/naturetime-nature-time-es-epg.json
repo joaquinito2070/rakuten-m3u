@@ -3,13 +3,6 @@
     "tvg_id": "nature-time-es",
     "epg": [
         {
-            "start_time": "20250224200224 +0100",
-            "stop_time": "20250224205917 +0100",
-            "title": "Fraser Island",
-            "description": "| +TP | Documental |\n\nShifting sands form a perpetually evolving island full of curious habitats.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205918 +0100",
             "stop_time": "20250224215616 +0100",
             "title": "Elephant Valley",

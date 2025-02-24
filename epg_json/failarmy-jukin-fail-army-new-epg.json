@@ -3,20 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250224194938 +0100",
-            "stop_time": "20250224202032 +0100",
-            "title": "FailArmy Now",
-            "description": "| +TP | Entretenimiento |\n\nWhat do Starvings Artists, Friends and Families have in common? They're all in this episode of FAILARMY NOW.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224202038 +0100",
-            "stop_time": "20250224205132 +0100",
-            "title": "FailArmy Now",
-            "description": "| +TP | Entretenimiento |\n\nWhat do Wagons, Deer and Paint have in common? They're all in this episode of FAILARMY NOW.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224205138 +0100",
             "stop_time": "20250224212332 +0100",
             "title": "FailFactory",
