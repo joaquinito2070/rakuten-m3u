@@ -3,7 +3,7 @@ import json
 import re
 import xml.etree.ElementTree as ET
 from urllib.parse import unquote
-from urllib.parse import urlparse, urlunparse
+from urllib.parse import urlparse, urlunparse, urljoin
 from datetime import datetime, timedelta, timezone
 import unicodedata
 from typing import List
@@ -49,6 +49,7 @@ def fetch_w3u_playlist(url):
                         "logo_url": station.get("image", ""),
                         "group_title": group_name,
                         "stream_url": station.get("url", ""),
+                        "qualities": [] # Initialize qualities list
                     }
                     channels_data.append(channel_info)
             return channels_data
@@ -62,6 +63,34 @@ def fetch_w3u_playlist(url):
     except requests.exceptions.RequestException as e:
         print(f"Error fetching W3U playlist from {url}: {e}")
         return None
+
+def fetch_m3u8_qualities(master_url):
+    qualities = []
+    try:
+        response = requests.get(master_url, timeout=10)
+        response.raise_for_status()
+        m3u8_content = response.text
+        base_url = urlparse(master_url).geturl() # Get base URL for resolving relative URLs
+
+        for line in m3u8_content.splitlines():
+            if line.startswith('#EXT-X-STREAM-INF'):
+                attributes_str = line[len('#EXT-X-STREAM-INF:'):]
+                attributes = {}
+                for attribute in attributes_str.split(','):
+                    if '=' in attribute:
+                        key, value = attribute.split('=', 1)
+                        attributes[key] = value.strip('"')
+                url = next(line for line in m3u8_content.splitlines() if line and not line.startswith('#'))
+                absolute_url = urljoin(base_url, url) # Resolve relative URLs
+                quality_info = {
+                    "url": absolute_url,
+                    "attributes": attributes
+                }
+                qualities.append(quality_info)
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching M3U8 playlist from {master_url}: {e}")
+    return qualities
+
 
 def fetch_epg_xml_data(url):
     try:
@@ -127,7 +156,7 @@ def create_m3u_playlist(channels_data):
 
     for channel_info in channels_data:
         channel_name = channel_info['name']
-        stream_url = channel_info['stream_url']
+        stream_url = channel_info['stream_url'] # Use master URL here
         tvg_id = channel_info['tvg_id']
         logo_url = channel_info['logo_url']
         group_title = channel_info['group_title']
@@ -219,6 +248,12 @@ def main():
         return
 
     print(f"Found {len(channels_data)} channels in W3U playlist.")
+
+    for channel_info in channels_data:
+        master_url = channel_info['stream_url']
+        if master_url and master_url != "# no_url":
+            print(f"Fetching qualities for channel: {channel_info['name']} from {master_url}")
+            channel_info['qualities'] = fetch_m3u8_qualities(master_url)
 
     print(f"Fetching EPG data from: {epg_url}")
     epg_data_map = fetch_epg_xml_data(epg_url)
