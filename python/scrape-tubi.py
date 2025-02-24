@@ -165,7 +165,8 @@ def create_m3u_playlist(channels_data):
 
     for channel_info in channels_data:
         channel_name = channel_info['name']
-        stream_url = channel_info['stream_url']  # Use master URL here
+        # stream_url = channel_info['stream_url']  # Original line
+        stream_url = channel_info['backup_master_url'] # Modified line to use backup URL
         tvg_id = channel_info['tvg_id']
         logo_url = channel_info['logo_url']
         group_title = channel_info['group_title']
@@ -294,6 +295,13 @@ def main():
             master_m3u8_filename = f"master/{tvg_id}/master.m3u8"
             save_file(channel_master_m3u8_content, master_m3u8_filename)
 
+            # Generate channel JSON
+            backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
+            channel_info['backup_master_url'] = backup_master_url # Añadido aquí
+            channel_json_data = create_channel_json_data(channel_info, backup_master_url)
+            channel_json_filename = f"json/{tvg_id}.json"
+            save_json_output(channel_json_data, channel_json_filename)
+
 
     print(f"Fetching EPG data from: {epg_url}")
     epg_data_map = fetch_epg_xml_data(epg_url)
@@ -321,14 +329,14 @@ def main():
         for program in channel_info['epg']:  # Ensure icon key is present in JSON output for future programs
             program['icon'] = program.get('icon')
 
-        # Generate channel JSON  (moved here after EPG data is integrated)
+        # Generate channel JSON
         backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
-        channel_json_data = create_channel_json_data(channel_info, backup_master_url)
-        channel_json_filename = f"json/{tvg_id}.json"
+        channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
+        channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json" # Unique filename
         save_json_output(channel_json_data, channel_json_filename)
 
 
-    # Create M3U playlist and EPG files (original playlist with master urls)
+    # Create M3U playlist and EPG files (original playlist files)
     m3u_playlist = create_m3u_playlist(channels_data)
     epg_tree = create_epg_xml(channels_data, epg_data_map)  # create_epg_xml uses the full epg_data_map, filtered in fetch_epg_xml_data
 
