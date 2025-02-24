@@ -159,8 +159,8 @@ def fetch_epg_xml_data(url):
 
 
 def create_m3u_playlist(channels_data):
-    epg_url_m3u_header = "https://github.com/joaquinito2070/rakuten-m3u/raw/refs/heads/main/rakuten_epg.xml"
-    playlist = f"#EXTM3U url-tvg=\"{epg_url_m3u_header}\"\n"
+    epg_url_m3u_header = "https://github.com/joaquinito2070/rakuten-m3u/raw/refs/heads/main/rakuten_epg.xml" # URL XML EPG M3U header - will be ignored as we are generating JSON EPG now
+    playlist = f"#EXTM3U url-tvg=\"{epg_url_m3u_header}\"\n" # Still include URL for potential compatibility, but JSON EPG will be used.
     seen_urls = set()
 
     for channel_info in channels_data:
@@ -266,7 +266,7 @@ def create_channel_json_data(channel_info, backup_master_url, json_url, epg_url)
         "qualities": channel_info['qualities'],
         "epg": channel_info.get('epg', []), # Use .get to avoid KeyError if 'epg' is missing
         "json_url": json_url, # Added json_url here
-        "epg_url": epg_url # Añadido epg_url aquí
+        "epg_url": epg_url # Añadido epg_url aquí - now for JSON EPG URL
     }
     return channel_json
 
@@ -278,13 +278,41 @@ def create_channel_epg_json_data(channel_info):
     }
     return channel_epg_json
 
+# Nueva función para crear datos EPG en formato JSON
+def create_epg_json_data(channels_data, epg_data_map):
+    epg_json = {"channels": []}  # Estructura JSON principal
+
+    for channel_info in channels_data:
+        channel_epg_data = {
+            "tvg_id": channel_info.get("tvg_id"),
+            "name": channel_info.get("name"),
+            "logo_url": channel_info.get("logo_url"),
+            "programs": []
+        }
+
+        channel_epg_id = channel_info.get("tvg_id")
+        if channel_epg_id in epg_data_map:
+            for program in epg_data_map[channel_epg_id]:
+                program_data = {
+                    "start_time": program.get("start_time"),
+                    "stop_time": program.get("stop_time"),
+                    "title": program.get("title"),
+                    "description": program.get("description"),
+                    "icon": program.get("icon")
+                }
+                channel_epg_data["programs"].append(program_data)
+        epg_json["channels"].append(channel_epg_data)
+
+    return epg_json
+
 
 def main():
     w3u_url = "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/tv/w3u/RakutenTV_tv.w3u"
-    epg_url_value = "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz" # Renombrado para evitar confusión con la variable local epg_url
+    epg_url_value = "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz" # URL XML EPG original
     output_filename_m3u = "rakuten_playlist.m3u"
-    output_filename_epg = "rakuten_epg.xml"
+    output_filename_epg = "rakuten_epg.xml" # Archivo XML EPG (opcional, se puede comentar/eliminar si solo se necesita JSON EPG)
     output_filename_json = "rakuten_channels.json"
+    output_filename_epg_json = "rakuten_epg.json" # Nuevo archivo JSON EPG
     github_base_url = "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/"
 
 
@@ -314,7 +342,7 @@ def main():
             channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
             channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json" # Unique filename
             channel_json_url = f"{github_base_url}{channel_json_filename}" # Construct JSON URL
-            channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, epg_url_value) # Pasar epg_url_value
+            channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, "") # epg_url will be set later, pass empty string for now
             save_json_output(channel_json_data, channel_json_filename)
 
 
@@ -324,7 +352,12 @@ def main():
         print("Failed to fetch or parse EPG data. Continuing without EPG.")
         epg_data_map = {}  # Proceed without EPG if fetch fails
 
-    # Integrate EPG data into channels_data for JSON output
+    # Generar EPG en formato JSON y guardarlo
+    epg_json_data = create_epg_json_data(channels_data, epg_data_map) # Crear datos EPG JSON
+    save_json_output(epg_json_data, output_filename_epg_json) # Guardar archivo JSON EPG
+    epg_json_url = f"{github_base_url}{output_filename_epg_json}" # URL para el archivo EPG JSON
+
+    # Integrate EPG data into channels_data for JSON output and use JSON EPG URL
     current_time_utc_main = datetime.now(timezone.utc)  # Get current time in UTC for main function
 
     for channel_info in channels_data:
@@ -344,28 +377,27 @@ def main():
         for program in channel_info['epg']:  # Ensure icon key is present in JSON output for future programs
             program['icon'] = program.get('icon')
 
-        # Generate channel JSON
+        # Generate channel JSON with correct epg_url
         backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
         channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
         channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json" # Unique filename
         channel_json_url = f"{github_base_url}{channel_json_filename}" # Construct JSON URL
-        channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, epg_url_value) # Pasar epg_url_value
+        channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, epg_json_url) # Pasar epg_json_url (URL del EPG JSON)
         save_json_output(channel_json_data, channel_json_filename)
 
-        # Generate channel EPG JSON
+        # Generate channel EPG JSON (individual channel EPG JSON - keep as is)
         channel_epg_json_data = create_channel_epg_json_data(channel_info)
         channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json" # Unique filename for EPG JSON
         save_json_output(channel_epg_json_data, channel_epg_json_filename)
 
 
-    # Create M3U playlist and EPG files (original playlist files)
+    # Create M3U playlist and EPG files (original playlist files - XML and now also JSON EPG)
     m3u_playlist = create_m3u_playlist(channels_data)
-    epg_tree = create_epg_xml(channels_data, epg_data_map)  # create_epg_xml uses the full epg_data_map, filtered in fetch_epg_xml_data
-
+    # epg_tree = create_epg_xml(channels_data, epg_data_map)  # Archivo XML EPG - opcional, se puede comentar/eliminar
     # Save files (original playlist files)
     save_file(m3u_playlist, output_filename_m3u)
-    save_epg_to_file(epg_tree, output_filename_epg)
-    save_json_output({"channels": channels_data, "epg_url": epg_url_value }, output_filename_json) # Añadido epg_url al JSON general
+    # save_epg_to_file(epg_tree, output_filename_epg) # Archivo XML EPG - opcional, se puede comentar/eliminar
+    save_json_output({"channels": channels_data, "epg_url": epg_json_url }, output_filename_json) # JSON principal con URL al archivo JSON EPG
 
 
 if __name__ == "__main__":
