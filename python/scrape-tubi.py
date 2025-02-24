@@ -204,6 +204,11 @@ def main():
         print("Failed to fetch or parse EPG data. Continuing without EPG.")
         epg_data_map = {} # Proceed without EPG if fetch fails
 
+    # Integrate EPG data into channels_data for JSON output
+    for channel_info in channels_data:
+        channel_epg_id = channel_info['tvg_id']
+        channel_info['epg'] = epg_data_map.get(channel_epg_id, []) # Add EPG data, empty list if no EPG
+
 
     # Create M3U playlist and EPG files
     m3u_playlist = create_m3u_playlist(channels_data)
