@@ -42,13 +42,6 @@
     ],
     "epg": [
         {
-            "start_time": "20250224152001 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "Music Video Hits",
-            "description": "| +12 | Música |\n\nWhere mainstream and underground meet. Let's cross over the genres and let yourself be surprised. Because some electronic music tracks cannot be labeled.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224163000 +0100",
             "title": "From The Studio",

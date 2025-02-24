@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250224150001 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "Buena Onda",
-            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224170000 +0100",
             "title": "Conexión España-Latam",

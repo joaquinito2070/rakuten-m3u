@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/d25b5deb-f2bf-11ef-a896-46e58511e0f4/167/640x360_1020800/index.m3u8",
+            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/4168ad97-f2c0-11ef-beed-6ac07bd482b4/71/640x360_1020800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1020800",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/d25b5deb-f2bf-11ef-a896-46e58511e0f4/167/848x480_1249600/index.m3u8",
+            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/4168ad97-f2c0-11ef-beed-6ac07bd482b4/71/848x480_1249600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1249600",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/d25b5deb-f2bf-11ef-a896-46e58511e0f4/167/1280x720_3801600/index.m3u8",
+            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/4168ad97-f2c0-11ef-beed-6ac07bd482b4/71/1280x720_3801600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3801600",
@@ -44,13 +44,6 @@
         }
     ],
     "epg": [
-        {
-            "start_time": "20250224151501 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "1989 Unleashed!",
-            "description": "| +TP | Música |\n\nDramatic storylines, big dance routines, neon lights & iconic fashions - these are the classic music videos that made 1989!",
-            "icon": ""
-        },
         {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224170000 +0100",

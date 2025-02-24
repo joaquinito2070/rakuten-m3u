@@ -3,13 +3,6 @@
     "tvg_id": "newsworld",
     "epg": [
         {
-            "start_time": "20250224153001 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "The News",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224163000 +0100",
             "title": "Martin Daubney",

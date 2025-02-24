@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/aaec6b0e-3cf2-48f7-a661-f0d479470616/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6df4b2c5-3838-43b5-a2bf-7c784bf3f8c0/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "RESOLUTION": "768x432",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/aaec6b0e-3cf2-48f7-a661-f0d479470616/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6df4b2c5-3838-43b5-a2bf-7c784bf3f8c0/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
@@ -26,13 +26,6 @@
         }
     ],
     "epg": [
-        {
-            "start_time": "20250224120001 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "Stingray Remember the '80s",
-            "description": "| +TP | Música |\n\nRelive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
-            "icon": ""
-        },
         {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224200000 +0100",

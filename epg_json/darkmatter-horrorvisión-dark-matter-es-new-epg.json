@@ -3,13 +3,6 @@
     "tvg_id": "dark-matter-es-new",
     "epg": [
         {
-            "start_time": "20250224155130 +0100",
-            "stop_time": "20250224160102 +0100",
-            "title": "Chain Letter",
-            "description": "| +12 | Películas |\n\nSix friends receive a mysterious chain letter via text and email from a maniac who hunts down those who delete the message. Who knew they should take the threats in the chain letter seriously or that their favorite technologies could help track and kill them? This maniacal game pits friend against friend as they try to escape the impossible. Break the chain, lose a life.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160103 +0100",
             "stop_time": "20250224174731 +0100",
             "title": "Pruebas Concluyentes",

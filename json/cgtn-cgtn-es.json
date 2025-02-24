@@ -49,13 +49,6 @@
     ],
     "epg": [
         {
-            "start_time": "20250224153001 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "HORA INFANTIL",
-            "description": "| +7 | Asian |\n\nUna selección de las mejores series chinas de dibujos animados, dobladas al español. Hora Infantil es una ventana a través de la cual los niños y adolescentes de los países de habla hispana pueden llegar a comprender mejor qué es y cómo es China.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224163000 +0100",
             "title": "CAFÉ DE CGTN",

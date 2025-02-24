@@ -3,13 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250224153001 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224163000 +0100",
             "title": "Razor",

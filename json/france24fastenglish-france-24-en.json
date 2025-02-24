@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/d96a1cf6-f2bf-11ef-bbf8-2a45dd8d5bdd/192/640x360_1057680/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/45f1bdfd-f2c0-11ef-a773-9230de5ee1ed/41/640x360_1057680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1057680",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/d96a1cf6-f2bf-11ef-bbf8-2a45dd8d5bdd/192/848x480_1686360/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/45f1bdfd-f2c0-11ef-a773-9230de5ee1ed/41/848x480_1686360/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1686360",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/d96a1cf6-f2bf-11ef-bbf8-2a45dd8d5bdd/192/1280x720_3329040/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/45f1bdfd-f2c0-11ef-a773-9230de5ee1ed/41/1280x720_3329040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3329040",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/d96a1cf6-f2bf-11ef-bbf8-2a45dd8d5bdd/192/1920x1080_6046040/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/45f1bdfd-f2c0-11ef-a773-9230de5ee1ed/41/1920x1080_6046040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "6046040",
@@ -52,13 +52,6 @@
         }
     ],
     "epg": [
-        {
-            "start_time": "20250224154501 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "Fashion",
-            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
-            "icon": ""
-        },
         {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224161500 +0100",

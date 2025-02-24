@@ -3,13 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250224154501 +0100",
-            "stop_time": "20250224160000 +0100",
-            "title": "Fashion",
-            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160001 +0100",
             "stop_time": "20250224161500 +0100",
             "title": "News",

@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/5b94c90a-a760-44b1-a4c2-f59f423fcbe5/0.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/0670778b-699e-4f8b-9e11-418ab43c8b54/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/5b94c90a-a760-44b1-a4c2-f59f423fcbe5/1.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/0670778b-699e-4f8b-9e11-418ab43c8b54/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/5b94c90a-a760-44b1-a4c2-f59f423fcbe5/2.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/0670778b-699e-4f8b-9e11-418ab43c8b54/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
@@ -35,13 +35,6 @@
         }
     ],
     "epg": [
-        {
-            "start_time": "20250224153328 +0100",
-            "stop_time": "20250224160133 +0100",
-            "title": "Yu-Gi-Oh! ZEXAL",
-            "description": "| +7 | Anime |\n\nYuma challenges Professor Kitano, who is behind it all. Professor Kitano notes that each time he reduces his opponent's Life Points with \"Electronic Computer-Beast Tera Byte\" Astral's body weakens, causing him to slowly vanish! To make things worse, the Explosive Virus Time Bomb Ukyo has set is slowly reaching its countdown.",
-            "icon": ""
-        },
         {
             "start_time": "20250224160140 +0100",
             "stop_time": "20250224162815 +0100",

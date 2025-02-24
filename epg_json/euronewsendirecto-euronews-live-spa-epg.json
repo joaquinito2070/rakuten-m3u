@@ -3,13 +3,6 @@
     "tvg_id": "euronews-live-spa",
     "epg": [
         {
-            "start_time": "20250224153000 +0100",
-            "stop_time": "20250224155959 +0100",
-            "title": "Euronews EN DIRECTO",
-            "description": "| +12 | Noticias |\n\nEl canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224160000 +0100",
             "stop_time": "20250224162959 +0100",
             "title": "Euronews EN DIRECTO",
