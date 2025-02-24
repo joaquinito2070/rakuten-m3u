@@ -316,8 +316,8 @@ def main():
     output_filename_rakuten_epg_json_list = "rakuten_epg_json.json" # NUEVO archivo JSON con URLs de EPG JSON de canales
     github_base_url = "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/"
 
-    channel_json_urls = [] # Inicializar la lista para guardar las URLs de los JSON de canal
-    channel_epg_json_urls = [] # Inicializar la lista para guardar las URLs de los JSON de EPG de canal
+    channel_json_urls = []  # Inicializar la lista para guardar las URLs de los JSON de canal
+    channel_epg_json_urls = []  # Inicializar la lista para guardar las URLs de los JSON de EPG de canal
 
     print(f"Fetching W3U playlist from: {w3u_url}")
     channels_data = fetch_w3u_playlist(w3u_url)
@@ -341,32 +341,33 @@ def main():
             save_file(channel_master_m3u8_content, master_m3u8_filename)
 
             # Generate channel JSON filename and URL
-            backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
+            # Corrected line to use channel_info['tvg_id']
+            backup_master_url = f"{github_base_url}master/{channel_info['tvg_id']}/master.m3u8"
             channel_info['backup_master_url'] = backup_master_url
             channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
-            channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json" # Unique filename
-            channel_json_url = f"{github_base_url}{channel_json_filename}" # Construct JSON URL
+            channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json"  # Unique filename
+            channel_json_url = f"{github_base_url}{channel_json_filename}"  # Construct JSON URL
             channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, "") # epg_url will be set later, pass empty string for now
             save_json_output(channel_json_data, channel_json_filename)
 
-            channel_json_urls.append(channel_json_url) # Añadir la URL del JSON del canal a la lista
+            channel_json_urls.append(channel_json_url)  # Añadir la URL del JSON del canal a la lista
 
             # Generate channel EPG JSON filename and URL
-            channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json" # Unique filename for EPG JSON
-            channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}" # URL para el archivo EPG JSON de canal
-            channel_epg_json_urls.append(channel_epg_json_url) # Añadir la URL del JSON de EPG del canal a la lista
+            channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json"  # Unique filename for EPG JSON
+            channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}"  # URL para el archivo EPG JSON de canal
+            channel_epg_json_urls.append(channel_epg_json_url)  # Añadir la URL del JSON de EPG del canal a la lista
 
 
-    print(f"Fetching EPG data from: {epg_url_value}") # Usar epg_url_value
-    epg_data_map = fetch_epg_xml_data(epg_url_value) # Usar epg_url_value
+    print(f"Fetching EPG data from: {epg_url_value}")  # Usar epg_url_value
+    epg_data_map = fetch_epg_xml_data(epg_url_value)  # Usar epg_url_value
     if not epg_data_map:
         print("Failed to fetch or parse EPG data. Continuing without EPG.")
         epg_data_map = {}  # Proceed without EPG if fetch fails
 
     # Generar EPG en formato JSON y guardarlo
-    epg_json_data = create_epg_json_data(channels_data, epg_data_map) # Crear datos EPG JSON
-    save_json_output(epg_json_data, output_filename_epg_json) # Guardar archivo JSON EPG
-    epg_json_url = f"{github_base_url}{output_filename_epg_json}" # URL para el archivo EPG JSON
+    epg_json_data = create_epg_json_data(channels_data, epg_data_map)  # Crear datos EPG JSON
+    save_json_output(epg_json_data, output_filename_epg_json)  # Guardar archivo JSON EPG
+    epg_json_url = f"{github_base_url}{output_filename_epg_json}"  # URL para el archivo EPG JSON
 
     # Integrate EPG data into channels_data for JSON output and use JSON EPG URL
     current_time_utc_main = datetime.now(timezone.utc)  # Get current time in UTC for main function
@@ -378,41 +379,41 @@ def main():
         future_epg_programs = []  # List to hold future programs
         # --- ELIMINAR ESTE BLOQUE ENTERO ---
         # for program in channel_epg:
-        #     try:
-        #         stop_time = datetime.strptime(program['stop_time'], "%Y%m%d%H%M%S %z")
-        #         if stop_time > current_time_utc_main:  # Filter programs in main function too for JSON
-        #             future_epg_programs.append(program)
-        #     except ValueError:
-        #         print(f"Error parsing time for program '{program.get('title', 'No Title')}' in main function. Skipping program for JSON.")
+        #    try:
+        #        stop_time = datetime.strptime(program['stop_time'], "%Y%m%d%H%M%S %z")
+        #        if stop_time > current_time_utc_main:  # Filter programs in main function too for JSON
+        #            future_epg_programs.append(program)
+        #    except ValueError:
+        #        print(f"Error parsing time for program '{program.get('title', 'No Title')}' in main function. Skipping program for JSON.")
 
         # channel_info['epg'] = future_epg_programs  # Assign filtered list back
         # for program in channel_info['epg']:  # Ensure icon key is present in JSON output for future programs
-        #     program['icon'] = program.get('icon')
+        #    program['icon'] = program.get('icon')
         # --- FIN BLOQUE ELIMINADO ---
 
 
         # Generate channel JSON with correct epg_url
         backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
         channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
-        channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json" # Unique filename
-        channel_json_url = f"{github_base_url}{channel_json_filename}" # Construct JSON URL
+        channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json"  # Unique filename
+        channel_json_url = f"{github_base_url}{channel_json_filename}"  # Construct JSON URL
         channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, epg_json_url) # Pasar epg_json_url (URL del EPG JSON)
         save_json_output(channel_json_data, channel_json_filename)
 
         # Generate channel EPG JSON (individual channel EPG JSON - keep as is)
         channel_epg_json_data = create_channel_epg_json_data(channel_info)
-        channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json" # Unique filename for EPG JSON
-        channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}" # URL para el archivo EPG JSON de canal - REUTILIZANDO VARIABLE PARA URL
+        channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json"  # Unique filename for EPG JSON
+        channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}"  # URL para el archivo EPG JSON de canal - REUTILIZANDO VARIABLE PARA URL
         # save_json_output(channel_epg_json_data, channel_epg_json_filename) # YA SE GUARDA ANTES - NO VOLVER A GUARDAR
 
 
     # Crear el archivo rakuten_json.json con la lista de URLs de los JSON de canal
-    rakuten_json_content = {"channel_json_urls": channel_json_urls} # Crear el contenido JSON con la lista de URLs de canal
-    save_json_output(rakuten_json_content, output_filename_rakuten_json) # Guardar rakuten_json.json
+    rakuten_json_content = {"channel_json_urls": channel_json_urls}  # Crear el contenido JSON con la lista de URLs de canal
+    save_json_output(rakuten_json_content, output_filename_rakuten_json)  # Guardar rakuten_json.json
 
     # Crear el archivo rakuten_epg_json.json con la lista de URLs de los JSON de EPG de canal
-    rakuten_epg_json_list_content = {"channel_epg_json_urls": channel_epg_json_urls} # Crear el contenido JSON con la lista de URLs de EPG JSON de canal
-    save_json_output(rakuten_epg_json_list_content, output_filename_rakuten_epg_json_list) # Guardar rakuten_epg_json.json
+    rakuten_epg_json_list_content = {"channel_epg_json_urls": channel_epg_json_urls}  # Crear el contenido JSON con la lista de URLs de EPG JSON de canal
+    save_json_output(rakuten_epg_json_list_content, output_filename_rakuten_epg_json_list)  # Guardar rakuten_epg_json.json
 
 
     # Create M3U playlist and EPG files (original playlist files - XML and now also JSON EPG)
