@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/21c48549-237c-402f-b1bf-9263dacfc1bb/0.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/a8aa4a65-efaa-4ab4-ae7c-a4c5c8c73a34/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "5825600",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/21c48549-237c-402f-b1bf-9263dacfc1bb/1.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/a8aa4a65-efaa-4ab4-ae7c-a4c5c8c73a34/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1315600",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/21c48549-237c-402f-b1bf-9263dacfc1bb/2.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/a8aa4a65-efaa-4ab4-ae7c-a4c5c8c73a34/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "AVERAGE-BANDWIDTH": "765600",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/21c48549-237c-402f-b1bf-9263dacfc1bb/3.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/a8aa4a65-efaa-4ab4-ae7c-a4c5c8c73a34/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64000d",
                 "AVERAGE-BANDWIDTH": "435600",
@@ -56,13 +56,6 @@
         }
     ],
     "epg": [
-        {
-            "start_time": "20250224153938 +0100",
-            "stop_time": "20250224161032 +0100",
-            "title": "FailArmy Trivia",
-            "description": "| +TP | Entretenimiento |\n\nGrab your shades and sunscreen, it's time to test your smarts with a summer themed edition of FailArmy Trivia!",
-            "icon": ""
-        },
         {
             "start_time": "20250224161038 +0100",
             "stop_time": "20250224164132 +0100",
