@@ -1,6 +1,9 @@
 name: Run Script
 
-on: [push]
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour at the 0th minute
+  push:
 
 jobs:
   run-script:
@@ -30,4 +33,3 @@ jobs:
         git add .
         git diff-index --quiet HEAD || git commit -m "Automated update by GitHub Actions"
         git push
-# Fixed.
