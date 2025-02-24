@@ -403,7 +403,7 @@ def main():
         for channel in channels:
             stream_url = stream_url_map.get(channel.id, "")
             if not stream_url or stream_url == "# no_url":
-                print(f"No stream URL found for channel {channel.title} ({channel.id}), skipping.")
+                print(f"No stream URL found for channel {channel.title} ({channel.id}) due to API errors, skipping.") # More informative message
                 continue
 
             channel_info = {
