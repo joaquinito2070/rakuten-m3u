@@ -85,13 +85,17 @@ def fetch_epg_xml_data(url):
             title_text = title_element.text if title_element is not None else "No Title"
             desc_element = program_element.find('desc')
             desc_text = desc_element.text if desc_element is not None else "No Description"
+            icon_element = program_element.find('icon')
+            icon_src = icon_element.get('src') if icon_element is not None else None
+
 
             if channel_epg_id in epg_data:
                 epg_data[channel_epg_id].append({
                     "start_time": start_time,
                     "stop_time": stop_time,
                     "title": title_text,
-                    "description": desc_text
+                    "description": desc_text,
+                    "icon": icon_src  # Add icon source
                 })
 
         return epg_data
@@ -156,6 +160,11 @@ def create_epg_xml(channels_data, epg_data_map):
                     desc = ET.SubElement(programme, "desc")
                     desc.text = program.get("description", "")
 
+                program_icon_src = program.get("icon")  # Get program icon src from epg_data_map
+                if program_icon_src: # Add icon only if src exists
+                    icon_element = ET.SubElement(programme, "icon", src=program_icon_src)
+
+
     tree = ET.ElementTree(root)
     return tree
 
@@ -211,7 +220,10 @@ def main():
     # Integrate EPG data into channels_data for JSON output
     for channel_info in channels_data:
         channel_epg_id = channel_info['tvg_id']
-        channel_info['epg'] = epg_data_map.get(channel_epg_id, []) # Add EPG data, empty list if no EPG
+        channel_info['epg'] = epg_data_map.get(channel_epg_id, [])
+        # Add icon to EPG data in channels_data for JSON
+        for program in channel_info['epg']: # Iterate through programs for each channel
+            program['icon'] = program.get('icon') # Ensure icon key is present in JSON output
 
 
     # Create M3U playlist and EPG files
