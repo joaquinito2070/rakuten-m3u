@@ -264,7 +264,6 @@ def create_channel_json_data(channel_info, backup_master_url, json_url, epg_url)
         "original_master_url": channel_info['stream_url'],
         "backup_master_url": backup_master_url,
         "qualities": channel_info['qualities'],
-        "epg": channel_info.get('epg', []), # Use .get to avoid KeyError if 'epg' is missing
         "json_url": json_url, # Added json_url here
         "epg_url": epg_url # Añadido epg_url aquí - now for JSON EPG URL
     }
@@ -377,17 +376,20 @@ def main():
         channel_epg = epg_data_map.get(channel_epg_id, [])
 
         future_epg_programs = []  # List to hold future programs
-        for program in channel_epg:
-            try:
-                stop_time = datetime.strptime(program['stop_time'], "%Y%m%d%H%M%S %z")
-                if stop_time > current_time_utc_main:  # Filter programs in main function too for JSON
-                    future_epg_programs.append(program)
-            except ValueError:
-                print(f"Error parsing time for program '{program.get('title', 'No Title')}' in main function. Skipping program for JSON.")
+        # --- ELIMINAR ESTE BLOQUE ENTERO ---
+        # for program in channel_epg:
+        #     try:
+        #         stop_time = datetime.strptime(program['stop_time'], "%Y%m%d%H%M%S %z")
+        #         if stop_time > current_time_utc_main:  # Filter programs in main function too for JSON
+        #             future_epg_programs.append(program)
+        #     except ValueError:
+        #         print(f"Error parsing time for program '{program.get('title', 'No Title')}' in main function. Skipping program for JSON.")
 
-        channel_info['epg'] = future_epg_programs  # Assign filtered list back
-        for program in channel_info['epg']:  # Ensure icon key is present in JSON output for future programs
-            program['icon'] = program.get('icon')
+        # channel_info['epg'] = future_epg_programs  # Assign filtered list back
+        # for program in channel_info['epg']:  # Ensure icon key is present in JSON output for future programs
+        #     program['icon'] = program.get('icon')
+        # --- FIN BLOQUE ELIMINADO ---
+
 
         # Generate channel JSON with correct epg_url
         backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
