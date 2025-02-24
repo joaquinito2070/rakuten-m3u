@@ -1,0 +1,59 @@
+{
+    "name": "Ideas en 5 minutos",
+    "tvg_id": "5-minutes-craft-es",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=47513655-f84a-4892-b55d-5882bb81a6b2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/5-minutes-craft-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a984cdc335b6f564031c94b8a6100c68b2cb503607e4569ccc9e42edb9b100eb78e0e2a2099403f00aa4d7a81780275d0d619008433bb7c09618d630d0e66dee77c97480391c365df2a6fd2fe880e65201e7dac676ce4aa7699c0b00906b738f4f7451bc04001aec217ebe12688c781099466bc4fa040defdb2cf9549d6a4a9599f55b565510d7b27ddea1592cd4e89ca956d06886838436c218cd183f24f258355535dfffaf4b26cfb01c18529db215dc3019c5cbb229e7d950aa8ef5aa5a3afe04e4037a3d15a6622d280cae9e82532e71491c8e8d9604394f7067342dd1fbc48493d83a78a7efec2118589208aba7d1836d4ae46979ca190e6b684499d31c3c8faea5e282f335e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543619d3d804a5797cb8df98bcda002db806713ef872d65f5f36a6446d78f612ea8e2e69882b038b3202f25c47c628b8ec7ba0f688b3536ef8d89f16fe22bbed5380bb00fc38381457ebaa7e5d47142cd1b8645f6a03a928e5d7d9de621a05fec8d9e7d0564a6e5370440598ebf37f89bc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748929e8c9fbd23607bb0d039755baa999f91f0df368a6b5e3a9c91a5186/135/640x360_871200/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "871200",
+                "AVERAGE-BANDWIDTH": "840400",
+                "CODECS": "avc1.4d4029",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a984cdc335b6f564031c94b8a6100c68b2cb503607e4569ccc9e42edb9b100eb78e0e2a2099403f00aa4d7a81780275d0d619008433bb7c09618d630d0e66dee77c97480391c365df2a6fd2fe880e65201e7dac676ce4aa7699c0b00906b738f4f7451bc04001aec217ebe12688c781099466bc4fa040defdb2cf9549d6a4a9599f55b565510d7b27ddea1592cd4e89ca956d06886838436c218cd183f24f258355535dfffaf4b26cfb01c18529db215dc3019c5cbb229e7d950aa8ef5aa5a3afe04e4037a3d15a6622d280cae9e82532e71491c8e8d9604394f7067342dd1fbc48493d83a78a7efec2118589208aba7d1836d4ae46979ca190e6b684499d31c3c8faea5e282f335e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543619d3d804a5797cb8df98bcda002db806713ef872d65f5f36a6446d78f612ea8e2e69882b038b3202f25c47c628b8ec7ba0f688b3536ef8d89f16fe22bbed5380bb00fc38381457ebaa7e5d47142cd1b8645f6a03a928e5d7d9de621a05fec8d9e7d0564a6e5370440598ebf37f89bc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748929e8c9fbd23607bb0d039755baa999f91f0df368a6b5e3a9c91a5186/135/854x480_1478400/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1478400",
+                "AVERAGE-BANDWIDTH": "1425600",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "854x480",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a984cdc335b6f564031c94b8a6100c68b2cb503607e4569ccc9e42edb9b100eb78e0e2a2099403f00aa4d7a81780275d0d619008433bb7c09618d630d0e66dee77c97480391c365df2a6fd2fe880e65201e7dac676ce4aa7699c0b00906b738f4f7451bc04001aec217ebe12688c781099466bc4fa040defdb2cf9549d6a4a9599f55b565510d7b27ddea1592cd4e89ca956d06886838436c218cd183f24f258355535dfffaf4b26cfb01c18529db215dc3019c5cbb229e7d950aa8ef5aa5a3afe04e4037a3d15a6622d280cae9e82532e71491c8e8d9604394f7067342dd1fbc48493d83a78a7efec2118589208aba7d1836d4ae46979ca190e6b684499d31c3c8faea5e282f335e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543619d3d804a5797cb8df98bcda002db806713ef872d65f5f36a6446d78f612ea8e2e69882b038b3202f25c47c628b8ec7ba0f688b3536ef8d89f16fe22bbed5380bb00fc38381457ebaa7e5d47142cd1b8645f6a03a928e5d7d9de621a05fec8d9e7d0564a6e5370440598ebf37f89bc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748929e8c9fbd23607bb0d039755baa999f91f0df368a6b5e3a9c91a5186/135/1920x1080_5130400/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "5130400",
+                "AVERAGE-BANDWIDTH": "4941200",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "1920x1080",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a984cdc335b6f564031c94b8a6100c68b2cb503607e4569ccc9e42edb9b100eb78e0e2a2099403f00aa4d7a81780275d0d619008433bb7c09618d630d0e66dee77c97480391c365df2a6fd2fe880e65201e7dac676ce4aa7699c0b00906b738f4f7451bc04001aec217ebe12688c781099466bc4fa040defdb2cf9549d6a4a9599f55b565510d7b27ddea1592cd4e89ca956d06886838436c218cd183f24f258355535dfffaf4b26cfb01c18529db215dc3019c5cbb229e7d950aa8ef5aa5a3afe04e4037a3d15a6622d280cae9e82532e71491c8e8d9604394f7067342dd1fbc48493d83a78a7efec2118589208aba7d1836d4ae46979ca190e6b684499d31c3c8faea5e282f335e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543619d3d804a5797cb8df98bcda002db806713ef872d65f5f36a6446d78f612ea8e2e69882b038b3202f25c47c628b8ec7ba0f688b3536ef8d89f16fe22bbed5380bb00fc38381457ebaa7e5d47142cd1b8645f6a03a928e5d7d9de621a05fec8d9e7d0564a6e5370440598ebf37f89bc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748929e8c9fbd23607bb0d039755baa999f91f0df368a6b5e3a9c91a5186/135/1280x720_3000800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3000800",
+                "AVERAGE-BANDWIDTH": "2890800",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

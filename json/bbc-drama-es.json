@@ -1,0 +1,55 @@
+{
+    "name": "BBC Drama",
+    "tvg_id": "bbc-drama-es",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b7955dd9-07e0-48b2-baf8-bbbee37cd2eb-bbc-drama-1639673931.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8?ads_amagi_channel=959&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=13&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3877&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=c09d1f6b-a99a-4208-ade6-1f4437cd6e85&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/bbc-drama-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9c4ddb62096f564031c94b8a6100c68b2cb503602e1069cb9eb47c88cd445db18c5c7b20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b2144f92256fddbf139d9773fec38119f107cf36a436a4a8c7cd8a53dbc2ce21a372885d085c31428b946f9acd2fdeb0fc3b6ecd297d1f440f8cd392fa5d0395535159f9f2c2b162c01acafb63eb2434eb599c1e82668826ab50fee003f4ffeb870f403da192163021f4b1f3ddf83165b83eaef89bb7197d9de52b7546db66dd36595cfa9fce07de877ffab727968b79123cff855c8b98c0f785c29d469d3ccfd5e4993a47716e0d069452ae9637ae43b379acdd2c25595b4dae9f6ac88bcd2c53082ed7da1cbe691abdc8b480d0002fcf6e0f65eb6cd8481665ca3d6f7df124f6944e08e3445bd66f459137348451c3bc29e3aed8e0392faccec2309a058ca20fd0ac78c31c3d5d118cf3215e424542d3e667033e7ccf3781b9a9b822505a9d9daaffc44007023701206ae186f762948af2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae2cafbd23607b00d039755ec61765d41b84f09593f83f8bde9411a/96/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9c4ddb62096f564031c94b8a6100c68b2cb503602e1069cb9eb47c88cd445db18c5c7b20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b2144f92256fddbf139d9773fec38119f107cf36a436a4a8c7cd8a53dbc2ce21a372885d085c31428b946f9acd2fdeb0fc3b6ecd297d1f440f8cd392fa5d0395535159f9f2c2b162c01acafb63eb2434eb599c1e82668826ab50fee003f4ffeb870f403da192163021f4b1f3ddf83165b83eaef89bb7197d9de52b7546db66dd36595cfa9fce07de877ffab727968b79123cff855c8b98c0f785c29d469d3ccfd5e4993a47716e0d069452ae9637ae43b379acdd2c25595b4dae9f6ac88bcd2c53082ed7da1cbe691abdc8b480d0002fcf6e0f65eb6cd8481665ca3d6f7df124f6944e08e3445bd66f459137348451c3bc29e3aed8e0392faccec2309a058ca20fd0ac78c31c3d5d118cf3215e424542d3e667033e7ccf3781b9a9b822505a9d9daaffc44007023701206ae186f762948af2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae2cafbd23607b00d039755ec61765d41b84f09593f83f8bde9411a/96/848x480_1686360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9c4ddb62096f564031c94b8a6100c68b2cb503602e1069cb9eb47c88cd445db18c5c7b20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b2144f92256fddbf139d9773fec38119f107cf36a436a4a8c7cd8a53dbc2ce21a372885d085c31428b946f9acd2fdeb0fc3b6ecd297d1f440f8cd392fa5d0395535159f9f2c2b162c01acafb63eb2434eb599c1e82668826ab50fee003f4ffeb870f403da192163021f4b1f3ddf83165b83eaef89bb7197d9de52b7546db66dd36595cfa9fce07de877ffab727968b79123cff855c8b98c0f785c29d469d3ccfd5e4993a47716e0d069452ae9637ae43b379acdd2c25595b4dae9f6ac88bcd2c53082ed7da1cbe691abdc8b480d0002fcf6e0f65eb6cd8481665ca3d6f7df124f6944e08e3445bd66f459137348451c3bc29e3aed8e0392faccec2309a058ca20fd0ac78c31c3d5d118cf3215e424542d3e667033e7ccf3781b9a9b822505a9d9daaffc44007023701206ae186f762948af2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae2cafbd23607b00d039755ec61765d41b84f09593f83f8bde9411a/96/1280x720_3329040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9c4ddb62096f564031c94b8a6100c68b2cb503602e1069cb9eb47c88cd445db18c5c7b20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b2144f92256fddbf139d9773fec38119f107cf36a436a4a8c7cd8a53dbc2ce21a372885d085c31428b946f9acd2fdeb0fc3b6ecd297d1f440f8cd392fa5d0395535159f9f2c2b162c01acafb63eb2434eb599c1e82668826ab50fee003f4ffeb870f403da192163021f4b1f3ddf83165b83eaef89bb7197d9de52b7546db66dd36595cfa9fce07de877ffab727968b79123cff855c8b98c0f785c29d469d3ccfd5e4993a47716e0d069452ae9637ae43b379acdd2c25595b4dae9f6ac88bcd2c53082ed7da1cbe691abdc8b480d0002fcf6e0f65eb6cd8481665ca3d6f7df124f6944e08e3445bd66f459137348451c3bc29e3aed8e0392faccec2309a058ca20fd0ac78c31c3d5d118cf3215e424542d3e667033e7ccf3781b9a9b822505a9d9daaffc44007023701206ae186f762948af2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae2cafbd23607b00d039755ec61765d41b84f09593f83f8bde9411a/96/1920x1080_6046040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

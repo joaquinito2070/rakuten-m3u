@@ -1,0 +1,10 @@
+{
+    "name": "Cine Western",
+    "tvg_id": "cine-western-es",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e73f2d01-ae86-4ee1-933c-46d8c613cb6a.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8?ads_amagi_channel=979&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6591&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=af0a3de9-c21f-4007-b24b-a76abcaf6777&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/cine-western-es/master.m3u8",
+    "qualities": [],
+    "epg": []
+}

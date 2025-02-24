@@ -1,0 +1,59 @@
+{
+    "name": "Qwest TV",
+    "tvg_id": "qwest-tv",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg",
+    "group_title": "Música",
+    "original_master_url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2268&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=a45e3270-ed25-4ee7-996a-f0e6a1ffdb9f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/qwest-tv/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a974e88620865514031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77b974c0391c365d62e6bd0f899430d47680adc5778df990ff7bc8e1f019e35f5932472a32d42e68a47c0de0d81a8850fdd2cc432b77bcecdaecf864ec6e9cd32f700f7350e5d5018f3e37c9dce07f2b0f6683d8f4e38491a6af2ba83fb3c48ec355350f9e6cead75fe14cbb628886425b40c9415f85af86aae1a98f35ab692b8d04c553caad0646823d283caeea96765e53c83c886dc776fa6f2116e4eca68e7363228958fae7ee7d41094ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c247283f620011b95caf9b6ad216de70a9c01d24503f21c7f90295d7831f5a184e829361d71c15adde8597e00d37cb730853ee69da5a1165c33a1e1f8f4ca9c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598685e11197883bc315d7d7cc717b19e9ee4725e4db5ae9bff8d5568026f16030a8de6e5299dbc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748821ec848253b789bc754c2c1a0008aba9550529ff4f76bf079e86c1/97/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a974e88620865514031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77b974c0391c365d62e6bd0f899430d47680adc5778df990ff7bc8e1f019e35f5932472a32d42e68a47c0de0d81a8850fdd2cc432b77bcecdaecf864ec6e9cd32f700f7350e5d5018f3e37c9dce07f2b0f6683d8f4e38491a6af2ba83fb3c48ec355350f9e6cead75fe14cbb628886425b40c9415f85af86aae1a98f35ab692b8d04c553caad0646823d283caeea96765e53c83c886dc776fa6f2116e4eca68e7363228958fae7ee7d41094ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c247283f620011b95caf9b6ad216de70a9c01d24503f21c7f90295d7831f5a184e829361d71c15adde8597e00d37cb730853ee69da5a1165c33a1e1f8f4ca9c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598685e11197883bc315d7d7cc717b19e9ee4725e4db5ae9bff8d5568026f16030a8de6e5299dbc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748821ec848253b789bc754c2c1a0008aba9550529ff4f76bf079e86c1/97/848x480_1686360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "848x480",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a974e88620865514031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77b974c0391c365d62e6bd0f899430d47680adc5778df990ff7bc8e1f019e35f5932472a32d42e68a47c0de0d81a8850fdd2cc432b77bcecdaecf864ec6e9cd32f700f7350e5d5018f3e37c9dce07f2b0f6683d8f4e38491a6af2ba83fb3c48ec355350f9e6cead75fe14cbb628886425b40c9415f85af86aae1a98f35ab692b8d04c553caad0646823d283caeea96765e53c83c886dc776fa6f2116e4eca68e7363228958fae7ee7d41094ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c247283f620011b95caf9b6ad216de70a9c01d24503f21c7f90295d7831f5a184e829361d71c15adde8597e00d37cb730853ee69da5a1165c33a1e1f8f4ca9c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598685e11197883bc315d7d7cc717b19e9ee4725e4db5ae9bff8d5568026f16030a8de6e5299dbc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748821ec848253b789bc754c2c1a0008aba9550529ff4f76bf079e86c1/97/1280x720_3329040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a974e88620865514031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77b974c0391c365d62e6bd0f899430d47680adc5778df990ff7bc8e1f019e35f5932472a32d42e68a47c0de0d81a8850fdd2cc432b77bcecdaecf864ec6e9cd32f700f7350e5d5018f3e37c9dce07f2b0f6683d8f4e38491a6af2ba83fb3c48ec355350f9e6cead75fe14cbb628886425b40c9415f85af86aae1a98f35ab692b8d04c553caad0646823d283caeea96765e53c83c886dc776fa6f2116e4eca68e7363228958fae7ee7d41094ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c247283f620011b95caf9b6ad216de70a9c01d24503f21c7f90295d7831f5a184e829361d71c15adde8597e00d37cb730853ee69da5a1165c33a1e1f8f4ca9c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598685e11197883bc315d7d7cc717b19e9ee4725e4db5ae9bff8d5568026f16030a8de6e5299dbc2e48776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d9ce412d4ff3edf37527a6e528e4d172b0d85c72098f7ffc4e3e858c78e63a3366b1529a29a72135a0b223458d1f8e0b02fe9690a4559f97eec96ed7225e55c5b32b0de00b82688cc8cc25d0693ab18376280ec1eca6126fd6bbe5d98cb64d0bf5b4b0e39515dc79d40ec10eb91c99565c95ecd3563748821ec848253b789bc754c2c1a0008aba9550529ff4f76bf079e86c1/97/1920x1080_6046040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

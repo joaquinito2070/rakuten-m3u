@@ -1,0 +1,59 @@
+{
+    "name": "Vive Kanal D Drama",
+    "tvg_id": "vive-kanal-d-drama",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png",
+    "group_title": "Series",
+    "original_master_url": "https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=41066c12-dd3c-4b26-828e-d9e2dd57bbea&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vive-kanal-d-drama/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9b1e88320b6b004031c94b8a6100c68b2cb503602a1e69939ae07fd89a130ae3d80e7f20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b51840932560ddbb139d9773f9c49202ca61be4cc7169a93f88eda1aaabcae32fd14dd300c4e2b7e9cbf6d8ad958c4bff00a2e99737234743fe7a780c1433d944c46488a9ba1dd60ec498ae3498064248410974bbb24937baf7bd38b3cb0a1bac6475329a5c35e5e2aa9e1b285f73969c70c96a3edce4c698af3064753d07ddd504252f7ebc2078dd71a84ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c24c2829620011b958ac8c1fbd43b968bac1177b1e273eac9e46fb85d65024674192bf5dd81208aad28d8adc0f2fc36f15288c0abb0a5736b65e1d7de13ec69b316d8e2f35863d3cf556308c3099d24fadf582bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111d2d86b8655c6234c741b7d087b5755b56a1af9fa6c51e3c5e3c455608deb5e5729e8ff2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaccbaabb78637007bd8ee553c645a60213dc2bfb7acf7950a6aedb4/109/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9b1e88320b6b004031c94b8a6100c68b2cb503602a1e69939ae07fd89a130ae3d80e7f20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b51840932560ddbb139d9773f9c49202ca61be4cc7169a93f88eda1aaabcae32fd14dd300c4e2b7e9cbf6d8ad958c4bff00a2e99737234743fe7a780c1433d944c46488a9ba1dd60ec498ae3498064248410974bbb24937baf7bd38b3cb0a1bac6475329a5c35e5e2aa9e1b285f73969c70c96a3edce4c698af3064753d07ddd504252f7ebc2078dd71a84ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c24c2829620011b958ac8c1fbd43b968bac1177b1e273eac9e46fb85d65024674192bf5dd81208aad28d8adc0f2fc36f15288c0abb0a5736b65e1d7de13ec69b316d8e2f35863d3cf556308c3099d24fadf582bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111d2d86b8655c6234c741b7d087b5755b56a1af9fa6c51e3c5e3c455608deb5e5729e8ff2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaccbaabb78637007bd8ee553c645a60213dc2bfb7acf7950a6aedb4/109/848x480_1686360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "848x480",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9b1e88320b6b004031c94b8a6100c68b2cb503602a1e69939ae07fd89a130ae3d80e7f20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b51840932560ddbb139d9773f9c49202ca61be4cc7169a93f88eda1aaabcae32fd14dd300c4e2b7e9cbf6d8ad958c4bff00a2e99737234743fe7a780c1433d944c46488a9ba1dd60ec498ae3498064248410974bbb24937baf7bd38b3cb0a1bac6475329a5c35e5e2aa9e1b285f73969c70c96a3edce4c698af3064753d07ddd504252f7ebc2078dd71a84ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c24c2829620011b958ac8c1fbd43b968bac1177b1e273eac9e46fb85d65024674192bf5dd81208aad28d8adc0f2fc36f15288c0abb0a5736b65e1d7de13ec69b316d8e2f35863d3cf556308c3099d24fadf582bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111d2d86b8655c6234c741b7d087b5755b56a1af9fa6c51e3c5e3c455608deb5e5729e8ff2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaccbaabb78637007bd8ee553c645a60213dc2bfb7acf7950a6aedb4/109/1280x720_3329040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5a9b1e88320b6b004031c94b8a6100c68b2cb503602a1e69939ae07fd89a130ae3d80e7f20a2403600aa4d7a9261154ddae6141c8033a1460912e60e7b573588cf6c97451185d100a7450bdaf99e0e7b391c30cc0203a1f500e790b80967ee5695b51840932560ddbb139d9773f9c49202ca61be4cc7169a93f88eda1aaabcae32fd14dd300c4e2b7e9cbf6d8ad958c4bff00a2e99737234743fe7a780c1433d944c46488a9ba1dd60ec498ae3498064248410974bbb24937baf7bd38b3cb0a1bac6475329a5c35e5e2aa9e1b285f73969c70c96a3edce4c698af3064753d07ddd504252f7ebc2078dd71a84ec56efda68192bff95408d94b186d0bc805eee46a0a6a5c24c2829620011b958ac8c1fbd43b968bac1177b1e273eac9e46fb85d65024674192bf5dd81208aad28d8adc0f2fc36f15288c0abb0a5736b65e1d7de13ec69b316d8e2f35863d3cf556308c3099d24fadf582bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111d2d86b8655c6234c741b7d087b5755b56a1af9fa6c51e3c5e3c455608deb5e5729e8ff2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaccbaabb78637007bd8ee553c645a60213dc2bfb7acf7950a6aedb4/109/1920x1080_6046040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "epg": []
+}

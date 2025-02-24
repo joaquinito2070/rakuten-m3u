@@ -1,0 +1,55 @@
+{
+    "name": "Vevo Latino",
+    "tvg_id": "vevo-latino-es",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg",
+    "group_title": "Música",
+    "original_master_url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8?ads_amagi_channel=917&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5979&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=8b9b1fa4-5343-4c64-9096-3423fca4d393&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vevo-latino-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5ace1f8b320c6f584031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2092402900aa4d7a857b1500bf837e189732b1237f7985086a450d98ae0cef19168cc05fa94613bceb84226039051d957867dbf10ae090b50803813ff4de4015d10d76ddb343c3f62681d18018f11ed734aa41d9b0c4b1e145c18c9b598906e627364b366f9c81749ac75a89d39e1b7ff63570444757b7a592aa0369d5131011acfc9deb28a64397df68d23465e8069b4ed034d932f953df8b21a1a9a8e046442fadc75e5e33b9f5a5f89e5f50aa63f9f8adb71f7d9de52b6848cd52cc3b3b3de289a16694cf148fb33195b56e1807cd98418992be8fb5cce7389d21d9f8e68c2b7d4d6c0a168353b6a564df5bbb12cc9b4a76051731c7f354c095e64c24744682f236be7549ee8ad3d6863cd5ab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175231b839334e2d226e72c9ea72023e3bb02d54515783056b36cd8da5c8c9413f0e371e5346ec888222c8d7917e4f5ca9db41117fea006ac6e54bff7929604ea97e2b9fa93455626b5dc7aa3a4f536f97879f8490e9f34ba774e9b3974f3f224d6bb23d48346bc2a3884ae92b042c340ed2413731dd7d3a4889c49fb281e18eaf6d8e38e504b4239d91fd6e0a72da826886ff09b96b/167/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5ace1f8b320c6f584031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2092402900aa4d7a857b1500bf837e189732b1237f7985086a450d98ae0cef19168cc05fa94613bceb84226039051d957867dbf10ae090b50803813ff4de4015d10d76ddb343c3f62681d18018f11ed734aa41d9b0c4b1e145c18c9b598906e627364b366f9c81749ac75a89d39e1b7ff63570444757b7a592aa0369d5131011acfc9deb28a64397df68d23465e8069b4ed034d932f953df8b21a1a9a8e046442fadc75e5e33b9f5a5f89e5f50aa63f9f8adb71f7d9de52b6848cd52cc3b3b3de289a16694cf148fb33195b56e1807cd98418992be8fb5cce7389d21d9f8e68c2b7d4d6c0a168353b6a564df5bbb12cc9b4a76051731c7f354c095e64c24744682f236be7549ee8ad3d6863cd5ab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175231b839334e2d226e72c9ea72023e3bb02d54515783056b36cd8da5c8c9413f0e371e5346ec888222c8d7917e4f5ca9db41117fea006ac6e54bff7929604ea97e2b9fa93455626b5dc7aa3a4f536f97879f8490e9f34ba774e9b3974f3f224d6bb23d48346bc2a3884ae92b042c340ed2413731dd7d3a4889c49fb281e18eaf6d8e38e504b4239d91fd6e0a72da826886ff09b96b/167/848x480_2284360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2284360",
+                "AVERAGE-BANDWIDTH": "1757200",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5ace1f8b320c6f584031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2092402900aa4d7a857b1500bf837e189732b1237f7985086a450d98ae0cef19168cc05fa94613bceb84226039051d957867dbf10ae090b50803813ff4de4015d10d76ddb343c3f62681d18018f11ed734aa41d9b0c4b1e145c18c9b598906e627364b366f9c81749ac75a89d39e1b7ff63570444757b7a592aa0369d5131011acfc9deb28a64397df68d23465e8069b4ed034d932f953df8b21a1a9a8e046442fadc75e5e33b9f5a5f89e5f50aa63f9f8adb71f7d9de52b6848cd52cc3b3b3de289a16694cf148fb33195b56e1807cd98418992be8fb5cce7389d21d9f8e68c2b7d4d6c0a168353b6a564df5bbb12cc9b4a76051731c7f354c095e64c24744682f236be7549ee8ad3d6863cd5ab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175231b839334e2d226e72c9ea72023e3bb02d54515783056b36cd8da5c8c9413f0e371e5346ec888222c8d7917e4f5ca9db41117fea006ac6e54bff7929604ea97e2b9fa93455626b5dc7aa3a4f536f97879f8490e9f34ba774e9b3974f3f224d6bb23d48346bc2a3884ae92b042c340ed2413731dd7d3a4889c49fb281e18eaf6d8e38e504b4239d91fd6e0a72da826886ff09b96b/167/1280x720_4473040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4473040",
+                "AVERAGE-BANDWIDTH": "3440800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb563e1e657762909dc32167d7f662869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5ace1f8b320c6f584031c94b8a6100c68b2cb5033d791e69989ee7798b911009b2de5d2d2092402900aa4d7a857b1500bf837e189732b1237f7985086a450d98ae0cef19168cc05fa94613bceb84226039051d957867dbf10ae090b50803813ff4de4015d10d76ddb343c3f62681d18018f11ed734aa41d9b0c4b1e145c18c9b598906e627364b366f9c81749ac75a89d39e1b7ff63570444757b7a592aa0369d5131011acfc9deb28a64397df68d23465e8069b4ed034d932f953df8b21a1a9a8e046442fadc75e5e33b9f5a5f89e5f50aa63f9f8adb71f7d9de52b6848cd52cc3b3b3de289a16694cf148fb33195b56e1807cd98418992be8fb5cce7389d21d9f8e68c2b7d4d6c0a168353b6a564df5bbb12cc9b4a76051731c7f354c095e64c24744682f236be7549ee8ad3d6863cd5ab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175231b839334e2d226e72c9ea72023e3bb02d54515783056b36cd8da5c8c9413f0e371e5346ec888222c8d7917e4f5ca9db41117fea006ac6e54bff7929604ea97e2b9fa93455626b5dc7aa3a4f536f97879f8490e9f34ba774e9b3974f3f224d6bb23d48346bc2a3884ae92b042c340ed2413731dd7d3a4889c49fb281e18eaf6d8e38e504b4239d91fd6e0a72da826886ff09b96b/167/1920x1080_7333040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "7333040",
+                "AVERAGE-BANDWIDTH": "5640800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "epg": []
+}
