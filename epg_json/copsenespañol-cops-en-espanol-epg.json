@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224211410 +0100",
-            "stop_time": "20250224213619 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna persecución de auto termina con una llamada a los paramédicos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213626 +0100",
-            "stop_time": "20250224215951 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn motociclista arrepentido y apenado casi se mata después de estrellarse en una carretera oscura.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215957 +0100",
             "stop_time": "20250224222221 +0100",
             "title": "Cops en Español",

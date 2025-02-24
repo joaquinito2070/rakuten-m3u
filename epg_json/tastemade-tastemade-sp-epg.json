@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224210602 +0100",
-            "stop_time": "20250224213201 +0100",
-            "title": "Tacos con historia",
-            "description": "| +7 | Cocina y comida |\n\nFran nos presenta un taco con mucha historia, los tacos de cochinita.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213202 +0100",
-            "stop_time": "20250224215801 +0100",
-            "title": "Tacos de pescado",
-            "description": "| +7 | Cocina y comida |\n\nFrancisco nos lleva hasta las playas mexicana, esta vez prepara un rico taco de pescado.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215802 +0100",
             "stop_time": "20250224222401 +0100",
             "title": "Tacos de guisado",

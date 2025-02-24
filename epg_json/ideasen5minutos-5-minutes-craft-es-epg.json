@@ -3,20 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250224205552 +0100",
-            "stop_time": "20250224212515 +0100",
-            "title": "Trucos y juegos divertidos para ti y tus amigos",
-            "description": "| +TP | Entretenimiento |\n\n¡Trucos geniales y estereotipos divertidos sobre los signos del zodiaco!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224212516 +0100",
-            "stop_time": "20250224215037 +0100",
-            "title": "Trucos y situaciones divertidas",
-            "description": "| +TP | Entretenimiento |\n\n¡Mira situaciones divertidas que le pueden pasar a cualquiera, así como trucos interesantes!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215038 +0100",
             "stop_time": "20250224221652 +0100",
             "title": "Trucos simples y geniales para coser fácilmente",

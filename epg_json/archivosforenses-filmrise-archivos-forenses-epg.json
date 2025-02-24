@@ -3,20 +3,6 @@
     "tvg_id": "filmrise-archivos-forenses",
     "epg": [
         {
-            "start_time": "20250224204748 +0100",
-            "stop_time": "20250224211757 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nUna mujer desaparece y su esposo se convierte en el principal sospechoso.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224211758 +0100",
-            "stop_time": "20250224214807 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nUna mañana, en una zona desértica de Phoenix, un motociclista descubre el cuerpo de una joven mujer.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224214808 +0100",
             "stop_time": "20250224221818 +0100",
             "title": "Forensic Files",

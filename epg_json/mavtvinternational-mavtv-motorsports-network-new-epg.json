@@ -3,20 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250224210001 +0100",
-            "stop_time": "20250224213000 +0100",
-            "title": "PerformaBuilt Perfection",
-            "description": "| +7 | Deportes |\n\nNelson from ACC Performance joins Sam for torque converter 101 and a PerformaBuilt transmission.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213001 +0100",
-            "stop_time": "20250224220000 +0100",
-            "title": "Jammin' With Jeven",
-            "description": "| +7 | Deportes |\n\nSam installs new 3D floor mats in Jeven Reliford's 2020 Camaro.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220001 +0100",
             "stop_time": "20250224223000 +0100",
             "title": "Take Me Back to 1992 ...",

@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250224205901 +0100",
-            "stop_time": "20250224215900 +0100",
-            "title": "Whiritoa Beach, New Zealand",
-            "description": "| +TP | Estilo de vida |\n\nDiscover the raw beauty of this secluded New Zealand beach, surrounded by wildflowers.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215901 +0100",
             "stop_time": "20250224225900 +0100",
             "title": "Above & Below the Caribbean",

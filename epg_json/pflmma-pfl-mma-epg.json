@@ -3,13 +3,6 @@
     "tvg_id": "pfl-mma",
     "epg": [
         {
-            "start_time": "20250224190941 +0100",
-            "stop_time": "20250224221140 +0100",
-            "title": "World Series of Fighting",
-            "description": "| +16 | Deportes |\n\nArlovski vs. Johnson",
-            "icon": ""
-        },
-        {
             "start_time": "20250224221147 +0100",
             "stop_time": "20250225000257 +0100",
             "title": "Best Of: Fedor Emelianenko",

@@ -3,13 +3,6 @@
     "tvg_id": "nature-time-es",
     "epg": [
         {
-            "start_time": "20250224205918 +0100",
-            "stop_time": "20250224215616 +0100",
-            "title": "Elephant Valley",
-            "description": "| +TP | Documental |\n\nFollow a family of elephants from sunrise to sunset in the savannahs of Zambia.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215617 +0100",
             "stop_time": "20250224225308 +0100",
             "title": "Youngsters of the Desert",

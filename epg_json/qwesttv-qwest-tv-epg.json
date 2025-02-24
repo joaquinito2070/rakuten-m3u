@@ -3,13 +3,6 @@
     "tvg_id": "qwest-tv",
     "epg": [
         {
-            "start_time": "20250224200001 +0100",
-            "stop_time": "20250224214900 +0100",
-            "title": "Ethiopiques Magnetic Suite",
-            "description": "| +TP | Música |\n\nA must documentary on the musical revolution in Ethiopia during the 60’s full of archives and testimonies.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224214901 +0100",
             "stop_time": "20250224231900 +0100",
             "title": "Derya Yıldırım & Grup Şimşek",

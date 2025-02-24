@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224194805 +0100",
-            "stop_time": "20250224213631 +0100",
-            "title": "Una buena receta",
-            "description": "| +16 | Películas |\n\nTras perder el prestigio por culpa de su carácter y sus problemas personales, el chef Adam Jones reabre con su antiguo equipo un restaurante con el objetivo de conseguir las tres estrellas michelin.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/9f26b734-a165-42e8-9bea-84272d32bff0.jpeg"
-        },
-        {
             "start_time": "20250224213632 +0100",
             "stop_time": "20250224231322 +0100",
             "title": "La decisión de Gracie",

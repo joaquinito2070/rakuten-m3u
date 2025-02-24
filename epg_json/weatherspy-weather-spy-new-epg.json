@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224204838 +0100",
-            "stop_time": "20250224211832 +0100",
-            "title": "Sinister Storms",
-            "description": "| +TP | Estilo de vida |\n\nLightning strikes, volcanic eruptions, cyclones, and dust storms unleash nature’s raw power on Earth.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224211838 +0100",
-            "stop_time": "20250224214832 +0100",
-            "title": "Sinister Storms",
-            "description": "| +TP | Estilo de vida |\n\nFrom storm clouds to northern lights, high winds to meteor showers, chaos reigns in the skies.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224214838 +0100",
             "stop_time": "20250224221832 +0100",
             "title": "Storm Hunters",

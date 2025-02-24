@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250224210449 +0100",
-            "stop_time": "20250224213443 +0100",
-            "title": "Unwind",
-            "description": "| +7 | Estilo de vida |\n\nIndeya explora las plantaciones de canela, prueba un plato local y presencia un espectáculo de danza tradicional.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213450 +0100",
-            "stop_time": "20250224220444 +0100",
-            "title": "World Heritage",
-            "description": "| +7 | Estilo de vida |\n\nOrte, die als Erbstücke gelten und die wir als nächstes weitergeben werden. Von der UNESCO als Weltkulturerbe gestempelt.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220450 +0100",
             "stop_time": "20250224223444 +0100",
             "title": "Bucket List",

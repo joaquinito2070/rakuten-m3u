@@ -3,13 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250224210001 +0100",
-            "stop_time": "20250224220000 +0100",
-            "title": "Special show",
-            "description": "| +12 | Música |\n\nRecorded from amazing places all around the world, forests, roof tops, boat parties, clubs or just wonderful places, enjoy DJ Set and live performances from your favorite artists! ",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220001 +0100",
             "stop_time": "20250224230000 +0100",
             "title": "Clubbing Experience",

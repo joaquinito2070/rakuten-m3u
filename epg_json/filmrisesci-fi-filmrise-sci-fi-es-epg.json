@@ -3,13 +3,6 @@
     "tvg_id": "filmrise-sci-fi-es",
     "epg": [
         {
-            "start_time": "20250224210948 +0100",
-            "stop_time": "20250224220347 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nLa Andrómeda se involucra en una disputa entre un planeta Than y una colonia Nietzschean.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220348 +0100",
             "stop_time": "20250224225746 +0100",
             "title": "Andromeda",

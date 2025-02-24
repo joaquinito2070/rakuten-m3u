@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224194821 +0100",
-            "stop_time": "20250224220723 +0100",
-            "title": "The Way",
-            "description": "| +16 | Películas |\n\nTom Avery (Martín Sheen) es un reputado oftalmólogo de California, viudo, que un día recibe una llamada desde Francia en la que se le comunica que su hijo Daniel ha fallecido en un temporal en los Pirineos.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5c97d86b-dfa8-4f62-8972-1b272a3f6f02.jpeg"
-        },
-        {
             "start_time": "20250224220724 +0100",
             "stop_time": "20250224235931 +0100",
             "title": "Cuanto más grande, mejor",

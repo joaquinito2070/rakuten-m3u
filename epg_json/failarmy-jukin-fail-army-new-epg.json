@@ -3,20 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250224205138 +0100",
-            "stop_time": "20250224212332 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nOld fails to young fails. In that order.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224212338 +0100",
-            "stop_time": "20250224215532 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nThe best fails happen when we're having fun.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215538 +0100",
             "stop_time": "20250224222733 +0100",
             "title": "FailFactory",

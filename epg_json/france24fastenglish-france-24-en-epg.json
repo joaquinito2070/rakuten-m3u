@@ -3,27 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250224211501 +0100",
-            "stop_time": "20250224213000 +0100",
-            "title": "Encore",
-            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213001 +0100",
-            "stop_time": "20250224214500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224214501 +0100",
-            "stop_time": "20250224220000 +0100",
-            "title": "Eye On Africa",
-            "description": "| +7 | Noticias |\n\nJoin Georja Calvin-Smith for all the news from Africa and the Maghreb, with FRANCE 24’s correspondents and our guests on set.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220001 +0100",
             "stop_time": "20250224221500 +0100",
             "title": "News",

@@ -3,20 +3,6 @@
     "tvg_id": "hard-knocks-fighting-championship",
     "epg": [
         {
-            "start_time": "20250224211422 +0100",
-            "stop_time": "20250224213423 +0100",
-            "title": "Journey Fight Series VIII - Matt Embree v. Nate Smandych",
-            "description": "| +12 | Deportes |\n\nMatt Embree v. Nate Smandych",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213424 +0100",
-            "stop_time": "20250224215546 +0100",
-            "title": "M-1 Challenge 86 - Mikhail Ragozin v. Joseph Henle",
-            "description": "| +12 | Deportes |\n\nMikhail Ragozin v. Joseph Henle",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215547 +0100",
             "stop_time": "20250224225628 +0100",
             "title": "Fight Vault - HK44 - Episode 4",

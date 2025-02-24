@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224204316 +0100",
-            "stop_time": "20250224214514 +0100",
-            "title": "Miss Fisher's Murder Mysteries",
-            "description": "| +16 | Crime |\n\nBasado en la novela homónima de Kerry Greenwood. Un tesoro enterrado y las leyendas de piratas vuelven a la superficie en la ciudad vacacional de Queenscliff.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/d9833c72-e21e-487b-bc26-69957d1ef823.jpeg"
-        },
-        {
             "start_time": "20250224214515 +0100",
             "stop_time": "20250224224831 +0100",
             "title": "Miss Fisher's Murder Mysteries",

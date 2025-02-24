@@ -3,20 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250224205634 +0100",
-            "stop_time": "20250224212642 +0100",
-            "title": "Good Night Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224212643 +0100",
-            "stop_time": "20250224215858 +0100",
-            "title": "Hair by Mr Bean of London",
-            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215859 +0100",
             "stop_time": "20250224222814 +0100",
             "title": "Mr Bean",

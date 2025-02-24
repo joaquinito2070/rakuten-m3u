@@ -3,20 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250224205429 +0100",
-            "stop_time": "20250224212623 +0100",
-            "title": "We Heart Animals",
-            "description": "| +7 | Entretenimiento |\n\nCheck out some dog's you definitely wanna roll with.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224212629 +0100",
-            "stop_time": "20250224215823 +0100",
-            "title": "We Heart Animals",
-            "description": "| +7 | Entretenimiento |\n\nThis episode will make anyone a cat person.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224215829 +0100",
             "stop_time": "20250224223023 +0100",
             "title": "Animals Unscripted",

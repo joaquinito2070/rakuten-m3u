@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250224210001 +0100",
-            "stop_time": "20250224220000 +0100",
-            "title": "Happy Hour",
-            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para disfrutar mientras cocinas o tomas algo con la familia y amigos. Dale play y disfruta!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220001 +0100",
             "stop_time": "20250224230000 +0100",
             "title": "Made In Spain",

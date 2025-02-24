@@ -3,13 +3,6 @@
     "tvg_id": "gusto-tv-new",
     "epg": [
         {
-            "start_time": "20250224210005 +0100",
-            "stop_time": "20250224215958 +0100",
-            "title": "Gusto TV",
-            "description": "| +7 | Cocina y comida |\n\nGusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220005 +0100",
             "stop_time": "20250224225958 +0100",
             "title": "Gusto TV",

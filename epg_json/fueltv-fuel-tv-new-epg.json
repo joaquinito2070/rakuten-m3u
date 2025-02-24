@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224210001 +0100",
-            "stop_time": "20250224213000 +0100",
-            "title": "Bubba's World - Season 2 - The Sponsors",
-            "description": "| +7 | Deportes |\n\nJames films a Nike commercial with Ryan Dungey, the rookie racer who took away his number one title.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213001 +0100",
-            "stop_time": "20250224221000 +0100",
-            "title": "Riding Portugal - Season 1 - A Ride through my City",
-            "description": "| +7 | Deportes |\n\nJoão Kopke gets to enjoy his hometown, Lisbon, in this new episode of Riding Portugal series.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224221001 +0100",
             "stop_time": "20250224223000 +0100",
             "title": "Movimento - Algas",

@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224211208 +0100",
-            "stop_time": "20250224212507 +0100",
-            "title": "Cuidando el pez",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224212508 +0100",
-            "stop_time": "20250224213807 +0100",
-            "title": "La vida de un perro",
-            "description": "| +TP | Infantil |\n\nMr Bean cuida perros para Irma y, mientras está en el parque, se encuentra con un paseador de perros profesional.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224213808 +0100",
-            "stop_time": "20250224215107 +0100",
-            "title": "Bean Viral",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224215108 +0100",
-            "stop_time": "20250224220406 +0100",
-            "title": "Pintura Bean",
-            "description": "| +TP | Infantil |\n\nMr. Bean ha pintado su cuarto de verde fosforito pero ¿le gustará a la Sra. Wicket?",
-            "icon": ""
-        },
-        {
             "start_time": "20250224220407 +0100",
             "stop_time": "20250224221706 +0100",
             "title": "Tiro al coco",

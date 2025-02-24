@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224194731 +0100",
-            "stop_time": "20250224212952 +0100",
-            "title": "Atrapado en un Pirado",
-            "description": "| +16 | Películas |\n\nLo que hace a Dave Ming Chang diferente del resto de los habitantes de Nueva York no es su torpeza, ni su timidez, ni su indumentaria discotequera, es el hecho de que se trata de un alien.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d00913de-e3c6-4af8-8737-c9fc350c816c.jpeg"
-        },
-        {
             "start_time": "20250224212953 +0100",
             "stop_time": "20250224230711 +0100",
             "title": "Negocios con resaca",
