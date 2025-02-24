@@ -313,8 +313,12 @@ def main():
     output_filename_epg = "rakuten_epg.xml" # Archivo XML EPG (opcional, se puede comentar/eliminar si solo se necesita JSON EPG)
     output_filename_json = "rakuten_channels.json"
     output_filename_epg_json = "rakuten_epg.json" # Nuevo archivo JSON EPG
+    output_filename_rakuten_json = "rakuten_json.json" # Archivo JSON con URLs de canales JSON
+    output_filename_rakuten_epg_json_list = "rakuten_epg_json.json" # NUEVO archivo JSON con URLs de EPG JSON de canales
     github_base_url = "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/"
 
+    channel_json_urls = [] # Inicializar la lista para guardar las URLs de los JSON de canal
+    channel_epg_json_urls = [] # Inicializar la lista para guardar las URLs de los JSON de EPG de canal
 
     print(f"Fetching W3U playlist from: {w3u_url}")
     channels_data = fetch_w3u_playlist(w3u_url)
@@ -344,6 +348,13 @@ def main():
             channel_json_url = f"{github_base_url}{channel_json_filename}" # Construct JSON URL
             channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, "") # epg_url will be set later, pass empty string for now
             save_json_output(channel_json_data, channel_json_filename)
+
+            channel_json_urls.append(channel_json_url) # Añadir la URL del JSON del canal a la lista
+
+            # Generate channel EPG JSON filename and URL
+            channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json" # Unique filename for EPG JSON
+            channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}" # URL para el archivo EPG JSON de canal
+            channel_epg_json_urls.append(channel_epg_json_url) # Añadir la URL del JSON de EPG del canal a la lista
 
 
     print(f"Fetching EPG data from: {epg_url_value}") # Usar epg_url_value
@@ -388,7 +399,17 @@ def main():
         # Generate channel EPG JSON (individual channel EPG JSON - keep as is)
         channel_epg_json_data = create_channel_epg_json_data(channel_info)
         channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json" # Unique filename for EPG JSON
-        save_json_output(channel_epg_json_data, channel_epg_json_filename)
+        channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}" # URL para el archivo EPG JSON de canal - REUTILIZANDO VARIABLE PARA URL
+        # save_json_output(channel_epg_json_data, channel_epg_json_filename) # YA SE GUARDA ANTES - NO VOLVER A GUARDAR
+
+
+    # Crear el archivo rakuten_json.json con la lista de URLs de los JSON de canal
+    rakuten_json_content = {"channel_json_urls": channel_json_urls} # Crear el contenido JSON con la lista de URLs de canal
+    save_json_output(rakuten_json_content, output_filename_rakuten_json) # Guardar rakuten_json.json
+
+    # Crear el archivo rakuten_epg_json.json con la lista de URLs de los JSON de EPG de canal
+    rakuten_epg_json_list_content = {"channel_epg_json_urls": channel_epg_json_urls} # Crear el contenido JSON con la lista de URLs de EPG JSON de canal
+    save_json_output(rakuten_epg_json_list_content, output_filename_rakuten_epg_json_list) # Guardar rakuten_epg_json.json
 
 
     # Create M3U playlist and EPG files (original playlist files - XML and now also JSON EPG)
