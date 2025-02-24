@@ -43,7 +43,7 @@ def fetch_channel_list(proxy):
             return []
 
         html_content = response.content.decode('utf-8', errors='replace')  # Decode content using UTF-8 explicitly
-        html_content = html_content.replace('�', 'ñ')  # Replace common problematic characters manually
+        html_content = html_content.replace('', 'ñ')  # Replace common problematic characters manually
 
         # Parse the HTML content with BeautifulSoup, specifying the parser's encoding
         soup = BeautifulSoup(html_content, "html.parser", from_encoding='utf-8')
@@ -81,7 +81,6 @@ def fetch_channel_list(proxy):
     except requests.RequestException as e:
         print(f"Error fetching data using proxy {proxy}: {e}")
         return []
-	
 def create_group_mapping(json_data):
     group_mapping = {}
 
@@ -132,17 +131,16 @@ def clean_stream_url(url):
     parsed_url = urlparse(url)
     clean_url = urlunparse((parsed_url.scheme, parsed_url.netloc, parsed_url.path, '', '', ''))
     return clean_url
-	
 def normalize_text(text):
     # Normalize the text to ASCII
     normalized_text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii')
-    return normalized_text	
+    return normalized_text
 
 def create_m3u_playlist(epg_data, group_mapping, country):
     # Sort the channels alphabetically by their names
     sorted_epg_data = sorted(epg_data, key=lambda x: x.get('title', '').lower())
 
-    playlist = f"#EXTM3U url-tvg=\"https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_{country}.xml\"\n"
+    playlist = f"#EXTM3U url-tvg=\"https://github.com/joaquinito2070/tubi-m3u/raw/refs/heads/main/tubi_epg_{country}.xml\"\n"
     seen_urls = set()  # Set to track URLs that have already been added
 
     for elem in sorted_epg_data:
@@ -191,11 +189,11 @@ def create_epg_xml(epg_data):
 
         for program in station.get('programs', []):
             programme = ET.SubElement(root, "programme", channel=str(station.get("content_id")))
-            
+
             # Convert start and stop times to XMLTV format
             start_time = convert_to_xmltv_format(program.get("start_time", ""))
             stop_time = convert_to_xmltv_format(program.get("end_time", ""))
-            
+
             programme.set("start", start_time)
             programme.set("stop", stop_time)
 
@@ -208,7 +206,6 @@ def create_epg_xml(epg_data):
 
     tree = ET.ElementTree(root)
     return tree
-	
 def save_file(content, filename):
     script_directory = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(script_directory, filename)
@@ -224,9 +221,20 @@ def save_epg_to_file(tree, filename):
     tree.write(file_path, encoding='utf-8', xml_declaration=True)
     print(f"EPG XML file saved: {file_path}")
 
+def save_json_output(data, filename):
+    script_directory = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(script_directory, filename)
+
+    with open(file_path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=4, ensure_ascii=False)
+    print(f"JSON file saved: {file_path}")
+
+
 def main():
-	# Add other countries to the array.
+    # Add other countries to the array.
     countries = ["US"]
+    all_channels_data = []  # List to store all channels data
+
     for country in countries:
         proxies = get_proxies(country)
         if not proxies:
@@ -260,11 +268,52 @@ def main():
                 # Create the group mapping using the full JSON data
                 group_mapping = create_group_mapping(json_data)
 
-                # Create M3U playlist and EPG files
+                country_channels_data = [] # List to store channel data for current country
+
+                # Iterate over epg_data to build channel objects
+                sorted_epg_data = sorted(epg_data, key=lambda x: x.get('title', '').lower()) # Sort channels alphabetically
+                seen_urls = set() # To avoid duplicate channels by URL
+
+                for elem in sorted_epg_data:
+                    channel_name = elem.get('title', 'Unknown Channel')
+                    channel_name = channel_name.encode('utf-8', errors='ignore').decode('utf-8', errors='ignore')
+                    stream_url = unquote(elem['video_resources'][0]['manifest']['url']) if elem.get('video_resources') else ''
+                    clean_url = clean_stream_url(stream_url)
+                    tvg_id = str(elem.get('content_id', ''))
+                    logo_url = elem.get('images', {}).get('thumbnail', [None])[0]
+                    group_title = group_mapping.get(tvg_id, 'Other')
+                    group_title = group_title.encode('utf-8', errors='ignore').decode('utf-8', errors='ignore')
+
+                    if clean_url and clean_url not in seen_urls:
+                        seen_urls.add(clean_url) # Mark URL as seen
+
+                        channel_epg_programs = []
+                        for program in elem.get('programs', []):
+                            channel_epg_programs.append({
+                                "start_time": convert_to_xmltv_format(program.get("start_time", "")),
+                                "stop_time": convert_to_xmltv_format(program.get("end_time", "")),
+                                "title": program.get("title", ""),
+                                "description": program.get("description", "")
+                            })
+
+                        channel_info = {
+                            "name": channel_name,
+                            "tvg_id": tvg_id,
+                            "logo_url": logo_url,
+                            "group_title": group_title,
+                            "stream_url": clean_url,
+                            "epg": channel_epg_programs
+                        }
+                        country_channels_data.append(channel_info) # Add channel data to country list
+
+
+                all_channels_data.extend(country_channels_data) # Add country channels to global list
+
+                # Create M3U playlist and EPG files (optional, keep if needed)
                 m3u_playlist = create_m3u_playlist(epg_data, group_mapping, country.lower())
                 epg_tree = create_epg_xml(epg_data)
 
-                # Save files with appended country code
+                # Save files with appended country code (optional, keep if needed)
                 save_file(m3u_playlist, f"tubi_playlist_{country.lower()}.m3u")
                 save_epg_to_file(epg_tree, f"tubi_epg_{country.lower()}.xml")
 
@@ -272,6 +321,10 @@ def main():
                 break
             else:
                 print(f"Failed to fetch data using proxy {proxy} for country {country}. Trying next proxy...")
+
+    # Save all channels data to a single JSON file after processing all countries
+    save_json_output({"channels": all_channels_data}, "tubi_channels_all.json") # Save JSON with all channels
+
 
 if __name__ == "__main__":
     main()
