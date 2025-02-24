@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="640x360",BANDWIDTH="921600",CLOSED-CAPTIONS="captions"
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/2efb8924-68d8-41fe-8044-d072fa2bcbe7/0.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="960x540",BANDWIDTH="2048000",CLOSED-CAPTIONS="captions"
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/2efb8924-68d8-41fe-8044-d072fa2bcbe7/1.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="1280x720",BANDWIDTH="3072000",CLOSED-CAPTIONS="captions"
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/2efb8924-68d8-41fe-8044-d072fa2bcbe7/2.m3u8
