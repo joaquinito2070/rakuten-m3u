@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250224155901 +0100",
-            "stop_time": "20250224165900 +0100",
-            "title": "Turquoise Waters: Philippines",
-            "description": "| +TP | Estilo de vida |\n\nCliffs overlooking turquoise waters.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224165901 +0100",
             "stop_time": "20250224175900 +0100",
             "title": "Tumalog & Aguinid Falls: Philippines",

@@ -3,13 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250224162654 +0100",
-            "stop_time": "20250224165501 +0100",
-            "title": "Mr Bean goes to Town",
-            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224165502 +0100",
             "stop_time": "20250224172544 +0100",
             "title": "The Trouble with Mr Bean",

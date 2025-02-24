@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224162637 +0100",
-            "stop_time": "20250224164816 +0100",
-            "title": "Hubbi y sus amigos",
-            "description": "| +12 | Infantil |\n\nEpisodio 1 - Hubbi, un manitas que tienen entretenidas aventuras mientras arregla lo que no siempre está roto.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/687f1afd-bd96-460f-9e12-38a65a044cc3.jpeg"
-        },
-        {
             "start_time": "20250224164817 +0100",
             "stop_time": "20250224181008 +0100",
             "title": "Las Aventuras de la Familia Fox",

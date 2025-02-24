@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250224145758 +0100",
-            "stop_time": "20250224164715 +0100",
-            "title": "Inferno",
-            "description": "| +12 | Películas |\n\nMientras un hombre conduce su moto por el desierto, unos matones le roban el vehículo y lo dan por muerto. Sobrevive y ya no piensa en el suicidio, porque ahora tiene un objetivo en la vida: vengarse y recuperar su moto.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224164716 +0100",
             "stop_time": "20250224190152 +0100",
             "title": "Terra Nova",

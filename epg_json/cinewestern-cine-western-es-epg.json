@@ -3,13 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250224145145 +0100",
-            "stop_time": "20250224165918 +0100",
-            "title": "Ases y Ochos",
-            "description": "| +7 | Películas |\n\nLos pacíficos colonos de una ciudad destinada a la grandeza del ferrocarril se arriesgan a establecerse en el inexplorado Oeste y, de repente, son asesinados a tiros sin piedad. Sin ley ni orden, la justicia recae sobre los hombros de un anciano ranchero y un pistolero consumado pero retirado.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224165919 +0100",
             "stop_time": "20250224185619 +0100",
             "title": "La Fiebre de la Pradera",

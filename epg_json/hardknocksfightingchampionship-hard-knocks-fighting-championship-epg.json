@@ -3,20 +3,6 @@
     "tvg_id": "hard-knocks-fighting-championship",
     "epg": [
         {
-            "start_time": "20250224163436 +0100",
-            "stop_time": "20250224165248 +0100",
-            "title": "M-1 Challenge 91 - Mikhail Zayats v. Caio Magalhaes",
-            "description": "| +12 | Deportes |\n\nMikhail Zayats v. Caio Magalhaes",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224165249 +0100",
-            "stop_time": "20250224171211 +0100",
-            "title": "M-1 Challenge 93 - Alexey Makhno v. Rogerio Matias da Conceicao",
-            "description": "| +12 | Deportes |\n\nAlexey Makhno v. Rogerio Matias da Conceicao",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171212 +0100",
             "stop_time": "20250224174432 +0100",
             "title": "FIGHT VAULT",

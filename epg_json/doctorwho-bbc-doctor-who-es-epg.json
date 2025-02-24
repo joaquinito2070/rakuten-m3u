@@ -3,13 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250224155010 +0100",
-            "stop_time": "20250224164128 +0100",
-            "title": "El fin del mundo",
-            "description": "| +7 | Series |\n\nEl Doctor lleva a Rosa a su primer viaje en el tiempo, al año 5 mil millones y el final del planeta tierra.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224164129 +0100",
             "stop_time": "20250224173248 +0100",
             "title": "Los muertos inquietos",

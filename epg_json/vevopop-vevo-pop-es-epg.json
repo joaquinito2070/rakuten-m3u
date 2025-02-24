@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250224160001 +0100",
-            "stop_time": "20250224170000 +0100",
-            "title": "Éxitos de siempre",
-            "description": "| +16 | Música |\n\nLos grandes éxitos de los 2000 y 2010 para viajar en el tiempo a través de la música!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170001 +0100",
             "stop_time": "20250224180000 +0100",
             "title": "Hits del Futuro",

@@ -3,13 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250224150006 +0100",
-            "stop_time": "20250224165000 +0100",
-            "title": "Say Yes",
-            "description": "| +TP | Entretenimiento |\n\nA young woman diagnosed with cancer tries to play matchmaker.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224165006 +0100",
             "stop_time": "20250224183000 +0100",
             "title": "What It Was",

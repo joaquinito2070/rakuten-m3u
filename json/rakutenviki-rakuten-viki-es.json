@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/rakuten-viki-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/25c1f773-69e6-4b0e-a085-250a362f840f/0.m3u8",
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/b57e4207-c879-4684-98db-49fdb15fa730/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/25c1f773-69e6-4b0e-a085-250a362f840f/1.m3u8",
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/b57e4207-c879-4684-98db-49fdb15fa730/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/25c1f773-69e6-4b0e-a085-250a362f840f/2.m3u8",
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/b57e4207-c879-4684-98db-49fdb15fa730/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",

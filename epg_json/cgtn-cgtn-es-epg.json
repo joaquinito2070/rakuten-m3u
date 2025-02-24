@@ -3,13 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250224163001 +0100",
-            "stop_time": "20250224170000 +0100",
-            "title": "DOCUMENTAL",
-            "description": "| +7 | Asian |\n\nPresentapersonajes y acontecimientos típicos, avances y descubrimientos tecnológicos y científicos,  y la civilización social de China.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170001 +0100",
             "stop_time": "20250224174500 +0100",
             "title": "EL PROYECTOR",

@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224162001 +0100",
-            "stop_time": "20250224164600 +0100",
-            "title": "Noche de chicos",
-            "description": "| +7 | Cocina y comida |\n\nEl chef Derrell Smith comparte su momento favorito de la noche de chicos: la comida",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224164601 +0100",
-            "stop_time": "20250224171200 +0100",
-            "title": "Último martes de tacos",
-            "description": "| +7 | Cocina y comida |\n\nEl chef Derrell Smith está preparando \"Taco Tuesday\" a su manera.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171201 +0100",
             "stop_time": "20250224173801 +0100",
             "title": "Comidas Sagradas y Fast Food de la India",

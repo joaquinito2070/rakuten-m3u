@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224150148 +0100",
-            "stop_time": "20250224163652 +0100",
-            "title": "La Cima",
-            "description": "| +16 | Películas |\n\nMateo (Javier Rey) se enfrenta por primera vez a la montaña más peligrosa del planeta, el Annapurna, con el reto de llegar hasta la cima y cumplir así una antigua promesa. En su ascenso sufre un accidente que le deja inconsciente y gravemente herido.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f22f8bb9-91cc-43bd-9541-a3b1be01eb0f.jpeg"
-        },
-        {
             "start_time": "20250224163653 +0100",
             "stop_time": "20250224180816 +0100",
             "title": "Swing, la vida de un secreto",

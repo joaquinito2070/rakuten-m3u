@@ -3,13 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224163001 +0100",
-            "stop_time": "20250224170000 +0100",
-            "title": "Shorebreak: The Series - The Tour",
-            "description": "| +7 | Deportes |\n\nClark Little enjoys the waves with his friends TedFord Mahiko, Andre Botha, Jerret Lau and Seabass Pereze.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170001 +0100",
             "stop_time": "20250224173000 +0100",
             "title": "Behind the Gate - 2023 - Riders On The Storm",

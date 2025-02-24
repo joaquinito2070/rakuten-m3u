@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224162351 +0100",
-            "stop_time": "20250224163703 +0100",
-            "title": "Miedoso bean",
-            "description": "| +TP | Infantil |\n\nPesadilla en Bean Street",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224163704 +0100",
-            "stop_time": "20250224165015 +0100",
-            "title": "En el campo",
-            "description": "| +TP | Infantil |\n\nMientras Mr. Bean hace foto de la naturaleza, la naturaleza se vuelve contra él",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224165016 +0100",
-            "stop_time": "20250224170315 +0100",
-            "title": "Pero cuánta basura",
-            "description": "| +TP | Infantil |\n\nMr. Bean se entusiasma en exceso a la hora de limpiar su piso y Teddy acaba de camino al basurero.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224170316 +0100",
-            "stop_time": "20250224171627 +0100",
-            "title": "Súper calabacín",
-            "description": "| +TP | Infantil |\n\nMr. Bean se queda con los ojos y lo dedos verdes",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171628 +0100",
             "stop_time": "20250224172927 +0100",
             "title": "Un nuevo amigo",

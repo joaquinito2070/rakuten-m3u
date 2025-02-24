@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224162949 +0100",
-            "stop_time": "20250224165328 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna mamá joven con problemas tiene una segunda oportunidad para rehacer su vida.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224165335 +0100",
-            "stop_time": "20250224171559 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLe va mal a un sospechoso en una moto robada cuando lo rastrean los helicópteros.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171605 +0100",
             "stop_time": "20250224173814 +0100",
             "title": "Cops en Español",

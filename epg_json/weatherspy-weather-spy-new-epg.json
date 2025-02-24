@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224161838 +0100",
-            "stop_time": "20250224164832 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224164838 +0100",
-            "stop_time": "20250224171832 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171838 +0100",
             "stop_time": "20250224174832 +0100",
             "title": "Storm Hunters",

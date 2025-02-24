@@ -3,13 +3,6 @@
     "tvg_id": "fashion-tv",
     "epg": [
         {
-            "start_time": "20250224130005 +0100",
-            "stop_time": "20250224165958 +0100",
-            "title": "FashionTV Global",
-            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170005 +0100",
             "stop_time": "20250224205958 +0100",
             "title": "FashionTV Global",

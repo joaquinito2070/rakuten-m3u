@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224150453 +0100",
-            "stop_time": "20250224163824 +0100",
-            "title": "Una amenaza en la sombra",
-            "description": "| +16 | Películas |\n\nWes Rawlins es un cazarecompensas y hombre de pocas palabras. Queda devastado cuando su madre es asesinada por una pareja de forajidos.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/cec74d82-dfb2-4563-a42a-c5941ad02f01-shadow-on-the-mesa-1631631611.jpeg"
-        },
-        {
             "start_time": "20250224163825 +0100",
             "stop_time": "20250224181219 +0100",
             "title": "Altitud",

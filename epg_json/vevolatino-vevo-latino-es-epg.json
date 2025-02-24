@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250224160001 +0100",
-            "stop_time": "20250224170000 +0100",
-            "title": "Conexión España-Latam",
-            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170001 +0100",
             "stop_time": "20250224180000 +0100",
             "title": "Vevo Studios Live",

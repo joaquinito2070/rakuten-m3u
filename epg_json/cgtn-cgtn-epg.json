@@ -3,13 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250224163001 +0100",
-            "stop_time": "20250224170000 +0100",
-            "title": "Africa Live",
-            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170001 +0100",
             "stop_time": "20250224173000 +0100",
             "title": "Faces of Africa",

@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224160534 +0100",
-            "stop_time": "20250224165620 +0100",
-            "title": "Pacific Blue",
-            "description": "| +16 | Crime |\n\nThe Bike Patrol investiga una serie de robos por allanamiento de morada que afectan a familias asiáticas. El caso es inusual porque los ladrones usan llaves para entrar y bicicletas a batería para escapar.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/ffc2724f-cd58-41fb-9643-b9b01e401960.jpeg"
-        },
-        {
             "start_time": "20250224165621 +0100",
             "stop_time": "20250224183810 +0100",
             "title": "Los Delitos del Bar Lume",

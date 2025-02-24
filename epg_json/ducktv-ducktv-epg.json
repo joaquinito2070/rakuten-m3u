@@ -3,13 +3,6 @@
     "tvg_id": "ducktv",
     "epg": [
         {
-            "start_time": "20250224160000 +0100",
-            "stop_time": "20250224165959 +0100",
-            "title": "ducktv",
-            "description": "| +TP | Infantil |\n\n",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170000 +0100",
             "stop_time": "20250224175959 +0100",
             "title": "ducktv",

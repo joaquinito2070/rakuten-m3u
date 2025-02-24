@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224152818 +0100",
-            "stop_time": "20250224170519 +0100",
-            "title": "Conexión criminal",
-            "description": "| +16 | Películas |\n\nUn trabajador social debe intervenir cuando un traficante de drogas sale de prisión y da un golpe junto con Duke (Frank Grillo), por el que arrastra a su familia a una vida delictiva.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/89b797fc-005c-456f-9b60-6810e1f87ef3-the-gateway-1637222950.jpeg"
-        },
-        {
             "start_time": "20250224170520 +0100",
             "stop_time": "20250224185356 +0100",
             "title": "Los idus de marzo",

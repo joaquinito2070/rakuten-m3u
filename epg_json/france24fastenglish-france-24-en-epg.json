@@ -3,27 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250224163001 +0100",
-            "stop_time": "20250224164500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224164501 +0100",
-            "stop_time": "20250224170000 +0100",
-            "title": "France In Focus",
-            "description": "| +7 | Noticias |\n\nAn in-depth look at the political and social events shaping France.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224170001 +0100",
-            "stop_time": "20250224171500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171501 +0100",
             "stop_time": "20250224173000 +0100",
             "title": "Reporters",

@@ -3,20 +3,6 @@
     "tvg_id": "baby-shark-tv",
     "epg": [
         {
-            "start_time": "20250224163513 +0100",
-            "stop_time": "20250224165658 +0100",
-            "title": "Bebefinn Dance Time",
-            "description": "| +7 | Infantil |\n\nHave fun dancing and singing with Bebefinn! It's dance time with mom and dad, or with siblings!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224165705 +0100",
-            "stop_time": "20250224171603 +0100",
-            "title": "Ninimo Animal Songs",
-            "description": "| +7 | Infantil |\n\nPinkfong's new friend Ninimo! Shall we sing animal songs together?",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171609 +0100",
             "stop_time": "20250224174019 +0100",
             "title": "Everything ABC Songs",

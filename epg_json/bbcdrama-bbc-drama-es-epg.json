@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250224161254 +0100",
-            "stop_time": "20250224170454 +0100",
-            "title": "Episodio 4",
-            "description": "| +13 | Series |\n\nUna bandada de dodos trae consigo un parásito mortal.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224170455 +0100",
             "stop_time": "20250224175638 +0100",
             "title": "Episodio 5",
