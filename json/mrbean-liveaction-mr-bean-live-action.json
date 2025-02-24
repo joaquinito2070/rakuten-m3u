@@ -1,66 +1,72 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "Mr. Bean - Live Action",
+    "tvg_id": "mr-bean-live-action",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?ads_amagi_channel=975&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6617&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=2c226a06-9f04-4083-b2c6-d0b85d9dde9d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/mr-bean-live-action/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/426x240_511680/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "511680",
+                "AVERAGE-BANDWIDTH": "393600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "426x240",
+                "CLOSED-CAPTIONS": "cc",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/640x360_1057680/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "cc",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/848x480_1686360/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "848x480",
+                "CLOSED-CAPTIONS": "cc",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/1280x720_3329040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
+                "CLOSED-CAPTIONS": "cc",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/1920x1080_6046040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "CLOSED-CAPTIONS": "cc",
+                "FRAME-RATE": "25.000"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mrbean-liveaction-mr-bean-live-action.json"
 }

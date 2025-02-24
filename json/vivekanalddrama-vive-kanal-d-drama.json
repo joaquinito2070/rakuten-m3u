@@ -1,66 +1,60 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "Vive Kanal D Drama",
+    "tvg_id": "vive-kanal-d-drama",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png",
+    "group_title": "Series",
+    "original_master_url": "https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=41066c12-dd3c-4b26-828e-d9e2dd57bbea&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vive-kanal-d-drama/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/640x360_1057680/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/848x480_1686360/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "848x480",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/1280x720_3329040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/1920x1080_6046040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/vivekanalddrama-vive-kanal-d-drama.json"
 }

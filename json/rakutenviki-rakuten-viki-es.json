@@ -1,66 +1,39 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "Rakuten VIKI",
+    "tvg_id": "rakuten-viki-es",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ad296890-4031-4cae-b227-2865b71f4913&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/rakuten-viki-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/c8d02093-d1c5-4008-af22-8f05b86b2e9a/0.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "921600",
+                "CLOSED-CAPTIONS": "captions"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/c8d02093-d1c5-4008-af22-8f05b86b2e9a/1.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "960x540",
+                "BANDWIDTH": "2048000",
+                "CLOSED-CAPTIONS": "captions"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/c8d02093-d1c5-4008-af22-8f05b86b2e9a/2.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
-                "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "BANDWIDTH": "3072000",
+                "CLOSED-CAPTIONS": "captions"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/rakutenviki-rakuten-viki-es.json"
 }

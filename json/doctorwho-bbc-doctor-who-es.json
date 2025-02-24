@@ -1,66 +1,56 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "Doctor Who",
+    "tvg_id": "bbc-doctor-who-es",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e2892717-0a81-42a2-91bc-adbe74d0639a.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/playlist.m3u8?ads_amagi_channel=964&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3874&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=6c21758c-78f6-49d2-b2b8-834fc3189f2f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/bbc-doctor-who-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/640x360_1020800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1020800",
+                "AVERAGE-BANDWIDTH": "985600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/960x540_2428800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2428800",
+                "AVERAGE-BANDWIDTH": "2340800",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "960x540",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/1280x720_3572800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3572800",
+                "AVERAGE-BANDWIDTH": "3440800",
+                "CODECS": "avc1.4d4028",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/1920x1080_4716800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4716800",
+                "AVERAGE-BANDWIDTH": "4540800",
+                "CODECS": "avc1.4d4028",
                 "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "FRAME-RATE": "25.000"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/doctorwho-bbc-doctor-who-es.json"
 }

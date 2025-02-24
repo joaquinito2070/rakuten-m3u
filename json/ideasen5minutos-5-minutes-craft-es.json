@@ -1,66 +1,60 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "Ideas en 5 minutos",
+    "tvg_id": "5-minutes-craft-es",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=47513655-f84a-4892-b55d-5882bb81a6b2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/5-minutes-craft-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bd7320e3b525a7a9d1b8c291cc6df2ffe4c3c7b4575879de37cde9f400be0db5e2f29b952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7cc639a270686ef5fd5390bbd97e9217b220e55b3677fb4f41dccbda51b2a8b33fff54916d1401cb3a074f3e018bd85dc518a79ba27a557f2d2afdfbc54cbc6c4418d6d902405593b788b907894cc62bbd39e7b36907d7233743be7a780c14a39904e4059c7f3c6ab179c79afd87ffb0a46ba048b70853d8b6ca336a4e94faea3bed3302453c79c0f327dd28fca8bff260cb067e9a9ecc90118f394116b1db307b5232f2bafe8d81196fc018fa626f7dd037a2ec9824c8f92a0d9aedaf74b9836f5c4fb96294740773b018a5cb18964dd20de79bcc71c2f2e2e2eccca0fb1ecb05f347170949448dd1769d1b1edd1885f639f39411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111b2881bd30586534c51db0d287b52f5052a1f598abc41e6d5f6145500ed3b3e62699dcf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195688cbb778e27b41faa3451dafae0f3ef2119b77587b4cdad040/169/640x360_871200/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "871200",
+                "AVERAGE-BANDWIDTH": "840400",
+                "CODECS": "avc1.4d4029",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bd7320e3b525a7a9d1b8c291cc6df2ffe4c3c7b4575879de37cde9f400be0db5e2f29b952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7cc639a270686ef5fd5390bbd97e9217b220e55b3677fb4f41dccbda51b2a8b33fff54916d1401cb3a074f3e018bd85dc518a79ba27a557f2d2afdfbc54cbc6c4418d6d902405593b788b907894cc62bbd39e7b36907d7233743be7a780c14a39904e4059c7f3c6ab179c79afd87ffb0a46ba048b70853d8b6ca336a4e94faea3bed3302453c79c0f327dd28fca8bff260cb067e9a9ecc90118f394116b1db307b5232f2bafe8d81196fc018fa626f7dd037a2ec9824c8f92a0d9aedaf74b9836f5c4fb96294740773b018a5cb18964dd20de79bcc71c2f2e2e2eccca0fb1ecb05f347170949448dd1769d1b1edd1885f639f39411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111b2881bd30586534c51db0d287b52f5052a1f598abc41e6d5f6145500ed3b3e62699dcf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195688cbb778e27b41faa3451dafae0f3ef2119b77587b4cdad040/169/854x480_1478400/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1478400",
+                "AVERAGE-BANDWIDTH": "1425600",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "854x480",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bd7320e3b525a7a9d1b8c291cc6df2ffe4c3c7b4575879de37cde9f400be0db5e2f29b952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7cc639a270686ef5fd5390bbd97e9217b220e55b3677fb4f41dccbda51b2a8b33fff54916d1401cb3a074f3e018bd85dc518a79ba27a557f2d2afdfbc54cbc6c4418d6d902405593b788b907894cc62bbd39e7b36907d7233743be7a780c14a39904e4059c7f3c6ab179c79afd87ffb0a46ba048b70853d8b6ca336a4e94faea3bed3302453c79c0f327dd28fca8bff260cb067e9a9ecc90118f394116b1db307b5232f2bafe8d81196fc018fa626f7dd037a2ec9824c8f92a0d9aedaf74b9836f5c4fb96294740773b018a5cb18964dd20de79bcc71c2f2e2e2eccca0fb1ecb05f347170949448dd1769d1b1edd1885f639f39411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111b2881bd30586534c51db0d287b52f5052a1f598abc41e6d5f6145500ed3b3e62699dcf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195688cbb778e27b41faa3451dafae0f3ef2119b77587b4cdad040/169/1920x1080_5130400/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
-                "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "5130400",
+                "AVERAGE-BANDWIDTH": "4941200",
+                "CODECS": "avc1.640029",
                 "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bd7320e3b525a7a9d1b8c291cc6df2ffe4c3c7b4575879de37cde9f400be0db5e2f29b952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7cc639a270686ef5fd5390bbd97e9217b220e55b3677fb4f41dccbda51b2a8b33fff54916d1401cb3a074f3e018bd85dc518a79ba27a557f2d2afdfbc54cbc6c4418d6d902405593b788b907894cc62bbd39e7b36907d7233743be7a780c14a39904e4059c7f3c6ab179c79afd87ffb0a46ba048b70853d8b6ca336a4e94faea3bed3302453c79c0f327dd28fca8bff260cb067e9a9ecc90118f394116b1db307b5232f2bafe8d81196fc018fa626f7dd037a2ec9824c8f92a0d9aedaf74b9836f5c4fb96294740773b018a5cb18964dd20de79bcc71c2f2e2e2eccca0fb1ecb05f347170949448dd1769d1b1edd1885f639f39411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b111b2881bd30586534c51db0d287b52f5052a1f598abc41e6d5f6145500ed3b3e62699dcf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195688cbb778e27b41faa3451dafae0f3ef2119b77587b4cdad040/169/1280x720_3000800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3000800",
+                "AVERAGE-BANDWIDTH": "2890800",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/ideasen5minutos-5-minutes-craft-es.json"
 }

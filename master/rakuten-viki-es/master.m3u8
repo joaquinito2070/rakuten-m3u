@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="640x360",BANDWIDTH="921600",CLOSED-CAPTIONS="captions"
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/0abd1ca6-c9bb-4e24-a167-29059d277827/0.m3u8
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/c8d02093-d1c5-4008-af22-8f05b86b2e9a/0.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="960x540",BANDWIDTH="2048000",CLOSED-CAPTIONS="captions"
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/0abd1ca6-c9bb-4e24-a167-29059d277827/1.m3u8
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/c8d02093-d1c5-4008-af22-8f05b86b2e9a/1.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="1280x720",BANDWIDTH="3072000",CLOSED-CAPTIONS="captions"
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/0abd1ca6-c9bb-4e24-a167-29059d277827/2.m3u8
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/c8d02093-d1c5-4008-af22-8f05b86b2e9a/2.m3u8

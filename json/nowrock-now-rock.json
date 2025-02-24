@@ -1,66 +1,48 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "NOW Rock",
+    "tvg_id": "now-rock",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e92f17dc-61c7-4249-9d1c-8013899220af.jpeg",
+    "group_title": "Música",
+    "original_master_url": "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5352&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=1f069969-e4e0-41af-a7a2-0bf115c9b1ae&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/now-rock/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/playlist/rakutenAA-lightning-now90s-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c198c685e6a545c7a9d1b8c291cc6df2ffe4c6574177687c9e379d899170ce0da0c7e7fb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adaed53bc4c7a94d449e43d6dcdc28e3e67390f01db3201b4fe09e6aeb60867ed5692e4421f9f257fc7d3168abb5fffc2810ac31ad8219e4dc9b0e6b1c711d486976aa051bb790c0c272dd4d42892cf10b78d9b3b74cc732e174f00e5fa91af4f39dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf4b41cfad7d1b243452a9bd14864359ff1b99afe475ad701edabfad467738bac61122ec869cb1d392c86f4cf66eca973c4e172dde1304740aafe449f8e8d87eaa68449991adedee49d4f27240013078407d0f007da2dce47a5cf012a595936c9f037c195832f5a054e829361d11d0dcbbde1e7cf1c34ce3a5a309261dd483a6fc33a7879eb39c699306d9a3503833c3efa4c3c8f4c8edb4694f781a16c57b4dad47def60eb8a1ecbe607db19562b12bff3355a575c7cd7eb5900397dd14ae8df90941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185c88cbb778ef7b41faa39c03760f007c1b85b769f3bc15344e03/173/640x360_1020800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1020800",
+                "AVERAGE-BANDWIDTH": "985600",
+                "CODECS": "avc1.77.30",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/playlist/rakutenAA-lightning-now90s-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c198c685e6a545c7a9d1b8c291cc6df2ffe4c6574177687c9e379d899170ce0da0c7e7fb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adaed53bc4c7a94d449e43d6dcdc28e3e67390f01db3201b4fe09e6aeb60867ed5692e4421f9f257fc7d3168abb5fffc2810ac31ad8219e4dc9b0e6b1c711d486976aa051bb790c0c272dd4d42892cf10b78d9b3b74cc732e174f00e5fa91af4f39dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf4b41cfad7d1b243452a9bd14864359ff1b99afe475ad701edabfad467738bac61122ec869cb1d392c86f4cf66eca973c4e172dde1304740aafe449f8e8d87eaa68449991adedee49d4f27240013078407d0f007da2dce47a5cf012a595936c9f037c195832f5a054e829361d11d0dcbbde1e7cf1c34ce3a5a309261dd483a6fc33a7879eb39c699306d9a3503833c3efa4c3c8f4c8edb4694f781a16c57b4dad47def60eb8a1ecbe607db19562b12bff3355a575c7cd7eb5900397dd14ae8df90941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185c88cbb778ef7b41faa39c03760f007c1b85b769f3bc15344e03/173/848x480_1249600/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1249600",
+                "AVERAGE-BANDWIDTH": "1205600",
+                "CODECS": "avc1.77.30",
+                "RESOLUTION": "848x480",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/playlist/rakutenAA-lightning-now90s-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c198c685e6a545c7a9d1b8c291cc6df2ffe4c6574177687c9e379d899170ce0da0c7e7fb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adaed53bc4c7a94d449e43d6dcdc28e3e67390f01db3201b4fe09e6aeb60867ed5692e4421f9f257fc7d3168abb5fffc2810ac31ad8219e4dc9b0e6b1c711d486976aa051bb790c0c272dd4d42892cf10b78d9b3b74cc732e174f00e5fa91af4f39dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf4b41cfad7d1b243452a9bd14864359ff1b99afe475ad701edabfad467738bac61122ec869cb1d392c86f4cf66eca973c4e172dde1304740aafe449f8e8d87eaa68449991adedee49d4f27240013078407d0f007da2dce47a5cf012a595936c9f037c195832f5a054e829361d11d0dcbbde1e7cf1c34ce3a5a309261dd483a6fc33a7879eb39c699306d9a3503833c3efa4c3c8f4c8edb4694f781a16c57b4dad47def60eb8a1ecbe607db19562b12bff3355a575c7cd7eb5900397dd14ae8df90941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185c88cbb778ef7b41faa39c03760f007c1b85b769f3bc15344e03/173/1280x720_3801600/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3801600",
+                "AVERAGE-BANDWIDTH": "3660800",
+                "CODECS": "avc1.64001f",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
-                "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/nowrock-now-rock.json"
 }

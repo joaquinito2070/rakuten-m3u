@@ -1,66 +1,60 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "Qwest TV",
+    "tvg_id": "qwest-tv",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg",
+    "group_title": "Música",
+    "original_master_url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2268&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=a45e3270-ed25-4ee7-996a-f0e6a1ffdb9f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/qwest-tv/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/640x360_1057680/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/848x480_1686360/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "848x480",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/1280x720_3329040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/1920x1080_6046040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "25.000"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/qwesttv-qwest-tv.json"
 }

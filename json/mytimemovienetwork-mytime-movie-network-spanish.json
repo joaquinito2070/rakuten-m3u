@@ -1,66 +1,56 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "MyTime Movie Network",
+    "tvg_id": "mytime-movie-network-spanish",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/playlist.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=7aeec4c5-05e5-4781-861b-c3213389cce8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/mytime-movie-network-spanish/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdc625e3e57597a9d1b8c291cc6df2ffe4c657e462087ceb479dc901a0fbbd00a7f78b95b2466af5a56bf700d64ab8f706c952fba7d5f6682606f5221b2af1deb2f06e7b830bd7d2e8aa5d868335f6065ce091e8afd0fe1a4b41967ec5693e45f42811579b6d601a69443efef9012de16a452cb36ddcea1c28652c2d7c636c60aeb301b572e71c3fa13fec859a5e58f7a3c8e4e3c5f0e5094caf9995835954e5753eaa5b3d50afe17ddb62184763eb805a75b9d208f19cf63c4f64ba2f7ceb52c403db7fb5f6431a9e6a5b5f73827cf0591c3b8872916e9f7106b78da79ca272a3599f3cc2b8dc767d0dc67d2b56c183b949210d6cde786bafdd91dc474879fa2c93f0f4d305653d50efac36ed82c8522d4a46120585e7bbf8e43fb85d65024674192bf57d0617dd3bfd9d6875709ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc46e0e0274f728d03c6b4417223b2c88af5cdfa7eb52d96eeab279bf51/138/640x360_1057680/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "29.970"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdc625e3e57597a9d1b8c291cc6df2ffe4c657e462087ceb479dc901a0fbbd00a7f78b95b2466af5a56bf700d64ab8f706c952fba7d5f6682606f5221b2af1deb2f06e7b830bd7d2e8aa5d868335f6065ce091e8afd0fe1a4b41967ec5693e45f42811579b6d601a69443efef9012de16a452cb36ddcea1c28652c2d7c636c60aeb301b572e71c3fa13fec859a5e58f7a3c8e4e3c5f0e5094caf9995835954e5753eaa5b3d50afe17ddb62184763eb805a75b9d208f19cf63c4f64ba2f7ceb52c403db7fb5f6431a9e6a5b5f73827cf0591c3b8872916e9f7106b78da79ca272a3599f3cc2b8dc767d0dc67d2b56c183b949210d6cde786bafdd91dc474879fa2c93f0f4d305653d50efac36ed82c8522d4a46120585e7bbf8e43fb85d65024674192bf57d0617dd3bfd9d6875709ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc46e0e0274f728d03c6b4417223b2c88af5cdfa7eb52d96eeab279bf51/138/848x480_1686360/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "29.970"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdc625e3e57597a9d1b8c291cc6df2ffe4c657e462087ceb479dc901a0fbbd00a7f78b95b2466af5a56bf700d64ab8f706c952fba7d5f6682606f5221b2af1deb2f06e7b830bd7d2e8aa5d868335f6065ce091e8afd0fe1a4b41967ec5693e45f42811579b6d601a69443efef9012de16a452cb36ddcea1c28652c2d7c636c60aeb301b572e71c3fa13fec859a5e58f7a3c8e4e3c5f0e5094caf9995835954e5753eaa5b3d50afe17ddb62184763eb805a75b9d208f19cf63c4f64ba2f7ceb52c403db7fb5f6431a9e6a5b5f73827cf0591c3b8872916e9f7106b78da79ca272a3599f3cc2b8dc767d0dc67d2b56c183b949210d6cde786bafdd91dc474879fa2c93f0f4d305653d50efac36ed82c8522d4a46120585e7bbf8e43fb85d65024674192bf57d0617dd3bfd9d6875709ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc46e0e0274f728d03c6b4417223b2c88af5cdfa7eb52d96eeab279bf51/138/1280x720_3329040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
+                "FRAME-RATE": "29.970"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdc625e3e57597a9d1b8c291cc6df2ffe4c657e462087ceb479dc901a0fbbd00a7f78b95b2466af5a56bf700d64ab8f706c952fba7d5f6682606f5221b2af1deb2f06e7b830bd7d2e8aa5d868335f6065ce091e8afd0fe1a4b41967ec5693e45f42811579b6d601a69443efef9012de16a452cb36ddcea1c28652c2d7c636c60aeb301b572e71c3fa13fec859a5e58f7a3c8e4e3c5f0e5094caf9995835954e5753eaa5b3d50afe17ddb62184763eb805a75b9d208f19cf63c4f64ba2f7ceb52c403db7fb5f6431a9e6a5b5f73827cf0591c3b8872916e9f7106b78da79ca272a3599f3cc2b8dc767d0dc67d2b56c183b949210d6cde786bafdd91dc474879fa2c93f0f4d305653d50efac36ed82c8522d4a46120585e7bbf8e43fb85d65024674192bf57d0617dd3bfd9d6875709ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc46e0e0274f728d03c6b4417223b2c88af5cdfa7eb52d96eeab279bf51/138/1920x1080_6046040/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "FRAME-RATE": "29.970"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mytimemovienetwork-mytime-movie-network-spanish.json"
 }

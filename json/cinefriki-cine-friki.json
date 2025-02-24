@@ -1,66 +1,60 @@
 {
-    "name": "The Guardian",
-    "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
-    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/66f04592-6574-4afa-8ad4-06b8e5387d47.jpeg",
-    "group_title": "Noticias",
-    "original_master_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=fbcbe8bb-699e-4524-ae9e-ac1a6e91ecea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "name": "Cine Friki",
+    "tvg_id": "cine-friki",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=263df886-1ef6-42ab-9783-f2e4e8705edf&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/cine-friki/master.m3u8",
     "qualities": [
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/0.m3u8",
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdb33596a05087a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356ad8ec53854c6d94d449e42b7ccdf48e345639131fca7f68df9319f6adeb717ffa3df5f2730ad1692ab4dd1c8d8142ffef8d0fbc75bc42f4149c94fa9ae938d3d2d20ceb13f40b0a572c699c8e6dacc55cb8dd8f683e99034d2c7d46f6a2c9bc244687435063fbf0c5ab60f107f18a29807324b206914c85248364a47bc38b2cf1ffe185283138a0d7647233b2e0a187f23b34826fffd0afb7372ecfa5107e1f913b95732e3ec6b09f4685c158cfe17bd6f96f4f3d94941dcccde786ebb6d730f648cbc3e7a728514b713b169f4da7e804b14ecb71bbc7072e4e1736c7f054c095e65331704483942cb07979bcc8d1c7b5623ace73244ae764e64f1c7cc9461816973df59b25699b360b823002f65131924df0b47680cdb2e402288accd354f66b9ddd60b4a455f835690058c698425e415f42d4eb7004337cfc49e9c7b8821d6851b686a799c1572b383c19447eed8883608981c41b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba61a17f14a36a78b050e41c426b5f37fbcb3dd0926c31c4a85bbf4/5/640x360_1020800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532652",
-                "RESOLUTION": "448x252",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "564333"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1020800",
+                "AVERAGE-BANDWIDTH": "985600",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/1.m3u8",
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdb33596a05087a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356ad8ec53854c6d94d449e42b7ccdf48e345639131fca7f68df9319f6adeb717ffa3df5f2730ad1692ab4dd1c8d8142ffef8d0fbc75bc42f4149c94fa9ae938d3d2d20ceb13f40b0a572c699c8e6dacc55cb8dd8f683e99034d2c7d46f6a2c9bc244687435063fbf0c5ab60f107f18a29807324b206914c85248364a47bc38b2cf1ffe185283138a0d7647233b2e0a187f23b34826fffd0afb7372ecfa5107e1f913b95732e3ec6b09f4685c158cfe17bd6f96f4f3d94941dcccde786ebb6d730f648cbc3e7a728514b713b169f4da7e804b14ecb71bbc7072e4e1736c7f054c095e65331704483942cb07979bcc8d1c7b5623ace73244ae764e64f1c7cc9461816973df59b25699b360b823002f65131924df0b47680cdb2e402288accd354f66b9ddd60b4a455f835690058c698425e415f42d4eb7004337cfc49e9c7b8821d6851b686a799c1572b383c19447eed8883608981c41b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba61a17f14a36a78b050e41c426b5f37fbcb3dd0926c31c4a85bbf4/5/960x540_2428800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "902166",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "945341"
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2428800",
+                "AVERAGE-BANDWIDTH": "2340800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "960x540",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/2.m3u8",
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdb33596a05087a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356ad8ec53854c6d94d449e42b7ccdf48e345639131fca7f68df9319f6adeb717ffa3df5f2730ad1692ab4dd1c8d8142ffef8d0fbc75bc42f4149c94fa9ae938d3d2d20ceb13f40b0a572c699c8e6dacc55cb8dd8f683e99034d2c7d46f6a2c9bc244687435063fbf0c5ab60f107f18a29807324b206914c85248364a47bc38b2cf1ffe185283138a0d7647233b2e0a187f23b34826fffd0afb7372ecfa5107e1f913b95732e3ec6b09f4685c158cfe17bd6f96f4f3d94941dcccde786ebb6d730f648cbc3e7a728514b713b169f4da7e804b14ecb71bbc7072e4e1736c7f054c095e65331704483942cb07979bcc8d1c7b5623ace73244ae764e64f1c7cc9461816973df59b25699b360b823002f65131924df0b47680cdb2e402288accd354f66b9ddd60b4a455f835690058c698425e415f42d4eb7004337cfc49e9c7b8821d6851b686a799c1572b383c19447eed8883608981c41b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba61a17f14a36a78b050e41c426b5f37fbcb3dd0926c31c4a85bbf4/5/1280x720_3572800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1441966",
-                "RESOLUTION": "768x432",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1493221"
-            }
-        },
-        {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/3.m3u8",
-            "attributes": {
-                "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2587626",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3572800",
+                "AVERAGE-BANDWIDTH": "3440800",
+                "CODECS": "avc1.640028",
                 "RESOLUTION": "1280x720",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2675018"
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
             }
         },
         {
-            "url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/5a5d939f-2649-43f9-b9cc-52d47cc3ea2f/4.m3u8",
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1fdb33596a05087a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356ad8ec53854c6d94d449e42b7ccdf48e345639131fca7f68df9319f6adeb717ffa3df5f2730ad1692ab4dd1c8d8142ffef8d0fbc75bc42f4149c94fa9ae938d3d2d20ceb13f40b0a572c699c8e6dacc55cb8dd8f683e99034d2c7d46f6a2c9bc244687435063fbf0c5ab60f107f18a29807324b206914c85248364a47bc38b2cf1ffe185283138a0d7647233b2e0a187f23b34826fffd0afb7372ecfa5107e1f913b95732e3ec6b09f4685c158cfe17bd6f96f4f3d94941dcccde786ebb6d730f648cbc3e7a728514b713b169f4da7e804b14ecb71bbc7072e4e1736c7f054c095e65331704483942cb07979bcc8d1c7b5623ace73244ae764e64f1c7cc9461816973df59b25699b360b823002f65131924df0b47680cdb2e402288accd354f66b9ddd60b4a455f835690058c698425e415f42d4eb7004337cfc49e9c7b8821d6851b686a799c1572b383c19447eed8883608981c41b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba61a17f14a36a78b050e41c426b5f37fbcb3dd0926c31c4a85bbf4/5/1920x1080_4716800/index.m3u8",
             "attributes": {
-                "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4535276",
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4716800",
+                "AVERAGE-BANDWIDTH": "4540800",
+                "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
-                "SUBTITLES": "subtitle",
-                "FRAME-RATE": "25.0",
-                "BANDWIDTH": "4671700"
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
             }
         }
     ],
-    "epg": []
+    "epg": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/cinefriki-cine-friki.json"
 }
