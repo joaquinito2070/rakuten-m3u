@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/rantaro-ninja-boy-rakuten-tv/master.m3u8",
     "qualities": [
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b7ad35d3-1712-456b-a051-bde2e217adad/0.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b96e1428-1743-4f92-ad7e-54c3cda21f23/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "538416",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b7ad35d3-1712-456b-a051-bde2e217adad/1.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b96e1428-1743-4f92-ad7e-54c3cda21f23/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "920012",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b7ad35d3-1712-456b-a051-bde2e217adad/2.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b96e1428-1743-4f92-ad7e-54c3cda21f23/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1477780",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b7ad35d3-1712-456b-a051-bde2e217adad/3.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b96e1428-1743-4f92-ad7e-54c3cda21f23/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2665902",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b7ad35d3-1712-456b-a051-bde2e217adad/4.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/b96e1428-1743-4f92-ad7e-54c3cda21f23/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4653638",
