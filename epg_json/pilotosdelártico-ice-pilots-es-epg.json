@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250224165715 +0100",
-            "stop_time": "20250224175333 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nEl piloto novato de bombas de agua, Scott, prueba por primera vez la acción cuando Buffalo responde a una llamada de emergencia.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224175334 +0100",
             "stop_time": "20250224184746 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

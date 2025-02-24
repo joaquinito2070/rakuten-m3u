@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224163825 +0100",
-            "stop_time": "20250224181219 +0100",
-            "title": "Altitud",
-            "description": "| +16 | Películas |\n\nUna agente del FBI es castigada y enviada a un trabajo de administrativa en Washington DC después de desobedecer a sus mandos en una negociación con rehenes. En el avión que le lleva a Washington conoce a un apuesto hombre de negocios que le ofrece una recompensa si le ayuda a bajar del avión.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/fb4033f6-c623-42dc-a373-cf8a6fda3a82-snapshot-1590665579.jpeg"
-        },
-        {
             "start_time": "20250224181220 +0100",
             "stop_time": "20250224201526 +0100",
             "title": "Junglee: Alma Salvaje",

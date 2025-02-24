@@ -3,13 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250224161957 +0100",
-            "stop_time": "20250224171914 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nEl chef Gordon Ramsay es la estrella del auto económico.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224171920 +0100",
             "stop_time": "20250224181907 +0100",
             "title": "Top Gear UK",

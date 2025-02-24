@@ -3,13 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250224171329 +0100",
-            "stop_time": "20250224174523 +0100",
-            "title": "Best Pets of the Month",
-            "description": "| +7 | Entretenimiento |\n\nThese pets won March '20. But after watching these clips, the real winner is you.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224174529 +0100",
             "stop_time": "20250224181723 +0100",
             "title": "TPC That's My Pet",

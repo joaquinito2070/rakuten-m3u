@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224163312 +0100",
-            "stop_time": "20250224180637 +0100",
-            "title": "Tapas",
-            "description": "| +16 | Películas |\n\nJosé Corbacho y Juan Cruz dirigen su primer largometraje, que ganó dos Premios Goya (Dirección Novel y Actriz de Reparto), basándose en cinco historias que se entrelazan en un barrio de la gran ciudad. Cinco mundos unidos en el día a día, con el bar, los comercios y el mercado como punto neurálgico.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/438e6921-7738-4535-9d8f-5fc397ca53c9-snapshot-1590660136.jpeg"
-        },
-        {
             "start_time": "20250224180638 +0100",
             "stop_time": "20250224194730 +0100",
             "title": "Despertando a Ned",

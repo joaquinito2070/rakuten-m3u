@@ -3,13 +3,6 @@
     "tvg_id": "bloomberg-originals",
     "epg": [
         {
-            "start_time": "20250224150005 +0100",
-            "stop_time": "20250224175958 +0100",
-            "title": "Take Charge",
-            "description": "| +12 | Documental |\n\nThe morning’s global headlines impacting your day.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180005 +0100",
             "stop_time": "20250224215958 +0100",
             "title": "Take a Break",

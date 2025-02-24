@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224171628 +0100",
-            "stop_time": "20250224172927 +0100",
-            "title": "Un nuevo amigo",
-            "description": "| +TP | Infantil |\n\nMr. Bean ha hecho un nuevo amigo, y es una gaviota, pero a veces los amigos se aprovechan de las invitaciones demasiado tiempo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224172928 +0100",
-            "stop_time": "20250224174239 +0100",
-            "title": "Una gran invitación",
-            "description": "| +TP | Infantil |\n\nMr. Bean se siente en casa con la burguesía",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224174240 +0100",
-            "stop_time": "20250224175540 +0100",
-            "title": "Las Compras de Bean",
-            "description": "| +TP | Infantil |\n\nMr. Bean se queda encerrado en el centro comercial durante la noche y se lo pasa de maravilla.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224175541 +0100",
-            "stop_time": "20250224180839 +0100",
-            "title": "Dia De Boda",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180840 +0100",
             "stop_time": "20250224182152 +0100",
             "title": "Cuidando al gato",

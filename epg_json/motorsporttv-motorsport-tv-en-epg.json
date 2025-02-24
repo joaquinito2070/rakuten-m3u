@@ -3,13 +3,6 @@
     "tvg_id": "motorsport-tv-en",
     "epg": [
         {
-            "start_time": "20250224161500 +0100",
-            "stop_time": "20250224175230 +0100",
-            "title": "Porsche Carrera Cup Middle East",
-            "description": "| +TP | Deportes |\n\nWatch the 2023-2024 Porsche Carrera Cup Middle East round 3 first race at Dubai Autodrome.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224175236 +0100",
             "stop_time": "20250224182629 +0100",
             "title": "Chantilly Arts & Elegance Richard Mille 2024",

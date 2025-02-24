@@ -3,20 +3,6 @@
     "tvg_id": "todo-crimen",
     "epg": [
         {
-            "start_time": "20250224163328 +0100",
-            "stop_time": "20250224173120 +0100",
-            "title": "Contra Reloj",
-            "description": "| +16 | Crime |\n\nLa muerte de Jean-Bernard Wiktorska, que inicialmente se creyó que había sido un accidente, tomó un giro siniestro cuando un misterioso informante implicó a su esposa y a su amante en el asesinato.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224173121 +0100",
-            "stop_time": "20250224180002 +0100",
-            "title": "Las Primeras 72 Horas Tras El Crimen",
-            "description": "| +16 | Crime |\n\nUn chico de fraternidad atrae a una chica a su casa con la promesa de una fiesta, pero una vez allí resulta que tiene motivos ocultos.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180003 +0100",
             "stop_time": "20250224185505 +0100",
             "title": "Secretos de los Museos",

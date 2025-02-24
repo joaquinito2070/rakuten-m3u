@@ -3,13 +3,6 @@
     "tvg_id": "qwest-tv",
     "epg": [
         {
-            "start_time": "20250224150101 +0100",
-            "stop_time": "20250224181100 +0100",
-            "title": "From Be Bop to Hip Hop by Qwest TV",
-            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224181101 +0100",
             "stop_time": "20250224200000 +0100",
             "title": "It’s Showtime! by Qwest TV",

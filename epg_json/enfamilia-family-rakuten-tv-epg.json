@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224164817 +0100",
-            "stop_time": "20250224181008 +0100",
-            "title": "Las Aventuras de la Familia Fox",
-            "description": "| +12 | Infantil |\n\nDurante el fin de semana familiar anual en el parque temático, Teun, de once años, descubre que su abuelo recientemente fallecido le dejó una última búsqueda del tesoro dentro del parque.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/c5bc9118-38fc-48b8-9f64-46c02882dc68.jpeg"
-        },
-        {
             "start_time": "20250224181009 +0100",
             "stop_time": "20250224194113 +0100",
             "title": "Mi mascota es un dinosaurio",

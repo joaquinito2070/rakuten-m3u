@@ -3,13 +3,6 @@
     "tvg_id": "revry-news",
     "epg": [
         {
-            "start_time": "20250224163006 +0100",
-            "stop_time": "20250224180500 +0100",
-            "title": "The Worst Thing",
-            "description": "| +TP | LGBTQ+ |\n\nKathleen hunts the Red Army Faction, a terrorist organization responsible for her brother's death.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180506 +0100",
             "stop_time": "20250224200500 +0100",
             "title": "Raid Of The Rainbow Lounge",

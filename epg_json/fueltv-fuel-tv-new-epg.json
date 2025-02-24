@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224170001 +0100",
-            "stop_time": "20250224173000 +0100",
-            "title": "Behind the Gate - 2023 - Riders On The Storm",
-            "description": "| +7 | Deportes |\n\nComing to Turkey, riders face stormy and challenging conditions but some raised above the rest.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224173001 +0100",
-            "stop_time": "20250224180000 +0100",
-            "title": "Behind the Gate - 2023 - Nerves Of Steel",
-            "description": "| +7 | Deportes |\n\nThe season reaches the climax with the crowning of two new Motocross World Champs.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180001 +0100",
             "stop_time": "20250224183000 +0100",
             "title": "The Adventures of Danny and the Dingo - Season 4 - Taming Alaska",

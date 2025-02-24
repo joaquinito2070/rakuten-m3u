@@ -3,13 +3,6 @@
     "tvg_id": "todo-novelas",
     "epg": [
         {
-            "start_time": "20250224164720 +0100",
-            "stop_time": "20250224173925 +0100",
-            "title": "Teresa EP101",
-            "description": "| +7 | Series |\n\nTeresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224173926 +0100",
             "stop_time": "20250224183651 +0100",
             "title": "Malparida - S1E01",

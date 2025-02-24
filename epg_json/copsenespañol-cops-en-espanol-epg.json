@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224171605 +0100",
-            "stop_time": "20250224173814 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLa falta de equipo de seguridad llama la atención y es causa para una infracción.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224173820 +0100",
-            "stop_time": "20250224180244 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn sospechoso huye mientras los oficiales responden a una pelea.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180250 +0100",
             "stop_time": "20250224182659 +0100",
             "title": "Cops en Español",

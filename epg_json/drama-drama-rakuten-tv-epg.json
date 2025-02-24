@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224160451 +0100",
-            "stop_time": "20250224175348 +0100",
-            "title": "Whale Rider",
-            "description": "| +16 | Películas |\n\nEn un pequeño poblado de la costa de Nueva Zelanda, los aborígenes de la tribu Whangara creen que proceden de un único ancestro, cuya existencia se remonta mil años atrás. Su nombre es Paikea, y escapó de la muerte, tras volcar su canoa, montando a lomos de una ballena. ",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c4a2f64c-d0f0-4a4a-b857-f3f7c6883086.jpeg"
-        },
-        {
             "start_time": "20250224175349 +0100",
             "stop_time": "20250224194804 +0100",
             "title": "El libro del amor",

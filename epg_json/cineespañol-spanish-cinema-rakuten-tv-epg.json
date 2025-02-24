@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224163653 +0100",
-            "stop_time": "20250224180816 +0100",
-            "title": "Swing, la vida de un secreto",
-            "description": "| +16 | Películas |\n\nPara animar su vida sexual, una joven opta por ir con su novio a un club de intercambio de parejas. La aventura le llevará a descubrir un sorprendente secreto familiar.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/0edd9ed9-b007-4afb-9cfc-09fdb6db6702.jpeg"
-        },
-        {
             "start_time": "20250224180817 +0100",
             "stop_time": "20250224194820 +0100",
             "title": "Los que tocan el piano",

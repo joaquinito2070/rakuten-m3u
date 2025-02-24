@@ -3,13 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224171838 +0100",
-            "stop_time": "20250224174832 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nJaclyn joins Mark in a ride through the US Midwest during the most prolific tornado season on record.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224174838 +0100",
             "stop_time": "20250224181832 +0100",
             "title": "Humans VS Weather",

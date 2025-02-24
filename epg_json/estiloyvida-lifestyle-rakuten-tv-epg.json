@@ -3,13 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224123631 +0100",
-            "stop_time": "20250224172013 +0100",
-            "title": "Ni que fuéramos Shhh",
-            "description": "| +16 | Estilo de vida |\n\nLa crisis de Pilar Rubio en Ni Que Fuéramos Shhh.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/400754eb-6570-472b-bcd9-9d47374f2d6b.jpeg"
-        },
-        {
             "start_time": "20250224172014 +0100",
             "stop_time": "20250224185831 +0100",
             "title": "Gipsy Kings",

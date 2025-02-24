@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224171201 +0100",
-            "stop_time": "20250224173801 +0100",
-            "title": "Comidas Sagradas y Fast Food de la India",
-            "description": "| +7 | Cocina y comida |\n\nOctavio viaja a la India para probar delicias que nunca imaginó.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224173802 +0100",
-            "stop_time": "20250224180401 +0100",
-            "title": "Jama Masjid y curry picante",
-            "description": "| +7 | Cocina y comida |\n\nOctavio conoce una Gaushala, una especie de \"santuario de vacas\".",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180402 +0100",
             "stop_time": "20250224183001 +0100",
             "title": "Lujo y viaje en tren",

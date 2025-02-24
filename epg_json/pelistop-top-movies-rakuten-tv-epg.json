@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224153507 +0100",
-            "stop_time": "20250224172725 +0100",
-            "title": "Hojas de Hierba",
-            "description": "| +16 | Películas |\n\nLas vidas de dos gemelos idénticos (interpretados por Edward Norton) dan un giro cuando el primero, un profesor de filosofía, es confundido por el segundo, un traficante de drogas al que varios clanes del narcotráfico quieren ver muerto.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fa67cdab-5daf-467e-a07f-0f21dbfd08e1-snapshot-1590667395.jpeg"
-        },
-        {
             "start_time": "20250224172726 +0100",
             "stop_time": "20250224192454 +0100",
             "title": "Emperador",

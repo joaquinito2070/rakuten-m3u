@@ -3,27 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250224171501 +0100",
-            "stop_time": "20250224173000 +0100",
-            "title": "Reporters",
-            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224173001 +0100",
-            "stop_time": "20250224174500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224174501 +0100",
-            "stop_time": "20250224180000 +0100",
-            "title": "French Connections",
-            "description": "| +7 | Noticias |\n\nA quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180001 +0100",
             "stop_time": "20250224181500 +0100",
             "title": "News",

@@ -3,13 +3,6 @@
     "tvg_id": "baby-shark-tv",
     "epg": [
         {
-            "start_time": "20250224171609 +0100",
-            "stop_time": "20250224174019 +0100",
-            "title": "Everything ABC Songs",
-            "description": "| +7 | Infantil |\n\nLearn your ABC with Pinkfong and friends!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224174026 +0100",
             "stop_time": "20250224181259 +0100",
             "title": "Pinkfong and Hogi’s Magic Adventure",

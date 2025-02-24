@@ -3,20 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250224170537 +0100",
-            "stop_time": "20250224173258 +0100",
-            "title": "El temible Libra",
-            "description": "| +TP | Anime |\n\nEn un sorprendente final de la batalla de supervivencia, todo se reduce a Kyoya, Gingka, Madoka y Yu. En una feroz batalla entre Kyoya y Yu, la pandilla descubre que el bey de Kyoya se rompió en su batalla anterior con Hyoma, y si continúa luchando contra Yu, podría dañarse para siempre. Depende de Madoka, todavía un competidor en la carrera, luchar contra Kyoya, para informarle sobre su bey y salvarlo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224173259 +0100",
-            "stop_time": "20250224180020 +0100",
-            "title": "El camino a los Battle Bladers",
-            "description": "| +TP | Anime |\n\nA Yu se le concede su deseo de ganar la Batalla de supervivencia. Él desea Battle Bladers, la batalla de bey más grande de todos los tiempos que determinará el blader número 1 del país. Doji llega y pronto se revela que todo esto ha sido parte de su complot: controlar Battle Bladers, para que Ryuga pueda derrotar a todos y Lightning L-Drago pueda absorber todo el poder de los oponentes.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180021 +0100",
             "stop_time": "20250224182743 +0100",
             "title": "La bella águila",

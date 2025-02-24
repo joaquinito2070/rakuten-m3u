@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250224170444 +0100",
-            "stop_time": "20250224173438 +0100",
-            "title": "Bucket List",
-            "description": "| +7 | Estilo de vida |\n\nDaniel Coll y Paddy Doherty disfrutan de caminatas a cascadas, pesca y una serena puesta de sol en la playa de Itoshima, un lugar en Kyushu que calma el alma.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224173445 +0100",
-            "stop_time": "20250224180439 +0100",
-            "title": "Backpack",
-            "description": "| +7 | Estilo de vida |\n\nÚnase a nuestro anfitrión mientras comienza su viaje de mochilero por Portugal, comenzando desde Lisboa. Explorando monumentos importantes desde la torre de Belem hasta Portas Do Sol.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224180446 +0100",
             "stop_time": "20250224183440 +0100",
             "title": "Bucket List",

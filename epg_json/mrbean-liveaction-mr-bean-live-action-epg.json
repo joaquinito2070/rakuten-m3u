@@ -3,20 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250224165502 +0100",
-            "stop_time": "20250224172544 +0100",
-            "title": "The Trouble with Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224172545 +0100",
-            "stop_time": "20250224175534 +0100",
-            "title": "Mr Bean Rides Again",
-            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224175535 +0100",
             "stop_time": "20250224182701 +0100",
             "title": "Merry Christmas Mr Bean",
