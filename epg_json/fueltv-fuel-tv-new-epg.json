@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224180001 +0100",
-            "stop_time": "20250224183000 +0100",
-            "title": "The Adventures of Danny and the Dingo - Season 4 - Taming Alaska",
-            "description": "| +7 | Deportes |\n\nHeli-boarding, fishing and firing automatic weapons… the guys have a great weekend in the Alaskan backcount...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183001 +0100",
-            "stop_time": "20250224190000 +0100",
-            "title": "The Adventures of Danny and the Dingo - Season 4 - Arctic Man",
-            "description": "| +7 | Deportes |\n\nThe crew heads down to Paxson, Alaska for Arctic Man.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190001 +0100",
             "stop_time": "20250224193000 +0100",
             "title": "Camp Woodward - Season 1 - Temper, Temper",

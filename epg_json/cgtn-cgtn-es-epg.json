@@ -3,27 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250224174501 +0100",
-            "stop_time": "20250224183000 +0100",
-            "title": "EL PROYECTOR",
-            "description": "| +7 | Asian |\n\nAcérquese a la vida de la China antigua y moderna a través de las producciones dramáticas de CGTN-Español. La combinación perfecta de historia y ficción chinas en la pantalla de su televisor.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183001 +0100",
-            "stop_time": "20250224184500 +0100",
-            "title": "SABOREANDO CHINA",
-            "description": "| +7 | Asian |\n\nAprenda a preparar las recetas más populares de China. Nuestro chef le revelará de forma práctica los secretos del arte culinario de esta nación asiática. Conozca los ingredientes más utilizados en la variada cocina regional, los orígenes de los platos e incluso sus beneficios para la salud. En De China a tu cocina, el espectador podrá experimentar a la vez la riqueza tradicional y la variedad gastronómica de China.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224184501 +0100",
-            "stop_time": "20250224190000 +0100",
-            "title": "NIHAO CHINA",
-            "description": "| +7 | Asian |\n\nEs la clase de chino de CGTN-Español. Las series “Aprendamos juntos pinyin”, “Comunícate en chino” y “Viajando y aprendiendo chino”, abordan diferentes niveles de aprendizaje de la nueva lengua de moda en el mundo, brindando así a los televidentes la posibilidad de ampliar su vocabulario, mejorar su gramática y dominar las frases y expresiones más usuales del idioma con más hablantes en el planeta.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190001 +0100",
             "stop_time": "20250224193000 +0100",
             "title": "DOCUMENTAL",

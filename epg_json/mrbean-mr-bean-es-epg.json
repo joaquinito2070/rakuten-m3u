@@ -3,41 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224180840 +0100",
-            "stop_time": "20250224182152 +0100",
-            "title": "Cuidando al gato",
-            "description": "| +TP | Infantil |\n\nMr. Bean tiene que cuidar de su peor enemigo",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224182153 +0100",
-            "stop_time": "20250224183451 +0100",
-            "title": "Bean En La Opera",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183452 +0100",
-            "stop_time": "20250224184804 +0100",
-            "title": "Urraca",
-            "description": "| +TP | Infantil |\n\nMr. Bean tiene problemas con un ave",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224184805 +0100",
-            "stop_time": "20250224190104 +0100",
-            "title": "Día de Spa",
-            "description": "| +TP | Infantil |\n\nLa señora Wicket exige que Bean la lleve a ella y a la señorita Wince a su retiro de spa reservado.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224190105 +0100",
-            "stop_time": "20250224191403 +0100",
-            "title": "Guerra De Coches",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
             "start_time": "20250224191404 +0100",
             "stop_time": "20250224192716 +0100",
             "title": "Padre matóns",

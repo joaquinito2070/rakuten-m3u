@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224170516 +0100",
-            "stop_time": "20250224191630 +0100",
-            "title": "Una habitación con vistas",
-            "description": "| +16 | Películas |\n\nLucy Honeychurch es una joven inglesa de buena familia que se enamora de George Emerson durante unas inolvidables vacaciones en Florencia.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/8ea148de-2a7e-4b2d-ad38-de8da93ba456.jpeg"
-        },
-        {
             "start_time": "20250224191631 +0100",
             "stop_time": "20250224211305 +0100",
             "title": "Devuélveme mi suerte",

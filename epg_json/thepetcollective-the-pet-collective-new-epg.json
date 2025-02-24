@@ -3,20 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250224174529 +0100",
-            "stop_time": "20250224181723 +0100",
-            "title": "TPC That's My Pet",
-            "description": "| +7 | Entretenimiento |\n\nDid you know that a group of young rabbits are called kittens?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224181729 +0100",
-            "stop_time": "20250224184923 +0100",
-            "title": "TPC That's My Pet",
-            "description": "| +7 | Entretenimiento |\n\nDid you know that aussie shepherds are actually from the United States?",
-            "icon": ""
-        },
-        {
             "start_time": "20250224184929 +0100",
             "stop_time": "20250224192123 +0100",
             "title": "TPC That's My Pet",

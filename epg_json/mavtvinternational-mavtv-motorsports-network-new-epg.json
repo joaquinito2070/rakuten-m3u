@@ -3,20 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250224180001 +0100",
-            "stop_time": "20250224183000 +0100",
-            "title": "Building a Better Hot Rod",
-            "description": "| +7 | Deportes |\n\nWhen laying out a hot rod build, people make the mistake of overlooking the chassis and frame.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183001 +0100",
-            "stop_time": "20250224190000 +0100",
-            "title": "ARCA Box and Hot Rods",
-            "description": "| +7 | Deportes |\n\nStacey proves that not all toolboxes are created equal with Cornwell's new ARCA series.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190001 +0100",
             "stop_time": "20250224193000 +0100",
             "title": "Season 11 Premiere",

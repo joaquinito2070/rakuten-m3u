@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250224175901 +0100",
-            "stop_time": "20250224185900 +0100",
-            "title": "Good Morning",
-            "description": "| +TP | Estilo de vida |\n\nEnergizing waves crash on the shores of Red Sand Beach, Hawaii.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224185901 +0100",
             "stop_time": "20250224195900 +0100",
             "title": "Rainbow Reef Relaxation 1",

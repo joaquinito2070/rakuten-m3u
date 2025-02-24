@@ -3,13 +3,6 @@
     "tvg_id": "pfl-mma",
     "epg": [
         {
-            "start_time": "20250224145239 +0100",
-            "stop_time": "20250224190935 +0100",
-            "title": "World Series of Fighting",
-            "description": "| +16 | Deportes |\n\nMoraes vs. Hill 2",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190941 +0100",
             "stop_time": "20250224221140 +0100",
             "title": "World Series of Fighting",

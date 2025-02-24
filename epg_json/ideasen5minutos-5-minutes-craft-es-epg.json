@@ -3,27 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250224174917 +0100",
-            "stop_time": "20250224181533 +0100",
-            "title": "¡Ideas asombrosas de decoración para tu hogar",
-            "description": "| +TP | Entretenimiento |\n\n¡Si quieres que tu hogar se vea genial, mira estas ideas originales y crea los adornos de tus sueños!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224181534 +0100",
-            "stop_time": "20250224184204 +0100",
-            "title": "¡Trucos fáciles y efectivos para resolver problemas cotidianos!",
-            "description": "| +TP | Entretenimiento |\n\n¡Trucos variados y útiles que podrían sorprenderte! ¡Descúbrelos!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224184205 +0100",
-            "stop_time": "20250224190922 +0100",
-            "title": "Trucos invaluables para padres",
-            "description": "| +TP | Entretenimiento |\n\n¡Estos consejos y trucos inteligentes harán que la crianza de los hijos sea mucho más fácil!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190923 +0100",
             "stop_time": "20250224193553 +0100",
             "title": "Trucos para padres",

@@ -3,27 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224174838 +0100",
-            "stop_time": "20250224181832 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Tornado Terrorizing a Town and Golf Game in a Massive Storm?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224181838 +0100",
-            "stop_time": "20250224184832 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Wave Ravaged Deck and Tornado Coming Ashore?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224184838 +0100",
-            "stop_time": "20250224191832 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Tent Lightning Strike or Windshield Hail Attack?",
-            "icon": ""
-        },
-        {
             "start_time": "20250224191838 +0100",
             "stop_time": "20250224194832 +0100",
             "title": "Humans VS Weather",

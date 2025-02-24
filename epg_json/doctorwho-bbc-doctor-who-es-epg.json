@@ -3,20 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250224173249 +0100",
-            "stop_time": "20250224182437 +0100",
-            "title": "Extranjeros de Londres",
-            "description": "| +7 | Series |\n\nLlevan a Rose a casa pero una nave espacial se esrella en el Thames y Londres está cerrada….¡Entre al Siltheen!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224182438 +0100",
-            "stop_time": "20250224191353 +0100",
-            "title": "La tercera guerra mundial",
-            "description": "| +7 | Series |\n\nEl tiempo se acaba para el Doctor mientras Downing Street anuncia la primera guerra interplanetaria de la humanidad.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224191354 +0100",
             "stop_time": "20250224200548 +0100",
             "title": "Dalek",

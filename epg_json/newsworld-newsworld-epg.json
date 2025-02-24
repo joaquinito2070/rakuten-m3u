@@ -3,20 +3,6 @@
     "tvg_id": "newsworld",
     "epg": [
         {
-            "start_time": "20250224180001 +0100",
-            "stop_time": "20250224183000 +0100",
-            "title": "News Hour",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183001 +0100",
-            "stop_time": "20250224190000 +0100",
-            "title": "News Hour",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190001 +0100",
             "stop_time": "20250224193000 +0100",
             "title": "The Debate",

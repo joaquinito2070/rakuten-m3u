@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250224164716 +0100",
-            "stop_time": "20250224190152 +0100",
-            "title": "Terra Nova",
-            "description": "| +12 | Películas |\n\nCon la abolición de la pena de muerte, las cárceles se están desbordando en todo el mundo, lo que representa un problema importante para las autoridades.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190153 +0100",
             "stop_time": "20250224205906 +0100",
             "title": "The DaVinci Treasure",

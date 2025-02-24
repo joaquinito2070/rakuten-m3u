@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224165621 +0100",
-            "stop_time": "20250224183810 +0100",
-            "title": "Los Delitos del Bar Lume",
-            "description": "| +16 | Crime |\n\nAl amanecer de un domingo, tras una noche en la discoteca, Marchino encuentra el cadáver de una joven y bella muchacha en una casa de campo abandonada a las afueras de Pineta.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/4b015b5a-f70a-46ed-82ac-eb958ca551ae.jpeg"
-        },
-        {
             "start_time": "20250224183811 +0100",
             "stop_time": "20250224194039 +0100",
             "title": "Miss Fisher's Murder Mysteries",

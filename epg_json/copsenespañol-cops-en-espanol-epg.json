@@ -3,27 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224180250 +0100",
-            "stop_time": "20250224182659 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLos problemas matrimoniales se descontrolan cuando un marido recoge a su esposa de la cárcel.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224182706 +0100",
-            "stop_time": "20250224185115 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna conductora se mete en graves problemas por no saber contar.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224185121 +0100",
-            "stop_time": "20250224191516 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn conductor medio vacilón hace bromas para minimizar y quitarle importancia a su error.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224191522 +0100",
             "stop_time": "20250224193947 +0100",
             "title": "Cops en Español",

@@ -3,20 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250224171920 +0100",
-            "stop_time": "20250224181907 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nLos chicos intentan construir un auto anfibio que funcione tan bien en el agua como en la tierra.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224181913 +0100",
-            "stop_time": "20250224191723 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nRichard enfrenta al Porshe Cayenne Turbo S con el equipo de paracaidistas de caída libre de la RAF.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224191729 +0100",
             "stop_time": "20250224201503 +0100",
             "title": "Top Gear UK",

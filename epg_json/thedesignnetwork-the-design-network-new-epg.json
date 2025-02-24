@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250224180001 +0100",
-            "stop_time": "20250224183000 +0100",
-            "title": "Hidden Hills Equestrian Enclave",
-            "description": "| +TP | Estilo de vida |\n\nMatthew explores the gorgeous, guard-gated equestrian community of Hidden Hills, California.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183001 +0100",
-            "stop_time": "20250224190000 +0100",
-            "title": "Beverly Hills Ultimate Estates",
-            "description": "| +TP | Estilo de vida |\n\nMatthew heads to Beverly Hills, the pinnacle of A-List living.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190001 +0100",
             "stop_time": "20250224193000 +0100",
             "title": "Bel Air Palatial Properties",

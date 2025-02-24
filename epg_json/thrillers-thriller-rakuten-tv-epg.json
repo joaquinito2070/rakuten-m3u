@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224170520 +0100",
-            "stop_time": "20250224185356 +0100",
-            "title": "Los idus de marzo",
-            "description": "| +16 | Películas |\n\nLa sombra de 'House of Cards' sobrevuela este espléndido thriller político dirigido e interpretado por George Clooney. En las primaras de Ohio, el joven e idealista jefe de prensa del candidato a la presidencia Mike Morris deberá decidir qué es más importante ¿la victoria o los principios?",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7f28a195-af6c-43de-9c48-14c469dc988f-snapshot-1590663400.jpeg"
-        },
-        {
             "start_time": "20250224185357 +0100",
             "stop_time": "20250224210320 +0100",
             "title": "El caso Farewell",

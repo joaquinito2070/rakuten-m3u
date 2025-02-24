@@ -3,13 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250224165919 +0100",
-            "stop_time": "20250224185619 +0100",
-            "title": "La Fiebre de la Pradera",
-            "description": "| +7 | Películas |\n\nEl ex sheriff borracho Preston Biggs consigue un billete de salida de la cárcel y un puñado de dinero para escoltar a tres novias por correo rechazadas medio locas hasta el tren más cercano de vuelta al Este.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224185620 +0100",
             "stop_time": "20250224205914 +0100",
             "title": "La Promesa del Pistolero",

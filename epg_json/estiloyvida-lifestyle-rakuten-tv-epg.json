@@ -3,13 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224172014 +0100",
-            "stop_time": "20250224185831 +0100",
-            "title": "Gipsy Kings",
-            "description": "| +16 | Estilo de vida |\n\nLos Fernández vivirán su propia y particular Reconquista: la de Kiki y ‘La Gordita’. El joven enamorado necesita una prodigiosa idea para que la ‘Operación parcanta’ no pase desapercibida.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/647a2398-3409-48bf-8ae9-0c5d7c4aed3a.jpeg"
-        },
-        {
             "start_time": "20250224185832 +0100",
             "stop_time": "20250224203938 +0100",
             "title": "Gipsy Kings",

@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224180402 +0100",
-            "stop_time": "20250224183001 +0100",
-            "title": "Lujo y viaje en tren",
-            "description": "| +7 | Cocina y comida |\n\nOctavio prueba la sofisticación culinaria India en el restaurante Lakhori en Old Delhi.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183002 +0100",
-            "stop_time": "20250224185601 +0100",
-            "title": "Yoga matutino y Thali en Kochi",
-            "description": "| +7 | Cocina y comida |\n\nA orillas del río Ganges, Octavio participa en la primera clase de yoga de su vida.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224185602 +0100",
             "stop_time": "20250224192201 +0100",
             "title": "Vino y fiestas",

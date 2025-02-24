@@ -3,20 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250224173753 +0100",
-            "stop_time": "20250224183828 +0100",
-            "title": "Toby Price: Ridin’ Shotgun",
-            "description": "| +12 | Deportes |\n\nSix-time winner on two-wheels, three-time DNF on four: can Toby Price make the start line and finally shake his demons to become the undisputed king of the Australian desert at the Finke Desert Race?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224183834 +0100",
-            "stop_time": "20250224190913 +0100",
-            "title": "For Reals",
-            "description": "| +12 | Deportes |\n\nWakeskating off a Dubai skyscraper. F1 drivers racing on Floridan waters and in the Nevada desert. Riding a skatepark attached to a hot air balloon. It's all in a day's work for Red Bull athletes!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190919 +0100",
             "stop_time": "20250224193958 +0100",
             "title": "For Reals",

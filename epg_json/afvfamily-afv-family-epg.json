@@ -3,20 +3,6 @@
     "tvg_id": "afv-family",
     "epg": [
         {
-            "start_time": "20250224165126 +0100",
-            "stop_time": "20250224184938 +0100",
-            "title": "AFV Comedy Rush Hour",
-            "description": "| +TP | Entretenimiento |\n\nEpisode 103 - Welcome to Comedy Rush Hour, the show where we bring you 2 hours of the best of your AFV favorites from Top 10 Countdown, The Dub Club, Asked Answered, and Prank Academy. So, sit back and get ready for a block of non-stop laughs.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224184945 +0100",
-            "stop_time": "20250224191933 +0100",
-            "title": "AFV Showcase",
-            "description": "| +TP | Entretenimiento |\n\nEpisode 103 - Guess what time it is? It's time to sit back, relax, and LOL at top videos from the AFV library. ",
-            "icon": ""
-        },
-        {
             "start_time": "20250224191939 +0100",
             "stop_time": "20250224194943 +0100",
             "title": "Family LOL Remix",

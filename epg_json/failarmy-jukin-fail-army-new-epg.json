@@ -3,27 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250224174338 +0100",
-            "stop_time": "20250224181432 +0100",
-            "title": "World's Most Expensive Fails",
-            "description": "| +TP | Entretenimiento |\n\nA single mistake sends everything spiraling out of control",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224181438 +0100",
-            "stop_time": "20250224184532 +0100",
-            "title": "World's Most Expensive Fails",
-            "description": "| +TP | Entretenimiento |\n\nHow much does a fail cost?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224184538 +0100",
-            "stop_time": "20250224191732 +0100",
-            "title": "Best Fails of the Month",
-            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for January '20.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224191738 +0100",
             "stop_time": "20250224194932 +0100",
             "title": "Best Fails of the Month",

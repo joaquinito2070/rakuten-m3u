@@ -3,13 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250224180001 +0100",
-            "stop_time": "20250224190000 +0100",
-            "title": "Pure DJ Set ",
-            "description": "| +12 | Música |\n\nRecorded from our studio in Ibiza, watch every day from Monday to Friday, artists performing from the white island on Clubbing TV!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224190001 +0100",
             "stop_time": "20250224200000 +0100",
             "title": "Live DJ Set",
