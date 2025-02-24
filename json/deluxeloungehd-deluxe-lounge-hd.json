@@ -4,10 +4,10 @@
     "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg",
     "group_title": "Música",
     "original_master_url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4222&ads%3Astreaming_id=ade95d9f-ad97-4ad5-800c-fb231072585b&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/deluxe-lounge-hd/master.m3u8",
     "qualities": [
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/38e58b4c-b441-4149-a4da-73a3c09335ff/0.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8f947ce3-5a08-412d-b2a5-1807eb481b0b/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "1280x720",
@@ -15,7 +15,7 @@
             }
         },
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/38e58b4c-b441-4149-a4da-73a3c09335ff/1.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8f947ce3-5a08-412d-b2a5-1807eb481b0b/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "768x432",
@@ -23,7 +23,7 @@
             }
         },
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/38e58b4c-b441-4149-a4da-73a3c09335ff/2.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8f947ce3-5a08-412d-b2a5-1807eb481b0b/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "320x180",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/38e58b4c-b441-4149-a4da-73a3c09335ff/3.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8f947ce3-5a08-412d-b2a5-1807eb481b0b/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "640x360",
