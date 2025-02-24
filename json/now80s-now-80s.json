@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/now-80s/master.m3u8",
     "qualities": [
         {
-            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/6eb07e6c-f2c3-11ef-84e8-26470457ed26/183/640x360_1020800/index.m3u8",
+            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/fe26a0e8-f2c3-11ef-a802-aa21055b23de/7/640x360_1020800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1020800",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/6eb07e6c-f2c3-11ef-84e8-26470457ed26/183/848x480_1249600/index.m3u8",
+            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/fe26a0e8-f2c3-11ef-a802-aa21055b23de/7/848x480_1249600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1249600",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/6eb07e6c-f2c3-11ef-84e8-26470457ed26/183/1280x720_3801600/index.m3u8",
+            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/fe26a0e8-f2c3-11ef-a802-aa21055b23de/7/1280x720_3801600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3801600",
@@ -44,5 +44,5 @@
         }
     ],
     "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/now80s-now-80s.json",
-    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/epg_json/now80s-now-80s-epg.json"
 }

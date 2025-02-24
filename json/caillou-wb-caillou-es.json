@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/wb-caillou-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/81c16653-1f66-498c-8f19-7176f3db9742/0.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/81c9a8d3-347e-4178-8cb7-88eb422f3d1e/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/81c16653-1f66-498c-8f19-7176f3db9742/1.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/81c9a8d3-347e-4178-8cb7-88eb422f3d1e/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/81c16653-1f66-498c-8f19-7176f3db9742/2.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/81c9a8d3-347e-4178-8cb7-88eb422f3d1e/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
@@ -35,5 +35,5 @@
         }
     ],
     "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/caillou-wb-caillou-es.json",
-    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/epg_json/caillou-wb-caillou-es-epg.json"
 }
