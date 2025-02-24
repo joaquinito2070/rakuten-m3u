@@ -200,14 +200,35 @@ def map_channels_streams(channels: List[Channel], language):
 
     for channel in channels:
         stream_url_data = Api.get_live_streaming(channel, language, session)
-        stream_url = stream_url_data\
-            .get("data", {})\
-            .get("stream_infos", [None])[0]\
-            .get("url", "# no_url")
+        stream_url = "# no_url"  # Default value
 
-        if stream_url != "# no_url":
-            head, sep, tail = stream_url.partition('.m3u8')
+        if stream_url_data is None:
+            print(f"Error: get_live_streaming response is None for channel {channel.title} ({channel.id}), language {language}. Skipping stream URL fetch.")
+            continue  # Skip to the next channel
+
+        data = stream_url_data.get("data")
+        if data is None:
+            print(f"Error: 'data' key not found in get_live_streaming response for channel {channel.title} ({channel.id}), language {language}. Response: {stream_url_data}. Skipping stream URL fetch.")
+            continue
+
+        stream_infos = data.get("stream_infos")
+        if not isinstance(stream_infos, list) or not stream_infos: # Check if stream_infos is a non-empty list
+            print(f"Error: 'stream_infos' key not found or empty/not a list in 'data' for channel {channel.title} ({channel.id}), language {language}. Data: {data}. Skipping stream URL fetch.")
+            continue
+
+        stream_info = stream_infos[0]
+        if stream_info is None:
+            print(f"Error: First element of 'stream_infos' is None for channel {channel.title} ({channel.id}), language {language}. Stream_infos: {stream_infos}. Skipping stream URL fetch.")
+            continue
+
+        stream_url_candidate = stream_info.get("url")
+        if stream_url_candidate:
+            head, sep, tail = stream_url_candidate.partition('.m3u8')
             stream_url = head + sep
+        else:
+            print(f"Error: 'url' key not found in 'stream_info' for channel {channel.title} ({channel.id}), language {language}. Stream_info: {stream_info}. Skipping stream URL fetch.")
+            continue
+
 
         ch_stream_map[channel.id] = stream_url
 
@@ -269,7 +290,7 @@ def create_m3u_playlist(channels_data):
         logo_url = channel_info['logo_url']
         group_title = channel_info['group_title']
 
-        if stream_url and stream_url not in seen_urls:
+        if stream_url and stream_url not in seen_urls and stream_url != "# no_url": # Added check for "# no_url"
             playlist += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo_url}" group-title="{group_title}",{channel_name}\n{stream_url}\n'
             seen_urls.add(stream_url)
     return playlist
