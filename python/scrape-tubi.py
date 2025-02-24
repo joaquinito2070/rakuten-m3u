@@ -66,13 +66,17 @@ def fetch_w3u_playlist(url):
 
 def fetch_m3u8_qualities(master_url):
     qualities = []
+    seen_urls = set() # To track unique URLs
     try:
         response = requests.get(master_url, timeout=10)
         response.raise_for_status()
         m3u8_content = response.text
         base_url = urlparse(master_url).geturl() # Get base URL for resolving relative URLs
 
-        for line in m3u8_content.splitlines():
+        lines = m3u8_content.splitlines()
+        i = 0
+        while i < len(lines):
+            line = lines[i]
             if line.startswith('#EXT-X-STREAM-INF'):
                 attributes_str = line[len('#EXT-X-STREAM-INF:'):]
                 attributes = {}
@@ -80,13 +84,19 @@ def fetch_m3u8_qualities(master_url):
                     if '=' in attribute:
                         key, value = attribute.split('=', 1)
                         attributes[key] = value.strip('"')
-                url = next(line for line in m3u8_content.splitlines() if line and not line.startswith('#'))
-                absolute_url = urljoin(base_url, url) # Resolve relative URLs
-                quality_info = {
-                    "url": absolute_url,
-                    "attributes": attributes
-                }
-                qualities.append(quality_info)
+                i += 1
+                if i < len(lines):
+                    url_line = lines[i]
+                    if url_line and not url_line.startswith('#'):
+                        absolute_url = urljoin(base_url, url_line) # Resolve relative URLs
+                        if absolute_url not in seen_urls: # Check if URL is already seen
+                            quality_info = {
+                                "url": absolute_url,
+                                "attributes": attributes
+                            }
+                            qualities.append(quality_info)
+                            seen_urls.add(absolute_url) # Add URL to seen URLs set
+            i += 1
     except requests.exceptions.RequestException as e:
         print(f"Error fetching M3U8 playlist from {master_url}: {e}")
     return qualities
