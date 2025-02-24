@@ -370,4 +370,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-epg_url aparecerá en JSON entero rakuten_channels.json.
