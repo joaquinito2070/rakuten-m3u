@@ -332,6 +332,7 @@ def main():
         master_url = channel_info['stream_url']
         tvg_id = channel_info['tvg_id']
         if master_url and master_url != "# no_url":
+            print(f"**DEBUG - Channel Name: {channel_info['name']}, tvg_id: {tvg_id}**") # Añadido DEBUG PRINT
             print(f"Fetching qualities for channel: {channel_info['name']} from {master_url}")
             channel_info['qualities'] = fetch_m3u8_qualities(master_url)
 
