@@ -4,7 +4,7 @@ import re
 import xml.etree.ElementTree as ET
 from urllib.parse import unquote
 from urllib.parse import urlparse, urlunparse
-from datetime import datetime
+from datetime import datetime, timedelta # Import timedelta explicitly
 import unicodedata
 from typing import List
 
@@ -199,12 +199,18 @@ def map_channels_streams(channels: List[Channel], language):
     ch_stream_map = {}
 
     for channel in channels:
-        stream_url_data = Api.get_live_streaming(channel, language, session)
         stream_url = "# no_url"  # Default value
+        stream_url_data = Api.get_live_streaming(channel, language, session)
 
         if stream_url_data is None:
             print(f"Error: get_live_streaming response is None for channel {channel.title} ({channel.id}), language {language}. Skipping stream URL fetch.")
             continue  # Skip to the next channel
+
+        if 'errors' in stream_url_data: # Check for 'errors' key directly
+            errors = stream_url_data.get('errors')
+            print(f"Error: API returned errors for channel {channel.title} ({channel.id}), language {language}. Errors: {errors}. Skipping stream URL fetch.")
+            continue # Skip to the next channel
+
 
         data = stream_url_data.get("data")
         if data is None:
@@ -365,8 +371,8 @@ def fetch_epg_data_for_channels(channels: List[Channel], language):
         # Placeholder EPG data creation or skip EPG if not possible.
         # For now, let's create placeholder EPG data
         epg_data_for_channels[channel.id].append({
-            "start_time": convert_to_xmltv_format(datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")),
-            "stop_time": convert_to_xmltv_format((datetime.utcnow() + datetime.timedelta(hours=1)).strftime("%Y-%m-%dT%H:%M:%SZ")),
+            "start_time": convert_to_xmltv_format(datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")), # Use datetime.now() instead of utcnow()
+            "stop_time": convert_to_xmltv_format((datetime.now() + timedelta(hours=1)).strftime("%Y-%m-%dT%H:%M:%SZ")), # Use datetime.now() and timedelta
             "title": "Placeholder Program",
             "description": "This is a placeholder EPG program. Real EPG data is not available from Rakuten API used in this script."
         })
