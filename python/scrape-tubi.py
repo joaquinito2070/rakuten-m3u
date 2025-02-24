@@ -160,7 +160,8 @@ def create_epg_xml(channels_data, epg_data_map):
 
 def save_file(content, filename):
     script_directory = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(script_directory, filename)
+    parent_directory = os.path.dirname(script_directory)
+    file_path = os.path.join(parent_directory, filename)
 
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
@@ -168,14 +169,16 @@ def save_file(content, filename):
 
 def save_epg_to_file(tree, filename):
     script_directory = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(script_directory, filename)
+    parent_directory = os.path.dirname(script_directory)
+    file_path = os.path.join(parent_directory, filename)
 
     tree.write(file_path, encoding='utf-8', xml_declaration=True)
     print(f"EPG XML file saved: {file_path}")
 
 def save_json_output(data, filename):
     script_directory = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(script_directory, filename)
+    parent_directory = os.path.dirname(script_directory)
+    file_path = os.path.join(parent_directory, filename)
 
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
