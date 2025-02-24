@@ -4,10 +4,10 @@
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/32b8ee32-deab-4af3-8607-4be9ae32e87b.jpeg",
     "group_title": "Series",
     "original_master_url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=6bcebedc-882d-4634-a5af-6ee90b6aa3cd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/yu-gi-oh-es/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/e9b59815-0852-4f98-bb64-10a765c0907c/0.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/76ab90ae-24d0-4b31-9063-920ab2e1d0e6/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/e9b59815-0852-4f98-bb64-10a765c0907c/1.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/76ab90ae-24d0-4b31-9063-920ab2e1d0e6/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/e9b59815-0852-4f98-bb64-10a765c0907c/2.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/76ab90ae-24d0-4b31-9063-920ab2e1d0e6/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
@@ -34,6 +34,1982 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/yu-gi-oh-yu-gi-oh-es.json"
+    "epg": [
+        {
+            "start_time": "20250224153328 +0100",
+            "stop_time": "20250224160133 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma challenges Professor Kitano, who is behind it all. Professor Kitano notes that each time he reduces his opponent's Life Points with \"Electronic Computer-Beast Tera Byte\" Astral's body weakens, causing him to slowly vanish! To make things worse, the Explosive Virus Time Bomb Ukyo has set is slowly reaching its countdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160140 +0100",
+            "stop_time": "20250224162815 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA strange shadow approaches Yuma, which turns out to be Tokunosuke Omoteura, a classmate of Yuma's known for his duplicitous tongue. In the morning, Yuma was reprimanded for a prank he pulled in front of the whole class that he has no memory of causing. As a result, he's been cut off from every one else. Tokunosuke gently says \"Let's Duel\". With \"Baby Tragon\" his new Xyz Monster, Yuma might enjoy this duel, but Tokunosuke seems to be planning something.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224162822 +0100",
+            "stop_time": "20250224165626 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTokunosuke steals Yuma's \"Utopia\", causing Astral to vanish. Tokunosuke wanted the great power of Numbers, and Yuma tries to Summon \"Leviathan Dragon\" to fight back, but Tokunosuke's Trap Card takes even that away. When Yuma is pushed into a corner with his field, an unexpected monster will become the Trump Card of the Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224165633 +0100",
+            "stop_time": "20250224172354 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter having been around a while and having to work with Yuma, Astral's been fascinated by a TV Show Hero named \"Different Dimension ESPer Robin\". For some reason, Astral feels close and similar to this Robin from an alternate universe. One day, pictures show up with Robin in a fight downtown! Yuma, prodded by Astral, goes with Kotori to where the autographs were taken and meets Robin's actor, a kid named Fuya! But Fuya is a timid boy who doesn't resemble the Robin they all admire in the slightest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224172400 +0100",
+            "stop_time": "20250224175204 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe mysterious person posing as Robin around town was Fuya. Under the intolerable strain of being a hero, Fuya's heart has been overcome by darkness Yuma challenges him to a Duel to save his soul. Robin, however, possesses \"Number 83: Galaxy Queen\". With it, he proceeds to summon one character after another from the TV Show. At first, Yuma and Astral were amused by this, but due to Galaxy Queen's almighty Monster Effect, they quickly grow impatient. To make things worse, Galaxy Queen, who currently possesses Robin, has taken on the appearance of Fuya's mother.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224175211 +0100",
+            "stop_time": "20250224181901 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA suspicious shadow is trailing Yuma. It seems someone has been after Yuma, and their identity is the unassuming girl Cat-chan from Yuma's class. Yuma and Kotori fall into Cat-chan's trap. To rescue Kotori, he's going to have to Duel. Astral is cautious of the strange vibes he's getting from Cat-chan, especially with the strategy of her \"Transforming Cat Deck\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224181907 +0100",
+            "stop_time": "20250224184627 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is reminded that his victories in his current Duels are due to Astral's help. To prove his skills, he fights Shark once more. Though Shark doesn't care to Duel again, he finally agrees when he finally reaches the end of his rope due to Yuma's constant following him around. The Duel of these two begins. Can Yuma win against Shark, who has no \"Number\" cards, when he himself declares he won't use his \"Number\" cards or take the aid of Astral!?After his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand,...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224184633 +0100",
+            "stop_time": "20250224191436 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand, Shark returns to \"his place\" where he gets involved with a criminal network. Yuma, who knew what was going on with Shark, challenges the two strongest thugs: Rikuo and Kaio, to what Shark proposes to be a 2 on 2 \"Tag-Team Duel\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191442 +0100",
+            "stop_time": "20250224194248 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself pinned down by the overwhelming power of \"Number 61: Volcasaurus\". To protect their precious remaining Life Points, he defends Shark at his own expense. When their opponents summon their second Number monster at that point, Astral becomes aware of the hidden mysteries underlying the Duel. In a last-ditch effort, Shark notices Yuma's passion and entrusts him with 1 card that could turn the whole Duel around!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224194255 +0100",
+            "stop_time": "20250224200957 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter a series of incidents, Yuma and Astral learn of the existence of a \"Number Hunter\". Astral remains wary of an unseen presence, but Yuma pretends not to care. As a result, a series of strange phenomena appear around these two. Undeniably, these are the signs of the coming of the \"Number Hunter\" named Kaito Tenjo. At that moment, a dangerous Duel with the Numbers cards on the line begins. With Kaito's power far beyond their reckoning, what can Astral or Yuma possibly do?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224201003 +0100",
+            "stop_time": "20250224203810 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn just 1 Turn, Kaito Summons 2 Numbers. Yuma attempts to resist the onslaught, but all of his monsters have been removed from the field...! Kaito, capable of even more, summons the strongest Monster to exist: \"Galaxy-Eyes Photon Dragon\", which has never been seen before! Yuma summons \"Number 39: Utopia\" to create a turnaround despite the impossible odds facing him.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224203817 +0100",
+            "stop_time": "20250224210519 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHaving clearly seen Kaito's power, and how utterly hopeless they are, Yuma and Astral are keenly aware that they cannot easily recover. At that time, Yuma talks to his grandmother. She mentions a mysterious old man named Jurou at a \"Duel Lodge\" who owns a wooden statue of the Legendary Monster \"Dark Magician\", who is waiting for Yuma and his crew. Yuma makes a strong wish based on his desire to train and get better!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210525 +0100",
+            "stop_time": "20250224213331 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIt's a Duel against Jurou's former disciple, Yamikawa! Yamikawa draws his Ninja monsters, pinning Yuma down, but believing in the power of his friends, Yuma must continue this battle to the Death! But, Yamikawa summons his Trump Card, the Number Monster \"Armed Ninja - Crimson Shadow\"! However, Yuma continues to believe in the power of his friends, but can this possibly lead him to win the Duel!?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213338 +0100",
+            "stop_time": "20250224220044 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nKotori and her friends, who are interested in the Number cards, plus Astral, form the \"Number Club\". To get more info about the Numbers, they visit the home of a fortuneteller, but the fortuneteller is under the orders of Kaito to collect the Number Cards! When the fortuneteller, Jin, kidnaps Kotori and the rest, Yuma and Astral come to the rescue, but the memory of their Duel with Kaito comes back, the visions of which continue to haunt them!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220050 +0100",
+            "stop_time": "20250224222854 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo save Kotori and the rest, Yuma continues to fight with Jin over the Numbers. Yuma's Life Points continue to fall, putting the fate of Kotori and the rest in a perilous situation, as Jin worsens things by summoning a second Numbers. In the midst of such a terrible pinch, Astral finds himself scared by Kaito's looming shadow, but when he sees Yuma who refuses to give up, he steps back up to the fight. With the feelings of these two guys, \"Utopia\" obtains a new power!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224222901 +0100",
+            "stop_time": "20250224225606 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma misplaces the the Emperor's Key that was an important momento from his parents. He and Astral look high and low for it, but they just can't seem to find it. While they look, Astral is curious as to how the Emperor's Key is related to Yuma's father. Yuma starts talking about various memories from his childhood that he remembers about his dad. Yuma's Never-Give-Up Spirit \"Kattobingu\" was born from a promise he made with his father.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224225612 +0100",
+            "stop_time": "20250224232332 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma safely recovers \"Number 96: Black Mist\" from a man. Tetsuo, who witnessed the Duel, takes note that Yuma seems suddenly more brutal in his strategy, and ends up in a fight with him. Not having reconciled in over 2 days, suddenly Number 96 swallows Yuma and Astral up!! To rescue Yuma and Astral from Number 96, Tetsuo fights the Numbers for the first time!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224232338 +0100",
+            "stop_time": "20250224235028 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAs they head home from class, Yuma and his friends meet Lilly who becomes their friend. However, after the robot is reprogrammed to its former self, Yuma duels Lilly in order to help regain her memories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224235035 +0100",
+            "stop_time": "20250225001748 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to protect Yuma's Key from Kite, Shark faces him in a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225001754 +0100",
+            "stop_time": "20250225004455 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile Yuma seeks for his Key, Astral duels against Kite to defend the Number cards he possesses.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225004502 +0100",
+            "stop_time": "20250225011308 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDespite being unable to fight against the immense power of Galaxy-Eyes Photon Dragon, Astral, his resolve stern due to Feeling the Flow, continues a desperate combo of Offense and Defense. But when he finally gives up against Kite who keeps attacking him over and over, Yuma appears and the mysterious ZEXAL power activates...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225011314 +0100",
+            "stop_time": "20250225014106 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nOne morning, Yuma heads to school, and while talking to his friends, time stops. He sees three suns shining in the sky. Together with Astral, they both shiver from a fear they do not understand, causing Yuma to run off to find out what possibly could have happened. At that time, Kite, using Dr. Faker's technology, retraces Astral's memories and invites Yuma to the World Duel Carnival.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225014112 +0100",
+            "stop_time": "20250225020726 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe World Duel Carnival, where Duelists from around the world will wage heated battles, is swiftly approaching. Yuma, seeking to fulfill his dream of becoming \"Duel Champion\", excitedly rushes to the tournament. But what will Yuma do when he has no Heart Pieces, which serve as the proof of participation for the WDC? Meanwhile, Mr. Heartland and Kite make their preparations to gather the Numbers that are likely to assemble before them in this tournament.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020733 +0100",
+            "stop_time": "20250225023529 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's first opponent in the World Duel Carnival is the soccer kid, Striker. Striker transforms the surrounding stadium with his Field Spell Card, as the Duel kicks off. With his \"Offside Trap\", Striker brilliantly seals Yuma's strategies, while his teammate monsters use teamwork to frantically keep beating Yuma up with a combo of offense and defense and with such sheer strength, it seems as if Striker's victory is decided...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225023535 +0100",
+            "stop_time": "20250225030302 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile looking for an opponent to Duel, Yuma meets a boy named Cody, who loves construction equipment, at a construction site. Yuma, interested in the construction equipment Deck Cody uses, challenges him to a Duel. However, Cody Xyz Summons his \"Digvorzhak, King of Heavy Industry\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030309 +0100",
+            "stop_time": "20250225033033 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAnna Kaboom attempts to kill Yuma with a cannon. He negotiates with her and they Duel instead so that Anna can try to take her revenge. Their past history is not what it initially seems.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033040 +0100",
+            "stop_time": "20250225035712 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTombo Tillbitty Duels people, defeating them with his \"Basket Rule\" and takes their Heart Pieces. Dextra and Nistro appear near one of the defeated Duelists. They see he has vegetables stuffed in his mouth, and Dextra sees blood on his shirt. Dextra inspects closer, and licks it up, telling the disgusted Nistro it's just tomato juice.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225035718 +0100",
+            "stop_time": "20250225042418 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay steals \"Number 7: Lucky Straight\" from a gallery. Kari, who has past history with Charlie, sends Yuma after him. He and Astral witness the power of the \"Lucky Straight\" when Charlie performs a One Turn Kill on a World Duel Carnival competitor. Charlie makes his escape, stealing more cards in the process, including one of Yuma's \"Numbers\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225042424 +0100",
+            "stop_time": "20250225045219 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay escapes on the single-track railroad and Yuma starts the Duel. But Charlie's \"Number 7: Lucky Straight\" possesses amazing luck. If he hits the jackpot by rolling the dice, then Charlie's Life Points will become 100,000. On the verge of giving up when all of his attempts to stop that strong luck become fruitless, Yuma discovers an unexpected strategy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225045225 +0100",
+            "stop_time": "20250225051746 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe second day of WDC starts. More energetic than ever, Bronk and Caswell decide to battle the Asian Duel Champion, Quattro. According to these two, the gentleman Quattro has a respectable Duel aesthetic, which is also admired by many Duelists from their hearts. Witnessed by Yuma, Astral, Tori and Trey, the Battle Royal between Quattro, Bronk, and Caswell starts, but Quattro soon reveals his true side which remained hidden until now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225051753 +0100",
+            "stop_time": "20250225054459 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nShark is determined to have his revenge on Quattro, but Quattro's younger brother Trey snares Shark with a Duel Anchor and allows Quattro to leave. Trey's mission from Vetrix and Quinton is to give a \"Number\" to Shark, which he accomplishes. Shark is able to resist completely being controlled by the \"Number\" and defeats Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225054505 +0100",
+            "stop_time": "20250225061211 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter Yuma laments over Shark dueling in revenge against Quattro, he's irritated by everything that's going on and ends up getting into a squabble with Tori. Meanwhile, elsewhere in the tournament, a photographer named Cameron has won Duel after Duel against Duelists with the help of terrifying ability of his that leaves them in terror. Cameron's superpower is apparently a gift to be able to take photographs of the future. With Cameron's \"Future Photographs\", his opponent's entire strategy is laid bare before him, allowing him to relentlessly defeat Duelists.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225061218 +0100",
+            "stop_time": "20250225063924 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is having trouble in his Duel against Cameron, and the dangerous future of Tori encountering an accident is continuously approaching. Then, \"Number 25: Force Focus\", controlled by Cameron, finally shows up. Yuma cannot win without Summoning \"Utopia\", but according to the prophecy, Yuma will lose in this Duel for sure if he Summons it. Under this desperate circumstance, in order to grasp the future within his own hands, Yuma delivers a bold strategy!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225063930 +0100",
+            "stop_time": "20250225070553 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to prevent Flip from being disqualified from the WDC, Yuma Duels against Dextra and Nistro. Meanwhile, Astral faces against an old enemy inside Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070600 +0100",
+            "stop_time": "20250225073306 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma against Dextra and Nistro continues. Due to their combination, Yuma is pushed into a corner, even after Summoning \"Utopia\" thanks to Astral. However due to the bonds between the two, a reversal occurs!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225073313 +0100",
+            "stop_time": "20250225080009 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's Heart Pieces are stolen by Pip, and Cathy Duels to get them back.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080015 +0100",
+            "stop_time": "20250225082708 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo heal his little brother Hart's illness, Kite rigorously continues hunting the \"Number\" cards. Seeing his older brother exhausted, Hart sneaks away from Heartland and into Heartland City, and by chance meets Yuma, Astral and Tori. Amazingly, Hart can see Astral, who in turn seems to know Hart's name. Moved by Astral's wish, Yuma takes Hart to his home. After Hart escaped from the Heartland Tower, he is chased by Dextra and Nistro in a helicopter which results in them going to a tower in order to meet Kite. Soon after, a helicopter appears, in which Hart, Yuma and Tori think it is Nistro and Dextra, resulting in Hart using his Dark Energy. After Yuma calms Hart down with a piece of...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225082714 +0100",
+            "stop_time": "20250225085249 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHart is kidnapped by the Vetrix Family and so Kite and Yuma join forces. However when they find their hideout, they're forced into a Tag Duel against Quattro and Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225085256 +0100",
+            "stop_time": "20250225091958 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Tag Duel of Yuma and Kite against Quattro and Trey begins! Kite duels essentially on his own, even to the extent of hurting all of his opponents, including Yuma. However, Yuma on his part, defends himself and Kite from Trey and Quattro's damaging combination. Furthermore, even with \"Galaxy-Eyes Photon Dragon\" being Summoned, it falls victim to Quattro and Trey's trap.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225092005 +0100",
+            "stop_time": "20250225094708 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to the terror of Trey and Quattro's strategy, Kite and Yuma are pushed into a corner. However at the edge of defeat, Hart's feelings awaken a new power inside Kite. With it, he Summons the monster created by the powerful bonds between them, \"Neo Galaxy-Eyes Photon Dragon\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225094715 +0100",
+            "stop_time": "20250225101417 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself in conflict about the \"Number\" cards, knowing that both Kite and Astral have their reasons for obtaining them. However upon learning that his father is still alive, Yuma tries to leave in search for him. Roku appears to help Yuma with his situation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225101424 +0100",
+            "stop_time": "20250225104121 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe third day of the preliminaries begins with Yuma looking for one more Heart Piece. Meanwhile, Nistro who wants to defeat Yuma and Astral, enters the tournament along with Dextra. Consequently while collecting Heart Pieces, Nistro challenges Nelson Andrews.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225104127 +0100",
+            "stop_time": "20250225110830 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter watching the quick Duel between Yuma against Shark, Trey visits Yuma's house in order to learn more about him. He finds a picture of Yuma's parents, and starts thinking about how his family used to be. He becomes very upset and cries, then runs out of Yuma's house. Yuma goes after him, but then Trey gives him a map, and leaves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110836 +0100",
+            "stop_time": "20250225113545 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nUsing new powers given to him by Vetrix, Trey is able to break Yuma and Astral's combination. After capturing Astral, Trey makes Yuma forget about \"kattobingu\" leading him into further trouble as this makes the latter unable to see Astral or Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225113551 +0100",
+            "stop_time": "20250225120252 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to Trey's power, Yuma forgets all about \"Kattobing\" and ends up forced into a corner. However Kazuma, helps Yuma continue the fierce Duel against Trey by using the power of the \"Numbers\" and Emperor's Key to break Trey's spell. Lastly Astral's last hope helps Yuma make a comeback by using \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120259 +0100",
+            "stop_time": "20250225122946 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Trey comes to an end as in order to stop \"Atlandis\", Trey cooperates with Yuma in order to bring Astral back. Once that occurs, the power of ZEXAL is used once more in order to Summon \"ZW - Phoenix Bow\" and defeat \"Atlandis\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225122952 +0100",
+            "stop_time": "20250225125718 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn Heartland, Yuma Tsukumo aspires to be the world's best Duelist. Despite this, he is not a good Duelist. When he ends up Dueling, Shark, a student known to have pro-level skills, odd things begin to happen and Yuma's story begins.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225125724 +0100",
+            "stop_time": "20250225132523 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Ryoga comes to its conclusion. In order to take down \"Leviathan Dragon\", Yuma obtains a \"Number\" monster of his own, \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225132530 +0100",
+            "stop_time": "20250225135251 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAstral's been unable to leave since Yuma Dueled Shark, so, despite his reluctance, he's begun living with Yuma. At an inconvenient time, Akari Tsukumo has trouble when her PC she uses as a stay-at-home reporter crashes. When her big scoop is deleted as a result of a system down the city suffered, she orders Yuma to find an alternate scoop she can use for another manuscript. When Yuma goes into town, the traffic lights go nuts, causing downtown to fall into chaos. Yuma looks for the criminal who spread the computer virus that caused all this chaos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135258 +0100",
+            "stop_time": "20250225142103 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma challenges Professor Kitano, who is behind it all. Professor Kitano notes that each time he reduces his opponent's Life Points with \"Electronic Computer-Beast Tera Byte\" Astral's body weakens, causing him to slowly vanish! To make things worse, the Explosive Virus Time Bomb Ukyo has set is slowly reaching its countdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225142109 +0100",
+            "stop_time": "20250225144744 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA strange shadow approaches Yuma, which turns out to be Tokunosuke Omoteura, a classmate of Yuma's known for his duplicitous tongue. In the morning, Yuma was reprimanded for a prank he pulled in front of the whole class that he has no memory of causing. As a result, he's been cut off from every one else. Tokunosuke gently says \"Let's Duel\". With \"Baby Tragon\" his new Xyz Monster, Yuma might enjoy this duel, but Tokunosuke seems to be planning something.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225144751 +0100",
+            "stop_time": "20250225151555 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTokunosuke steals Yuma's \"Utopia\", causing Astral to vanish. Tokunosuke wanted the great power of Numbers, and Yuma tries to Summon \"Leviathan Dragon\" to fight back, but Tokunosuke's Trap Card takes even that away. When Yuma is pushed into a corner with his field, an unexpected monster will become the Trump Card of the Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225151602 +0100",
+            "stop_time": "20250225154323 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter having been around a while and having to work with Yuma, Astral's been fascinated by a TV Show Hero named \"Different Dimension ESPer Robin\". For some reason, Astral feels close and similar to this Robin from an alternate universe. One day, pictures show up with Robin in a fight downtown! Yuma, prodded by Astral, goes with Kotori to where the autographs were taken and meets Robin's actor, a kid named Fuya! But Fuya is a timid boy who doesn't resemble the Robin they all admire in the slightest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225154330 +0100",
+            "stop_time": "20250225161134 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe mysterious person posing as Robin around town was Fuya. Under the intolerable strain of being a hero, Fuya's heart has been overcome by darkness Yuma challenges him to a Duel to save his soul. Robin, however, possesses \"Number 83: Galaxy Queen\". With it, he proceeds to summon one character after another from the TV Show. At first, Yuma and Astral were amused by this, but due to Galaxy Queen's almighty Monster Effect, they quickly grow impatient. To make things worse, Galaxy Queen, who currently possesses Robin, has taken on the appearance of Fuya's mother.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225161141 +0100",
+            "stop_time": "20250225163831 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA suspicious shadow is trailing Yuma. It seems someone has been after Yuma, and their identity is the unassuming girl Cat-chan from Yuma's class. Yuma and Kotori fall into Cat-chan's trap. To rescue Kotori, he's going to have to Duel. Astral is cautious of the strange vibes he's getting from Cat-chan, especially with the strategy of her \"Transforming Cat Deck\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225163837 +0100",
+            "stop_time": "20250225170557 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is reminded that his victories in his current Duels are due to Astral's help. To prove his skills, he fights Shark once more. Though Shark doesn't care to Duel again, he finally agrees when he finally reaches the end of his rope due to Yuma's constant following him around. The Duel of these two begins. Can Yuma win against Shark, who has no \"Number\" cards, when he himself declares he won't use his \"Number\" cards or take the aid of Astral!?After his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand,...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170603 +0100",
+            "stop_time": "20250225173406 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand, Shark returns to \"his place\" where he gets involved with a criminal network. Yuma, who knew what was going on with Shark, challenges the two strongest thugs: Rikuo and Kaio, to what Shark proposes to be a 2 on 2 \"Tag-Team Duel\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225173412 +0100",
+            "stop_time": "20250225180218 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself pinned down by the overwhelming power of \"Number 61: Volcasaurus\". To protect their precious remaining Life Points, he defends Shark at his own expense. When their opponents summon their second Number monster at that point, Astral becomes aware of the hidden mysteries underlying the Duel. In a last-ditch effort, Shark notices Yuma's passion and entrusts him with 1 card that could turn the whole Duel around!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180225 +0100",
+            "stop_time": "20250225182927 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter a series of incidents, Yuma and Astral learn of the existence of a \"Number Hunter\". Astral remains wary of an unseen presence, but Yuma pretends not to care. As a result, a series of strange phenomena appear around these two. Undeniably, these are the signs of the coming of the \"Number Hunter\" named Kaito Tenjo. At that moment, a dangerous Duel with the Numbers cards on the line begins. With Kaito's power far beyond their reckoning, what can Astral or Yuma possibly do?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225182933 +0100",
+            "stop_time": "20250225185740 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn just 1 Turn, Kaito Summons 2 Numbers. Yuma attempts to resist the onslaught, but all of his monsters have been removed from the field...! Kaito, capable of even more, summons the strongest Monster to exist: \"Galaxy-Eyes Photon Dragon\", which has never been seen before! Yuma summons \"Number 39: Utopia\" to create a turnaround despite the impossible odds facing him.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225185746 +0100",
+            "stop_time": "20250225192448 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHaving clearly seen Kaito's power, and how utterly hopeless they are, Yuma and Astral are keenly aware that they cannot easily recover. At that time, Yuma talks to his grandmother. She mentions a mysterious old man named Jurou at a \"Duel Lodge\" who owns a wooden statue of the Legendary Monster \"Dark Magician\", who is waiting for Yuma and his crew. Yuma makes a strong wish based on his desire to train and get better!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225192454 +0100",
+            "stop_time": "20250225195300 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIt's a Duel against Jurou's former disciple, Yamikawa! Yamikawa draws his Ninja monsters, pinning Yuma down, but believing in the power of his friends, Yuma must continue this battle to the Death! But, Yamikawa summons his Trump Card, the Number Monster \"Armed Ninja - Crimson Shadow\"! However, Yuma continues to believe in the power of his friends, but can this possibly lead him to win the Duel!?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225195307 +0100",
+            "stop_time": "20250225202013 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nKotori and her friends, who are interested in the Number cards, plus Astral, form the \"Number Club\". To get more info about the Numbers, they visit the home of a fortuneteller, but the fortuneteller is under the orders of Kaito to collect the Number Cards! When the fortuneteller, Jin, kidnaps Kotori and the rest, Yuma and Astral come to the rescue, but the memory of their Duel with Kaito comes back, the visions of which continue to haunt them!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225202019 +0100",
+            "stop_time": "20250225204823 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo save Kotori and the rest, Yuma continues to fight with Jin over the Numbers. Yuma's Life Points continue to fall, putting the fate of Kotori and the rest in a perilous situation, as Jin worsens things by summoning a second Numbers. In the midst of such a terrible pinch, Astral finds himself scared by Kaito's looming shadow, but when he sees Yuma who refuses to give up, he steps back up to the fight. With the feelings of these two guys, \"Utopia\" obtains a new power!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225204830 +0100",
+            "stop_time": "20250225211535 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma misplaces the the Emperor's Key that was an important momento from his parents. He and Astral look high and low for it, but they just can't seem to find it. While they look, Astral is curious as to how the Emperor's Key is related to Yuma's father. Yuma starts talking about various memories from his childhood that he remembers about his dad. Yuma's Never-Give-Up Spirit \"Kattobingu\" was born from a promise he made with his father.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225211542 +0100",
+            "stop_time": "20250225214302 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma safely recovers \"Number 96: Black Mist\" from a man. Tetsuo, who witnessed the Duel, takes note that Yuma seems suddenly more brutal in his strategy, and ends up in a fight with him. Not having reconciled in over 2 days, suddenly Number 96 swallows Yuma and Astral up!! To rescue Yuma and Astral from Number 96, Tetsuo fights the Numbers for the first time!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225214308 +0100",
+            "stop_time": "20250225220958 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAs they head home from class, Yuma and his friends meet Lilly who becomes their friend. However, after the robot is reprogrammed to its former self, Yuma duels Lilly in order to help regain her memories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225221004 +0100",
+            "stop_time": "20250225223717 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to protect Yuma's Key from Kite, Shark faces him in a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223724 +0100",
+            "stop_time": "20250225230425 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile Yuma seeks for his Key, Astral duels against Kite to defend the Number cards he possesses.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230431 +0100",
+            "stop_time": "20250225233237 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDespite being unable to fight against the immense power of Galaxy-Eyes Photon Dragon, Astral, his resolve stern due to Feeling the Flow, continues a desperate combo of Offense and Defense. But when he finally gives up against Kite who keeps attacking him over and over, Yuma appears and the mysterious ZEXAL power activates...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233244 +0100",
+            "stop_time": "20250226000036 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nOne morning, Yuma heads to school, and while talking to his friends, time stops. He sees three suns shining in the sky. Together with Astral, they both shiver from a fear they do not understand, causing Yuma to run off to find out what possibly could have happened. At that time, Kite, using Dr. Faker's technology, retraces Astral's memories and invites Yuma to the World Duel Carnival.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000042 +0100",
+            "stop_time": "20250226002656 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe World Duel Carnival, where Duelists from around the world will wage heated battles, is swiftly approaching. Yuma, seeking to fulfill his dream of becoming \"Duel Champion\", excitedly rushes to the tournament. But what will Yuma do when he has no Heart Pieces, which serve as the proof of participation for the WDC? Meanwhile, Mr. Heartland and Kite make their preparations to gather the Numbers that are likely to assemble before them in this tournament.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002703 +0100",
+            "stop_time": "20250226005459 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's first opponent in the World Duel Carnival is the soccer kid, Striker. Striker transforms the surrounding stadium with his Field Spell Card, as the Duel kicks off. With his \"Offside Trap\", Striker brilliantly seals Yuma's strategies, while his teammate monsters use teamwork to frantically keep beating Yuma up with a combo of offense and defense and with such sheer strength, it seems as if Striker's victory is decided...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226005505 +0100",
+            "stop_time": "20250226012232 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile looking for an opponent to Duel, Yuma meets a boy named Cody, who loves construction equipment, at a construction site. Yuma, interested in the construction equipment Deck Cody uses, challenges him to a Duel. However, Cody Xyz Summons his \"Digvorzhak, King of Heavy Industry\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226012239 +0100",
+            "stop_time": "20250226015003 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAnna Kaboom attempts to kill Yuma with a cannon. He negotiates with her and they Duel instead so that Anna can try to take her revenge. Their past history is not what it initially seems.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226015009 +0100",
+            "stop_time": "20250226021641 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTombo Tillbitty Duels people, defeating them with his \"Basket Rule\" and takes their Heart Pieces. Dextra and Nistro appear near one of the defeated Duelists. They see he has vegetables stuffed in his mouth, and Dextra sees blood on his shirt. Dextra inspects closer, and licks it up, telling the disgusted Nistro it's just tomato juice.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226021648 +0100",
+            "stop_time": "20250226024348 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay steals \"Number 7: Lucky Straight\" from a gallery. Kari, who has past history with Charlie, sends Yuma after him. He and Astral witness the power of the \"Lucky Straight\" when Charlie performs a One Turn Kill on a World Duel Carnival competitor. Charlie makes his escape, stealing more cards in the process, including one of Yuma's \"Numbers\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226024354 +0100",
+            "stop_time": "20250226031149 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay escapes on the single-track railroad and Yuma starts the Duel. But Charlie's \"Number 7: Lucky Straight\" possesses amazing luck. If he hits the jackpot by rolling the dice, then Charlie's Life Points will become 100,000. On the verge of giving up when all of his attempts to stop that strong luck become fruitless, Yuma discovers an unexpected strategy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226031155 +0100",
+            "stop_time": "20250226033716 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe second day of WDC starts. More energetic than ever, Bronk and Caswell decide to battle the Asian Duel Champion, Quattro. According to these two, the gentleman Quattro has a respectable Duel aesthetic, which is also admired by many Duelists from their hearts. Witnessed by Yuma, Astral, Tori and Trey, the Battle Royal between Quattro, Bronk, and Caswell starts, but Quattro soon reveals his true side which remained hidden until now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033723 +0100",
+            "stop_time": "20250226040429 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nShark is determined to have his revenge on Quattro, but Quattro's younger brother Trey snares Shark with a Duel Anchor and allows Quattro to leave. Trey's mission from Vetrix and Quinton is to give a \"Number\" to Shark, which he accomplishes. Shark is able to resist completely being controlled by the \"Number\" and defeats Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040435 +0100",
+            "stop_time": "20250226043141 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter Yuma laments over Shark dueling in revenge against Quattro, he's irritated by everything that's going on and ends up getting into a squabble with Tori. Meanwhile, elsewhere in the tournament, a photographer named Cameron has won Duel after Duel against Duelists with the help of terrifying ability of his that leaves them in terror. Cameron's superpower is apparently a gift to be able to take photographs of the future. With Cameron's \"Future Photographs\", his opponent's entire strategy is laid bare before him, allowing him to relentlessly defeat Duelists.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043147 +0100",
+            "stop_time": "20250226045853 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is having trouble in his Duel against Cameron, and the dangerous future of Tori encountering an accident is continuously approaching. Then, \"Number 25: Force Focus\", controlled by Cameron, finally shows up. Yuma cannot win without Summoning \"Utopia\", but according to the prophecy, Yuma will lose in this Duel for sure if he Summons it. Under this desperate circumstance, in order to grasp the future within his own hands, Yuma delivers a bold strategy!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226045900 +0100",
+            "stop_time": "20250226052523 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to prevent Flip from being disqualified from the WDC, Yuma Duels against Dextra and Nistro. Meanwhile, Astral faces against an old enemy inside Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226052530 +0100",
+            "stop_time": "20250226055236 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma against Dextra and Nistro continues. Due to their combination, Yuma is pushed into a corner, even after Summoning \"Utopia\" thanks to Astral. However due to the bonds between the two, a reversal occurs!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226055242 +0100",
+            "stop_time": "20250226061938 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's Heart Pieces are stolen by Pip, and Cathy Duels to get them back.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226061945 +0100",
+            "stop_time": "20250226064638 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo heal his little brother Hart's illness, Kite rigorously continues hunting the \"Number\" cards. Seeing his older brother exhausted, Hart sneaks away from Heartland and into Heartland City, and by chance meets Yuma, Astral and Tori. Amazingly, Hart can see Astral, who in turn seems to know Hart's name. Moved by Astral's wish, Yuma takes Hart to his home. After Hart escaped from the Heartland Tower, he is chased by Dextra and Nistro in a helicopter which results in them going to a tower in order to meet Kite. Soon after, a helicopter appears, in which Hart, Yuma and Tori think it is Nistro and Dextra, resulting in Hart using his Dark Energy. After Yuma calms Hart down with a piece of...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226064644 +0100",
+            "stop_time": "20250226071219 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHart is kidnapped by the Vetrix Family and so Kite and Yuma join forces. However when they find their hideout, they're forced into a Tag Duel against Quattro and Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226071226 +0100",
+            "stop_time": "20250226073928 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Tag Duel of Yuma and Kite against Quattro and Trey begins! Kite duels essentially on his own, even to the extent of hurting all of his opponents, including Yuma. However, Yuma on his part, defends himself and Kite from Trey and Quattro's damaging combination. Furthermore, even with \"Galaxy-Eyes Photon Dragon\" being Summoned, it falls victim to Quattro and Trey's trap.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073934 +0100",
+            "stop_time": "20250226080637 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to the terror of Trey and Quattro's strategy, Kite and Yuma are pushed into a corner. However at the edge of defeat, Hart's feelings awaken a new power inside Kite. With it, he Summons the monster created by the powerful bonds between them, \"Neo Galaxy-Eyes Photon Dragon\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080644 +0100",
+            "stop_time": "20250226083346 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself in conflict about the \"Number\" cards, knowing that both Kite and Astral have their reasons for obtaining them. However upon learning that his father is still alive, Yuma tries to leave in search for him. Roku appears to help Yuma with his situation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226083353 +0100",
+            "stop_time": "20250226090050 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe third day of the preliminaries begins with Yuma looking for one more Heart Piece. Meanwhile, Nistro who wants to defeat Yuma and Astral, enters the tournament along with Dextra. Consequently while collecting Heart Pieces, Nistro challenges Nelson Andrews.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090056 +0100",
+            "stop_time": "20250226092759 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter watching the quick Duel between Yuma against Shark, Trey visits Yuma's house in order to learn more about him. He finds a picture of Yuma's parents, and starts thinking about how his family used to be. He becomes very upset and cries, then runs out of Yuma's house. Yuma goes after him, but then Trey gives him a map, and leaves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226092805 +0100",
+            "stop_time": "20250226095514 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nUsing new powers given to him by Vetrix, Trey is able to break Yuma and Astral's combination. After capturing Astral, Trey makes Yuma forget about \"kattobingu\" leading him into further trouble as this makes the latter unable to see Astral or Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226095521 +0100",
+            "stop_time": "20250226102222 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to Trey's power, Yuma forgets all about \"Kattobing\" and ends up forced into a corner. However Kazuma, helps Yuma continue the fierce Duel against Trey by using the power of the \"Numbers\" and Emperor's Key to break Trey's spell. Lastly Astral's last hope helps Yuma make a comeback by using \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226102228 +0100",
+            "stop_time": "20250226104915 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Trey comes to an end as in order to stop \"Atlandis\", Trey cooperates with Yuma in order to bring Astral back. Once that occurs, the power of ZEXAL is used once more in order to Summon \"ZW - Phoenix Bow\" and defeat \"Atlandis\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226104921 +0100",
+            "stop_time": "20250226111647 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn Heartland, Yuma Tsukumo aspires to be the world's best Duelist. Despite this, he is not a good Duelist. When he ends up Dueling, Shark, a student known to have pro-level skills, odd things begin to happen and Yuma's story begins.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226111654 +0100",
+            "stop_time": "20250226114453 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Ryoga comes to its conclusion. In order to take down \"Leviathan Dragon\", Yuma obtains a \"Number\" monster of his own, \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226114459 +0100",
+            "stop_time": "20250226121220 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAstral's been unable to leave since Yuma Dueled Shark, so, despite his reluctance, he's begun living with Yuma. At an inconvenient time, Akari Tsukumo has trouble when her PC she uses as a stay-at-home reporter crashes. When her big scoop is deleted as a result of a system down the city suffered, she orders Yuma to find an alternate scoop she can use for another manuscript. When Yuma goes into town, the traffic lights go nuts, causing downtown to fall into chaos. Yuma looks for the criminal who spread the computer virus that caused all this chaos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226121227 +0100",
+            "stop_time": "20250226124032 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma challenges Professor Kitano, who is behind it all. Professor Kitano notes that each time he reduces his opponent's Life Points with \"Electronic Computer-Beast Tera Byte\" Astral's body weakens, causing him to slowly vanish! To make things worse, the Explosive Virus Time Bomb Ukyo has set is slowly reaching its countdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226124039 +0100",
+            "stop_time": "20250226130714 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA strange shadow approaches Yuma, which turns out to be Tokunosuke Omoteura, a classmate of Yuma's known for his duplicitous tongue. In the morning, Yuma was reprimanded for a prank he pulled in front of the whole class that he has no memory of causing. As a result, he's been cut off from every one else. Tokunosuke gently says \"Let's Duel\". With \"Baby Tragon\" his new Xyz Monster, Yuma might enjoy this duel, but Tokunosuke seems to be planning something.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130721 +0100",
+            "stop_time": "20250226133525 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTokunosuke steals Yuma's \"Utopia\", causing Astral to vanish. Tokunosuke wanted the great power of Numbers, and Yuma tries to Summon \"Leviathan Dragon\" to fight back, but Tokunosuke's Trap Card takes even that away. When Yuma is pushed into a corner with his field, an unexpected monster will become the Trump Card of the Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133532 +0100",
+            "stop_time": "20250226140253 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter having been around a while and having to work with Yuma, Astral's been fascinated by a TV Show Hero named \"Different Dimension ESPer Robin\". For some reason, Astral feels close and similar to this Robin from an alternate universe. One day, pictures show up with Robin in a fight downtown! Yuma, prodded by Astral, goes with Kotori to where the autographs were taken and meets Robin's actor, a kid named Fuya! But Fuya is a timid boy who doesn't resemble the Robin they all admire in the slightest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140300 +0100",
+            "stop_time": "20250226143104 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe mysterious person posing as Robin around town was Fuya. Under the intolerable strain of being a hero, Fuya's heart has been overcome by darkness Yuma challenges him to a Duel to save his soul. Robin, however, possesses \"Number 83: Galaxy Queen\". With it, he proceeds to summon one character after another from the TV Show. At first, Yuma and Astral were amused by this, but due to Galaxy Queen's almighty Monster Effect, they quickly grow impatient. To make things worse, Galaxy Queen, who currently possesses Robin, has taken on the appearance of Fuya's mother.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143110 +0100",
+            "stop_time": "20250226145800 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA suspicious shadow is trailing Yuma. It seems someone has been after Yuma, and their identity is the unassuming girl Cat-chan from Yuma's class. Yuma and Kotori fall into Cat-chan's trap. To rescue Kotori, he's going to have to Duel. Astral is cautious of the strange vibes he's getting from Cat-chan, especially with the strategy of her \"Transforming Cat Deck\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226145806 +0100",
+            "stop_time": "20250226152526 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is reminded that his victories in his current Duels are due to Astral's help. To prove his skills, he fights Shark once more. Though Shark doesn't care to Duel again, he finally agrees when he finally reaches the end of his rope due to Yuma's constant following him around. The Duel of these two begins. Can Yuma win against Shark, who has no \"Number\" cards, when he himself declares he won't use his \"Number\" cards or take the aid of Astral!?After his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand,...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226152533 +0100",
+            "stop_time": "20250226155336 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand, Shark returns to \"his place\" where he gets involved with a criminal network. Yuma, who knew what was going on with Shark, challenges the two strongest thugs: Rikuo and Kaio, to what Shark proposes to be a 2 on 2 \"Tag-Team Duel\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226155342 +0100",
+            "stop_time": "20250226162148 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself pinned down by the overwhelming power of \"Number 61: Volcasaurus\". To protect their precious remaining Life Points, he defends Shark at his own expense. When their opponents summon their second Number monster at that point, Astral becomes aware of the hidden mysteries underlying the Duel. In a last-ditch effort, Shark notices Yuma's passion and entrusts him with 1 card that could turn the whole Duel around!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226162154 +0100",
+            "stop_time": "20250226164856 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter a series of incidents, Yuma and Astral learn of the existence of a \"Number Hunter\". Astral remains wary of an unseen presence, but Yuma pretends not to care. As a result, a series of strange phenomena appear around these two. Undeniably, these are the signs of the coming of the \"Number Hunter\" named Kaito Tenjo. At that moment, a dangerous Duel with the Numbers cards on the line begins. With Kaito's power far beyond their reckoning, what can Astral or Yuma possibly do?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226164903 +0100",
+            "stop_time": "20250226171710 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn just 1 Turn, Kaito Summons 2 Numbers. Yuma attempts to resist the onslaught, but all of his monsters have been removed from the field...! Kaito, capable of even more, summons the strongest Monster to exist: \"Galaxy-Eyes Photon Dragon\", which has never been seen before! Yuma summons \"Number 39: Utopia\" to create a turnaround despite the impossible odds facing him.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226171716 +0100",
+            "stop_time": "20250226174418 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHaving clearly seen Kaito's power, and how utterly hopeless they are, Yuma and Astral are keenly aware that they cannot easily recover. At that time, Yuma talks to his grandmother. She mentions a mysterious old man named Jurou at a \"Duel Lodge\" who owns a wooden statue of the Legendary Monster \"Dark Magician\", who is waiting for Yuma and his crew. Yuma makes a strong wish based on his desire to train and get better!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226174424 +0100",
+            "stop_time": "20250226181230 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIt's a Duel against Jurou's former disciple, Yamikawa! Yamikawa draws his Ninja monsters, pinning Yuma down, but believing in the power of his friends, Yuma must continue this battle to the Death! But, Yamikawa summons his Trump Card, the Number Monster \"Armed Ninja - Crimson Shadow\"! However, Yuma continues to believe in the power of his friends, but can this possibly lead him to win the Duel!?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226181237 +0100",
+            "stop_time": "20250226183943 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nKotori and her friends, who are interested in the Number cards, plus Astral, form the \"Number Club\". To get more info about the Numbers, they visit the home of a fortuneteller, but the fortuneteller is under the orders of Kaito to collect the Number Cards! When the fortuneteller, Jin, kidnaps Kotori and the rest, Yuma and Astral come to the rescue, but the memory of their Duel with Kaito comes back, the visions of which continue to haunt them!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226183949 +0100",
+            "stop_time": "20250226190753 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo save Kotori and the rest, Yuma continues to fight with Jin over the Numbers. Yuma's Life Points continue to fall, putting the fate of Kotori and the rest in a perilous situation, as Jin worsens things by summoning a second Numbers. In the midst of such a terrible pinch, Astral finds himself scared by Kaito's looming shadow, but when he sees Yuma who refuses to give up, he steps back up to the fight. With the feelings of these two guys, \"Utopia\" obtains a new power!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190800 +0100",
+            "stop_time": "20250226193505 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma misplaces the the Emperor's Key that was an important momento from his parents. He and Astral look high and low for it, but they just can't seem to find it. While they look, Astral is curious as to how the Emperor's Key is related to Yuma's father. Yuma starts talking about various memories from his childhood that he remembers about his dad. Yuma's Never-Give-Up Spirit \"Kattobingu\" was born from a promise he made with his father.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226193512 +0100",
+            "stop_time": "20250226200232 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma safely recovers \"Number 96: Black Mist\" from a man. Tetsuo, who witnessed the Duel, takes note that Yuma seems suddenly more brutal in his strategy, and ends up in a fight with him. Not having reconciled in over 2 days, suddenly Number 96 swallows Yuma and Astral up!! To rescue Yuma and Astral from Number 96, Tetsuo fights the Numbers for the first time!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200238 +0100",
+            "stop_time": "20250226202928 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAs they head home from class, Yuma and his friends meet Lilly who becomes their friend. However, after the robot is reprogrammed to its former self, Yuma duels Lilly in order to help regain her memories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226202934 +0100",
+            "stop_time": "20250226205647 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to protect Yuma's Key from Kite, Shark faces him in a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226205653 +0100",
+            "stop_time": "20250226212354 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile Yuma seeks for his Key, Astral duels against Kite to defend the Number cards he possesses.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226212401 +0100",
+            "stop_time": "20250226215207 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDespite being unable to fight against the immense power of Galaxy-Eyes Photon Dragon, Astral, his resolve stern due to Feeling the Flow, continues a desperate combo of Offense and Defense. But when he finally gives up against Kite who keeps attacking him over and over, Yuma appears and the mysterious ZEXAL power activates...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226215213 +0100",
+            "stop_time": "20250226222005 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nOne morning, Yuma heads to school, and while talking to his friends, time stops. He sees three suns shining in the sky. Together with Astral, they both shiver from a fear they do not understand, causing Yuma to run off to find out what possibly could have happened. At that time, Kite, using Dr. Faker's technology, retraces Astral's memories and invites Yuma to the World Duel Carnival.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226222012 +0100",
+            "stop_time": "20250226224626 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe World Duel Carnival, where Duelists from around the world will wage heated battles, is swiftly approaching. Yuma, seeking to fulfill his dream of becoming \"Duel Champion\", excitedly rushes to the tournament. But what will Yuma do when he has no Heart Pieces, which serve as the proof of participation for the WDC? Meanwhile, Mr. Heartland and Kite make their preparations to gather the Numbers that are likely to assemble before them in this tournament.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226224632 +0100",
+            "stop_time": "20250226231428 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's first opponent in the World Duel Carnival is the soccer kid, Striker. Striker transforms the surrounding stadium with his Field Spell Card, as the Duel kicks off. With his \"Offside Trap\", Striker brilliantly seals Yuma's strategies, while his teammate monsters use teamwork to frantically keep beating Yuma up with a combo of offense and defense and with such sheer strength, it seems as if Striker's victory is decided...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226231435 +0100",
+            "stop_time": "20250226234202 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile looking for an opponent to Duel, Yuma meets a boy named Cody, who loves construction equipment, at a construction site. Yuma, interested in the construction equipment Deck Cody uses, challenges him to a Duel. However, Cody Xyz Summons his \"Digvorzhak, King of Heavy Industry\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226234209 +0100",
+            "stop_time": "20250227000933 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAnna Kaboom attempts to kill Yuma with a cannon. He negotiates with her and they Duel instead so that Anna can try to take her revenge. Their past history is not what it initially seems.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000939 +0100",
+            "stop_time": "20250227003611 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTombo Tillbitty Duels people, defeating them with his \"Basket Rule\" and takes their Heart Pieces. Dextra and Nistro appear near one of the defeated Duelists. They see he has vegetables stuffed in his mouth, and Dextra sees blood on his shirt. Dextra inspects closer, and licks it up, telling the disgusted Nistro it's just tomato juice.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227003618 +0100",
+            "stop_time": "20250227010318 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay steals \"Number 7: Lucky Straight\" from a gallery. Kari, who has past history with Charlie, sends Yuma after him. He and Astral witness the power of the \"Lucky Straight\" when Charlie performs a One Turn Kill on a World Duel Carnival competitor. Charlie makes his escape, stealing more cards in the process, including one of Yuma's \"Numbers\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010324 +0100",
+            "stop_time": "20250227013119 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay escapes on the single-track railroad and Yuma starts the Duel. But Charlie's \"Number 7: Lucky Straight\" possesses amazing luck. If he hits the jackpot by rolling the dice, then Charlie's Life Points will become 100,000. On the verge of giving up when all of his attempts to stop that strong luck become fruitless, Yuma discovers an unexpected strategy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013125 +0100",
+            "stop_time": "20250227015646 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe second day of WDC starts. More energetic than ever, Bronk and Caswell decide to battle the Asian Duel Champion, Quattro. According to these two, the gentleman Quattro has a respectable Duel aesthetic, which is also admired by many Duelists from their hearts. Witnessed by Yuma, Astral, Tori and Trey, the Battle Royal between Quattro, Bronk, and Caswell starts, but Quattro soon reveals his true side which remained hidden until now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227015653 +0100",
+            "stop_time": "20250227022359 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nShark is determined to have his revenge on Quattro, but Quattro's younger brother Trey snares Shark with a Duel Anchor and allows Quattro to leave. Trey's mission from Vetrix and Quinton is to give a \"Number\" to Shark, which he accomplishes. Shark is able to resist completely being controlled by the \"Number\" and defeats Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227022405 +0100",
+            "stop_time": "20250227025111 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter Yuma laments over Shark dueling in revenge against Quattro, he's irritated by everything that's going on and ends up getting into a squabble with Tori. Meanwhile, elsewhere in the tournament, a photographer named Cameron has won Duel after Duel against Duelists with the help of terrifying ability of his that leaves them in terror. Cameron's superpower is apparently a gift to be able to take photographs of the future. With Cameron's \"Future Photographs\", his opponent's entire strategy is laid bare before him, allowing him to relentlessly defeat Duelists.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227025117 +0100",
+            "stop_time": "20250227031823 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is having trouble in his Duel against Cameron, and the dangerous future of Tori encountering an accident is continuously approaching. Then, \"Number 25: Force Focus\", controlled by Cameron, finally shows up. Yuma cannot win without Summoning \"Utopia\", but according to the prophecy, Yuma will lose in this Duel for sure if he Summons it. Under this desperate circumstance, in order to grasp the future within his own hands, Yuma delivers a bold strategy!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227031830 +0100",
+            "stop_time": "20250227034453 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to prevent Flip from being disqualified from the WDC, Yuma Duels against Dextra and Nistro. Meanwhile, Astral faces against an old enemy inside Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227034459 +0100",
+            "stop_time": "20250227041205 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma against Dextra and Nistro continues. Due to their combination, Yuma is pushed into a corner, even after Summoning \"Utopia\" thanks to Astral. However due to the bonds between the two, a reversal occurs!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227041212 +0100",
+            "stop_time": "20250227043908 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's Heart Pieces are stolen by Pip, and Cathy Duels to get them back.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043914 +0100",
+            "stop_time": "20250227050607 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo heal his little brother Hart's illness, Kite rigorously continues hunting the \"Number\" cards. Seeing his older brother exhausted, Hart sneaks away from Heartland and into Heartland City, and by chance meets Yuma, Astral and Tori. Amazingly, Hart can see Astral, who in turn seems to know Hart's name. Moved by Astral's wish, Yuma takes Hart to his home. After Hart escaped from the Heartland Tower, he is chased by Dextra and Nistro in a helicopter which results in them going to a tower in order to meet Kite. Soon after, a helicopter appears, in which Hart, Yuma and Tori think it is Nistro and Dextra, resulting in Hart using his Dark Energy. After Yuma calms Hart down with a piece of...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050613 +0100",
+            "stop_time": "20250227053148 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHart is kidnapped by the Vetrix Family and so Kite and Yuma join forces. However when they find their hideout, they're forced into a Tag Duel against Quattro and Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053155 +0100",
+            "stop_time": "20250227055857 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Tag Duel of Yuma and Kite against Quattro and Trey begins! Kite duels essentially on his own, even to the extent of hurting all of his opponents, including Yuma. However, Yuma on his part, defends himself and Kite from Trey and Quattro's damaging combination. Furthermore, even with \"Galaxy-Eyes Photon Dragon\" being Summoned, it falls victim to Quattro and Trey's trap.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227055904 +0100",
+            "stop_time": "20250227062607 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to the terror of Trey and Quattro's strategy, Kite and Yuma are pushed into a corner. However at the edge of defeat, Hart's feelings awaken a new power inside Kite. With it, he Summons the monster created by the powerful bonds between them, \"Neo Galaxy-Eyes Photon Dragon\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227062614 +0100",
+            "stop_time": "20250227065316 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself in conflict about the \"Number\" cards, knowing that both Kite and Astral have their reasons for obtaining them. However upon learning that his father is still alive, Yuma tries to leave in search for him. Roku appears to help Yuma with his situation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227065323 +0100",
+            "stop_time": "20250227072020 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe third day of the preliminaries begins with Yuma looking for one more Heart Piece. Meanwhile, Nistro who wants to defeat Yuma and Astral, enters the tournament along with Dextra. Consequently while collecting Heart Pieces, Nistro challenges Nelson Andrews.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227072026 +0100",
+            "stop_time": "20250227074729 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter watching the quick Duel between Yuma against Shark, Trey visits Yuma's house in order to learn more about him. He finds a picture of Yuma's parents, and starts thinking about how his family used to be. He becomes very upset and cries, then runs out of Yuma's house. Yuma goes after him, but then Trey gives him a map, and leaves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227074735 +0100",
+            "stop_time": "20250227081444 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nUsing new powers given to him by Vetrix, Trey is able to break Yuma and Astral's combination. After capturing Astral, Trey makes Yuma forget about \"kattobingu\" leading him into further trouble as this makes the latter unable to see Astral or Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227081451 +0100",
+            "stop_time": "20250227084152 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to Trey's power, Yuma forgets all about \"Kattobing\" and ends up forced into a corner. However Kazuma, helps Yuma continue the fierce Duel against Trey by using the power of the \"Numbers\" and Emperor's Key to break Trey's spell. Lastly Astral's last hope helps Yuma make a comeback by using \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227084158 +0100",
+            "stop_time": "20250227090845 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Trey comes to an end as in order to stop \"Atlandis\", Trey cooperates with Yuma in order to bring Astral back. Once that occurs, the power of ZEXAL is used once more in order to Summon \"ZW - Phoenix Bow\" and defeat \"Atlandis\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090851 +0100",
+            "stop_time": "20250227093617 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn Heartland, Yuma Tsukumo aspires to be the world's best Duelist. Despite this, he is not a good Duelist. When he ends up Dueling, Shark, a student known to have pro-level skills, odd things begin to happen and Yuma's story begins.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093624 +0100",
+            "stop_time": "20250227100423 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Ryoga comes to its conclusion. In order to take down \"Leviathan Dragon\", Yuma obtains a \"Number\" monster of his own, \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100429 +0100",
+            "stop_time": "20250227103150 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAstral's been unable to leave since Yuma Dueled Shark, so, despite his reluctance, he's begun living with Yuma. At an inconvenient time, Akari Tsukumo has trouble when her PC she uses as a stay-at-home reporter crashes. When her big scoop is deleted as a result of a system down the city suffered, she orders Yuma to find an alternate scoop she can use for another manuscript. When Yuma goes into town, the traffic lights go nuts, causing downtown to fall into chaos. Yuma looks for the criminal who spread the computer virus that caused all this chaos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103157 +0100",
+            "stop_time": "20250227110002 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma challenges Professor Kitano, who is behind it all. Professor Kitano notes that each time he reduces his opponent's Life Points with \"Electronic Computer-Beast Tera Byte\" Astral's body weakens, causing him to slowly vanish! To make things worse, the Explosive Virus Time Bomb Ukyo has set is slowly reaching its countdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110009 +0100",
+            "stop_time": "20250227112644 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA strange shadow approaches Yuma, which turns out to be Tokunosuke Omoteura, a classmate of Yuma's known for his duplicitous tongue. In the morning, Yuma was reprimanded for a prank he pulled in front of the whole class that he has no memory of causing. As a result, he's been cut off from every one else. Tokunosuke gently says \"Let's Duel\". With \"Baby Tragon\" his new Xyz Monster, Yuma might enjoy this duel, but Tokunosuke seems to be planning something.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227112651 +0100",
+            "stop_time": "20250227115455 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTokunosuke steals Yuma's \"Utopia\", causing Astral to vanish. Tokunosuke wanted the great power of Numbers, and Yuma tries to Summon \"Leviathan Dragon\" to fight back, but Tokunosuke's Trap Card takes even that away. When Yuma is pushed into a corner with his field, an unexpected monster will become the Trump Card of the Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227115502 +0100",
+            "stop_time": "20250227122223 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter having been around a while and having to work with Yuma, Astral's been fascinated by a TV Show Hero named \"Different Dimension ESPer Robin\". For some reason, Astral feels close and similar to this Robin from an alternate universe. One day, pictures show up with Robin in a fight downtown! Yuma, prodded by Astral, goes with Kotori to where the autographs were taken and meets Robin's actor, a kid named Fuya! But Fuya is a timid boy who doesn't resemble the Robin they all admire in the slightest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227122229 +0100",
+            "stop_time": "20250227125033 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe mysterious person posing as Robin around town was Fuya. Under the intolerable strain of being a hero, Fuya's heart has been overcome by darkness Yuma challenges him to a Duel to save his soul. Robin, however, possesses \"Number 83: Galaxy Queen\". With it, he proceeds to summon one character after another from the TV Show. At first, Yuma and Astral were amused by this, but due to Galaxy Queen's almighty Monster Effect, they quickly grow impatient. To make things worse, Galaxy Queen, who currently possesses Robin, has taken on the appearance of Fuya's mother.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227125040 +0100",
+            "stop_time": "20250227131730 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA suspicious shadow is trailing Yuma. It seems someone has been after Yuma, and their identity is the unassuming girl Cat-chan from Yuma's class. Yuma and Kotori fall into Cat-chan's trap. To rescue Kotori, he's going to have to Duel. Astral is cautious of the strange vibes he's getting from Cat-chan, especially with the strategy of her \"Transforming Cat Deck\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227131736 +0100",
+            "stop_time": "20250227134456 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is reminded that his victories in his current Duels are due to Astral's help. To prove his skills, he fights Shark once more. Though Shark doesn't care to Duel again, he finally agrees when he finally reaches the end of his rope due to Yuma's constant following him around. The Duel of these two begins. Can Yuma win against Shark, who has no \"Number\" cards, when he himself declares he won't use his \"Number\" cards or take the aid of Astral!?After his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand,...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227134502 +0100",
+            "stop_time": "20250227141305 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand, Shark returns to \"his place\" where he gets involved with a criminal network. Yuma, who knew what was going on with Shark, challenges the two strongest thugs: Rikuo and Kaio, to what Shark proposes to be a 2 on 2 \"Tag-Team Duel\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227141311 +0100",
+            "stop_time": "20250227144117 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself pinned down by the overwhelming power of \"Number 61: Volcasaurus\". To protect their precious remaining Life Points, he defends Shark at his own expense. When their opponents summon their second Number monster at that point, Astral becomes aware of the hidden mysteries underlying the Duel. In a last-ditch effort, Shark notices Yuma's passion and entrusts him with 1 card that could turn the whole Duel around!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227144124 +0100",
+            "stop_time": "20250227150826 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter a series of incidents, Yuma and Astral learn of the existence of a \"Number Hunter\". Astral remains wary of an unseen presence, but Yuma pretends not to care. As a result, a series of strange phenomena appear around these two. Undeniably, these are the signs of the coming of the \"Number Hunter\" named Kaito Tenjo. At that moment, a dangerous Duel with the Numbers cards on the line begins. With Kaito's power far beyond their reckoning, what can Astral or Yuma possibly do?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150832 +0100",
+            "stop_time": "20250227153639 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn just 1 Turn, Kaito Summons 2 Numbers. Yuma attempts to resist the onslaught, but all of his monsters have been removed from the field...! Kaito, capable of even more, summons the strongest Monster to exist: \"Galaxy-Eyes Photon Dragon\", which has never been seen before! Yuma summons \"Number 39: Utopia\" to create a turnaround despite the impossible odds facing him.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153646 +0100",
+            "stop_time": "20250227160348 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHaving clearly seen Kaito's power, and how utterly hopeless they are, Yuma and Astral are keenly aware that they cannot easily recover. At that time, Yuma talks to his grandmother. She mentions a mysterious old man named Jurou at a \"Duel Lodge\" who owns a wooden statue of the Legendary Monster \"Dark Magician\", who is waiting for Yuma and his crew. Yuma makes a strong wish based on his desire to train and get better!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160354 +0100",
+            "stop_time": "20250227163200 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIt's a Duel against Jurou's former disciple, Yamikawa! Yamikawa draws his Ninja monsters, pinning Yuma down, but believing in the power of his friends, Yuma must continue this battle to the Death! But, Yamikawa summons his Trump Card, the Number Monster \"Armed Ninja - Crimson Shadow\"! However, Yuma continues to believe in the power of his friends, but can this possibly lead him to win the Duel!?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163207 +0100",
+            "stop_time": "20250227165913 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nKotori and her friends, who are interested in the Number cards, plus Astral, form the \"Number Club\". To get more info about the Numbers, they visit the home of a fortuneteller, but the fortuneteller is under the orders of Kaito to collect the Number Cards! When the fortuneteller, Jin, kidnaps Kotori and the rest, Yuma and Astral come to the rescue, but the memory of their Duel with Kaito comes back, the visions of which continue to haunt them!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227165919 +0100",
+            "stop_time": "20250227172723 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo save Kotori and the rest, Yuma continues to fight with Jin over the Numbers. Yuma's Life Points continue to fall, putting the fate of Kotori and the rest in a perilous situation, as Jin worsens things by summoning a second Numbers. In the midst of such a terrible pinch, Astral finds himself scared by Kaito's looming shadow, but when he sees Yuma who refuses to give up, he steps back up to the fight. With the feelings of these two guys, \"Utopia\" obtains a new power!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227172730 +0100",
+            "stop_time": "20250227175435 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma misplaces the the Emperor's Key that was an important momento from his parents. He and Astral look high and low for it, but they just can't seem to find it. While they look, Astral is curious as to how the Emperor's Key is related to Yuma's father. Yuma starts talking about various memories from his childhood that he remembers about his dad. Yuma's Never-Give-Up Spirit \"Kattobingu\" was born from a promise he made with his father.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227175441 +0100",
+            "stop_time": "20250227182201 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma safely recovers \"Number 96: Black Mist\" from a man. Tetsuo, who witnessed the Duel, takes note that Yuma seems suddenly more brutal in his strategy, and ends up in a fight with him. Not having reconciled in over 2 days, suddenly Number 96 swallows Yuma and Astral up!! To rescue Yuma and Astral from Number 96, Tetsuo fights the Numbers for the first time!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227182207 +0100",
+            "stop_time": "20250227184857 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAs they head home from class, Yuma and his friends meet Lilly who becomes their friend. However, after the robot is reprogrammed to its former self, Yuma duels Lilly in order to help regain her memories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227184904 +0100",
+            "stop_time": "20250227191617 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to protect Yuma's Key from Kite, Shark faces him in a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227191623 +0100",
+            "stop_time": "20250227194324 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile Yuma seeks for his Key, Astral duels against Kite to defend the Number cards he possesses.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227194331 +0100",
+            "stop_time": "20250227201137 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDespite being unable to fight against the immense power of Galaxy-Eyes Photon Dragon, Astral, his resolve stern due to Feeling the Flow, continues a desperate combo of Offense and Defense. But when he finally gives up against Kite who keeps attacking him over and over, Yuma appears and the mysterious ZEXAL power activates...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227201143 +0100",
+            "stop_time": "20250227203935 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nOne morning, Yuma heads to school, and while talking to his friends, time stops. He sees three suns shining in the sky. Together with Astral, they both shiver from a fear they do not understand, causing Yuma to run off to find out what possibly could have happened. At that time, Kite, using Dr. Faker's technology, retraces Astral's memories and invites Yuma to the World Duel Carnival.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203941 +0100",
+            "stop_time": "20250227210555 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe World Duel Carnival, where Duelists from around the world will wage heated battles, is swiftly approaching. Yuma, seeking to fulfill his dream of becoming \"Duel Champion\", excitedly rushes to the tournament. But what will Yuma do when he has no Heart Pieces, which serve as the proof of participation for the WDC? Meanwhile, Mr. Heartland and Kite make their preparations to gather the Numbers that are likely to assemble before them in this tournament.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210602 +0100",
+            "stop_time": "20250227213358 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's first opponent in the World Duel Carnival is the soccer kid, Striker. Striker transforms the surrounding stadium with his Field Spell Card, as the Duel kicks off. With his \"Offside Trap\", Striker brilliantly seals Yuma's strategies, while his teammate monsters use teamwork to frantically keep beating Yuma up with a combo of offense and defense and with such sheer strength, it seems as if Striker's victory is decided...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213404 +0100",
+            "stop_time": "20250227220131 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile looking for an opponent to Duel, Yuma meets a boy named Cody, who loves construction equipment, at a construction site. Yuma, interested in the construction equipment Deck Cody uses, challenges him to a Duel. However, Cody Xyz Summons his \"Digvorzhak, King of Heavy Industry\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220138 +0100",
+            "stop_time": "20250227222902 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAnna Kaboom attempts to kill Yuma with a cannon. He negotiates with her and they Duel instead so that Anna can try to take her revenge. Their past history is not what it initially seems.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227222909 +0100",
+            "stop_time": "20250227225541 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTombo Tillbitty Duels people, defeating them with his \"Basket Rule\" and takes their Heart Pieces. Dextra and Nistro appear near one of the defeated Duelists. They see he has vegetables stuffed in his mouth, and Dextra sees blood on his shirt. Dextra inspects closer, and licks it up, telling the disgusted Nistro it's just tomato juice.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227225547 +0100",
+            "stop_time": "20250227232247 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay steals \"Number 7: Lucky Straight\" from a gallery. Kari, who has past history with Charlie, sends Yuma after him. He and Astral witness the power of the \"Lucky Straight\" when Charlie performs a One Turn Kill on a World Duel Carnival competitor. Charlie makes his escape, stealing more cards in the process, including one of Yuma's \"Numbers\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227232253 +0100",
+            "stop_time": "20250227235048 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay escapes on the single-track railroad and Yuma starts the Duel. But Charlie's \"Number 7: Lucky Straight\" possesses amazing luck. If he hits the jackpot by rolling the dice, then Charlie's Life Points will become 100,000. On the verge of giving up when all of his attempts to stop that strong luck become fruitless, Yuma discovers an unexpected strategy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227235055 +0100",
+            "stop_time": "20250228001616 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe second day of WDC starts. More energetic than ever, Bronk and Caswell decide to battle the Asian Duel Champion, Quattro. According to these two, the gentleman Quattro has a respectable Duel aesthetic, which is also admired by many Duelists from their hearts. Witnessed by Yuma, Astral, Tori and Trey, the Battle Royal between Quattro, Bronk, and Caswell starts, but Quattro soon reveals his true side which remained hidden until now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228001622 +0100",
+            "stop_time": "20250228004328 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nShark is determined to have his revenge on Quattro, but Quattro's younger brother Trey snares Shark with a Duel Anchor and allows Quattro to leave. Trey's mission from Vetrix and Quinton is to give a \"Number\" to Shark, which he accomplishes. Shark is able to resist completely being controlled by the \"Number\" and defeats Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228004334 +0100",
+            "stop_time": "20250228011040 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter Yuma laments over Shark dueling in revenge against Quattro, he's irritated by everything that's going on and ends up getting into a squabble with Tori. Meanwhile, elsewhere in the tournament, a photographer named Cameron has won Duel after Duel against Duelists with the help of terrifying ability of his that leaves them in terror. Cameron's superpower is apparently a gift to be able to take photographs of the future. With Cameron's \"Future Photographs\", his opponent's entire strategy is laid bare before him, allowing him to relentlessly defeat Duelists.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228011047 +0100",
+            "stop_time": "20250228013753 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is having trouble in his Duel against Cameron, and the dangerous future of Tori encountering an accident is continuously approaching. Then, \"Number 25: Force Focus\", controlled by Cameron, finally shows up. Yuma cannot win without Summoning \"Utopia\", but according to the prophecy, Yuma will lose in this Duel for sure if he Summons it. Under this desperate circumstance, in order to grasp the future within his own hands, Yuma delivers a bold strategy!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013759 +0100",
+            "stop_time": "20250228020422 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to prevent Flip from being disqualified from the WDC, Yuma Duels against Dextra and Nistro. Meanwhile, Astral faces against an old enemy inside Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020429 +0100",
+            "stop_time": "20250228023135 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma against Dextra and Nistro continues. Due to their combination, Yuma is pushed into a corner, even after Summoning \"Utopia\" thanks to Astral. However due to the bonds between the two, a reversal occurs!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023142 +0100",
+            "stop_time": "20250228025838 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's Heart Pieces are stolen by Pip, and Cathy Duels to get them back.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228025844 +0100",
+            "stop_time": "20250228032537 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo heal his little brother Hart's illness, Kite rigorously continues hunting the \"Number\" cards. Seeing his older brother exhausted, Hart sneaks away from Heartland and into Heartland City, and by chance meets Yuma, Astral and Tori. Amazingly, Hart can see Astral, who in turn seems to know Hart's name. Moved by Astral's wish, Yuma takes Hart to his home. After Hart escaped from the Heartland Tower, he is chased by Dextra and Nistro in a helicopter which results in them going to a tower in order to meet Kite. Soon after, a helicopter appears, in which Hart, Yuma and Tori think it is Nistro and Dextra, resulting in Hart using his Dark Energy. After Yuma calms Hart down with a piece of...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228032543 +0100",
+            "stop_time": "20250228035118 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHart is kidnapped by the Vetrix Family and so Kite and Yuma join forces. However when they find their hideout, they're forced into a Tag Duel against Quattro and Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228035125 +0100",
+            "stop_time": "20250228041827 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Tag Duel of Yuma and Kite against Quattro and Trey begins! Kite duels essentially on his own, even to the extent of hurting all of his opponents, including Yuma. However, Yuma on his part, defends himself and Kite from Trey and Quattro's damaging combination. Furthermore, even with \"Galaxy-Eyes Photon Dragon\" being Summoned, it falls victim to Quattro and Trey's trap.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228041834 +0100",
+            "stop_time": "20250228044537 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to the terror of Trey and Quattro's strategy, Kite and Yuma are pushed into a corner. However at the edge of defeat, Hart's feelings awaken a new power inside Kite. With it, he Summons the monster created by the powerful bonds between them, \"Neo Galaxy-Eyes Photon Dragon\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228044544 +0100",
+            "stop_time": "20250228051246 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself in conflict about the \"Number\" cards, knowing that both Kite and Astral have their reasons for obtaining them. However upon learning that his father is still alive, Yuma tries to leave in search for him. Roku appears to help Yuma with his situation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228051253 +0100",
+            "stop_time": "20250228053950 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe third day of the preliminaries begins with Yuma looking for one more Heart Piece. Meanwhile, Nistro who wants to defeat Yuma and Astral, enters the tournament along with Dextra. Consequently while collecting Heart Pieces, Nistro challenges Nelson Andrews.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053956 +0100",
+            "stop_time": "20250228060659 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter watching the quick Duel between Yuma against Shark, Trey visits Yuma's house in order to learn more about him. He finds a picture of Yuma's parents, and starts thinking about how his family used to be. He becomes very upset and cries, then runs out of Yuma's house. Yuma goes after him, but then Trey gives him a map, and leaves.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060705 +0100",
+            "stop_time": "20250228063414 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nUsing new powers given to him by Vetrix, Trey is able to break Yuma and Astral's combination. After capturing Astral, Trey makes Yuma forget about \"kattobingu\" leading him into further trouble as this makes the latter unable to see Astral or Emperor's Key.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063420 +0100",
+            "stop_time": "20250228070121 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDue to Trey's power, Yuma forgets all about \"Kattobing\" and ends up forced into a corner. However Kazuma, helps Yuma continue the fierce Duel against Trey by using the power of the \"Numbers\" and Emperor's Key to break Trey's spell. Lastly Astral's last hope helps Yuma make a comeback by using \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070128 +0100",
+            "stop_time": "20250228072815 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Trey comes to an end as in order to stop \"Atlandis\", Trey cooperates with Yuma in order to bring Astral back. Once that occurs, the power of ZEXAL is used once more in order to Summon \"ZW - Phoenix Bow\" and defeat \"Atlandis\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228072821 +0100",
+            "stop_time": "20250228075547 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn Heartland, Yuma Tsukumo aspires to be the world's best Duelist. Despite this, he is not a good Duelist. When he ends up Dueling, Shark, a student known to have pro-level skills, odd things begin to happen and Yuma's story begins.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228075554 +0100",
+            "stop_time": "20250228082353 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe Duel between Yuma and Ryoga comes to its conclusion. In order to take down \"Leviathan Dragon\", Yuma obtains a \"Number\" monster of his own, \"Utopia\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228082359 +0100",
+            "stop_time": "20250228085120 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAstral's been unable to leave since Yuma Dueled Shark, so, despite his reluctance, he's begun living with Yuma. At an inconvenient time, Akari Tsukumo has trouble when her PC she uses as a stay-at-home reporter crashes. When her big scoop is deleted as a result of a system down the city suffered, she orders Yuma to find an alternate scoop she can use for another manuscript. When Yuma goes into town, the traffic lights go nuts, causing downtown to fall into chaos. Yuma looks for the criminal who spread the computer virus that caused all this chaos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228085127 +0100",
+            "stop_time": "20250228091932 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma challenges Professor Kitano, who is behind it all. Professor Kitano notes that each time he reduces his opponent's Life Points with \"Electronic Computer-Beast Tera Byte\" Astral's body weakens, causing him to slowly vanish! To make things worse, the Explosive Virus Time Bomb Ukyo has set is slowly reaching its countdown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228091939 +0100",
+            "stop_time": "20250228094614 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA strange shadow approaches Yuma, which turns out to be Tokunosuke Omoteura, a classmate of Yuma's known for his duplicitous tongue. In the morning, Yuma was reprimanded for a prank he pulled in front of the whole class that he has no memory of causing. As a result, he's been cut off from every one else. Tokunosuke gently says \"Let's Duel\". With \"Baby Tragon\" his new Xyz Monster, Yuma might enjoy this duel, but Tokunosuke seems to be planning something.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228094620 +0100",
+            "stop_time": "20250228101424 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTokunosuke steals Yuma's \"Utopia\", causing Astral to vanish. Tokunosuke wanted the great power of Numbers, and Yuma tries to Summon \"Leviathan Dragon\" to fight back, but Tokunosuke's Trap Card takes even that away. When Yuma is pushed into a corner with his field, an unexpected monster will become the Trump Card of the Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228101431 +0100",
+            "stop_time": "20250228104152 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter having been around a while and having to work with Yuma, Astral's been fascinated by a TV Show Hero named \"Different Dimension ESPer Robin\". For some reason, Astral feels close and similar to this Robin from an alternate universe. One day, pictures show up with Robin in a fight downtown! Yuma, prodded by Astral, goes with Kotori to where the autographs were taken and meets Robin's actor, a kid named Fuya! But Fuya is a timid boy who doesn't resemble the Robin they all admire in the slightest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228104159 +0100",
+            "stop_time": "20250228111003 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe mysterious person posing as Robin around town was Fuya. Under the intolerable strain of being a hero, Fuya's heart has been overcome by darkness Yuma challenges him to a Duel to save his soul. Robin, however, possesses \"Number 83: Galaxy Queen\". With it, he proceeds to summon one character after another from the TV Show. At first, Yuma and Astral were amused by this, but due to Galaxy Queen's almighty Monster Effect, they quickly grow impatient. To make things worse, Galaxy Queen, who currently possesses Robin, has taken on the appearance of Fuya's mother.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228111010 +0100",
+            "stop_time": "20250228113700 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nA suspicious shadow is trailing Yuma. It seems someone has been after Yuma, and their identity is the unassuming girl Cat-chan from Yuma's class. Yuma and Kotori fall into Cat-chan's trap. To rescue Kotori, he's going to have to Duel. Astral is cautious of the strange vibes he's getting from Cat-chan, especially with the strategy of her \"Transforming Cat Deck\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113706 +0100",
+            "stop_time": "20250228120426 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is reminded that his victories in his current Duels are due to Astral's help. To prove his skills, he fights Shark once more. Though Shark doesn't care to Duel again, he finally agrees when he finally reaches the end of his rope due to Yuma's constant following him around. The Duel of these two begins. Can Yuma win against Shark, who has no \"Number\" cards, when he himself declares he won't use his \"Number\" cards or take the aid of Astral!?After his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand,...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120432 +0100",
+            "stop_time": "20250228123235 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter his Duel with Shark, Yuma Duels Tetsuo Takeda without \"Numbers\" and loses twenty times in a row, with Tetsuo angry because Yuma lied about not using the \"Numbers\" against Shark. Yuma is scolded by Astral on his immaturity. On the other hand, Shark returns to \"his place\" where he gets involved with a criminal network. Yuma, who knew what was going on with Shark, challenges the two strongest thugs: Rikuo and Kaio, to what Shark proposes to be a 2 on 2 \"Tag-Team Duel\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123241 +0100",
+            "stop_time": "20250228130047 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma finds himself pinned down by the overwhelming power of \"Number 61: Volcasaurus\". To protect their precious remaining Life Points, he defends Shark at his own expense. When their opponents summon their second Number monster at that point, Astral becomes aware of the hidden mysteries underlying the Duel. In a last-ditch effort, Shark notices Yuma's passion and entrusts him with 1 card that could turn the whole Duel around!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130054 +0100",
+            "stop_time": "20250228132756 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter a series of incidents, Yuma and Astral learn of the existence of a \"Number Hunter\". Astral remains wary of an unseen presence, but Yuma pretends not to care. As a result, a series of strange phenomena appear around these two. Undeniably, these are the signs of the coming of the \"Number Hunter\" named Kaito Tenjo. At that moment, a dangerous Duel with the Numbers cards on the line begins. With Kaito's power far beyond their reckoning, what can Astral or Yuma possibly do?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228132802 +0100",
+            "stop_time": "20250228135609 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn just 1 Turn, Kaito Summons 2 Numbers. Yuma attempts to resist the onslaught, but all of his monsters have been removed from the field...! Kaito, capable of even more, summons the strongest Monster to exist: \"Galaxy-Eyes Photon Dragon\", which has never been seen before! Yuma summons \"Number 39: Utopia\" to create a turnaround despite the impossible odds facing him.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228135615 +0100",
+            "stop_time": "20250228142317 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nHaving clearly seen Kaito's power, and how utterly hopeless they are, Yuma and Astral are keenly aware that they cannot easily recover. At that time, Yuma talks to his grandmother. She mentions a mysterious old man named Jurou at a \"Duel Lodge\" who owns a wooden statue of the Legendary Monster \"Dark Magician\", who is waiting for Yuma and his crew. Yuma makes a strong wish based on his desire to train and get better!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228142323 +0100",
+            "stop_time": "20250228145129 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIt's a Duel against Jurou's former disciple, Yamikawa! Yamikawa draws his Ninja monsters, pinning Yuma down, but believing in the power of his friends, Yuma must continue this battle to the Death! But, Yamikawa summons his Trump Card, the Number Monster \"Armed Ninja - Crimson Shadow\"! However, Yuma continues to believe in the power of his friends, but can this possibly lead him to win the Duel!?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228145136 +0100",
+            "stop_time": "20250228151842 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nKotori and her friends, who are interested in the Number cards, plus Astral, form the \"Number Club\". To get more info about the Numbers, they visit the home of a fortuneteller, but the fortuneteller is under the orders of Kaito to collect the Number Cards! When the fortuneteller, Jin, kidnaps Kotori and the rest, Yuma and Astral come to the rescue, but the memory of their Duel with Kaito comes back, the visions of which continue to haunt them!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228151848 +0100",
+            "stop_time": "20250228154652 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTo save Kotori and the rest, Yuma continues to fight with Jin over the Numbers. Yuma's Life Points continue to fall, putting the fate of Kotori and the rest in a perilous situation, as Jin worsens things by summoning a second Numbers. In the midst of such a terrible pinch, Astral finds himself scared by Kaito's looming shadow, but when he sees Yuma who refuses to give up, he steps back up to the fight. With the feelings of these two guys, \"Utopia\" obtains a new power!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228154659 +0100",
+            "stop_time": "20250228161404 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma misplaces the the Emperor's Key that was an important momento from his parents. He and Astral look high and low for it, but they just can't seem to find it. While they look, Astral is curious as to how the Emperor's Key is related to Yuma's father. Yuma starts talking about various memories from his childhood that he remembers about his dad. Yuma's Never-Give-Up Spirit \"Kattobingu\" was born from a promise he made with his father.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228161411 +0100",
+            "stop_time": "20250228164131 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma safely recovers \"Number 96: Black Mist\" from a man. Tetsuo, who witnessed the Duel, takes note that Yuma seems suddenly more brutal in his strategy, and ends up in a fight with him. Not having reconciled in over 2 days, suddenly Number 96 swallows Yuma and Astral up!! To rescue Yuma and Astral from Number 96, Tetsuo fights the Numbers for the first time!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228164137 +0100",
+            "stop_time": "20250228170827 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAs they head home from class, Yuma and his friends meet Lilly who becomes their friend. However, after the robot is reprogrammed to its former self, Yuma duels Lilly in order to help regain her memories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170833 +0100",
+            "stop_time": "20250228173546 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nIn order to protect Yuma's Key from Kite, Shark faces him in a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173553 +0100",
+            "stop_time": "20250228180254 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile Yuma seeks for his Key, Astral duels against Kite to defend the Number cards he possesses.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180301 +0100",
+            "stop_time": "20250228183107 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nDespite being unable to fight against the immense power of Galaxy-Eyes Photon Dragon, Astral, his resolve stern due to Feeling the Flow, continues a desperate combo of Offense and Defense. But when he finally gives up against Kite who keeps attacking him over and over, Yuma appears and the mysterious ZEXAL power activates...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183113 +0100",
+            "stop_time": "20250228185905 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nOne morning, Yuma heads to school, and while talking to his friends, time stops. He sees three suns shining in the sky. Together with Astral, they both shiver from a fear they do not understand, causing Yuma to run off to find out what possibly could have happened. At that time, Kite, using Dr. Faker's technology, retraces Astral's memories and invites Yuma to the World Duel Carnival.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228185911 +0100",
+            "stop_time": "20250228192525 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe World Duel Carnival, where Duelists from around the world will wage heated battles, is swiftly approaching. Yuma, seeking to fulfill his dream of becoming \"Duel Champion\", excitedly rushes to the tournament. But what will Yuma do when he has no Heart Pieces, which serve as the proof of participation for the WDC? Meanwhile, Mr. Heartland and Kite make their preparations to gather the Numbers that are likely to assemble before them in this tournament.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228192532 +0100",
+            "stop_time": "20250228195328 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma's first opponent in the World Duel Carnival is the soccer kid, Striker. Striker transforms the surrounding stadium with his Field Spell Card, as the Duel kicks off. With his \"Offside Trap\", Striker brilliantly seals Yuma's strategies, while his teammate monsters use teamwork to frantically keep beating Yuma up with a combo of offense and defense and with such sheer strength, it seems as if Striker's victory is decided...",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228195334 +0100",
+            "stop_time": "20250228202101 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nWhile looking for an opponent to Duel, Yuma meets a boy named Cody, who loves construction equipment, at a construction site. Yuma, interested in the construction equipment Deck Cody uses, challenges him to a Duel. However, Cody Xyz Summons his \"Digvorzhak, King of Heavy Industry\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228202108 +0100",
+            "stop_time": "20250228204832 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAnna Kaboom attempts to kill Yuma with a cannon. He negotiates with her and they Duel instead so that Anna can try to take her revenge. Their past history is not what it initially seems.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228204838 +0100",
+            "stop_time": "20250228211510 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nTombo Tillbitty Duels people, defeating them with his \"Basket Rule\" and takes their Heart Pieces. Dextra and Nistro appear near one of the defeated Duelists. They see he has vegetables stuffed in his mouth, and Dextra sees blood on his shirt. Dextra inspects closer, and licks it up, telling the disgusted Nistro it's just tomato juice.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228211517 +0100",
+            "stop_time": "20250228214217 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay steals \"Number 7: Lucky Straight\" from a gallery. Kari, who has past history with Charlie, sends Yuma after him. He and Astral witness the power of the \"Lucky Straight\" when Charlie performs a One Turn Kill on a World Duel Carnival competitor. Charlie makes his escape, stealing more cards in the process, including one of Yuma's \"Numbers\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228214223 +0100",
+            "stop_time": "20250228221018 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nCharlie McCay escapes on the single-track railroad and Yuma starts the Duel. But Charlie's \"Number 7: Lucky Straight\" possesses amazing luck. If he hits the jackpot by rolling the dice, then Charlie's Life Points will become 100,000. On the verge of giving up when all of his attempts to stop that strong luck become fruitless, Yuma discovers an unexpected strategy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221024 +0100",
+            "stop_time": "20250228223545 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nThe second day of WDC starts. More energetic than ever, Bronk and Caswell decide to battle the Asian Duel Champion, Quattro. According to these two, the gentleman Quattro has a respectable Duel aesthetic, which is also admired by many Duelists from their hearts. Witnessed by Yuma, Astral, Tori and Trey, the Battle Royal between Quattro, Bronk, and Caswell starts, but Quattro soon reveals his true side which remained hidden until now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223552 +0100",
+            "stop_time": "20250228230258 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nShark is determined to have his revenge on Quattro, but Quattro's younger brother Trey snares Shark with a Duel Anchor and allows Quattro to leave. Trey's mission from Vetrix and Quinton is to give a \"Number\" to Shark, which he accomplishes. Shark is able to resist completely being controlled by the \"Number\" and defeats Trey.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230304 +0100",
+            "stop_time": "20250228233010 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nAfter Yuma laments over Shark dueling in revenge against Quattro, he's irritated by everything that's going on and ends up getting into a squabble with Tori. Meanwhile, elsewhere in the tournament, a photographer named Cameron has won Duel after Duel against Duelists with the help of terrifying ability of his that leaves them in terror. Cameron's superpower is apparently a gift to be able to take photographs of the future. With Cameron's \"Future Photographs\", his opponent's entire strategy is laid bare before him, allowing him to relentlessly defeat Duelists.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233016 +0100",
+            "stop_time": "20250228235722 +0100",
+            "title": "Yu-Gi-Oh! ZEXAL",
+            "description": "| +7 | Anime |\n\nYuma is having trouble in his Duel against Cameron, and the dangerous future of Tori encountering an accident is continuously approaching. Then, \"Number 25: Force Focus\", controlled by Cameron, finally shows up. Yuma cannot win without Summoning \"Utopia\", but according to the prophecy, Yuma will lose in this Duel for sure if he Summons it. Under this desperate circumstance, in order to grasp the future within his own hands, Yuma delivers a bold strategy!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228235729 +0100",
+            "stop_time": "20250301002305 +0100",
+            "title": "Yu-Gi-Oh!",
+            "description": "| +7 | Anime |\n\nArkana, el mago duelista, transporta a Yugi a la arena de duelo más letal del mundo, donde el perdedor es enviado al Reino de las Sombras. Yugi debe ganar este duelo o perderá mucho más que a su Mago Oscuro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301002312 +0100",
+            "stop_time": "20250301004937 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nWithin Satellite, a location segregated from a luxurious utopia, New Domino City; lies Yusei Fudo, a young duelist and Duel Runner enthusiast who is plotting revenge against his rival and former friend, Jack Atlas, the current King of New Domino City in an attempt to reclaim his stolen Duel Runner and \"Stardust Dragon\" card. However, Yusei must first deal with Sector Security as they attempt to arrest his friend Rally Dawson for stealing a Duel Runner piece for Yusei's Duel Runner.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301004943 +0100",
+            "stop_time": "20250301011622 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei reminisces about the past whilst developing his Duel Runner in preparation for sneaking into New Domino City and reclaiming what was stolen from him. In the meantime, Blitz, Nervin and Tank become involved in a fight with Lenny, Lug and Larry who then turn up at Yusei's hideout and demand his Duel Runner. To protect his friends and their bonds, Yusei duels Lenny with his Duel Runner on the line.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301011628 +0100",
+            "stop_time": "20250301014453 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe time has finally arrived for Yusei to sneak into New Domino City so he can settle the score with Jack and reclaim what was stolen from him. However, Tetsu Trudge interrupts Yusei's plan and uses the imposed \"Speed World\" to force Yusei into a Turbo Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301014459 +0100",
+            "stop_time": "20250301021207 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei finally manages to meet Jack in New Domino. Here, they hold a Turbo Duel with Yusei's \"Stardust Dragon\" on the line. Yusei is determine to have his card back and get his revenge on his former friend.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301021213 +0100",
+            "stop_time": "20250301023938 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei continues his Turbo Duel with Jack after Jack has managed to Summon both their aces \"Red Dragon Archfiend\" and \"Stardust Dragon\". Yusei is able to gain control of \"Stardust Dragon\" with \"Harmonia Mirror\". But unknown to them, the summoning of the two dragons trigger an event that will change their lives forever.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023945 +0100",
+            "stop_time": "20250301030710 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei Fudo has been caught by the Sector Security and sent to the Facility. In the paddy wagon, he meets a man called Tenzen Yanagi whom he befriends. The former Pro Duelist, Bolt Tanner, meets Yusei there. Tanner challenges Yusei, who is unable to Duel since he doesn't have a Deck. As a result, Yanagi Duels in his place.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030716 +0100",
+            "stop_time": "20250301033456 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nDisgusted by Tanner speaking ill of Yanagi's cards and stomping on them, Yusei Duels Tanner using Yanagi's Deck, in order to teach him that no card is truly unneeded (in the dub he wanted to teach him what respect really means).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301033503 +0100",
+            "stop_time": "20250301040058 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Securities examine Yusei's body for confirmation of his Mark of the Dragon. Meanwhile, Jack has learned of the legend of the Crimson Dragon and forces himself to obey Goodwin and hosts a Turbo Duel between him and Hunter Pace, who wants a rematch with him.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040104 +0100",
+            "stop_time": "20250301042629 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nMr. Armstrong harasses Yusei's friends in front of him and Yusei duels Armstrong with his freedom and the safety of his friends on the line. Armstrong has seized all of Yusei's Decks so Yusei duels him using cards given to him from his friends at the Facility.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301042636 +0100",
+            "stop_time": "20250301045416 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei continues his Duel with Mr. Armstrong, using cards given to him by inmates at the Facility. Despite Armstrong's brutal attack, Yusei refuses to abandon his friends and lose his freedom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301045422 +0100",
+            "stop_time": "20250301052001 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nIn order to get back his Deck and Duel Runner, Yusei meets a man named Blister, but he is soon pursued by Trudge, who still wants to get his revenge on Yusei.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301052008 +0100",
+            "stop_time": "20250301054648 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei, who got back his Duel Runner and his Deck, continued his Turbo Duel with Trudge. Blister, who is witnessing the Turbo Duel, does not understand why Yusei is so determined to retrieve his \"Bonds of Friendship\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301054654 +0100",
+            "stop_time": "20250301061349 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei Fudo is left unconscious after his harsh Duel with Trudge. The twins Leo and Luna rescue him. After Yusei regains consciousness, Leo demands a Duel with him. Meanwhile, Trudge waits outside in the hopes of capturing Yusei.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301061356 +0100",
+            "stop_time": "20250301064026 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei Fudo decides to enter the Fortune Cup, after Lazar blackmailed him to do so, if he wants to see his friends at Satellite alive. On his way, he meets up with his old friends from the Facility, Bolt Tanner and Yanagi and his new friend, Leo at the Daimon Area. Leo and his friend Dexter went to the Daimon Area in order to challenge the mysterious Black Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301064032 +0100",
+            "stop_time": "20250301070857 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Fortune Cup has now begun. The first Duel is Luna vs. Greiger. But since Luna doesn't want to participate, Leo disguises himself and Duels in her place.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070903 +0100",
+            "stop_time": "20250301073527 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nLuna and Dexter try to cheer up Leo after his loss to Greiger. They approach Yusei, who tells him the experience he got from losing should prove useful later on. Leo encourages Yusei to win, just before Akiza passes them. She glares intensely at Yusei as she passes. The other three quickly step out of her way. Leo wonders what her problem is.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073534 +0100",
+            "stop_time": "20250301080229 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nHunter Pace, under the disguise of Shira, Duels Yusei Fudo in the Fortune Cup, using a Deck he's designed to use against Jack Atlas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080235 +0100",
+            "stop_time": "20250301082915 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nDue to Rex Goodwin's special permission, a consolation game is to be held. Luna is called to participate. Leo is unable to substitute and Luna reluctantly comes forward. Her opponent, Professor Frank, has a trip to the Duel Monsters Spirit World planned.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301082921 +0100",
+            "stop_time": "20250301085816 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nLuna engages in her Duel with Professor Frank when she is called by a mysterious voice to protect the Duel Monsters Spirit World Seeing the turmoil evildoers are doing to this land, Luna must take all her courage and skill at hand to defeat Frank's trump card.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301085822 +0100",
+            "stop_time": "20250301092632 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe first day of the Fortune Cup comes to a close. Before their Duel begins tomorrow, Yusei and Greiger have a friendly talk during the night.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301092638 +0100",
+            "stop_time": "20250301095433 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nDetermined to carry out his mission to his hometown, Greiger uses \"Flying Fortress SKY FIRE\" to run Yusei down. In response, Yusei reads Greiger's strategy and looks for his chance to counterattack.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301095439 +0100",
+            "stop_time": "20250301102234 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe second round of the finals pits Akiza Izinski against Commander Koda. Koda begins his strategy of tormenting Akiza with her record of the past 16 years, in which flashbacks of Akiza's life are shown.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301102240 +0100",
+            "stop_time": "20250301104920 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei Fudo confronts and questions Akiza Izinski on why she calls the Mark of the Dragon a \"wretched mark\". During the Duel against her, Yusei is filled with various doubts about Akiza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301104927 +0100",
+            "stop_time": "20250301111722 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Duel between Yusei Fudo and Akiza Izinski continues. Unconvinced that Akiza truly takes pleasure in bringing pain on others, he tries to reach through to her and get her to admit this and realize that she can think for herself.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301111728 +0100",
+            "stop_time": "20250301114408 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Duel between Yusei Fudo and Jack Atlas in the Fortune Cup can begin. During the Duel, Jack remembers what drove him to go to New Domino City with Yusei's old Duel Runner and the \"Stardust Dragon\" card in the first place.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301114414 +0100",
+            "stop_time": "20250301121124 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Duel between Yusei Fudo and Jack Atlas heats up. Even though the Signers are transported into the past that is related to the Crimson Dragon, Jack is still determined to win the Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301121130 +0100",
+            "stop_time": "20250301123755 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei, winner of the Fortune Cup and the appearance of the Crimson Dragon, catches the interest of the media and the mysterious organization, called the Dark Signers. One of these Dark Signers challenges Yusei to a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301123801 +0100",
+            "stop_time": "20250301130441 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei Fudo continues his Duel with the man with the spider mark. His opponent reveals himself to be a Dark Signer. The reporter Carly Carmine tries to get a scoop as she watches the Duel. Meanwhile the other Dark Signers influence people to stand with them in their fight against the Crimson Dragon.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130447 +0100",
+            "stop_time": "20250301133257 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nAfter his Duel with Grady, Yusei is willingly arrested by Trudge and Sector Security. Meanwhile, Carly, disguised as a nurse, tries to interview Jack at the hospital. Possessed by the Spider mark, Trudge appears and challenges Jack and Carly to a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133304 +0100",
+            "stop_time": "20250301135959 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nCrow steals a number of Decks at a Security warehouse and plans his escape on a Duel Runner. Meanwhile, Goodwin tells Yusei about the Dark Signers, and Mina and Trudge look into Jack's disappearance.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140005 +0100",
+            "stop_time": "20250301142700 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei has managed to reunite with his friend Crow Hogan, who tells him about some disturbance coming from the inner part of Satellite. Meanwhile, Jack Atlas and Carly Carmine spend the day at an amusement park, unaware that they are being followed by Mina and Trudge.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301142706 +0100",
+            "stop_time": "20250301145331 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei, Crow, Rally and the others meet together at Daedalus Bridge, Crow's hideout and Crow tells them the story of the legendary man of Daedalus Bridge. Meanwhile, in town, a baffling incident involving the Nazca Lines disappearing has occurred. Yusei sets his eyes on the backwoods of Satellite, the B.A.D. Area, so he can come face-to-face with a Dark Signer, namely Kalin Kessler, who seems to know Yusei very well.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301145337 +0100",
+            "stop_time": "20250301152002 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Dark Signer Kalin Kessler is revealed to be an old friend of Yusei Fudo back in Satellite. However, for some unknown reason, he holds a deep hatred towards Yusei, Crow and Jack. To make matters worse, he has joined the Dark Signers whose plan is to destroy the world. Now, in order to settle things straight, Yusei and Kalin engage in a Duel while using the great picture as a stage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301152008 +0100",
+            "stop_time": "20250301154648 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Dark Signer Kalin Kessler and Yusei Fudo continue their Duel. Kalin then Summons his trump card, the Dark Synchro Monster \"One Hundred-Eyed Dragon\", hoping to get rid of his former friend once and for all. Also, flashbacks are shown that reveal why Kalin hates his former team.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301154655 +0100",
+            "stop_time": "20250301161450 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nThe Duel between Yusei and Kalin continues. Yusei Summons \"Stardust Dragon\" in order to defeat \"One Hundred-Eyed Dragon\". However, Kalin smirks and holds up another trump card, \"Earthbound Immortal Ccapac Apu\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301161456 +0100",
+            "stop_time": "20250301164305 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei is taken by Crow to Martha's refuge to treat his injuries from his Duel with Kalin. Meanwhile, Leo insists that the Signers should all collaborate to fight against the Dark Signers and suggests they contact Arcadia Movement in seek of Akiza's co-operation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301164311 +0100",
+            "stop_time": "20250301171006 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nIn fear of losing all connections with Jack, Carly continues her investigation into the Signers and Dark Signers. This leads her to the Arcadia Movement, unaware that she has a date with Destiny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301171013 +0100",
+            "stop_time": "20250301173707 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nCarly Carmine, who has been thrown off the Arcadia Movement building to her death as a result of her Duel with Sayer, has come back to life as a Dark Signer, seeking revenge. Meanwhile, Misty Tredwell, after sensing that Carly has fully become a Dark Signer, goes to the Arcadia Movement to Duel Akiza Izinski as she desires revenge of her own. With both Dark Signers ready to wreak both havoc and vengeance, the countdown to the extinction of the Psychic Duelists seems to have begun!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301173714 +0100",
+            "stop_time": "20250301180522 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nMisty and Carly continue their Duels against Akiza and Sayer, respectively.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180528 +0100",
+            "stop_time": "20250301183152 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nAkiza Izinski is left in an unconscious state after the attack on the Arcadia Movement. Unable to open Akiza's heart, due to their past treatment of Akiza, her parents ask Yusei Fudo for help.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183159 +0100",
+            "stop_time": "20250301185919 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei and Akiza's Duel continues. Akiza continues to inflict pain to Yusei. But despite the pain, Yusei is still determined to bring Akiza out of her sorrow.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301185925 +0100",
+            "stop_time": "20250301192737 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nRex Goodwin invites the Signers to his home and reveals to them the secret of the Crimson Dragon, as well as the connection between the Signers and the Dark Signers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301192743 +0100",
+            "stop_time": "20250301195523 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nWhile the Signers must make their decision to whether or not they must battle the Dark Signers, Crow encounters Lazar in Satellite and challenges him to a Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301195529 +0100",
+            "stop_time": "20250301202254 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nCrow and Lazar continue their Duel, with Crow still thinking Lazar is a Dark Signer, while the Signers prepare to travel to Satellite to face the Dark Signers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301202301 +0100",
+            "stop_time": "20250301204943 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei and the other Signers visit Martha in Satellite, but Roman interrupts their visit, challenging Yusei to a Shadow Duel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301204949 +0100",
+            "stop_time": "20250301211729 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nYusei and Roman continue their Duel. Roman pushes Yusei to despair, by revealing information about his past and putting his friends in danger.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211736 +0100",
+            "stop_time": "20250301214546 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nWhile the Signers decide to fight each Dark Signer on their battle ground, Luna is unexpectedly sent to the Duel Monsters Spirit World, leaving Leo to fight Devack in her place.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301214552 +0100",
+            "stop_time": "20250301221402 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nWhile Luna continues her searches for Regulus in the Spirit World with the help of Torunka, Leo continues his Duel against Devack while managing to Synchro Summon his ace card, \"Power Tool Dragon\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301221408 +0100",
+            "stop_time": "20250301224218 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nLuna, Torunka, and Regulus confront Zeman the Ape King, the Duel Monster spirit who has taken the Ancient Fairy Dragon captive. Meanwhile, in the human world, Devack manages to Summon \"Zeman the Ape King\" in his Duel against Leo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301224224 +0100",
+            "stop_time": "20250301231034 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nAfter defeating Zeman the Ape King and saving Ancient Fairy Dragon, Luna arrives in the human world just in time to help her brother Leo win his Duel against Devack, who has just Summoned \"Earthbound Immortal Cusillu\".",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301231040 +0100",
+            "stop_time": "20250301233720 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nWith Devack defeated, Roman Goodwin turns Greiger into a Dark Signer. Crow, who survived the black fog, challenges Greiger to a Duel to avenge the children who disappeared in the fog.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233727 +0100",
+            "stop_time": "20250302000506 +0100",
+            "title": "Yu-Gi-Oh! 5 D's",
+            "description": "| +7 | Anime |\n\nCrow and Greiger continue their Duel while Yusei tries to stop it. During the Duel, Crow remembers his childhood in which he learned the importance of strategy and friendship.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/yu-gi-oh-yu-gi-oh-es.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

@@ -1,0 +1,517 @@
+{
+    "name": "Drama",
+    "tvg_id": "drama-rakuten-tv",
+    "epg": [
+        {
+            "start_time": "20250224135011 +0100",
+            "stop_time": "20250224160450 +0100",
+            "title": "Viento de libertad",
+            "description": "| +16 | Películas |\n\nEn los años 80 dos familias alemanas de la Alemania oriental intentan pasar a la Alemania occidental en un globo aerostático casero.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b5f19d71-deb7-4218-88bc-f3577d9fe78a.jpeg"
+        },
+        {
+            "start_time": "20250224160451 +0100",
+            "stop_time": "20250224175348 +0100",
+            "title": "Whale Rider",
+            "description": "| +16 | Películas |\n\nEn un pequeño poblado de la costa de Nueva Zelanda, los aborígenes de la tribu Whangara creen que proceden de un único ancestro, cuya existencia se remonta mil años atrás. Su nombre es Paikea, y escapó de la muerte, tras volcar su canoa, montando a lomos de una ballena. ",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c4a2f64c-d0f0-4a4a-b857-f3f7c6883086.jpeg"
+        },
+        {
+            "start_time": "20250224175349 +0100",
+            "stop_time": "20250224194804 +0100",
+            "title": "El libro del amor",
+            "description": "| +16 | Películas |\n\nHenry y Penny viven en Nueva Orleans y son una pareja muy cariñosa, hasta que ocurre una tragedia. Luego, Henry se ve obligado a reconstruirse.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/f9ca4e0c-7e04-483b-8668-10302c065c82-snapshot-1590665356.jpeg"
+        },
+        {
+            "start_time": "20250224194805 +0100",
+            "stop_time": "20250224213631 +0100",
+            "title": "Una buena receta",
+            "description": "| +16 | Películas |\n\nTras perder el prestigio por culpa de su carácter y sus problemas personales, el chef Adam Jones reabre con su antiguo equipo un restaurante con el objetivo de conseguir las tres estrellas michelin.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/9f26b734-a165-42e8-9bea-84272d32bff0.jpeg"
+        },
+        {
+            "start_time": "20250224213632 +0100",
+            "stop_time": "20250224231322 +0100",
+            "title": "La decisión de Gracie",
+            "description": "| +16 | Películas |\n\nUna adolescente intenta criar sola a sus tres hermanastros y una hermanastra después de que su madre, drogadicta, sea enviada a la cárcel.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/56367560-46ba-45de-ab3b-f06fbe510d1e.jpeg"
+        },
+        {
+            "start_time": "20250224231323 +0100",
+            "stop_time": "20250225010539 +0100",
+            "title": "Hermanos",
+            "description": "| +16 | Películas |\n\nUn joven consuela a la esposa y a los hijos de su hermano mayor tras su desaparición en Afganistán.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bf547df3-6e95-4057-9c38-9840cc85511d-brothers-2009-1649246172.jpeg"
+        },
+        {
+            "start_time": "20250225010540 +0100",
+            "stop_time": "20250225025248 +0100",
+            "title": "1911",
+            "description": "| +16 | Películas |\n\nTras estudiar el arte de la guerra moderna en Japón, Huang Xing regresa a China para convertirse en uno de los líderes de la revolución en su país contra la dinastía Qing.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7e1e8438-3cba-4d7a-a39d-aac6a9026632-snapshot-1590668942.jpeg"
+        },
+        {
+            "start_time": "20250225025249 +0100",
+            "stop_time": "20250225044125 +0100",
+            "title": "La cornisa (The Ledge)",
+            "description": "| +16 | Películas |\n\nUn policía intenta persuadir a un joven para que no salte desde el borde de un rascacielos. El oficial no sabe que el esposo de la amante del joven le dio el ultimátum para que lo hiciera al mediodía, de lo contrario ella morirá.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/08bb7427-faa5-420e-a839-f85e638699c8.jpeg"
+        },
+        {
+            "start_time": "20250225044126 +0100",
+            "stop_time": "20250225064918 +0100",
+            "title": "Langosta",
+            "description": "| +16 | Películas |\n\nUna historia de amor ambientada en un futuro cercano, en un lugar donde los solteros, de acuerdo con las reglas, son detenidos y trasladados a El Hotel. Allí les obligan a encontrar pareja en cuarenta y cinco días. Si no lo consiguen, son transformados en un animal y soltados en El Bosque.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c4d13f91-2cc4-4a7d-a672-07e85daf5428.jpeg"
+        },
+        {
+            "start_time": "20250225064919 +0100",
+            "stop_time": "20250225065959 +0100",
+            "title": "Volvemos pronto con más contenido",
+            "description": "| +16 | Películas |\n\n¡Estamos recuperando el sueño perdido! Permanece atento a la magnífica selección de entretenimiento de Rakuten TV.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070000 +0100",
+            "stop_time": "20250225084053 +0100",
+            "title": "Libertad",
+            "description": "| +16 | Películas |\n\nBasada en una historia real. Dos hombres separados por 100 años están unidos en su búsqueda hacia la libertad. En 1856, un esclavo, Samuel Woodward y su familia, escapan de la plantación Monroe cerca de Virginia.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/97c72251-7a04-4d4d-9540-98d4798bd308.jpeg"
+        },
+        {
+            "start_time": "20250225084054 +0100",
+            "stop_time": "20250225104923 +0100",
+            "title": "El gran partido",
+            "description": "| +16 | Películas |\n\nLos nazis organizan un partido de fútbol entre un equipo de reclusos del campo y un equipo nazi de élite en el cumpleaños de Adolf Hitler.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/72dc84c2-3b26-44a8-9b21-14460c5c51a0-the-match-1652780262.jpeg"
+        },
+        {
+            "start_time": "20250225104924 +0100",
+            "stop_time": "20250225123832 +0100",
+            "title": "Los días que vendrán",
+            "description": "| +16 | Películas |\n\nVir (30) y Lluís (32) hace solo un año que salen juntos, cuando descubren que están “embarazados”. Durante 9 meses, seguiremos la aventura de esta joven pareja barcelonesa, el giro enorme que dará su vida, sus miedos, alegrías y las realidades que, durante su embarazo, crecen ante ellos.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/17a74e9c-45f6-4cd9-a378-1ec82ebd276a-snapshot-1590667490.jpeg"
+        },
+        {
+            "start_time": "20250225123833 +0100",
+            "stop_time": "20250225145227 +0100",
+            "title": "El jugador",
+            "description": "| +16 | Películas |\n\nMurphy es un estudiante de un pequeño pueblo de agricultores y bombero voluntario cuyo glorioso día de fútbol se interrumpe al sufrir una grave lesión durante un partido de playoff.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/9fed2832-700d-4160-a9f5-5e5bd79ee4c5.jpeg"
+        },
+        {
+            "start_time": "20250225145228 +0100",
+            "stop_time": "20250225163820 +0100",
+            "title": "Mi semana con Marilyn",
+            "description": "| +16 | Películas |\n\nColin Clark, empleado de Sir Laurence Olivier, documenta la intensa relación entre Olivier y Marilyn Monroe durante la producción de \"El Príncipe y la Corista\" en 1957.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b0c149b4-635e-4874-b961-e58fa537209f-snapshot-1590663706.jpeg"
+        },
+        {
+            "start_time": "20250225163821 +0100",
+            "stop_time": "20250225182725 +0100",
+            "title": "Mustang",
+            "description": "| +16 | Películas |\n\nEn un remoto pueblo de Turquía, cinco niñas vivaces lideradas por la más joven, la rebelde Lale de 13 años, crecen en una familia obsesionada con la tradición, y específicamente, con la virtud de las chicas. Su lucha por la libertad se convierte en un magnífico y conmovedor pulso...",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/39394679-d0a0-4f73-a71d-3b3cf97a4d33.jpeg"
+        },
+        {
+            "start_time": "20250225182726 +0100",
+            "stop_time": "20250225203533 +0100",
+            "title": "Todo saldrá bien",
+            "description": "| +16 | Películas |\n\nLa vida del escritor Tomas Eldan cambia el día que, tras una acalorada discusión con su novia, atropella a un niño. Doce años después, Tomas sigue culpándose sin poder olvidar la tragedia. Aquel fatídico accidente afectó a Kate, la madre del niño, y todos los que rodean a Tomas, incluida su novia.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3b9688c9-1fa1-4d73-a6d9-6bbacb25d309.jpeg"
+        },
+        {
+            "start_time": "20250225203534 +0100",
+            "stop_time": "20250225221148 +0100",
+            "title": "Escándalo en el poder",
+            "description": "| +16 | Películas |\n\nTras el terrible vertido de un petrolero, un congresista decidido a ir contra la empresa petrolera, se ve involucrado en un escándalo sexual.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/fb528267-6b8e-4ff5-802c-33a86f99e984-snapshot-1590663639.jpeg"
+        },
+        {
+            "start_time": "20250225221149 +0100",
+            "stop_time": "20250226003113 +0100",
+            "title": "Song to Song",
+            "description": "| +16 | Películas |\n\nDos triángulos amorosos interrelacionados. Por un lado una pareja formada por dos compositores, por otro un productor musical y su novia camarera. Todos ellos persiguiendo el éxito, tropiezan con la obsesión y la traición en el mundo de la escena musical de Austin, Texas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/3bcb368c-6e80-43ca-90df-2671c12194d5.jpeg"
+        },
+        {
+            "start_time": "20250226003114 +0100",
+            "stop_time": "20250226023044 +0100",
+            "title": "Hijos del Sur",
+            "description": "| +16 | Películas |\n\nEl nieto de un miembro del Ku Klux Klan decide unirse al movimiento de lucha por los Derechos Civiles en los Estados Unidos al cumplir la mayoría de edad. Basada en la obra autobiográfica de Bob Zellner: \"The Wrong Side of Murder Creek\".",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/2a98d223-c26e-4384-8d6b-1d4e538b8200.jpeg"
+        },
+        {
+            "start_time": "20250226023045 +0100",
+            "stop_time": "20250226041358 +0100",
+            "title": "Cuatro vidas",
+            "description": "| +16 | Películas |\n\nCuatro vidas entrelazadas por emociones: felicidad, placer, pena y amor. Un banquero, un gangster, una estrella del pop y un doctor enfrentan sus destinos entrelazados por un criminal.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fee757be-22a4-4694-8a2b-cc6d87e3064d.jpeg"
+        },
+        {
+            "start_time": "20250226041359 +0100",
+            "stop_time": "20250226061432 +0100",
+            "title": "La carretera",
+            "description": "| +16 | Películas |\n\nLa película nos introduce en un mundo apocalíptico, arrasado por una explosión nuclear, en el cual un padre y su hijo viajan hacia la costa para buscar un lugar seguro donde vivir. Durante su viaje se encontrarán con los pocos seres humanos que quedan, la mayoría de los cuales se han vuelto locos.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/da17081e-8b31-4a6d-a602-b06431939559.jpeg"
+        },
+        {
+            "start_time": "20250226061433 +0100",
+            "stop_time": "20250226080211 +0100",
+            "title": "Alabama Moon",
+            "description": "| +16 | Películas |\n\nUna película para toda la familia basada en la novela de Watt Key. Moon Blake es un niño de once años que se ha criado en Alabama con su padre. Cuando éste muere, el niño decide seguir sus últimas instrucciones e irse a Alaska.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b70e6ed3-62a7-449b-a078-9e5d92b3c491-alabama-moon-1622208760.jpeg"
+        },
+        {
+            "start_time": "20250226080212 +0100",
+            "stop_time": "20250226101041 +0100",
+            "title": "El gran partido",
+            "description": "| +16 | Películas |\n\nLos nazis organizan un partido de fútbol entre un equipo de reclusos del campo y un equipo nazi de élite en el cumpleaños de Adolf Hitler.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/72dc84c2-3b26-44a8-9b21-14460c5c51a0-the-match-1652780262.jpeg"
+        },
+        {
+            "start_time": "20250226101042 +0100",
+            "stop_time": "20250226120945 +0100",
+            "title": "Mis dos amores",
+            "description": "| +16 | Películas |\n\nUn drama romántico ambientado en Brooklyn sobre un soltero indeciso entre la amiga de la familia con quien sus padres quisieran verle y su nueva vecina, preciosa pero volátil.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/3faead58-267a-4f67-878c-e2c3fef8ea2c.jpeg"
+        },
+        {
+            "start_time": "20250226120946 +0100",
+            "stop_time": "20250226135850 +0100",
+            "title": "Mustang",
+            "description": "| +16 | Películas |\n\nEn un remoto pueblo de Turquía, cinco niñas vivaces lideradas por la más joven, la rebelde Lale de 13 años, crecen en una familia obsesionada con la tradición, y específicamente, con la virtud de las chicas. Su lucha por la libertad se convierte en un magnífico y conmovedor pulso...",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/39394679-d0a0-4f73-a71d-3b3cf97a4d33.jpeg"
+        },
+        {
+            "start_time": "20250226135851 +0100",
+            "stop_time": "20250226155317 +0100",
+            "title": "El gángster (Citizen Gangster)",
+            "description": "| +16 | Películas |\n\nBasada en la verdadera historia de Edwin Boyd, un veterano de la Segunda Guerra Mundial y padre de familia convertido en ladrón de bancos.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/6e72a609-192d-40e8-b482-d8e43635172b.jpeg"
+        },
+        {
+            "start_time": "20250226155318 +0100",
+            "stop_time": "20250226174215 +0100",
+            "title": "Whale Rider",
+            "description": "| +16 | Películas |\n\nEn un pequeño poblado de la costa de Nueva Zelanda, los aborígenes de la tribu Whangara creen que proceden de un único ancestro, cuya existencia se remonta mil años atrás. Su nombre es Paikea, y escapó de la muerte, tras volcar su canoa, montando a lomos de una ballena. ",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c4a2f64c-d0f0-4a4a-b857-f3f7c6883086.jpeg"
+        },
+        {
+            "start_time": "20250226174216 +0100",
+            "stop_time": "20250226193010 +0100",
+            "title": "Amor y honor",
+            "description": "| +16 | Películas |\n\nLiam Hemsworth protagoniza una historia de amor inspirada en las intensas novelas de Nicholas Sparks (El diario de Noa, Querido John), y ambientada en el clima de libertad y protesta que agitó América en el cálido verano de 1969, en plena guerra de Vietnam.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/fcbd0253-744d-4c9d-8073-1b477d96466f-love-and-honor-1645181765.jpeg"
+        },
+        {
+            "start_time": "20250226193011 +0100",
+            "stop_time": "20250226212426 +0100",
+            "title": "El libro del amor",
+            "description": "| +16 | Películas |\n\nHenry y Penny viven en Nueva Orleans y son una pareja muy cariñosa, hasta que ocurre una tragedia. Luego, Henry se ve obligado a reconstruirse.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/f9ca4e0c-7e04-483b-8668-10302c065c82-snapshot-1590665356.jpeg"
+        },
+        {
+            "start_time": "20250226212427 +0100",
+            "stop_time": "20250226234447 +0100",
+            "title": "La clase",
+            "description": "| +16 | Películas |\n\nFrançois se prepara para enfrentarse a un nuevo curso en un instituto de un barrio conflictivo. Él desea aportar la mejor educación a sus alumnos, pero las culturas y las actitudes se enfrentan en el aula, microcosmos de la Francia contemporánea.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d1d8b2e4-6ef6-4e49-93bb-72754f25e061.jpeg"
+        },
+        {
+            "start_time": "20250226234448 +0100",
+            "stop_time": "20250227013156 +0100",
+            "title": "1911",
+            "description": "| +16 | Películas |\n\nTras estudiar el arte de la guerra moderna en Japón, Huang Xing regresa a China para convertirse en uno de los líderes de la revolución en su país contra la dinastía Qing.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7e1e8438-3cba-4d7a-a39d-aac6a9026632-snapshot-1590668942.jpeg"
+        },
+        {
+            "start_time": "20250227013157 +0100",
+            "stop_time": "20250227033949 +0100",
+            "title": "Langosta",
+            "description": "| +16 | Películas |\n\nUna historia de amor ambientada en un futuro cercano, en un lugar donde los solteros, de acuerdo con las reglas, son detenidos y trasladados a El Hotel. Allí les obligan a encontrar pareja en cuarenta y cinco días. Si no lo consiguen, son transformados en un animal y soltados en El Bosque.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c4d13f91-2cc4-4a7d-a672-07e85daf5428.jpeg"
+        },
+        {
+            "start_time": "20250227033950 +0100",
+            "stop_time": "20250227052826 +0100",
+            "title": "La cornisa (The Ledge)",
+            "description": "| +16 | Películas |\n\nUn policía intenta persuadir a un joven para que no salte desde el borde de un rascacielos. El oficial no sabe que el esposo de la amante del joven le dio el ultimátum para que lo hiciera al mediodía, de lo contrario ella morirá.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/08bb7427-faa5-420e-a839-f85e638699c8.jpeg"
+        },
+        {
+            "start_time": "20250227052827 +0100",
+            "stop_time": "20250227073821 +0100",
+            "title": "Bravetown",
+            "description": "| +16 | Películas |\n\nJosh es un alma sin rumbo con un talento musical extraordinario que se embarca en un viaje para encontrar lo que menos esperaba, pero que, sin duda alguna, más necesitaba.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b2a67b8b-5882-46bb-8ced-14d31dec77a8-strings-1645438514.jpeg"
+        },
+        {
+            "start_time": "20250227073822 +0100",
+            "stop_time": "20250227092954 +0100",
+            "title": "Perdidos en el Pacífico",
+            "description": "| +16 | Películas |\n\nDurante la Segunda Guerra Mundial, tres aviadores de la Marina de los EE UU sufren un accidente en mar abierto. Sin comida, agua, ni esperanza de rescate, los soldados se verán obligados a navegar sin rumbo en un pequeño bote salvavidas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fd9bbbe9-1d93-4c92-a2a0-a435ec4999dd.jpeg"
+        },
+        {
+            "start_time": "20250227092955 +0100",
+            "stop_time": "20250227114434 +0100",
+            "title": "Viento de libertad",
+            "description": "| +16 | Películas |\n\nEn los años 80 dos familias alemanas de la Alemania oriental intentan pasar a la Alemania occidental en un globo aerostático casero.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b5f19d71-deb7-4218-88bc-f3577d9fe78a.jpeg"
+        },
+        {
+            "start_time": "20250227114435 +0100",
+            "stop_time": "20250227134338 +0100",
+            "title": "Mis dos amores",
+            "description": "| +16 | Películas |\n\nUn drama romántico ambientado en Brooklyn sobre un soltero indeciso entre la amiga de la familia con quien sus padres quisieran verle y su nueva vecina, preciosa pero volátil.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/3faead58-267a-4f67-878c-e2c3fef8ea2c.jpeg"
+        },
+        {
+            "start_time": "20250227134339 +0100",
+            "stop_time": "20250227160359 +0100",
+            "title": "La clase",
+            "description": "| +16 | Películas |\n\nFrançois se prepara para enfrentarse a un nuevo curso en un instituto de un barrio conflictivo. Él desea aportar la mejor educación a sus alumnos, pero las culturas y las actitudes se enfrentan en el aula, microcosmos de la Francia contemporánea.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d1d8b2e4-6ef6-4e49-93bb-72754f25e061.jpeg"
+        },
+        {
+            "start_time": "20250227160400 +0100",
+            "stop_time": "20250227174050 +0100",
+            "title": "La decisión de Gracie",
+            "description": "| +16 | Películas |\n\nUna adolescente intenta criar sola a sus tres hermanastros y una hermanastra después de que su madre, drogadicta, sea enviada a la cárcel.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/56367560-46ba-45de-ab3b-f06fbe510d1e.jpeg"
+        },
+        {
+            "start_time": "20250227174051 +0100",
+            "stop_time": "20250227191834 +0100",
+            "title": "El Desprecio",
+            "description": "| +16 | Películas |\n\nKatie Lapp ha anhelado las cosas prohibidas, pero ¿sus sueños llegarán a un precio demasiado caro para pagar? ¿Por qué la madre de Katie, una simple mujer amish, escondería un hermoso vestido de bebé en el ático?",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/ed754c0a-6afe-453a-922a-1ba8be2039fc-the-shunning-1640623348.jpeg"
+        },
+        {
+            "start_time": "20250227191835 +0100",
+            "stop_time": "20250227205733 +0100",
+            "title": "Aprender a amarte",
+            "description": "| +16 | Películas |\n\nFranck y Cécile reciben la noticia de que su hija tiene síndrome de Down. Aunque Cécile se adapta bien a la noticia, para Franck se rompen todos los sueños y planes que tenía para la niña.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/ed2332ba-5e37-4265-8b3c-b92465e06567-apprendre-a-t-aimer-1603200333.jpeg"
+        },
+        {
+            "start_time": "20250227205734 +0100",
+            "stop_time": "20250227223348 +0100",
+            "title": "Escándalo en el poder",
+            "description": "| +16 | Películas |\n\nTras el terrible vertido de un petrolero, un congresista decidido a ir contra la empresa petrolera, se ve involucrado en un escándalo sexual.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/fb528267-6b8e-4ff5-802c-33a86f99e984-snapshot-1590663639.jpeg"
+        },
+        {
+            "start_time": "20250227223349 +0100",
+            "stop_time": "20250228003214 +0100",
+            "title": "La huella del silencio",
+            "description": "| +16 | Películas |\n\nUna niña de once años de edad de una familia disfuncional demuestra una notable, casi mística, don para deletrear cuando gana concursos de ortografía del distrito y se califica para los nacionales; de repente, se convierte en el centro de atención y se gana la aprobación de su padre.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/cf1b753a-af91-400d-b439-e6f8b005d171-bee-season-1612951916.jpeg"
+        },
+        {
+            "start_time": "20250228003215 +0100",
+            "stop_time": "20250228024227 +0100",
+            "title": "Una historia del Bronx",
+            "description": "| +16 | Películas |\n\nUn devoto padre de familia se enfrenta al jefe de una organización de crimen local para poder salvarle la vida a su hijo.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/f1b5636a-8e2f-42a7-8b22-0cc02651d16b-a-bronx-tale-1649244091.jpeg"
+        },
+        {
+            "start_time": "20250228024228 +0100",
+            "stop_time": "20250228042541 +0100",
+            "title": "Cuatro vidas",
+            "description": "| +16 | Películas |\n\nCuatro vidas entrelazadas por emociones: felicidad, placer, pena y amor. Un banquero, un gangster, una estrella del pop y un doctor enfrentan sus destinos entrelazados por un criminal.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fee757be-22a4-4694-8a2b-cc6d87e3064d.jpeg"
+        },
+        {
+            "start_time": "20250228042542 +0100",
+            "stop_time": "20250228061911 +0100",
+            "title": "Skate Kitchen",
+            "description": "| +16 | Películas |\n\nLa vida de Camille, una introvertida adolescente de Long Island, cambia repentinamente cuando conoce en Nueva York a un grupo de chicas que hacen skate, llamadas Skate Kitchen. Según se va adentrando en esta subcultura neoyorquina, empieza a entender el valor de la amistad y a conocerse a sí misma.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/5d5f9ff0-e3d5-4098-bffc-b48372576221.jpeg"
+        },
+        {
+            "start_time": "20250228061912 +0100",
+            "stop_time": "20250228082430 +0100",
+            "title": "Mi amigo Mr. Morgan",
+            "description": "| +16 | Películas |\n\nEl Sr. Morgan (Michael Caine) es un terco anciano norteamericano que vive solo en París. Es viudo y con tendencias suicidas hasta que conoce a Pauline. La vitalidad de la joven le devuelven las ganas de vivir.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/682eab62-34aa-4b27-aad4-ad7cd84d5995-snapshot-1590665932.jpeg"
+        },
+        {
+            "start_time": "20250228082431 +0100",
+            "stop_time": "20250228100726 +0100",
+            "title": "Evelyn",
+            "description": "| +16 | Películas |\n\nBasada en una historia real, narra como en la Irlanda de los años cincuenta la pequeña Evelyn y sus dos hermanos son separados y enviados a distintos orfanatos católicos,  cuando un tribunal decide que su padre es incapaz de cuidar de ellos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/49efb87d-6202-4e84-8432-8f9872dae5e3.jpeg"
+        },
+        {
+            "start_time": "20250228100727 +0100",
+            "stop_time": "20250228115631 +0100",
+            "title": "Mustang",
+            "description": "| +16 | Películas |\n\nEn un remoto pueblo de Turquía, cinco niñas vivaces lideradas por la más joven, la rebelde Lale de 13 años, crecen en una familia obsesionada con la tradición, y específicamente, con la virtud de las chicas. Su lucha por la libertad se convierte en un magnífico y conmovedor pulso...",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/39394679-d0a0-4f73-a71d-3b3cf97a4d33.jpeg"
+        },
+        {
+            "start_time": "20250228115632 +0100",
+            "stop_time": "20250228141111 +0100",
+            "title": "Viento de libertad",
+            "description": "| +16 | Películas |\n\nEn los años 80 dos familias alemanas de la Alemania oriental intentan pasar a la Alemania occidental en un globo aerostático casero.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b5f19d71-deb7-4218-88bc-f3577d9fe78a.jpeg"
+        },
+        {
+            "start_time": "20250228141112 +0100",
+            "stop_time": "20250228155850 +0100",
+            "title": "Alabama Moon",
+            "description": "| +16 | Películas |\n\nUna película para toda la familia basada en la novela de Watt Key. Moon Blake es un niño de once años que se ha criado en Alabama con su padre. Cuando éste muere, el niño decide seguir sus últimas instrucciones e irse a Alaska.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b70e6ed3-62a7-449b-a078-9e5d92b3c491-alabama-moon-1622208760.jpeg"
+        },
+        {
+            "start_time": "20250228155851 +0100",
+            "stop_time": "20250228180942 +0100",
+            "title": "El Caso Fischer",
+            "description": "| +16 | Películas |\n\n1972, Guerra Fría, el mundial de ajedrez cobró proporciones mediáticas y tintes políticos sin precedentes. El enfrentamiento entre el mítico jugador norteamericano Bobby Fischer y el campeón soviético Boris Spassky fue más allá de la pura competición, calificándose como la “Partida del Siglo”.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bd6c4f37-abd0-42fe-a808-dc202698a86e-snapshot-1590665013.jpeg"
+        },
+        {
+            "start_time": "20250228180943 +0100",
+            "stop_time": "20250228201501 +0100",
+            "title": "Mi amigo Mr. Morgan",
+            "description": "| +16 | Películas |\n\nEl Sr. Morgan (Michael Caine) es un terco anciano norteamericano que vive solo en París. Es viudo y con tendencias suicidas hasta que conoce a Pauline. La vitalidad de la joven le devuelven las ganas de vivir.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/682eab62-34aa-4b27-aad4-ad7cd84d5995-snapshot-1590665932.jpeg"
+        },
+        {
+            "start_time": "20250228201502 +0100",
+            "stop_time": "20250228222331 +0100",
+            "title": "El gran partido",
+            "description": "| +16 | Películas |\n\nLos nazis organizan un partido de fútbol entre un equipo de reclusos del campo y un equipo nazi de élite en el cumpleaños de Adolf Hitler.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/72dc84c2-3b26-44a8-9b21-14460c5c51a0-the-match-1652780262.jpeg"
+        },
+        {
+            "start_time": "20250228222332 +0100",
+            "stop_time": "20250301001240 +0100",
+            "title": "Los días que vendrán",
+            "description": "| +16 | Películas |\n\nVir (30) y Lluís (32) hace solo un año que salen juntos, cuando descubren que están “embarazados”. Durante 9 meses, seguiremos la aventura de esta joven pareja barcelonesa, el giro enorme que dará su vida, sus miedos, alegrías y las realidades que, durante su embarazo, crecen ante ellos.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/17a74e9c-45f6-4cd9-a378-1ec82ebd276a-snapshot-1590667490.jpeg"
+        },
+        {
+            "start_time": "20250301001241 +0100",
+            "stop_time": "20250301020117 +0100",
+            "title": "La cornisa (The Ledge)",
+            "description": "| +16 | Películas |\n\nUn policía intenta persuadir a un joven para que no salte desde el borde de un rascacielos. El oficial no sabe que el esposo de la amante del joven le dio el ultimátum para que lo hiciera al mediodía, de lo contrario ella morirá.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/08bb7427-faa5-420e-a839-f85e638699c8.jpeg"
+        },
+        {
+            "start_time": "20250301020118 +0100",
+            "stop_time": "20250301041045 +0100",
+            "title": "Valkiria",
+            "description": "| +16 | Películas |\n\nHerido, el coronel von Stauffenberg vuelve de África para organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a7cdd3d4-5358-45a1-8d19-045a7411f0c1.jpeg"
+        },
+        {
+            "start_time": "20250301041046 +0100",
+            "stop_time": "20250301055816 +0100",
+            "title": "Asesinos anónimos",
+            "description": "| +16 | Películas |\n\nUn grupo de apoyo para asesinos se lleva a cabo regularmente. Los participantes se sientan en un círculo de confianza y comparten sus transgresiones.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/75367050-6279-4733-84a4-883f6502989a-snapshot-1590667130.jpeg"
+        },
+        {
+            "start_time": "20250301055817 +0100",
+            "stop_time": "20250301073600 +0100",
+            "title": "El Desprecio",
+            "description": "| +16 | Películas |\n\nKatie Lapp ha anhelado las cosas prohibidas, pero ¿sus sueños llegarán a un precio demasiado caro para pagar? ¿Por qué la madre de Katie, una simple mujer amish, escondería un hermoso vestido de bebé en el ático?",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/ed754c0a-6afe-453a-922a-1ba8be2039fc-the-shunning-1640623348.jpeg"
+        },
+        {
+            "start_time": "20250301073601 +0100",
+            "stop_time": "20250301091901 +0100",
+            "title": "El viaje de Fanny",
+            "description": "| +16 | Películas |\n\nFanny es una niña de doce años un poco cabezota. Pero, ante todo, es una niña valiente que, escondida en una casa lejos de sus padres, debe cuidar de sus dos hermanas menores.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/10401e6e-3c93-4fb0-8ab4-921ea39488de-snapshot-1590662166.jpeg"
+        },
+        {
+            "start_time": "20250301091902 +0100",
+            "stop_time": "20250301112856 +0100",
+            "title": "Bravetown",
+            "description": "| +16 | Películas |\n\nJosh es un alma sin rumbo con un talento musical extraordinario que se embarca en un viaje para encontrar lo que menos esperaba, pero que, sin duda alguna, más necesitaba.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b2a67b8b-5882-46bb-8ced-14d31dec77a8-strings-1645438514.jpeg"
+        },
+        {
+            "start_time": "20250301112857 +0100",
+            "stop_time": "20250301131152 +0100",
+            "title": "Evelyn",
+            "description": "| +16 | Películas |\n\nBasada en una historia real, narra como en la Irlanda de los años cincuenta la pequeña Evelyn y sus dos hermanos son separados y enviados a distintos orfanatos católicos,  cuando un tribunal decide que su padre es incapaz de cuidar de ellos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/49efb87d-6202-4e84-8432-8f9872dae5e3.jpeg"
+        },
+        {
+            "start_time": "20250301131153 +0100",
+            "stop_time": "20250301145745 +0100",
+            "title": "Mi semana con Marilyn",
+            "description": "| +16 | Películas |\n\nColin Clark, empleado de Sir Laurence Olivier, documenta la intensa relación entre Olivier y Marilyn Monroe durante la producción de \"El Príncipe y la Corista\" en 1957.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b0c149b4-635e-4874-b961-e58fa537209f-snapshot-1590663706.jpeg"
+        },
+        {
+            "start_time": "20250301145746 +0100",
+            "stop_time": "20250301170553 +0100",
+            "title": "Todo saldrá bien",
+            "description": "| +16 | Películas |\n\nLa vida del escritor Tomas Eldan cambia el día que, tras una acalorada discusión con su novia, atropella a un niño. Doce años después, Tomas sigue culpándose sin poder olvidar la tragedia. Aquel fatídico accidente afectó a Kate, la madre del niño, y todos los que rodean a Tomas, incluida su novia.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3b9688c9-1fa1-4d73-a6d9-6bbacb25d309.jpeg"
+        },
+        {
+            "start_time": "20250301170554 +0100",
+            "stop_time": "20250301192033 +0100",
+            "title": "Viento de libertad",
+            "description": "| +16 | Películas |\n\nEn los años 80 dos familias alemanas de la Alemania oriental intentan pasar a la Alemania occidental en un globo aerostático casero.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b5f19d71-deb7-4218-88bc-f3577d9fe78a.jpeg"
+        },
+        {
+            "start_time": "20250301192034 +0100",
+            "stop_time": "20250301211138 +0100",
+            "title": "Belle y Sebastián",
+            "description": "| +16 | Películas |\n\nInspirada en la serie de televisión de culto homónima que fascinó a Francia durante los años sesenta. Una historia tierna, un himno a la naturaleza en el que destacan la banda sonora y una fotografía magistral.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/080616bd-c863-456a-854c-2871098a76af-snapshot-1590665959.jpeg"
+        },
+        {
+            "start_time": "20250301211139 +0100",
+            "stop_time": "20250301230005 +0100",
+            "title": "Una buena receta",
+            "description": "| +16 | Películas |\n\nTras perder el prestigio por culpa de su carácter y sus problemas personales, el chef Adam Jones reabre con su antiguo equipo un restaurante con el objetivo de conseguir las tres estrellas michelin.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/9f26b734-a165-42e8-9bea-84272d32bff0.jpeg"
+        },
+        {
+            "start_time": "20250301230006 +0100",
+            "stop_time": "20250302003643 +0100",
+            "title": "Hijo de Caín",
+            "description": "| +16 | Películas |\n\nNico es un adolescente de  extraño carácter, inteligencia excepcional y una obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán. Descubrir la verdad a tiempo será la única opción para evitar que la esencia del mal acabe dominando sus vidas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fdb46729-b070-4c5c-834e-67be34a2ef04.jpeg"
+        },
+        {
+            "start_time": "20250302003644 +0100",
+            "stop_time": "20250302021957 +0100",
+            "title": "Cuatro vidas",
+            "description": "| +16 | Películas |\n\nCuatro vidas entrelazadas por emociones: felicidad, placer, pena y amor. Un banquero, un gangster, una estrella del pop y un doctor enfrentan sus destinos entrelazados por un criminal.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fee757be-22a4-4694-8a2b-cc6d87e3064d.jpeg"
+        },
+        {
+            "start_time": "20250302021958 +0100",
+            "stop_time": "20250302041448 +0100",
+            "title": "Sweetheart",
+            "description": "| +16 | Películas |\n\nAJ es una adolescente que espera que la semana de vacaciones con su familia sea infernal. Pero todo cambia cuando se fija en la socorrista Isla y ambas conectan instantáneamente.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/b661f4d0-e06a-46de-87b0-24bb216c6621-sweetheart-1648461095.jpeg"
+        },
+        {
+            "start_time": "20250302041449 +0100",
+            "stop_time": "20250302055320 +0100",
+            "title": "Fuera de combate",
+            "description": "| +16 | Películas |\n\nEl boxeador Matty Burton vuelve a proclamarse ganador del mundo tras una dura pelea en la que recibe un fuerte golpe en la cabeza.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/c2e14502-ca28-4180-9ac1-0cf7b4b944eb-snapshot-1590659375.jpeg"
+        },
+        {
+            "start_time": "20250302055321 +0100",
+            "stop_time": "20250302074016 +0100",
+            "title": "Amigos para siempre",
+            "description": "| +16 | Películas |\n\nBasada en el aclamado libro homónimo, Storm Boy es la historia de un joven que crece en la hermosa pero deshabitada costa del sur de Australia y que inesperadamente rescata a tres pelícanos huérfanos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/a468d58b-c958-45e2-99b7-74290b07f85d-snapshot-1590668845.jpeg"
+        }
+    ]
+}

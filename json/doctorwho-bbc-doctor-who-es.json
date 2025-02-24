@@ -4,10 +4,10 @@
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e2892717-0a81-42a2-91bc-adbe74d0639a.jpeg",
     "group_title": "Series",
     "original_master_url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/playlist.m3u8?ads_amagi_channel=964&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3874&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=6c21758c-78f6-49d2-b2b8-834fc3189f2f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/bbc-doctor-who-es/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/640x360_1020800/index.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1c8d30036c58097a9d1b8c2a1cc6df2ffe4c3c75432687ccb02f8c91170ab2d05d2222b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815513aafc8922562c070ec80432b6f80ffda1b40167ed5692b81a4c9f0a7fd9d3168abb48eec68d08cb2cda2bb536aea8c18ad901b8aec037ea38f0201f67217297947c9ddd62badb946e2c9d762d347b3f85b083ff1478ec2b4258ebc0dbb061c007d79920f3145dc910944e9d35987bab0ea2de43a9a9a9d04e4d63dcae346023b3daa48fed3c30b859efbbf9d80119f395037d45931cb2452a3c83c2ce1a92b173fcd23397bb6d4762aae1449f8e8d90fba2884b912cc4c0cb91393008094054850ff3cd38832a902ff0c8456c081440ffd7579684811368311b80830d854b42bf898dd9ad6451cb640865e561cb500078be50061ee03ea3e6561e882219ba2729ed67368f4ce8bd22e198d2e1745ddfba941aa83bb5c060bbf706ba522e4d14baf65e372f2a2f87bf3e586923b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae9ccfbd23607a717039755a109b10baf7131bf62be2dff77de73b5/20/640x360_1020800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1020800",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/960x540_2428800/index.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1c8d30036c58097a9d1b8c2a1cc6df2ffe4c3c75432687ccb02f8c91170ab2d05d2222b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815513aafc8922562c070ec80432b6f80ffda1b40167ed5692b81a4c9f0a7fd9d3168abb48eec68d08cb2cda2bb536aea8c18ad901b8aec037ea38f0201f67217297947c9ddd62badb946e2c9d762d347b3f85b083ff1478ec2b4258ebc0dbb061c007d79920f3145dc910944e9d35987bab0ea2de43a9a9a9d04e4d63dcae346023b3daa48fed3c30b859efbbf9d80119f395037d45931cb2452a3c83c2ce1a92b173fcd23397bb6d4762aae1449f8e8d90fba2884b912cc4c0cb91393008094054850ff3cd38832a902ff0c8456c081440ffd7579684811368311b80830d854b42bf898dd9ad6451cb640865e561cb500078be50061ee03ea3e6561e882219ba2729ed67368f4ce8bd22e198d2e1745ddfba941aa83bb5c060bbf706ba522e4d14baf65e372f2a2f87bf3e586923b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae9ccfbd23607a717039755a109b10baf7131bf62be2dff77de73b5/20/960x540_2428800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "2428800",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/1280x720_3572800/index.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1c8d30036c58097a9d1b8c2a1cc6df2ffe4c3c75432687ccb02f8c91170ab2d05d2222b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815513aafc8922562c070ec80432b6f80ffda1b40167ed5692b81a4c9f0a7fd9d3168abb48eec68d08cb2cda2bb536aea8c18ad901b8aec037ea38f0201f67217297947c9ddd62badb946e2c9d762d347b3f85b083ff1478ec2b4258ebc0dbb061c007d79920f3145dc910944e9d35987bab0ea2de43a9a9a9d04e4d63dcae346023b3daa48fed3c30b859efbbf9d80119f395037d45931cb2452a3c83c2ce1a92b173fcd23397bb6d4762aae1449f8e8d90fba2884b912cc4c0cb91393008094054850ff3cd38832a902ff0c8456c081440ffd7579684811368311b80830d854b42bf898dd9ad6451cb640865e561cb500078be50061ee03ea3e6561e882219ba2729ed67368f4ce8bd22e198d2e1745ddfba941aa83bb5c060bbf706ba522e4d14baf65e372f2a2f87bf3e586923b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae9ccfbd23607a717039755a109b10baf7131bf62be2dff77de73b5/20/1280x720_3572800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3572800",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1f8a680d6e595f7a9d1b8c291cc6df2ffe4c3c7a452787cbe77adcc84009b58d0c2f22b95f2468af5a56bf671764d0ed6860ef5be72e544bbd50342a58ffbc0dee191081c665d82077cff8832556240e7da96769e6a859a7f5c4677b8938e2de481dd37616b2ed1e94903e88bae55a9462bc41a040defda5d59532b4bca523eb08e66e73324f7c9d934686da58a4e58e70299903412c7943efb09aea412edc1d292cf9fbd88076eb01cb8828886e3084099c3dc25ace3da95bf6b61bf8aef6881a476fe990026575ede7f288a3786bee32fda1ba8c2b259fa412223da31cd926380791f0ca138dfc169eb72d8bb1656f5daaf21ccdc9e8c285ca8c4e8f1ac9c8fa8c384c5a5c070e874eb1936bd22adc6ca1c11d533f2725fac011aeead85a235d5f898461c00a0bbca9ffe9ad1e37cb791e48f861de5e3a61c5307e73e921a3db5614882219ba2729ed67368f4ce8bd22e198d7e4083ca0dfc0478d0a85d619c2f758d107535806a0cd285a53457ed5d17214207cb1208eb0dde4755372869dccfad36c35062b1c5718f9868d129e9df229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296185788cbb778d97b41faa30183f71a4518cb843678351792257913/178/1920x1080_4716800/index.m3u8",
+            "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1c8d30036c58097a9d1b8c2a1cc6df2ffe4c3c75432687ccb02f8c91170ab2d05d2222b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815513aafc8922562c070ec80432b6f80ffda1b40167ed5692b81a4c9f0a7fd9d3168abb48eec68d08cb2cda2bb536aea8c18ad901b8aec037ea38f0201f67217297947c9ddd62badb946e2c9d762d347b3f85b083ff1478ec2b4258ebc0dbb061c007d79920f3145dc910944e9d35987bab0ea2de43a9a9a9d04e4d63dcae346023b3daa48fed3c30b859efbbf9d80119f395037d45931cb2452a3c83c2ce1a92b173fcd23397bb6d4762aae1449f8e8d90fba2884b912cc4c0cb91393008094054850ff3cd38832a902ff0c8456c081440ffd7579684811368311b80830d854b42bf898dd9ad6451cb640865e561cb500078be50061ee03ea3e6561e882219ba2729ed67368f4ce8bd22e198d2e1745ddfba941aa83bb5c060bbf706ba522e4d14baf65e372f2a2f87bf3e586923b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01ae9ccfbd23607a717039755a109b10baf7131bf62be2dff77de73b5/20/1920x1080_4716800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "4716800",
@@ -51,6 +51,1268 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/doctorwho-bbc-doctor-who-es.json"
+    "epg": [
+        {
+            "start_time": "20250224155010 +0100",
+            "stop_time": "20250224164128 +0100",
+            "title": "El fin del mundo",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Rosa a su primer viaje en el tiempo, al año 5 mil millones y el final del planeta tierra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224164129 +0100",
+            "stop_time": "20250224173248 +0100",
+            "title": "Los muertos inquietos",
+            "description": "| +7 | Series |\n\nCharles Dickens y el Doctor se unen cuando los cadáveres acechan las calles de Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173249 +0100",
+            "stop_time": "20250224182437 +0100",
+            "title": "Extranjeros de Londres",
+            "description": "| +7 | Series |\n\nLlevan a Rose a casa pero una nave espacial se esrella en el Thames y Londres está cerrada….¡Entre al Siltheen!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224182438 +0100",
+            "stop_time": "20250224191353 +0100",
+            "title": "La tercera guerra mundial",
+            "description": "| +7 | Series |\n\nEl tiempo se acaba para el Doctor mientras Downing Street anuncia la primera guerra interplanetaria de la humanidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191354 +0100",
+            "stop_time": "20250224200548 +0100",
+            "title": "Dalek",
+            "description": "| +7 | Series |\n\nEl Doctor está destrozado y la tierra está en peligro cuando él y Rose descubren al enemigo a muerte del Señor de los Tiempos bajo Utah.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200549 +0100",
+            "stop_time": "20250224205647 +0100",
+            "title": "El juego largo",
+            "description": "| +7 | Series |\n\nEl Doctor investiga un extraño satélite y las habilidades de Adam como asistente se ponen a prueba. Simon Pegg como estrellla invitada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224205648 +0100",
+            "stop_time": "20250224214622 +0100",
+            "title": "Dia del padre",
+            "description": "| +7 | Series |\n\nRose es testigo del día que murió su padre pero interferir lleva a consecuencias terribles…¡y criaturas siniestras!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224214623 +0100",
+            "stop_time": "20250224223437 +0100",
+            "title": "El niño vacío",
+            "description": "| +7 | Series |\n\nLos niños huérfanos en tiempo de guerra en Londres están aterrorizados por un niño sobrenatural. Además, conocemos a cierto Capitán Jack…",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223438 +0100",
+            "stop_time": "20250224232355 +0100",
+            "title": "El doctor baila",
+            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224232356 +0100",
+            "stop_time": "20250225001514 +0100",
+            "title": "El fin del mundo",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Rosa a su primer viaje en el tiempo, al año 5 mil millones y el final del planeta tierra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225001515 +0100",
+            "stop_time": "20250225010634 +0100",
+            "title": "Los muertos inquietos",
+            "description": "| +7 | Series |\n\nCharles Dickens y el Doctor se unen cuando los cadáveres acechan las calles de Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010635 +0100",
+            "stop_time": "20250225015823 +0100",
+            "title": "Extranjeros de Londres",
+            "description": "| +7 | Series |\n\nLlevan a Rose a casa pero una nave espacial se esrella en el Thames y Londres está cerrada….¡Entre al Siltheen!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225015824 +0100",
+            "stop_time": "20250225024739 +0100",
+            "title": "La tercera guerra mundial",
+            "description": "| +7 | Series |\n\nEl tiempo se acaba para el Doctor mientras Downing Street anuncia la primera guerra interplanetaria de la humanidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225024740 +0100",
+            "stop_time": "20250225033934 +0100",
+            "title": "Dalek",
+            "description": "| +7 | Series |\n\nEl Doctor está destrozado y la tierra está en peligro cuando él y Rose descubren al enemigo a muerte del Señor de los Tiempos bajo Utah.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033935 +0100",
+            "stop_time": "20250225043033 +0100",
+            "title": "El juego largo",
+            "description": "| +7 | Series |\n\nEl Doctor investiga un extraño satélite y las habilidades de Adam como asistente se ponen a prueba. Simon Pegg como estrellla invitada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043034 +0100",
+            "stop_time": "20250225052008 +0100",
+            "title": "Dia del padre",
+            "description": "| +7 | Series |\n\nRose es testigo del día que murió su padre pero interferir lleva a consecuencias terribles…¡y criaturas siniestras!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225052009 +0100",
+            "stop_time": "20250225060823 +0100",
+            "title": "El niño vacío",
+            "description": "| +7 | Series |\n\nLos niños huérfanos en tiempo de guerra en Londres están aterrorizados por un niño sobrenatural. Además, conocemos a cierto Capitán Jack…",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060824 +0100",
+            "stop_time": "20250225065751 +0100",
+            "title": "El doctor baila",
+            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225065752 +0100",
+            "stop_time": "20250225074834 +0100",
+            "title": "Rosa",
+            "description": "| +7 | Series |\n\nCuando Rose Tyler conoce a un misterioso extraño llamado Doctor, su vida nunca volverá a ser la misma. Pronto, se da cuenta de que su madre, su novio y todo el planeta Tierra están en peligro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225074835 +0100",
+            "stop_time": "20250225083953 +0100",
+            "title": "El fin del mundo",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Rosa a su primer viaje en el tiempo, al año 5 mil millones y el final del planeta tierra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083954 +0100",
+            "stop_time": "20250225093113 +0100",
+            "title": "Los muertos inquietos",
+            "description": "| +7 | Series |\n\nCharles Dickens y el Doctor se unen cuando los cadáveres acechan las calles de Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093114 +0100",
+            "stop_time": "20250225102302 +0100",
+            "title": "Extranjeros de Londres",
+            "description": "| +7 | Series |\n\nLlevan a Rose a casa pero una nave espacial se esrella en el Thames y Londres está cerrada….¡Entre al Siltheen!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225102303 +0100",
+            "stop_time": "20250225111218 +0100",
+            "title": "La tercera guerra mundial",
+            "description": "| +7 | Series |\n\nEl tiempo se acaba para el Doctor mientras Downing Street anuncia la primera guerra interplanetaria de la humanidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225111219 +0100",
+            "stop_time": "20250225120413 +0100",
+            "title": "Dalek",
+            "description": "| +7 | Series |\n\nEl Doctor está destrozado y la tierra está en peligro cuando él y Rose descubren al enemigo a muerte del Señor de los Tiempos bajo Utah.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120414 +0100",
+            "stop_time": "20250225125512 +0100",
+            "title": "El juego largo",
+            "description": "| +7 | Series |\n\nEl Doctor investiga un extraño satélite y las habilidades de Adam como asistente se ponen a prueba. Simon Pegg como estrellla invitada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225125513 +0100",
+            "stop_time": "20250225134447 +0100",
+            "title": "Dia del padre",
+            "description": "| +7 | Series |\n\nRose es testigo del día que murió su padre pero interferir lleva a consecuencias terribles…¡y criaturas siniestras!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225134448 +0100",
+            "stop_time": "20250225143302 +0100",
+            "title": "El niño vacío",
+            "description": "| +7 | Series |\n\nLos niños huérfanos en tiempo de guerra en Londres están aterrorizados por un niño sobrenatural. Además, conocemos a cierto Capitán Jack…",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225143303 +0100",
+            "stop_time": "20250225152220 +0100",
+            "title": "El doctor baila",
+            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225152221 +0100",
+            "stop_time": "20250225161212 +0100",
+            "title": "Boom Town",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack descubren que un Slitheen está detrás del plan para construir un estación nuclear en Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225161213 +0100",
+            "stop_time": "20250225170135 +0100",
+            "title": "Lobo malo",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack luchan por sus vidas a bordo del Game Station, pero la desgracia les golpea cuando los Daleks capturan a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170136 +0100",
+            "stop_time": "20250225175349 +0100",
+            "title": "La despedida de los caminos",
+            "description": "| +7 | Series |\n\nRose Tyler ha visto peligros y maravillas junto al Doctor, pero ahora su amistad se pone a prueba cuando la Tierra se sumerge en una guerra épica. Con la masacre de la raza humana, el Doctor se ve obligado a emprender una acción terrible.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225175350 +0100",
+            "stop_time": "20250225184441 +0100",
+            "title": "Nueva tierra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose suben a bordo de la TARDIS para disfrutar nuevas aventuras en el tiempo y en el espacio. Cuando visitan el nuevo hogar de la humanidad, en un futuro lejano, descubren secretos importantes dentro de un lujoso hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225184442 +0100",
+            "stop_time": "20250225193549 +0100",
+            "title": "Diente y garra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose vuelven a 1879 donde un encuenro en las tierras altas escocesas con la Reina Victoria y la banda de Monjes guerreros revela una trampa mortal. ¿Pueden ser verdad las leyendas locales de un hombre lobo?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225193550 +0100",
+            "stop_time": "20250225202635 +0100",
+            "title": "Reunión de la escuela",
+            "description": "| +7 | Series |\n\nEl Doctor investiga una escuela embrujada por criaturas extrañas con aspecto de murciélago y se reúne con un viejo amigo. Mientras tanto, Rose descubre el verdadero legado de ser compañera del Señor del Tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225202636 +0100",
+            "stop_time": "20250225211752 +0100",
+            "title": "La chica de la chimenea",
+            "description": "| +7 | Series |\n\nMadame de Pompadour descubre la corte de Versalles atacada por asesinos de cuerda y siniestros. Su única esperanza de salvación pasa por el hombre que ha ocupado sus sueños desde la infancia, un extraño misterioso que solo se conoce como el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225211753 +0100",
+            "stop_time": "20250225221031 +0100",
+            "title": "El ascenso de los ciberhombres",
+            "description": "| +7 | Series |\n\nLa TARDIS queda atrapada en una tierra paralela donde Rose descubre que su padre está vivo. Pero las fuerzas siniestras están trabajando y la Sociedad Británica se prepara para la última actualización.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225221032 +0100",
+            "stop_time": "20250225230259 +0100",
+            "title": "La edad del acero",
+            "description": "| +7 | Series |\n\nLos Cybermen toman el control, el Doctor y sus compañeros quedan reducidos a fugitivos en un mundo de terror. Un último ataque desesperado a la Cyberfactory es su única posibilidad. ¿Pero sobrevivirán?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230300 +0100",
+            "stop_time": "20250225235251 +0100",
+            "title": "Boom Town",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack descubren que un Slitheen está detrás del plan para construir un estación nuclear en Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225235252 +0100",
+            "stop_time": "20250226004214 +0100",
+            "title": "Lobo malo",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack luchan por sus vidas a bordo del Game Station, pero la desgracia les golpea cuando los Daleks capturan a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226004215 +0100",
+            "stop_time": "20250226013427 +0100",
+            "title": "La despedida de los caminos",
+            "description": "| +7 | Series |\n\nRose Tyler ha visto peligros y maravillas junto al Doctor, pero ahora su amistad se pone a prueba cuando la Tierra se sumerge en una guerra épica. Con la masacre de la raza humana, el Doctor se ve obligado a emprender una acción terrible.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226013428 +0100",
+            "stop_time": "20250226022520 +0100",
+            "title": "Nueva tierra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose suben a bordo de la TARDIS para disfrutar nuevas aventuras en el tiempo y en el espacio. Cuando visitan el nuevo hogar de la humanidad, en un futuro lejano, descubren secretos importantes dentro de un lujoso hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226022521 +0100",
+            "stop_time": "20250226031627 +0100",
+            "title": "Diente y garra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose vuelven a 1879 donde un encuenro en las tierras altas escocesas con la Reina Victoria y la banda de Monjes guerreros revela una trampa mortal. ¿Pueden ser verdad las leyendas locales de un hombre lobo?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226031628 +0100",
+            "stop_time": "20250226040714 +0100",
+            "title": "Reunión de la escuela",
+            "description": "| +7 | Series |\n\nEl Doctor investiga una escuela embrujada por criaturas extrañas con aspecto de murciélago y se reúne con un viejo amigo. Mientras tanto, Rose descubre el verdadero legado de ser compañera del Señor del Tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040715 +0100",
+            "stop_time": "20250226045831 +0100",
+            "title": "La chica de la chimenea",
+            "description": "| +7 | Series |\n\nMadame de Pompadour descubre la corte de Versalles atacada por asesinos de cuerda y siniestros. Su única esperanza de salvación pasa por el hombre que ha ocupado sus sueños desde la infancia, un extraño misterioso que solo se conoce como el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226045832 +0100",
+            "stop_time": "20250226055109 +0100",
+            "title": "El ascenso de los ciberhombres",
+            "description": "| +7 | Series |\n\nLa TARDIS queda atrapada en una tierra paralela donde Rose descubre que su padre está vivo. Pero las fuerzas siniestras están trabajando y la Sociedad Británica se prepara para la última actualización.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226055110 +0100",
+            "stop_time": "20250226060000 +0100",
+            "title": "La edad del acero",
+            "description": "| +7 | Series |\n\nLos Cybermen toman el control, el Doctor y sus compañeros quedan reducidos a fugitivos en un mundo de terror. Un último ataque desesperado a la Cyberfactory es su única posibilidad. ¿Pero sobrevivirán?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060001 +0100",
+            "stop_time": "20250226064338 +0100",
+            "title": "La edad del acero",
+            "description": "| +7 | Series |\n\nLos Cybermen toman el control, el Doctor y sus compañeros quedan reducidos a fugitivos en un mundo de terror. Un último ataque desesperado a la Cyberfactory es su única posibilidad. ¿Pero sobrevivirán?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226064339 +0100",
+            "stop_time": "20250226073256 +0100",
+            "title": "El doctor baila",
+            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073257 +0100",
+            "stop_time": "20250226082248 +0100",
+            "title": "Boom Town",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack descubren que un Slitheen está detrás del plan para construir un estación nuclear en Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226082249 +0100",
+            "stop_time": "20250226091212 +0100",
+            "title": "Lobo malo",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack luchan por sus vidas a bordo del Game Station, pero la desgracia les golpea cuando los Daleks capturan a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226091213 +0100",
+            "stop_time": "20250226100425 +0100",
+            "title": "La despedida de los caminos",
+            "description": "| +7 | Series |\n\nRose Tyler ha visto peligros y maravillas junto al Doctor, pero ahora su amistad se pone a prueba cuando la Tierra se sumerge en una guerra épica. Con la masacre de la raza humana, el Doctor se ve obligado a emprender una acción terrible.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100426 +0100",
+            "stop_time": "20250226105517 +0100",
+            "title": "Nueva tierra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose suben a bordo de la TARDIS para disfrutar nuevas aventuras en el tiempo y en el espacio. Cuando visitan el nuevo hogar de la humanidad, en un futuro lejano, descubren secretos importantes dentro de un lujoso hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226105518 +0100",
+            "stop_time": "20250226114625 +0100",
+            "title": "Diente y garra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose vuelven a 1879 donde un encuenro en las tierras altas escocesas con la Reina Victoria y la banda de Monjes guerreros revela una trampa mortal. ¿Pueden ser verdad las leyendas locales de un hombre lobo?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226114626 +0100",
+            "stop_time": "20250226123711 +0100",
+            "title": "Reunión de la escuela",
+            "description": "| +7 | Series |\n\nEl Doctor investiga una escuela embrujada por criaturas extrañas con aspecto de murciélago y se reúne con un viejo amigo. Mientras tanto, Rose descubre el verdadero legado de ser compañera del Señor del Tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123712 +0100",
+            "stop_time": "20250226132828 +0100",
+            "title": "La chica de la chimenea",
+            "description": "| +7 | Series |\n\nMadame de Pompadour descubre la corte de Versalles atacada por asesinos de cuerda y siniestros. Su única esperanza de salvación pasa por el hombre que ha ocupado sus sueños desde la infancia, un extraño misterioso que solo se conoce como el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226132829 +0100",
+            "stop_time": "20250226142107 +0100",
+            "title": "El ascenso de los ciberhombres",
+            "description": "| +7 | Series |\n\nLa TARDIS queda atrapada en una tierra paralela donde Rose descubre que su padre está vivo. Pero las fuerzas siniestras están trabajando y la Sociedad Británica se prepara para la última actualización.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226142108 +0100",
+            "stop_time": "20250226151335 +0100",
+            "title": "La edad del acero",
+            "description": "| +7 | Series |\n\nLos Cybermen toman el control, el Doctor y sus compañeros quedan reducidos a fugitivos en un mundo de terror. Un último ataque desesperado a la Cyberfactory es su única posibilidad. ¿Pero sobrevivirán?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226151336 +0100",
+            "stop_time": "20250226160520 +0100",
+            "title": "La linterna del idiota",
+            "description": "| +7 | Series |\n\nEs 1953 y el pueblo británico se reúne frente a la televisión y la radio para ser testigo de la coronación de la reina. Lejos de las celebraciones, el atormentado Sr. Magpie esconde un extraño secreto extraterrestre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160521 +0100",
+            "stop_time": "20250226165713 +0100",
+            "title": "El Planeta Imposible",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose aterrizan en un «planeta imposible». La TARDIS se ha perdido. ¿Y quiénes son los Ood?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226165714 +0100",
+            "stop_time": "20250226175100 +0100",
+            "title": "El pozo de Satanás",
+            "description": "| +7 | Series |\n\nRose lucha con Ood. El Doctor ve amenazadas sus creencias. El planeta amenazado con caer en un agujero negro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226175101 +0100",
+            "stop_time": "20250226193318 +0100",
+            "title": "Amor y monstruos",
+            "description": "| +7 | Series |\n\nElton se obesiona con el Doctor y su caja azul. Investigan a Victor Kennedy, su pasatiempo es pesadilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226193319 +0100",
+            "stop_time": "20250226202312 +0100",
+            "title": "Ejército de fantasmas",
+            "description": "| +7 | Series |\n\nLa raza humana disfruta con los fantasmas familiares en casa. El Doctor investiga Torchwood.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226202313 +0100",
+            "stop_time": "20250226211622 +0100",
+            "title": "Día del Juicio Final",
+            "description": "| +7 | Series |\n\nCuando la raza humana se ve atrapada en una guerra entre Daleks y Cybermen, el Doctor puede perder a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226211623 +0100",
+            "stop_time": "20250226220718 +0100",
+            "title": "Smith y Jones",
+            "description": "| +7 | Series |\n\nMartha Jones conoce al Doctor y se ve transportada a la luna, su vida nunca volverá a ser la misma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220719 +0100",
+            "stop_time": "20250226225801 +0100",
+            "title": "Rosa",
+            "description": "| +7 | Series |\n\nCuando Rose Tyler conoce a un misterioso extraño llamado Doctor, su vida nunca volverá a ser la misma. Pronto, se da cuenta de que su madre, su novio y todo el planeta Tierra están en peligro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226225802 +0100",
+            "stop_time": "20250226234946 +0100",
+            "title": "La linterna del idiota",
+            "description": "| +7 | Series |\n\nEs 1953 y el pueblo británico se reúne frente a la televisión y la radio para ser testigo de la coronación de la reina. Lejos de las celebraciones, el atormentado Sr. Magpie esconde un extraño secreto extraterrestre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226234947 +0100",
+            "stop_time": "20250227004138 +0100",
+            "title": "El Planeta Imposible",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose aterrizan en un «planeta imposible». La TARDIS se ha perdido. ¿Y quiénes son los Ood?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227004139 +0100",
+            "stop_time": "20250227013526 +0100",
+            "title": "El pozo de Satanás",
+            "description": "| +7 | Series |\n\nRose lucha con Ood. El Doctor ve amenazadas sus creencias. El planeta amenazado con caer en un agujero negro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013527 +0100",
+            "stop_time": "20250227031744 +0100",
+            "title": "Amor y monstruos",
+            "description": "| +7 | Series |\n\nElton se obesiona con el Doctor y su caja azul. Investigan a Victor Kennedy, su pasatiempo es pesadilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227031745 +0100",
+            "stop_time": "20250227040738 +0100",
+            "title": "Ejército de fantasmas",
+            "description": "| +7 | Series |\n\nLa raza humana disfruta con los fantasmas familiares en casa. El Doctor investiga Torchwood.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040739 +0100",
+            "stop_time": "20250227050048 +0100",
+            "title": "Día del Juicio Final",
+            "description": "| +7 | Series |\n\nCuando la raza humana se ve atrapada en una guerra entre Daleks y Cybermen, el Doctor puede perder a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050049 +0100",
+            "stop_time": "20250227055134 +0100",
+            "title": "Smith y Jones",
+            "description": "| +7 | Series |\n\nMartha Jones conoce al Doctor y se ve transportada a la luna, su vida nunca volverá a ser la misma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227055135 +0100",
+            "stop_time": "20250227060000 +0100",
+            "title": "El código de Shakespeare",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Martha a la Inglaterra isabelina, donde William Shakespeare ha caído ante un hechizo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060001 +0100",
+            "stop_time": "20250227064326 +0100",
+            "title": "El código de Shakespeare",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Martha a la Inglaterra isabelina, donde William Shakespeare ha caído ante un hechizo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227064327 +0100",
+            "stop_time": "20250227073555 +0100",
+            "title": "La edad del acero",
+            "description": "| +7 | Series |\n\nLos Cybermen toman el control, el Doctor y sus compañeros quedan reducidos a fugitivos en un mundo de terror. Un último ataque desesperado a la Cyberfactory es su única posibilidad. ¿Pero sobrevivirán?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073556 +0100",
+            "stop_time": "20250227082739 +0100",
+            "title": "La linterna del idiota",
+            "description": "| +7 | Series |\n\nEs 1953 y el pueblo británico se reúne frente a la televisión y la radio para ser testigo de la coronación de la reina. Lejos de las celebraciones, el atormentado Sr. Magpie esconde un extraño secreto extraterrestre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227082740 +0100",
+            "stop_time": "20250227091932 +0100",
+            "title": "El Planeta Imposible",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose aterrizan en un «planeta imposible». La TARDIS se ha perdido. ¿Y quiénes son los Ood?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227091933 +0100",
+            "stop_time": "20250227101320 +0100",
+            "title": "El pozo de Satanás",
+            "description": "| +7 | Series |\n\nRose lucha con Ood. El Doctor ve amenazadas sus creencias. El planeta amenazado con caer en un agujero negro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227101321 +0100",
+            "stop_time": "20250227115537 +0100",
+            "title": "Amor y monstruos",
+            "description": "| +7 | Series |\n\nElton se obesiona con el Doctor y su caja azul. Investigan a Victor Kennedy, su pasatiempo es pesadilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227115538 +0100",
+            "stop_time": "20250227124531 +0100",
+            "title": "Ejército de fantasmas",
+            "description": "| +7 | Series |\n\nLa raza humana disfruta con los fantasmas familiares en casa. El Doctor investiga Torchwood.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227124532 +0100",
+            "stop_time": "20250227133842 +0100",
+            "title": "Día del Juicio Final",
+            "description": "| +7 | Series |\n\nCuando la raza humana se ve atrapada en una guerra entre Daleks y Cybermen, el Doctor puede perder a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133843 +0100",
+            "stop_time": "20250227142928 +0100",
+            "title": "Smith y Jones",
+            "description": "| +7 | Series |\n\nMartha Jones conoce al Doctor y se ve transportada a la luna, su vida nunca volverá a ser la misma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227142929 +0100",
+            "stop_time": "20250227152120 +0100",
+            "title": "El código de Shakespeare",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Martha a la Inglaterra isabelina, donde William Shakespeare ha caído ante un hechizo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227152121 +0100",
+            "stop_time": "20250227161237 +0100",
+            "title": "Gridlock",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Marha a la Nueva tierra, en un futuro lejano. Debe enfrentar el desafío del Motorway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227161238 +0100",
+            "stop_time": "20250227170549 +0100",
+            "title": "Daleks en Manhattan",
+            "description": "| +7 | Series |\n\nEs 1930 en Nueva York, la gente desaparece. Pig Men se esconde en las alcantarillas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170550 +0100",
+            "stop_time": "20250227175833 +0100",
+            "title": "Evolución de los Daleks",
+            "description": "| +7 | Series |\n\nCuando el Dalek Empire nace en Nueva York en 1930, Martha lucha por su vida en el Empire State.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227175834 +0100",
+            "stop_time": "20250227184753 +0100",
+            "title": "El experimento de Lázaro",
+            "description": "| +7 | Series |\n\nMartha vuelve a casa pero tiene que proteger a su familia del profesor Lazarus y de su manipulación genética.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227184754 +0100",
+            "stop_time": "20250227193936 +0100",
+            "title": "42",
+            "description": "| +7 | Series |\n\nEn una nave espacial que avanza hacia el sol ardiendo, el Doctor y Martha tienen 42 minutos para solucionarlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193937 +0100",
+            "stop_time": "20250227203054 +0100",
+            "title": "La naturaleza humana",
+            "description": "| +7 | Series |\n\nUn maestro de escuela llamado John Smith tiene extraños sueños de aventuras en el tiempo y el espacio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203055 +0100",
+            "stop_time": "20250227212008 +0100",
+            "title": "La familia de la sangre",
+            "description": "| +7 | Series |\n\nEs 1913 y la guerra llega pronto a Inglaterra, mientras la terrorífica Familia caza para el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227212009 +0100",
+            "stop_time": "20250227221005 +0100",
+            "title": "Parpadear",
+            "description": "| +7 | Series |\n\nSólo el Doctor puede detener a los Ángeles Llorones, pero está perdido en el tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227221006 +0100",
+            "stop_time": "20250227225924 +0100",
+            "title": "El doctor baila",
+            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227225925 +0100",
+            "stop_time": "20250227235041 +0100",
+            "title": "Gridlock",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Marha a la Nueva tierra, en un futuro lejano. Debe enfrentar el desafío del Motorway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227235042 +0100",
+            "stop_time": "20250228004353 +0100",
+            "title": "Daleks en Manhattan",
+            "description": "| +7 | Series |\n\nEs 1930 en Nueva York, la gente desaparece. Pig Men se esconde en las alcantarillas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228004354 +0100",
+            "stop_time": "20250228013637 +0100",
+            "title": "Evolución de los Daleks",
+            "description": "| +7 | Series |\n\nCuando el Dalek Empire nace en Nueva York en 1930, Martha lucha por su vida en el Empire State.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013638 +0100",
+            "stop_time": "20250228022557 +0100",
+            "title": "El experimento de Lázaro",
+            "description": "| +7 | Series |\n\nMartha vuelve a casa pero tiene que proteger a su familia del profesor Lazarus y de su manipulación genética.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228022558 +0100",
+            "stop_time": "20250228031740 +0100",
+            "title": "42",
+            "description": "| +7 | Series |\n\nEn una nave espacial que avanza hacia el sol ardiendo, el Doctor y Martha tienen 42 minutos para solucionarlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228031741 +0100",
+            "stop_time": "20250228040858 +0100",
+            "title": "La naturaleza humana",
+            "description": "| +7 | Series |\n\nUn maestro de escuela llamado John Smith tiene extraños sueños de aventuras en el tiempo y el espacio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040859 +0100",
+            "stop_time": "20250228045812 +0100",
+            "title": "La familia de la sangre",
+            "description": "| +7 | Series |\n\nEs 1913 y la guerra llega pronto a Inglaterra, mientras la terrorífica Familia caza para el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228045813 +0100",
+            "stop_time": "20250228054809 +0100",
+            "title": "Parpadear",
+            "description": "| +7 | Series |\n\nSólo el Doctor puede detener a los Ángeles Llorones, pero está perdido en el tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228054810 +0100",
+            "stop_time": "20250228060000 +0100",
+            "title": "utopía",
+            "description": "| +7 | Series |\n\nEl capitán Harkness vuelve a irrumpir en la vida del Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060001 +0100",
+            "stop_time": "20250228064021 +0100",
+            "title": "utopía",
+            "description": "| +7 | Series |\n\nEl capitán Harkness vuelve a irrumpir en la vida del Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228064022 +0100",
+            "stop_time": "20250228073213 +0100",
+            "title": "El código de Shakespeare",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Martha a la Inglaterra isabelina, donde William Shakespeare ha caído ante un hechizo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073214 +0100",
+            "stop_time": "20250228082330 +0100",
+            "title": "Gridlock",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Marha a la Nueva tierra, en un futuro lejano. Debe enfrentar el desafío del Motorway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228082331 +0100",
+            "stop_time": "20250228091642 +0100",
+            "title": "Daleks en Manhattan",
+            "description": "| +7 | Series |\n\nEs 1930 en Nueva York, la gente desaparece. Pig Men se esconde en las alcantarillas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228091643 +0100",
+            "stop_time": "20250228100926 +0100",
+            "title": "Evolución de los Daleks",
+            "description": "| +7 | Series |\n\nCuando el Dalek Empire nace en Nueva York en 1930, Martha lucha por su vida en el Empire State.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100927 +0100",
+            "stop_time": "20250228105846 +0100",
+            "title": "El experimento de Lázaro",
+            "description": "| +7 | Series |\n\nMartha vuelve a casa pero tiene que proteger a su familia del profesor Lazarus y de su manipulación genética.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228105847 +0100",
+            "stop_time": "20250228115029 +0100",
+            "title": "42",
+            "description": "| +7 | Series |\n\nEn una nave espacial que avanza hacia el sol ardiendo, el Doctor y Martha tienen 42 minutos para solucionarlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228115030 +0100",
+            "stop_time": "20250228124147 +0100",
+            "title": "La naturaleza humana",
+            "description": "| +7 | Series |\n\nUn maestro de escuela llamado John Smith tiene extraños sueños de aventuras en el tiempo y el espacio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228124148 +0100",
+            "stop_time": "20250228133101 +0100",
+            "title": "La familia de la sangre",
+            "description": "| +7 | Series |\n\nEs 1913 y la guerra llega pronto a Inglaterra, mientras la terrorífica Familia caza para el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133102 +0100",
+            "stop_time": "20250228142058 +0100",
+            "title": "Parpadear",
+            "description": "| +7 | Series |\n\nSólo el Doctor puede detener a los Ángeles Llorones, pero está perdido en el tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228142059 +0100",
+            "stop_time": "20250228151310 +0100",
+            "title": "utopía",
+            "description": "| +7 | Series |\n\nEl capitán Harkness vuelve a irrumpir en la vida del Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228151311 +0100",
+            "stop_time": "20250228160540 +0100",
+            "title": "El sonido de los tambores",
+            "description": "| +7 | Series |\n\nHarry Saxon se convierte en Primer Ministro. Pero sus oscuras ambiciones llegan más allá de las estrellas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160541 +0100",
+            "stop_time": "20250228165815 +0100",
+            "title": "Últimos señores del tiempo",
+            "description": "| +7 | Series |\n\nHan conquistado la Tierra y el Maestro la controla. ¿Podrá Martha Jones salvar a la raza humana?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228165816 +0100",
+            "stop_time": "20250228175315 +0100",
+            "title": "Cómplices",
+            "description": "| +7 | Series |\n\n¿Podrá Donna encontrar a su Señor del Tiempo antes de que se intensifique la amenaza alienígena?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228175316 +0100",
+            "stop_time": "20250228184747 +0100",
+            "title": "Los fuegos de Pompeya",
+            "description": "| +7 | Series |\n\nEs el día del Volcán en Pompeya… ¿Permitirá Donna que el Doctor cambie la historia?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228184748 +0100",
+            "stop_time": "20250228193741 +0100",
+            "title": "Planeta del Ood",
+            "description": "| +7 | Series |\n\nUn Ood moribundo lleva al Doctor y a Donna a descubrir una terrible verdad sobre la raza humana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193742 +0100",
+            "stop_time": "20250228202828 +0100",
+            "title": "La estratagema Sontaran",
+            "description": "| +7 | Series |\n\nMartha Jones cita al Doctor de nuevo a la UNIDAD y a la tierra de días modernos, pero un viejo enemigo espera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228202829 +0100",
+            "stop_time": "20250228211924 +0100",
+            "title": "El cielo venenoso",
+            "description": "| +7 | Series |\n\nCuando los Sontarans asfixian la tierra, el Doctor y la UNIDAD luchan para mantener vivos a Martha y Donna.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228211925 +0100",
+            "stop_time": "20250228221051 +0100",
+            "title": "La hija del doctor",
+            "description": "| +7 | Series |\n\nEl Doctor conoce a la mujer más importante de su vida en el lejano planeta Messaline.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221052 +0100",
+            "stop_time": "20250228230151 +0100",
+            "title": "El unicornio y la avispa",
+            "description": "| +7 | Series |\n\nEn 1926, Agatha Christie desaparece durante diez días. ¿Es culpa de una gigante avispa extraterrestre?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230152 +0100",
+            "stop_time": "20250228235421 +0100",
+            "title": "El sonido de los tambores",
+            "description": "| +7 | Series |\n\nHarry Saxon se convierte en Primer Ministro. Pero sus oscuras ambiciones llegan más allá de las estrellas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228235422 +0100",
+            "stop_time": "20250301004657 +0100",
+            "title": "Últimos señores del tiempo",
+            "description": "| +7 | Series |\n\nHan conquistado la Tierra y el Maestro la controla. ¿Podrá Martha Jones salvar a la raza humana?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301004658 +0100",
+            "stop_time": "20250301014156 +0100",
+            "title": "Cómplices",
+            "description": "| +7 | Series |\n\n¿Podrá Donna encontrar a su Señor del Tiempo antes de que se intensifique la amenaza alienígena?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301014157 +0100",
+            "stop_time": "20250301023628 +0100",
+            "title": "Los fuegos de Pompeya",
+            "description": "| +7 | Series |\n\nEs el día del Volcán en Pompeya… ¿Permitirá Donna que el Doctor cambie la historia?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023629 +0100",
+            "stop_time": "20250301032622 +0100",
+            "title": "Planeta del Ood",
+            "description": "| +7 | Series |\n\nUn Ood moribundo lleva al Doctor y a Donna a descubrir una terrible verdad sobre la raza humana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301032623 +0100",
+            "stop_time": "20250301041709 +0100",
+            "title": "La estratagema Sontaran",
+            "description": "| +7 | Series |\n\nMartha Jones cita al Doctor de nuevo a la UNIDAD y a la tierra de días modernos, pero un viejo enemigo espera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301041710 +0100",
+            "stop_time": "20250301050805 +0100",
+            "title": "El cielo venenoso",
+            "description": "| +7 | Series |\n\nCuando los Sontarans asfixian la tierra, el Doctor y la UNIDAD luchan para mantener vivos a Martha y Donna.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050806 +0100",
+            "stop_time": "20250301060000 +0100",
+            "title": "La hija del doctor",
+            "description": "| +7 | Series |\n\nEl Doctor conoce a la mujer más importante de su vida en el lejano planeta Messaline.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060001 +0100",
+            "stop_time": "20250301065212 +0100",
+            "title": "La edad del acero",
+            "description": "| +7 | Series |\n\nLos Cybermen toman el control, el Doctor y sus compañeros quedan reducidos a fugitivos en un mundo de terror. Un último ataque desesperado a la Cyberfactory es su única posibilidad. ¿Pero sobrevivirán?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301065213 +0100",
+            "stop_time": "20250301074254 +0100",
+            "title": "Rosa",
+            "description": "| +7 | Series |\n\nCuando Rose Tyler conoce a un misterioso extraño llamado Doctor, su vida nunca volverá a ser la misma. Pronto, se da cuenta de que su madre, su novio y todo el planeta Tierra están en peligro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301074255 +0100",
+            "stop_time": "20250301083413 +0100",
+            "title": "El fin del mundo",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Rosa a su primer viaje en el tiempo, al año 5 mil millones y el final del planeta tierra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301083414 +0100",
+            "stop_time": "20250301092533 +0100",
+            "title": "Los muertos inquietos",
+            "description": "| +7 | Series |\n\nCharles Dickens y el Doctor se unen cuando los cadáveres acechan las calles de Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301092534 +0100",
+            "stop_time": "20250301101722 +0100",
+            "title": "Extranjeros de Londres",
+            "description": "| +7 | Series |\n\nLlevan a Rose a casa pero una nave espacial se esrella en el Thames y Londres está cerrada….¡Entre al Siltheen!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301101723 +0100",
+            "stop_time": "20250301110638 +0100",
+            "title": "La tercera guerra mundial",
+            "description": "| +7 | Series |\n\nEl tiempo se acaba para el Doctor mientras Downing Street anuncia la primera guerra interplanetaria de la humanidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110639 +0100",
+            "stop_time": "20250301115833 +0100",
+            "title": "Dalek",
+            "description": "| +7 | Series |\n\nEl Doctor está destrozado y la tierra está en peligro cuando él y Rose descubren al enemigo a muerte del Señor de los Tiempos bajo Utah.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301115834 +0100",
+            "stop_time": "20250301124932 +0100",
+            "title": "El juego largo",
+            "description": "| +7 | Series |\n\nEl Doctor investiga un extraño satélite y las habilidades de Adam como asistente se ponen a prueba. Simon Pegg como estrellla invitada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124933 +0100",
+            "stop_time": "20250301133908 +0100",
+            "title": "Dia del padre",
+            "description": "| +7 | Series |\n\nRose es testigo del día que murió su padre pero interferir lleva a consecuencias terribles…¡y criaturas siniestras!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133909 +0100",
+            "stop_time": "20250301142722 +0100",
+            "title": "El niño vacío",
+            "description": "| +7 | Series |\n\nLos niños huérfanos en tiempo de guerra en Londres están aterrorizados por un niño sobrenatural. Además, conocemos a cierto Capitán Jack…",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301142723 +0100",
+            "stop_time": "20250301151641 +0100",
+            "title": "El doctor baila",
+            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301151642 +0100",
+            "stop_time": "20250301160632 +0100",
+            "title": "Boom Town",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack descubren que un Slitheen está detrás del plan para construir un estación nuclear en Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160633 +0100",
+            "stop_time": "20250301165556 +0100",
+            "title": "Lobo malo",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack luchan por sus vidas a bordo del Game Station, pero la desgracia les golpea cuando los Daleks capturan a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301165557 +0100",
+            "stop_time": "20250301174809 +0100",
+            "title": "La despedida de los caminos",
+            "description": "| +7 | Series |\n\nRose Tyler ha visto peligros y maravillas junto al Doctor, pero ahora su amistad se pone a prueba cuando la Tierra se sumerge en una guerra épica. Con la masacre de la raza humana, el Doctor se ve obligado a emprender una acción terrible.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301174810 +0100",
+            "stop_time": "20250301183901 +0100",
+            "title": "Nueva tierra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose suben a bordo de la TARDIS para disfrutar nuevas aventuras en el tiempo y en el espacio. Cuando visitan el nuevo hogar de la humanidad, en un futuro lejano, descubren secretos importantes dentro de un lujoso hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183902 +0100",
+            "stop_time": "20250301193009 +0100",
+            "title": "Diente y garra",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose vuelven a 1879 donde un encuenro en las tierras altas escocesas con la Reina Victoria y la banda de Monjes guerreros revela una trampa mortal. ¿Pueden ser verdad las leyendas locales de un hombre lobo?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301193010 +0100",
+            "stop_time": "20250301202055 +0100",
+            "title": "Reunión de la escuela",
+            "description": "| +7 | Series |\n\nEl Doctor investiga una escuela embrujada por criaturas extrañas con aspecto de murciélago y se reúne con un viejo amigo. Mientras tanto, Rose descubre el verdadero legado de ser compañera del Señor del Tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301202056 +0100",
+            "stop_time": "20250301211212 +0100",
+            "title": "La chica de la chimenea",
+            "description": "| +7 | Series |\n\nMadame de Pompadour descubre la corte de Versalles atacada por asesinos de cuerda y siniestros. Su única esperanza de salvación pasa por el hombre que ha ocupado sus sueños desde la infancia, un extraño misterioso que solo se conoce como el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211213 +0100",
+            "stop_time": "20250301220451 +0100",
+            "title": "El ascenso de los ciberhombres",
+            "description": "| +7 | Series |\n\nLa TARDIS queda atrapada en una tierra paralela donde Rose descubre que su padre está vivo. Pero las fuerzas siniestras están trabajando y la Sociedad Británica se prepara para la última actualización.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220452 +0100",
+            "stop_time": "20250301225719 +0100",
+            "title": "La edad del acero",
+            "description": "| +7 | Series |\n\nLos Cybermen toman el control, el Doctor y sus compañeros quedan reducidos a fugitivos en un mundo de terror. Un último ataque desesperado a la Cyberfactory es su única posibilidad. ¿Pero sobrevivirán?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301225720 +0100",
+            "stop_time": "20250301234904 +0100",
+            "title": "La linterna del idiota",
+            "description": "| +7 | Series |\n\nEs 1953 y el pueblo británico se reúne frente a la televisión y la radio para ser testigo de la coronación de la reina. Lejos de las celebraciones, el atormentado Sr. Magpie esconde un extraño secreto extraterrestre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301234905 +0100",
+            "stop_time": "20250302004057 +0100",
+            "title": "El Planeta Imposible",
+            "description": "| +7 | Series |\n\nEl Doctor y Rose aterrizan en un «planeta imposible». La TARDIS se ha perdido. ¿Y quiénes son los Ood?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302004058 +0100",
+            "stop_time": "20250302013445 +0100",
+            "title": "El pozo de Satanás",
+            "description": "| +7 | Series |\n\nRose lucha con Ood. El Doctor ve amenazadas sus creencias. El planeta amenazado con caer en un agujero negro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302013446 +0100",
+            "stop_time": "20250302031702 +0100",
+            "title": "Amor y monstruos",
+            "description": "| +7 | Series |\n\nElton se obesiona con el Doctor y su caja azul. Investigan a Victor Kennedy, su pasatiempo es pesadilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302031703 +0100",
+            "stop_time": "20250302040656 +0100",
+            "title": "Ejército de fantasmas",
+            "description": "| +7 | Series |\n\nLa raza humana disfruta con los fantasmas familiares en casa. El Doctor investiga Torchwood.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040657 +0100",
+            "stop_time": "20250302050006 +0100",
+            "title": "Día del Juicio Final",
+            "description": "| +7 | Series |\n\nCuando la raza humana se ve atrapada en una guerra entre Daleks y Cybermen, el Doctor puede perder a Rose.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050007 +0100",
+            "stop_time": "20250302055052 +0100",
+            "title": "Smith y Jones",
+            "description": "| +7 | Series |\n\nMartha Jones conoce al Doctor y se ve transportada a la luna, su vida nunca volverá a ser la misma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302055053 +0100",
+            "stop_time": "20250302060000 +0100",
+            "title": "El código de Shakespeare",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Martha a la Inglaterra isabelina, donde William Shakespeare ha caído ante un hechizo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302060001 +0100",
+            "stop_time": "20250302064244 +0100",
+            "title": "El código de Shakespeare",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Martha a la Inglaterra isabelina, donde William Shakespeare ha caído ante un hechizo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302064245 +0100",
+            "stop_time": "20250302073402 +0100",
+            "title": "Gridlock",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Marha a la Nueva tierra, en un futuro lejano. Debe enfrentar el desafío del Motorway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302073403 +0100",
+            "stop_time": "20250302082714 +0100",
+            "title": "Daleks en Manhattan",
+            "description": "| +7 | Series |\n\nEs 1930 en Nueva York, la gente desaparece. Pig Men se esconde en las alcantarillas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302082715 +0100",
+            "stop_time": "20250302091958 +0100",
+            "title": "Evolución de los Daleks",
+            "description": "| +7 | Series |\n\nCuando el Dalek Empire nace en Nueva York en 1930, Martha lucha por su vida en el Empire State.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302091959 +0100",
+            "stop_time": "20250302100918 +0100",
+            "title": "El experimento de Lázaro",
+            "description": "| +7 | Series |\n\nMartha vuelve a casa pero tiene que proteger a su familia del profesor Lazarus y de su manipulación genética.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100919 +0100",
+            "stop_time": "20250302110101 +0100",
+            "title": "42",
+            "description": "| +7 | Series |\n\nEn una nave espacial que avanza hacia el sol ardiendo, el Doctor y Martha tienen 42 minutos para solucionarlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302110102 +0100",
+            "stop_time": "20250302115219 +0100",
+            "title": "La naturaleza humana",
+            "description": "| +7 | Series |\n\nUn maestro de escuela llamado John Smith tiene extraños sueños de aventuras en el tiempo y el espacio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302115220 +0100",
+            "stop_time": "20250302124133 +0100",
+            "title": "La familia de la sangre",
+            "description": "| +7 | Series |\n\nEs 1913 y la guerra llega pronto a Inglaterra, mientras la terrorífica Familia caza para el Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302124134 +0100",
+            "stop_time": "20250302133130 +0100",
+            "title": "Parpadear",
+            "description": "| +7 | Series |\n\nSólo el Doctor puede detener a los Ángeles Llorones, pero está perdido en el tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302133131 +0100",
+            "stop_time": "20250302142341 +0100",
+            "title": "utopía",
+            "description": "| +7 | Series |\n\nEl capitán Harkness vuelve a irrumpir en la vida del Doctor.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302142342 +0100",
+            "stop_time": "20250302151611 +0100",
+            "title": "El sonido de los tambores",
+            "description": "| +7 | Series |\n\nHarry Saxon se convierte en Primer Ministro. Pero sus oscuras ambiciones llegan más allá de las estrellas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302151612 +0100",
+            "stop_time": "20250302160857 +0100",
+            "title": "Últimos señores del tiempo",
+            "description": "| +7 | Series |\n\nHan conquistado la Tierra y el Maestro la controla. ¿Podrá Martha Jones salvar a la raza humana?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160858 +0100",
+            "stop_time": "20250302165940 +0100",
+            "title": "Rosa",
+            "description": "| +7 | Series |\n\nCuando Rose Tyler conoce a un misterioso extraño llamado Doctor, su vida nunca volverá a ser la misma. Pronto, se da cuenta de que su madre, su novio y todo el planeta Tierra están en peligro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302165941 +0100",
+            "stop_time": "20250302175059 +0100",
+            "title": "El fin del mundo",
+            "description": "| +7 | Series |\n\nEl Doctor lleva a Rosa a su primer viaje en el tiempo, al año 5 mil millones y el final del planeta tierra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302175100 +0100",
+            "stop_time": "20250302184219 +0100",
+            "title": "Los muertos inquietos",
+            "description": "| +7 | Series |\n\nCharles Dickens y el Doctor se unen cuando los cadáveres acechan las calles de Cardiff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302184220 +0100",
+            "stop_time": "20250302193408 +0100",
+            "title": "Extranjeros de Londres",
+            "description": "| +7 | Series |\n\nLlevan a Rose a casa pero una nave espacial se esrella en el Thames y Londres está cerrada….¡Entre al Siltheen!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302193409 +0100",
+            "stop_time": "20250302202324 +0100",
+            "title": "La tercera guerra mundial",
+            "description": "| +7 | Series |\n\nEl tiempo se acaba para el Doctor mientras Downing Street anuncia la primera guerra interplanetaria de la humanidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302202325 +0100",
+            "stop_time": "20250302211519 +0100",
+            "title": "Dalek",
+            "description": "| +7 | Series |\n\nEl Doctor está destrozado y la tierra está en peligro cuando él y Rose descubren al enemigo a muerte del Señor de los Tiempos bajo Utah.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302211520 +0100",
+            "stop_time": "20250302220617 +0100",
+            "title": "El juego largo",
+            "description": "| +7 | Series |\n\nEl Doctor investiga un extraño satélite y las habilidades de Adam como asistente se ponen a prueba. Simon Pegg como estrellla invitada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220618 +0100",
+            "stop_time": "20250302225553 +0100",
+            "title": "Dia del padre",
+            "description": "| +7 | Series |\n\nRose es testigo del día que murió su padre pero interferir lleva a consecuencias terribles…¡y criaturas siniestras!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302225554 +0100",
+            "stop_time": "20250302234408 +0100",
+            "title": "El niño vacío",
+            "description": "| +7 | Series |\n\nLos niños huérfanos en tiempo de guerra en Londres están aterrorizados por un niño sobrenatural. Además, conocemos a cierto Capitán Jack…",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302234409 +0100",
+            "stop_time": "20250303003326 +0100",
+            "title": "El doctor baila",
+            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303003327 +0100",
+            "stop_time": "20250303012317 +0100",
+            "title": "Boom Town",
+            "description": "| +7 | Series |\n\nEl Doctor, Rose y el capitán Jack descubren que un Slitheen está detrás del plan para construir un estación nuclear en Cardiff.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/doctorwho-bbc-doctor-who-es.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

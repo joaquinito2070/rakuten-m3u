@@ -4,10 +4,10 @@
     "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg",
     "group_title": "Estilo de vida",
     "original_master_url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1278&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=3498eb7e-2ac3-46f7-a51d-be65b3228730&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/fashion-tv/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/3e1272d3-a459-4c7f-a2eb-d8bf06ac83ac/0.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "2340800",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/3e1272d3-a459-4c7f-a2eb-d8bf06ac83ac/1.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "4760800",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/3e1272d3-a459-4c7f-a2eb-d8bf06ac83ac/2.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "3511200",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/3e1272d3-a459-4c7f-a2eb-d8bf06ac83ac/3.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "1311200",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/3e1272d3-a459-4c7f-a2eb-d8bf06ac83ac/4.m3u8",
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/a0abfd55-13b2-4d41-aae7-7de4e579035b/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d4029",
                 "AVERAGE-BANDWIDTH": "761200",
@@ -57,6 +57,239 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/fashiontv-fashion-tv.json"
+    "epg": [
+        {
+            "start_time": "20250224130005 +0100",
+            "stop_time": "20250224165958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170005 +0100",
+            "stop_time": "20250224205958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210005 +0100",
+            "stop_time": "20250225005958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010006 +0100",
+            "stop_time": "20250225045959 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050005 +0100",
+            "stop_time": "20250225085958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090005 +0100",
+            "stop_time": "20250225125958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130005 +0100",
+            "stop_time": "20250225165958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170005 +0100",
+            "stop_time": "20250225205958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210005 +0100",
+            "stop_time": "20250226005958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010006 +0100",
+            "stop_time": "20250226045959 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050005 +0100",
+            "stop_time": "20250226085958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090005 +0100",
+            "stop_time": "20250226125958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130005 +0100",
+            "stop_time": "20250226165958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170005 +0100",
+            "stop_time": "20250226205958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210005 +0100",
+            "stop_time": "20250227005958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010006 +0100",
+            "stop_time": "20250227045959 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050005 +0100",
+            "stop_time": "20250227085958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090005 +0100",
+            "stop_time": "20250227125958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130005 +0100",
+            "stop_time": "20250227165958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170005 +0100",
+            "stop_time": "20250227205958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210005 +0100",
+            "stop_time": "20250228005958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010006 +0100",
+            "stop_time": "20250228045959 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050005 +0100",
+            "stop_time": "20250228085958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090005 +0100",
+            "stop_time": "20250228125958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130005 +0100",
+            "stop_time": "20250228165958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170005 +0100",
+            "stop_time": "20250228205958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210005 +0100",
+            "stop_time": "20250301005958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010006 +0100",
+            "stop_time": "20250301045959 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050005 +0100",
+            "stop_time": "20250301085958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090005 +0100",
+            "stop_time": "20250301125958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130005 +0100",
+            "stop_time": "20250301165958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170005 +0100",
+            "stop_time": "20250301205958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210005 +0100",
+            "stop_time": "20250302005958 +0100",
+            "title": "FashionTV Global",
+            "description": "| +7 | Estilo de vida |\n\nFashionTV L'Original",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/fashiontv-fashion-tv.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

@@ -1,0 +1,1742 @@
+{
+    "name": "CGTN",
+    "tvg_id": "cgtn",
+    "epg": [
+        {
+            "start_time": "20250224153001 +0100",
+            "stop_time": "20250224160000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160001 +0100",
+            "stop_time": "20250224163000 +0100",
+            "title": "Razor",
+            "description": "| +7 | Asian |\n\nCGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already \"living in the future\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224163001 +0100",
+            "stop_time": "20250224170000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170001 +0100",
+            "stop_time": "20250224173000 +0100",
+            "title": "Faces of Africa",
+            "description": "| +7 | Asian |\n\nFaces of Africa is a topical magazine that showcases the diversity of the continent.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173001 +0100",
+            "stop_time": "20250224210000 +0100",
+            "title": "Razor",
+            "description": "| +7 | Asian |\n\nCGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already \"living in the future\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210001 +0100",
+            "stop_time": "20250224213000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213001 +0100",
+            "stop_time": "20250224220000 +0100",
+            "title": "Inheritors",
+            "description": "| +7 | Asian |\n\nInheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220001 +0100",
+            "stop_time": "20250224223000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223001 +0100",
+            "stop_time": "20250224230000 +0100",
+            "title": "Travelogue",
+            "description": "| +7 | Asian |\n\nTravelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230001 +0100",
+            "stop_time": "20250224233000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224233001 +0100",
+            "stop_time": "20250225000000 +0100",
+            "title": "Assignment Asia",
+            "description": "| +7 | Asian |\n\nAssignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000001 +0100",
+            "stop_time": "20250225010000 +0100",
+            "title": "Americas Now",
+            "description": "| +7 | Asian |\n\nAmericas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010001 +0100",
+            "stop_time": "20250225013000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013001 +0100",
+            "stop_time": "20250225020000 +0100",
+            "title": "Faces of Africa",
+            "description": "| +7 | Asian |\n\nFaces of Africa is a topical magazine that showcases the diversity of the continent.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020001 +0100",
+            "stop_time": "20250225023000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225023001 +0100",
+            "stop_time": "20250225030000 +0100",
+            "title": "Inheritors",
+            "description": "| +7 | Asian |\n\nInheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030001 +0100",
+            "stop_time": "20250225033000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033001 +0100",
+            "stop_time": "20250225040000 +0100",
+            "title": "Razor",
+            "description": "| +7 | Asian |\n\nCGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already \"living in the future\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040001 +0100",
+            "stop_time": "20250225043000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043001 +0100",
+            "stop_time": "20250225050000 +0100",
+            "title": "Travelogue",
+            "description": "| +7 | Asian |\n\nTravelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050001 +0100",
+            "stop_time": "20250225051500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225051501 +0100",
+            "stop_time": "20250225053000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225053001 +0100",
+            "stop_time": "20250225060000 +0100",
+            "title": "The Point with Liu Xin",
+            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060001 +0100",
+            "stop_time": "20250225070000 +0100",
+            "title": "Global Watch",
+            "description": "| +7 | Asian |\n\nGLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070001 +0100",
+            "stop_time": "20250225071500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225071501 +0100",
+            "stop_time": "20250225073000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225073001 +0100",
+            "stop_time": "20250225080000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080001 +0100",
+            "stop_time": "20250225083000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083001 +0100",
+            "stop_time": "20250225090000 +0100",
+            "title": "Razor",
+            "description": "| +7 | Asian |\n\nCGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already \"living in the future\"!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090001 +0100",
+            "stop_time": "20250225093000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093001 +0100",
+            "stop_time": "20250225100000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100001 +0100",
+            "stop_time": "20250225101500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225101501 +0100",
+            "stop_time": "20250225103000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225103001 +0100",
+            "stop_time": "20250225110000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110001 +0100",
+            "stop_time": "20250225113000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225113001 +0100",
+            "stop_time": "20250225114500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225114501 +0100",
+            "stop_time": "20250225123000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225123001 +0100",
+            "stop_time": "20250225130000 +0100",
+            "title": "Asia Today",
+            "description": "| +7 | Asian |\n\nAsia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130001 +0100",
+            "stop_time": "20250225133000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225133001 +0100",
+            "stop_time": "20250225134500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225134501 +0100",
+            "stop_time": "20250225143000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225143001 +0100",
+            "stop_time": "20250225150000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150001 +0100",
+            "stop_time": "20250225153000 +0100",
+            "title": "The Point with Liu Xin",
+            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225153001 +0100",
+            "stop_time": "20250225160000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160001 +0100",
+            "stop_time": "20250225163000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225163001 +0100",
+            "stop_time": "20250225170000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170001 +0100",
+            "stop_time": "20250225173000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225173001 +0100",
+            "stop_time": "20250225180000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180001 +0100",
+            "stop_time": "20250225183000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225183001 +0100",
+            "stop_time": "20250225210000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210001 +0100",
+            "stop_time": "20250225213000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225213001 +0100",
+            "stop_time": "20250225220000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220001 +0100",
+            "stop_time": "20250225223000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223001 +0100",
+            "stop_time": "20250225230000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230001 +0100",
+            "stop_time": "20250225233000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233001 +0100",
+            "stop_time": "20250226000000 +0100",
+            "title": "The Point with Liu Xin",
+            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000001 +0100",
+            "stop_time": "20250226003000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226003001 +0100",
+            "stop_time": "20250226010000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010001 +0100",
+            "stop_time": "20250226013000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226013001 +0100",
+            "stop_time": "20250226020000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020001 +0100",
+            "stop_time": "20250226023000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226023001 +0100",
+            "stop_time": "20250226030000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030001 +0100",
+            "stop_time": "20250226033000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033001 +0100",
+            "stop_time": "20250226040000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040001 +0100",
+            "stop_time": "20250226043000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043001 +0100",
+            "stop_time": "20250226044500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226044501 +0100",
+            "stop_time": "20250226050000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050001 +0100",
+            "stop_time": "20250226053000 +0100",
+            "title": "The Hub With Wang Guan",
+            "description": "| +7 | Asian |\n\nThe Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226053001 +0100",
+            "stop_time": "20250226063000 +0100",
+            "title": "Global Watch",
+            "description": "| +7 | Asian |\n\nGLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226063001 +0100",
+            "stop_time": "20250226064500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226064501 +0100",
+            "stop_time": "20250226070000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070001 +0100",
+            "stop_time": "20250226073000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073001 +0100",
+            "stop_time": "20250226080000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080001 +0100",
+            "stop_time": "20250226083000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226083001 +0100",
+            "stop_time": "20250226090000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090001 +0100",
+            "stop_time": "20250226093000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226093001 +0100",
+            "stop_time": "20250226094500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226094501 +0100",
+            "stop_time": "20250226100000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100001 +0100",
+            "stop_time": "20250226103000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226103001 +0100",
+            "stop_time": "20250226110000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110001 +0100",
+            "stop_time": "20250226111500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226111501 +0100",
+            "stop_time": "20250226120000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120001 +0100",
+            "stop_time": "20250226123000 +0100",
+            "title": "Asia Today",
+            "description": "| +7 | Asian |\n\nAsia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123001 +0100",
+            "stop_time": "20250226130000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130001 +0100",
+            "stop_time": "20250226131500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226131501 +0100",
+            "stop_time": "20250226140000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140001 +0100",
+            "stop_time": "20250226143000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143001 +0100",
+            "stop_time": "20250226150000 +0100",
+            "title": "The Hub With Wang Guan",
+            "description": "| +7 | Asian |\n\nThe Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150001 +0100",
+            "stop_time": "20250226153000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153001 +0100",
+            "stop_time": "20250226160000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160001 +0100",
+            "stop_time": "20250226163000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226163001 +0100",
+            "stop_time": "20250226170000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170001 +0100",
+            "stop_time": "20250226173000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226173001 +0100",
+            "stop_time": "20250226180000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180001 +0100",
+            "stop_time": "20250226210000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210001 +0100",
+            "stop_time": "20250226213000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213001 +0100",
+            "stop_time": "20250226220000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220001 +0100",
+            "stop_time": "20250226223000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226223001 +0100",
+            "stop_time": "20250226230000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230001 +0100",
+            "stop_time": "20250226233000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233001 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "The Hub With Wang Guan",
+            "description": "| +7 | Asian |\n\nThe Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000001 +0100",
+            "stop_time": "20250227003000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227003001 +0100",
+            "stop_time": "20250227010000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010001 +0100",
+            "stop_time": "20250227013000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013001 +0100",
+            "stop_time": "20250227020000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020001 +0100",
+            "stop_time": "20250227023000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227023001 +0100",
+            "stop_time": "20250227030000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030001 +0100",
+            "stop_time": "20250227033000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227033001 +0100",
+            "stop_time": "20250227040000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040001 +0100",
+            "stop_time": "20250227043000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043001 +0100",
+            "stop_time": "20250227044500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227044501 +0100",
+            "stop_time": "20250227050000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050001 +0100",
+            "stop_time": "20250227053000 +0100",
+            "title": "The Point with Liu Xin",
+            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053001 +0100",
+            "stop_time": "20250227063000 +0100",
+            "title": "Global Watch",
+            "description": "| +7 | Asian |\n\nGLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227063001 +0100",
+            "stop_time": "20250227064500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227064501 +0100",
+            "stop_time": "20250227070000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070001 +0100",
+            "stop_time": "20250227073000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073001 +0100",
+            "stop_time": "20250227080000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080001 +0100",
+            "stop_time": "20250227083000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083001 +0100",
+            "stop_time": "20250227090000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090001 +0100",
+            "stop_time": "20250227093000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093001 +0100",
+            "stop_time": "20250227094500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227094501 +0100",
+            "stop_time": "20250227100000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100001 +0100",
+            "stop_time": "20250227103000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103001 +0100",
+            "stop_time": "20250227110000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110001 +0100",
+            "stop_time": "20250227111500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227111501 +0100",
+            "stop_time": "20250227120000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120001 +0100",
+            "stop_time": "20250227123000 +0100",
+            "title": "Asia Today",
+            "description": "| +7 | Asian |\n\nAsia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123001 +0100",
+            "stop_time": "20250227130000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130001 +0100",
+            "stop_time": "20250227131500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227131501 +0100",
+            "stop_time": "20250227140000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140001 +0100",
+            "stop_time": "20250227143000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143001 +0100",
+            "stop_time": "20250227150000 +0100",
+            "title": "The Point with Liu Xin",
+            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150001 +0100",
+            "stop_time": "20250227153000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153001 +0100",
+            "stop_time": "20250227160000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227163000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163001 +0100",
+            "stop_time": "20250227170000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170001 +0100",
+            "stop_time": "20250227173000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173001 +0100",
+            "stop_time": "20250227180000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180001 +0100",
+            "stop_time": "20250227210000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210001 +0100",
+            "stop_time": "20250227213000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213001 +0100",
+            "stop_time": "20250227220000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220001 +0100",
+            "stop_time": "20250227223000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223001 +0100",
+            "stop_time": "20250227230000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230001 +0100",
+            "stop_time": "20250227233000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233001 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "The Point with Liu Xin",
+            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228003000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003001 +0100",
+            "stop_time": "20250228010000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010001 +0100",
+            "stop_time": "20250228013000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013001 +0100",
+            "stop_time": "20250228020000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020001 +0100",
+            "stop_time": "20250228023000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023001 +0100",
+            "stop_time": "20250228030000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030001 +0100",
+            "stop_time": "20250228033000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228033001 +0100",
+            "stop_time": "20250228040000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228043000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228043001 +0100",
+            "stop_time": "20250228044500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228044501 +0100",
+            "stop_time": "20250228050000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050001 +0100",
+            "stop_time": "20250228053000 +0100",
+            "title": "The Hub With Wang Guan",
+            "description": "| +7 | Asian |\n\nThe Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053001 +0100",
+            "stop_time": "20250228063000 +0100",
+            "title": "Global Watch",
+            "description": "| +7 | Asian |\n\nGLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063001 +0100",
+            "stop_time": "20250228064500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228064501 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228073000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073001 +0100",
+            "stop_time": "20250228080000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080001 +0100",
+            "stop_time": "20250228083000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083001 +0100",
+            "stop_time": "20250228090000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090001 +0100",
+            "stop_time": "20250228093000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093001 +0100",
+            "stop_time": "20250228094500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228094501 +0100",
+            "stop_time": "20250228100000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100001 +0100",
+            "stop_time": "20250228103000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228103001 +0100",
+            "stop_time": "20250228110000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110001 +0100",
+            "stop_time": "20250228111500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228111501 +0100",
+            "stop_time": "20250228120000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120001 +0100",
+            "stop_time": "20250228123000 +0100",
+            "title": "Asia Today",
+            "description": "| +7 | Asian |\n\nAsia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123001 +0100",
+            "stop_time": "20250228130000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130001 +0100",
+            "stop_time": "20250228131500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228131501 +0100",
+            "stop_time": "20250228140000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140001 +0100",
+            "stop_time": "20250228143000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228143001 +0100",
+            "stop_time": "20250228150000 +0100",
+            "title": "The Hub With Wang Guan",
+            "description": "| +7 | Asian |\n\nThe Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150001 +0100",
+            "stop_time": "20250228153000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153001 +0100",
+            "stop_time": "20250228160000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160001 +0100",
+            "stop_time": "20250228163000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163001 +0100",
+            "stop_time": "20250228170000 +0100",
+            "title": "The Vibe",
+            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170001 +0100",
+            "stop_time": "20250228173000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173001 +0100",
+            "stop_time": "20250228180000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180001 +0100",
+            "stop_time": "20250228210000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210001 +0100",
+            "stop_time": "20250228213000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213001 +0100",
+            "stop_time": "20250228220000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220001 +0100",
+            "stop_time": "20250228223000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223001 +0100",
+            "stop_time": "20250228230000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230001 +0100",
+            "stop_time": "20250228233000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233001 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "The Hub With Wang Guan",
+            "description": "| +7 | Asian |\n\nThe Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301003000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003001 +0100",
+            "stop_time": "20250301010000 +0100",
+            "title": "Rediscovering China",
+            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010001 +0100",
+            "stop_time": "20250301013000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301013001 +0100",
+            "stop_time": "20250301020000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020001 +0100",
+            "stop_time": "20250301073000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073001 +0100",
+            "stop_time": "20250301213000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301213001 +0100",
+            "stop_time": "20250301220000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220001 +0100",
+            "stop_time": "20250301223000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223001 +0100",
+            "stop_time": "20250301230000 +0100",
+            "title": "Dialogue",
+            "description": "| +7 | Asian |\n\nIt is a prime time daily English talk show on CGTN.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230001 +0100",
+            "stop_time": "20250301233000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233001 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "The Point with Liu Xin",
+            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302010000 +0100",
+            "title": "Americas Now",
+            "description": "| +7 | Asian |\n\nAmericas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302010001 +0100",
+            "stop_time": "20250302013000 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302013001 +0100",
+            "stop_time": "20250302020000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020001 +0100",
+            "stop_time": "20250302023000 +0100",
+            "title": "Global Business",
+            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302023001 +0100",
+            "stop_time": "20250302030000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030001 +0100",
+            "stop_time": "20250302033000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302033001 +0100",
+            "stop_time": "20250302040000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302043000 +0100",
+            "title": "World Insight with Tian Wei",
+            "description": "| +7 | Asian |\n\nWorld Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302043001 +0100",
+            "stop_time": "20250302044500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302044501 +0100",
+            "stop_time": "20250302050000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050001 +0100",
+            "stop_time": "20250302053000 +0100",
+            "title": "Travelogue",
+            "description": "| +7 | Asian |\n\nTravelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302053001 +0100",
+            "stop_time": "20250302063000 +0100",
+            "title": "Global Watch",
+            "description": "| +7 | Asian |\n\nGLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302063001 +0100",
+            "stop_time": "20250302064500 +0100",
+            "title": "Big Story",
+            "description": "| +7 | Asian |\n\nBig Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302064501 +0100",
+            "stop_time": "20250302071500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302071501 +0100",
+            "stop_time": "20250302074500 +0100",
+            "title": "The Heat",
+            "description": "| +7 | Asian |\n\nThe Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302074501 +0100",
+            "stop_time": "20250302081500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302081501 +0100",
+            "stop_time": "20250302084500 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302084501 +0100",
+            "stop_time": "20250302090000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090001 +0100",
+            "stop_time": "20250302093000 +0100",
+            "title": "Biz Talk",
+            "description": "| +7 | Asian |\n\nA groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what’s happening in every facet of business.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302093001 +0100",
+            "stop_time": "20250302100000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100001 +0100",
+            "stop_time": "20250302103000 +0100",
+            "title": "Inheritors",
+            "description": "| +7 | Asian |\n\nInheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302103001 +0100",
+            "stop_time": "20250302104500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302104501 +0100",
+            "stop_time": "20250302113000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302113001 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "Asia Today",
+            "description": "| +7 | Asian |\n\nAsia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302123000 +0100",
+            "title": "Leaders Talk",
+            "description": "| +7 | Asian |\n\nLeaders Talk is China Media Group’s new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations. They will share their insights on the major events shaping today’s world, providing an international viewpoint to understand our times, the visions we share, the challenges we face and the efforts we can make for a better future.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302123001 +0100",
+            "stop_time": "20250302124500 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302124501 +0100",
+            "stop_time": "20250302133000 +0100",
+            "title": "China 24",
+            "description": "| +7 | Asian |\n\nChina 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302133001 +0100",
+            "stop_time": "20250302140000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302140001 +0100",
+            "stop_time": "20250302143000 +0100",
+            "title": "Biz Talk",
+            "description": "| +7 | Asian |\n\nA groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what’s happening in every facet of business.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302143001 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302153000 +0100",
+            "title": "Assignment Asia",
+            "description": "| +7 | Asian |\n\nAssignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302153001 +0100",
+            "stop_time": "20250302160000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302163000 +0100",
+            "title": "Inheritors",
+            "description": "| +7 | Asian |\n\nInheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302163001 +0100",
+            "stop_time": "20250302170000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170001 +0100",
+            "stop_time": "20250302173000 +0100",
+            "title": "The Agenda",
+            "description": "| +7 | Asian |\n\nA weekly talk-show looking beyond the headlines and “accepted wisdom” to find the real story. Hosted by award-winning journalist and presenter Stephen Cole, The Agenda  quite simply sets The Agenda . You won’t find the same-old talking heads recycling platitudes; instead thought-provoking guests to debate and explore key issues of today’s world. Using virtual reality graphics to bring subjects to life, Stephen will navigate through subjects ranging from “Prove That Climate Change Exists”  to “Who Will Win the Race to Space”. Opposing views will be given opportunity to flourish and develop into a meaningful conversation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302173001 +0100",
+            "stop_time": "20250302180000 +0100",
+            "title": "Africa Live",
+            "description": "| +7 | Asian |\n\nAfrica Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180001 +0100",
+            "stop_time": "20250302183000 +0100",
+            "title": "Talk Africa",
+            "description": "| +7 | Asian |\n\nTalk Africa is a weekly discussion show that brings the most influential voices in Africa to the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302183001 +0100",
+            "stop_time": "20250302203000 +0100",
+            "title": "Sports Scene",
+            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302203001 +0100",
+            "stop_time": "20250302210000 +0100",
+            "title": "Biz Talk",
+            "description": "| +7 | Asian |\n\nA groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what’s happening in every facet of business.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210001 +0100",
+            "stop_time": "20250302213000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302213001 +0100",
+            "stop_time": "20250302220000 +0100",
+            "title": "Travelogue",
+            "description": "| +7 | Asian |\n\nTravelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220001 +0100",
+            "stop_time": "20250302223000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302223001 +0100",
+            "stop_time": "20250302230000 +0100",
+            "title": "The Agenda",
+            "description": "| +7 | Asian |\n\nA weekly talk-show looking beyond the headlines and “accepted wisdom” to find the real story. Hosted by award-winning journalist and presenter Stephen Cole, The Agenda  quite simply sets The Agenda . You won’t find the same-old talking heads recycling platitudes; instead thought-provoking guests to debate and explore key issues of today’s world. Using virtual reality graphics to bring subjects to life, Stephen will navigate through subjects ranging from “Prove That Climate Change Exists”  to “Who Will Win the Race to Space”. Opposing views will be given opportunity to flourish and develop into a meaningful conversation.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302230001 +0100",
+            "stop_time": "20250302233000 +0100",
+            "title": "The World Today",
+            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302233001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "Leaders Talk",
+            "description": "| +7 | Asian |\n\nLeaders Talk is China Media Group’s new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations. They will share their insights on the major events shaping today’s world, providing an international viewpoint to understand our times, the visions we share, the challenges we face and the efforts we can make for a better future.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303010000 +0100",
+            "title": "Full Frame",
+            "description": "| +7 | Asian |\n\nFull Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.",
+            "icon": ""
+        }
+    ]
+}

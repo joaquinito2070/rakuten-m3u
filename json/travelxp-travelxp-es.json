@@ -4,10 +4,10 @@
     "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg",
     "group_title": "Estilo de vida",
     "original_master_url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5756&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=b52383e4-6b31-4cb0-b723-c0132f7fc914&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1613",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/travelxp-es/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/a4ee0a5c-b0a2-4720-bd02-83d39fc9aa08/0.m3u8",
+            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/80a579c6-b00f-40c0-908f-7237a0964367/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/a4ee0a5c-b0a2-4720-bd02-83d39fc9aa08/1.m3u8",
+            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/80a579c6-b00f-40c0-908f-7237a0964367/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/a4ee0a5c-b0a2-4720-bd02-83d39fc9aa08/2.m3u8",
+            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/80a579c6-b00f-40c0-908f-7237a0964367/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
@@ -34,6 +34,1807 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/travelxp-travelxp-es.json"
+    "epg": [
+        {
+            "start_time": "20250224153443 +0100",
+            "stop_time": "20250224160437 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nCada ciudad del mundo tiene su propia personalidad. Nuestros anfitriones encuentran como disfrutar al máximo cada uno de ellos durante su corta visita.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160443 +0100",
+            "stop_time": "20250224163437 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nCada ciudad del mundo tiene su propia personalidad. Nuestros anfitriones encuentran como disfrutar al máximo cada uno de ellos durante su corta visita.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224163443 +0100",
+            "stop_time": "20250224170437 +0100",
+            "title": "10 Days Cyprus",
+            "description": "| +7 | Estilo de vida |\n\nNicosia, la capital de la República de Chipre es también su corazón cultural. Sabrina se da cuenta de esto y se propone desentrañar las historias de la ciudad más grande de Chipre mientras disfruta de un baño en un hammam, que antes era una iglesia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170444 +0100",
+            "stop_time": "20250224173438 +0100",
+            "title": "Bucket List",
+            "description": "| +7 | Estilo de vida |\n\nDaniel Coll y Paddy Doherty disfrutan de caminatas a cascadas, pesca y una serena puesta de sol en la playa de Itoshima, un lugar en Kyushu que calma el alma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173445 +0100",
+            "stop_time": "20250224180439 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nÚnase a nuestro anfitrión mientras comienza su viaje de mochilero por Portugal, comenzando desde Lisboa. Explorando monumentos importantes desde la torre de Belem hasta Portas Do Sol.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180446 +0100",
+            "stop_time": "20250224183440 +0100",
+            "title": "Bucket List",
+            "description": "| +7 | Estilo de vida |\n\nDaniel Coll y Paddy Doherty descubren algunos de los mejores lugares de Kyushu para probar licores fuertes locales y bonito, un manjar de marisco local.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224183446 +0100",
+            "stop_time": "20250224190440 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nMachen Sie eine Pause von Ihrer alltäglichen Routine und entdecken Sie, was verschiedene Städte mit City Breaks zu bieten haben.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190447 +0100",
+            "stop_time": "20250224193441 +0100",
+            "title": "Unwind",
+            "description": "| +7 | Estilo de vida |\n\nIndeya explora las plantaciones de canela, prueba un plato local y presencia un espectáculo de danza tradicional.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224193447 +0100",
+            "stop_time": "20250224200441 +0100",
+            "title": "World Heritage",
+            "description": "| +7 | Estilo de vida |\n\nOrte, die als Erbstücke gelten und die wir als nächstes weitergeben werden. Von der UNESCO als Weltkulturerbe gestempelt.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200448 +0100",
+            "stop_time": "20250224203442 +0100",
+            "title": "Bucket List",
+            "description": "| +7 | Estilo de vida |\n\nDaniel Coll y Paddy Doherty descubren algunos de los mejores lugares de Kyushu para probar licores fuertes locales y bonito, un manjar de marisco local.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224203449 +0100",
+            "stop_time": "20250224210443 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nMachen Sie eine Pause von Ihrer alltäglichen Routine und entdecken Sie, was verschiedene Städte mit City Breaks zu bieten haben.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210449 +0100",
+            "stop_time": "20250224213443 +0100",
+            "title": "Unwind",
+            "description": "| +7 | Estilo de vida |\n\nIndeya explora las plantaciones de canela, prueba un plato local y presencia un espectáculo de danza tradicional.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213450 +0100",
+            "stop_time": "20250224220444 +0100",
+            "title": "World Heritage",
+            "description": "| +7 | Estilo de vida |\n\nOrte, die als Erbstücke gelten und die wir als nächstes weitergeben werden. Von der UNESCO als Weltkulturerbe gestempelt.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220450 +0100",
+            "stop_time": "20250224223444 +0100",
+            "title": "Bucket List",
+            "description": "| +7 | Estilo de vida |\n\nDaniel Coll y Paddy Doherty descubren algunos de los mejores lugares de Kyushu para probar licores fuertes locales y bonito, un manjar de marisco local.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223451 +0100",
+            "stop_time": "20250224230445 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nMachen Sie eine Pause von Ihrer alltäglichen Routine und entdecken Sie, was verschiedene Städte mit City Breaks zu bieten haben.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230452 +0100",
+            "stop_time": "20250224233446 +0100",
+            "title": "Unwind",
+            "description": "| +7 | Estilo de vida |\n\nIndeya explora las plantaciones de canela, prueba un plato local y presencia un espectáculo de danza tradicional.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224233452 +0100",
+            "stop_time": "20250225000446 +0100",
+            "title": "World Heritage",
+            "description": "| +7 | Estilo de vida |\n\nOrte, die als Erbstücke gelten und die wir als nächstes weitergeben werden. Von der UNESCO als Weltkulturerbe gestempelt.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000453 +0100",
+            "stop_time": "20250225003447 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225003453 +0100",
+            "stop_time": "20250225010447 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nBikaner es conocida por la mayoría de la gente como la ciudad de los bocadillos salados de fama mundial. Sin embargo, cuando Asmita va allí para un viaje relámpago, descubre que hay mucho más en la Ciudad Roja de Rajasthan de lo que parece. Desde las pinturas en miniatura que se pueden encontrar en las paredes de palacios y mansiones de toda la ciudad hasta la elaborada arquitectura de los antiguos havelis de comerciantes, descubre que Bikaner es un paraíso para los amantes del arte.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010454 +0100",
+            "stop_time": "20250225013448 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEl viaje de Charlie a través de México comienza en La Paz, un lugar tranquilo ubicado en el Mar de Cortés que a menudo se ve eclipsado por Cabo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013455 +0100",
+            "stop_time": "20250225020449 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nDesde la tierra del sagrado estadio Camp Nou hasta la capital catalana con increíbles mariscos, Barcelona es una ciudad con muchos matices.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020455 +0100",
+            "stop_time": "20250225023449 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225023456 +0100",
+            "stop_time": "20250225030450 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nFrieshia siente la magia de Mauricio a través de la combinación única de modernidad y tradición que ofrece el resort de lujo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030456 +0100",
+            "stop_time": "20250225033450 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nMientras recorre la escena artística de Madrid y disfruta de la animación de un mercado local, Alex se siente envuelto por la energía de esta joven ciudad europea.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033457 +0100",
+            "stop_time": "20250225040451 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nDesde lagunas llenas de delfines hasta el encanto colonial, Charlie presenta los tesoros del estado menos visitado de la península de Yucatán, Campeche",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040458 +0100",
+            "stop_time": "20250225043452 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nAlex encuentra un pedazo de África llamado Bioparc en la tercera ciudad más grande de España, Valencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043459 +0100",
+            "stop_time": "20250225050453 +0100",
+            "title": "Costa Rica Calling",
+            "description": "| +7 | Estilo de vida |\n\nEn la región de Manuel Antonio en Costa Rica, la búsqueda de vida silvestre de Genevieve la lleva desde la selva tropical hasta el océano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050459 +0100",
+            "stop_time": "20250225053453 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEn la histórica ciudad de Mérida, Charlie muestra las piscinas subterráneas, que narran historias de creencias mayas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225053500 +0100",
+            "stop_time": "20250225060454 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060501 +0100",
+            "stop_time": "20250225063455 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLa gente acude en masa a Cabo para disfrutar de unas vacaciones perfectas en la playa. Sin embargo, Charlie conoce otro lado del objetivo: el lado lleno de acción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225063501 +0100",
+            "stop_time": "20250225070455 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nBarcelona fue el lienzo del arquitecto de renombre mundial Antoni Gaudí, quien marcó la ciudad con sus fantásticas creaciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070502 +0100",
+            "stop_time": "20250225073456 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225073503 +0100",
+            "stop_time": "20250225080457 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nLa necesidad de un breve y refrescante descanso lleva a Asmita a una pintoresca aldea en Rajasthan, donde la vida no parece haber cambiado mucho desde el siglo XV. Por un lado, prueba el lujo en lo que una vez fue la mansión de caza de la realeza de Jodhpur y, por otro lado, se entrega al estilo de vida sencillo de los residentes de las aldeas cercanas. Sin embargo, lo más destacado de su viaje es una sorpresa que le espera en un antiguo pozo escalonado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080504 +0100",
+            "stop_time": "20250225083458 +0100",
+            "title": "Costa Rica Calling",
+            "description": "| +7 | Estilo de vida |\n\nGuiada por un irresistible llamado a la aventura, la joven viajera estadounidense Genevieve Sexton se adentra en las profundidades de Costa Rica.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083504 +0100",
+            "stop_time": "20250225090458 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLugares secretos para bucear, lagunas ocultas, antiguas ruinas mayas: hay mucho más en la península de Yucatán que Cancún y Playa del Carmen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090505 +0100",
+            "stop_time": "20250225093459 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nYa sea el acuario marino más grande de Europa o una plaza de toros, Alex encuentra la elegancia moderna de España y el encanto del viejo mundo en Valencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093506 +0100",
+            "stop_time": "20250225100500 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100507 +0100",
+            "stop_time": "20250225103501 +0100",
+            "title": "Xp Guide",
+            "description": "| +7 | Estilo de vida |\n\nOslo es la más antigua de las capitales escandinavas; Con una rica historia que se remonta a más de 1000 años, los monumentos icónicos de la ciudad revelan a los visitantes su evolución a través de los tiempos. Elisha realiza un recorrido para ver algunos de ellos, como el magnífico Castillo de Arkeshus, un castillo medieval que fue construido para proteger Oslo pero que en su lugar se usó como prisión, y el Ayuntamiento de Oslo, el centro administrativo de la ciudad que alberga la entrega anual del Nobel. Ceremonia del premio de la paz.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225103507 +0100",
+            "stop_time": "20250225110501 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110508 +0100",
+            "stop_time": "20250225113502 +0100",
+            "title": "World Heritage",
+            "description": "| +7 | Estilo de vida |\n\nHojee las páginas de la historia mientras se propone explorar y comprender la arquitectura de los monumentos islámicos construidos a partir del siglo XI en Delhi.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225113508 +0100",
+            "stop_time": "20250225120502 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLugares secretos para bucear, lagunas ocultas, antiguas ruinas mayas: hay mucho más en la península de Yucatán que Cancún y Playa del Carmen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120509 +0100",
+            "stop_time": "20250225123503 +0100",
+            "title": "World Spas",
+            "description": "| +7 | Estilo de vida |\n\nEn el Evason Ma'In Resort en Jordania, Jamie prueba los tratamientos de spa Srubis que aprovechan las propiedades curativas de las cercanas aguas termales de Hammamat Ma'In.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225123509 +0100",
+            "stop_time": "20250225130503 +0100",
+            "title": "Xp Guide",
+            "description": "| +7 | Estilo de vida |\n\nMuscat, que se extiende a lo largo de casi 25 kilómetros a lo largo de la costa de Omán, combina el glamour del nuevo mundo y el encanto del viejo mundo para brindar a los visitantes una muestra de la verdadera Arabia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130510 +0100",
+            "stop_time": "20250225133504 +0100",
+            "title": "Xp Guide",
+            "description": "| +7 | Estilo de vida |\n\nQuizás el período más famoso de la historia de Noruega fue la época vikinga. Lejos de ser simples invasores bárbaros y con hachas, los vikingos eran marinos nórdicos que dejaron un gran impacto en la historia europea a través del comercio, la colonización y la exploración remota. Durante la visita de Elisha a Oslo, queda asombrada por los extraordinarios y bien diseñados barcos vikingos en un museo, donde conoce historias fascinantes sobre la vida de los vikingos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225133510 +0100",
+            "stop_time": "20250225140504 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nCharlie presenta las artesanías indígenas de Oaxaca, incluidas las criaturas caprichosas con una historia única.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140511 +0100",
+            "stop_time": "20250225143505 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEl viaje de Charlie a través de México comienza en La Paz, un lugar tranquilo ubicado en el Mar de Cortés que a menudo se ve eclipsado por Cabo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225143511 +0100",
+            "stop_time": "20250225150505 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nBikaner es conocida por la mayoría de la gente como la ciudad de los bocadillos salados de fama mundial. Sin embargo, cuando Asmita va allí para un viaje relámpago, descubre que hay mucho más en la Ciudad Roja de Rajasthan de lo que parece. Desde las pinturas en miniatura que se pueden encontrar en las paredes de palacios y mansiones de toda la ciudad hasta la elaborada arquitectura de los antiguos havelis de comerciantes, descubre que Bikaner es un paraíso para los amantes del arte.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150512 +0100",
+            "stop_time": "20250225153506 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nDesde la tierra del sagrado estadio Camp Nou hasta la capital catalana con increíbles mariscos, Barcelona es una ciudad con muchos matices.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225153512 +0100",
+            "stop_time": "20250225160506 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160513 +0100",
+            "stop_time": "20250225163507 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nFrieshia siente la magia de Mauricio a través de la combinación única de modernidad y tradición que ofrece el resort de lujo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225163513 +0100",
+            "stop_time": "20250225170507 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nDesde lagunas llenas de delfines hasta el encanto colonial, Charlie presenta los tesoros del estado menos visitado de la península de Yucatán, Campeche",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170514 +0100",
+            "stop_time": "20250225173508 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nMientras recorre la escena artística de Madrid y disfruta de la animación de un mercado local, Alex se siente envuelto por la energía de esta joven ciudad europea.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225173514 +0100",
+            "stop_time": "20250225180508 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180515 +0100",
+            "stop_time": "20250225183509 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEl viaje de Charlie a través de México comienza en La Paz, un lugar tranquilo ubicado en el Mar de Cortés que a menudo se ve eclipsado por Cabo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225183516 +0100",
+            "stop_time": "20250225190510 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nDesde la tierra del sagrado estadio Camp Nou hasta la capital catalana con increíbles mariscos, Barcelona es una ciudad con muchos matices.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190517 +0100",
+            "stop_time": "20250225193511 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nBikaner es conocida por la mayoría de la gente como la ciudad de los bocadillos salados de fama mundial. Sin embargo, cuando Asmita va allí para un viaje relámpago, descubre que hay mucho más en la Ciudad Roja de Rajasthan de lo que parece. Desde las pinturas en miniatura que se pueden encontrar en las paredes de palacios y mansiones de toda la ciudad hasta la elaborada arquitectura de los antiguos havelis de comerciantes, descubre que Bikaner es un paraíso para los amantes del arte.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225193517 +0100",
+            "stop_time": "20250225200511 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200518 +0100",
+            "stop_time": "20250225203512 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEl viaje de Charlie a través de México comienza en La Paz, un lugar tranquilo ubicado en el Mar de Cortés que a menudo se ve eclipsado por Cabo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203519 +0100",
+            "stop_time": "20250225210513 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nDesde la tierra del sagrado estadio Camp Nou hasta la capital catalana con increíbles mariscos, Barcelona es una ciudad con muchos matices.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210519 +0100",
+            "stop_time": "20250225213513 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nBikaner es conocida por la mayoría de la gente como la ciudad de los bocadillos salados de fama mundial. Sin embargo, cuando Asmita va allí para un viaje relámpago, descubre que hay mucho más en la Ciudad Roja de Rajasthan de lo que parece. Desde las pinturas en miniatura que se pueden encontrar en las paredes de palacios y mansiones de toda la ciudad hasta la elaborada arquitectura de los antiguos havelis de comerciantes, descubre que Bikaner es un paraíso para los amantes del arte.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225213520 +0100",
+            "stop_time": "20250225220514 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220520 +0100",
+            "stop_time": "20250225223514 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEl viaje de Charlie a través de México comienza en La Paz, un lugar tranquilo ubicado en el Mar de Cortés que a menudo se ve eclipsado por Cabo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223521 +0100",
+            "stop_time": "20250225230515 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nDesde la tierra del sagrado estadio Camp Nou hasta la capital catalana con increíbles mariscos, Barcelona es una ciudad con muchos matices.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230522 +0100",
+            "stop_time": "20250225233516 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nBikaner es conocida por la mayoría de la gente como la ciudad de los bocadillos salados de fama mundial. Sin embargo, cuando Asmita va allí para un viaje relámpago, descubre que hay mucho más en la Ciudad Roja de Rajasthan de lo que parece. Desde las pinturas en miniatura que se pueden encontrar en las paredes de palacios y mansiones de toda la ciudad hasta la elaborada arquitectura de los antiguos havelis de comerciantes, descubre que Bikaner es un paraíso para los amantes del arte.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233522 +0100",
+            "stop_time": "20250226000516 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000523 +0100",
+            "stop_time": "20250226003517 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nLa necesidad de un breve y refrescante descanso lleva a Asmita a una pintoresca aldea en Rajasthan, donde la vida no parece haber cambiado mucho desde el siglo XV. Por un lado, prueba el lujo en lo que una vez fue la mansión de caza de la realeza de Jodhpur y, por otro lado, se entrega al estilo de vida sencillo de los residentes de las aldeas cercanas. Sin embargo, lo más destacado de su viaje es una sorpresa que le espera en un antiguo pozo escalonado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226003523 +0100",
+            "stop_time": "20250226010517 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010524 +0100",
+            "stop_time": "20250226013518 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nBarcelona fue el lienzo del arquitecto de renombre mundial Antoni Gaudí, quien marcó la ciudad con sus fantásticas creaciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226013525 +0100",
+            "stop_time": "20250226020519 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLa gente acude en masa a Cabo para disfrutar de unas vacaciones perfectas en la playa. Sin embargo, Charlie conoce otro lado del objetivo: el lado lleno de acción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020526 +0100",
+            "stop_time": "20250226023520 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226023527 +0100",
+            "stop_time": "20250226030521 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nFrieshia siente la magia de Mauricio a través de la combinación única de modernidad y tradición que ofrece el resort de lujo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030527 +0100",
+            "stop_time": "20250226033521 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nDesde lagunas llenas de delfines hasta el encanto colonial, Charlie presenta los tesoros del estado menos visitado de la península de Yucatán, Campeche",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033527 +0100",
+            "stop_time": "20250226040521 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nMientras recorre la escena artística de Madrid y disfruta de la animación de un mercado local, Alex se siente envuelto por la energía de esta joven ciudad europea.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040528 +0100",
+            "stop_time": "20250226043522 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nAlex encuentra un pedazo de África llamado Bioparc en la tercera ciudad más grande de España, Valencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043529 +0100",
+            "stop_time": "20250226050523 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050530 +0100",
+            "stop_time": "20250226053524 +0100",
+            "title": "Costa Rica Calling",
+            "description": "| +7 | Estilo de vida |\n\nEn la región de Manuel Antonio en Costa Rica, la búsqueda de vida silvestre de Genevieve la lleva desde la selva tropical hasta el océano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226053530 +0100",
+            "stop_time": "20250226060524 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEn la histórica ciudad de Mérida, Charlie muestra las piscinas subterráneas, que narran historias de creencias mayas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060531 +0100",
+            "stop_time": "20250226063525 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226063532 +0100",
+            "stop_time": "20250226070526 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nYa sea el acuario marino más grande de Europa o una plaza de toros, Alex encuentra la elegancia moderna de España y el encanto del viejo mundo en Valencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070532 +0100",
+            "stop_time": "20250226073526 +0100",
+            "title": "Costa Rica Calling",
+            "description": "| +7 | Estilo de vida |\n\nGuiada por un irresistible llamado a la aventura, la joven viajera estadounidense Genevieve Sexton se adentra en las profundidades de Costa Rica.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073533 +0100",
+            "stop_time": "20250226080527 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLugares secretos para bucear, lagunas ocultas, antiguas ruinas mayas: hay mucho más en la península de Yucatán que Cancún y Playa del Carmen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080534 +0100",
+            "stop_time": "20250226083528 +0100",
+            "title": "World Heritage",
+            "description": "| +7 | Estilo de vida |\n\nHojee las páginas de la historia mientras se propone explorar y comprender la arquitectura de los monumentos islámicos construidos a partir del siglo XI en Delhi.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226083534 +0100",
+            "stop_time": "20250226090528 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090535 +0100",
+            "stop_time": "20250226093529 +0100",
+            "title": "Xp Guide",
+            "description": "| +7 | Estilo de vida |\n\nOslo es la más antigua de las capitales escandinavas; Con una rica historia que se remonta a más de 1000 años, los monumentos icónicos de la ciudad revelan a los visitantes su evolución a través de los tiempos. Elisha realiza un recorrido para ver algunos de ellos, como el magnífico Castillo de Arkeshus, un castillo medieval que fue construido para proteger Oslo pero que en su lugar se usó como prisión, y el Ayuntamiento de Oslo, el centro administrativo de la ciudad que alberga la entrega anual del Nobel. Ceremonia del premio de la paz.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226093535 +0100",
+            "stop_time": "20250226100529 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nLa necesidad de un breve y refrescante descanso lleva a Asmita a una pintoresca aldea en Rajasthan, donde la vida no parece haber cambiado mucho desde el siglo XV. Por un lado, prueba el lujo en lo que una vez fue la mansión de caza de la realeza de Jodhpur y, por otro lado, se entrega al estilo de vida sencillo de los residentes de las aldeas cercanas. Sin embargo, lo más destacado de su viaje es una sorpresa que le espera en un antiguo pozo escalonado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100536 +0100",
+            "stop_time": "20250226103530 +0100",
+            "title": "Xp Guide",
+            "description": "| +7 | Estilo de vida |\n\nQuizás el período más famoso de la historia de Noruega fue la época vikinga. Lejos de ser simples invasores bárbaros y con hachas, los vikingos eran marinos nórdicos que dejaron un gran impacto en la historia europea a través del comercio, la colonización y la exploración remota. Durante la visita de Elisha a Oslo, queda asombrada por los extraordinarios y bien diseñados barcos vikingos en un museo, donde conoce historias fascinantes sobre la vida de los vikingos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226103536 +0100",
+            "stop_time": "20250226110530 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nCharlie presenta las artesanías indígenas de Oaxaca, incluidas las criaturas caprichosas con una historia única.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110537 +0100",
+            "stop_time": "20250226113531 +0100",
+            "title": "World Spas",
+            "description": "| +7 | Estilo de vida |\n\nEn el Evason Ma'In Resort en Jordania, Jamie prueba los tratamientos de spa Srubis que aprovechan las propiedades curativas de las cercanas aguas termales de Hammamat Ma'In.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226113537 +0100",
+            "stop_time": "20250226120531 +0100",
+            "title": "Xp Guide",
+            "description": "| +7 | Estilo de vida |\n\nMuscat, que se extiende a lo largo de casi 25 kilómetros a lo largo de la costa de Omán, combina el glamour del nuevo mundo y el encanto del viejo mundo para brindar a los visitantes una muestra de la verdadera Arabia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120538 +0100",
+            "stop_time": "20250226123532 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nDesde la tierra del sagrado estadio Camp Nou hasta la capital catalana con increíbles mariscos, Barcelona es una ciudad con muchos matices.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123538 +0100",
+            "stop_time": "20250226130532 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nBikaner es conocida por la mayoría de la gente como la ciudad de los bocadillos salados de fama mundial. Sin embargo, cuando Asmita va allí para un viaje relámpago, descubre que hay mucho más en la Ciudad Roja de Rajasthan de lo que parece. Desde las pinturas en miniatura que se pueden encontrar en las paredes de palacios y mansiones de toda la ciudad hasta la elaborada arquitectura de los antiguos havelis de comerciantes, descubre que Bikaner es un paraíso para los amantes del arte.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130539 +0100",
+            "stop_time": "20250226133533 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEl viaje de Charlie a través de México comienza en La Paz, un lugar tranquilo ubicado en el Mar de Cortés que a menudo se ve eclipsado por Cabo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133540 +0100",
+            "stop_time": "20250226140534 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140540 +0100",
+            "stop_time": "20250226143534 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nFrieshia siente la magia de Mauricio a través de la combinación única de modernidad y tradición que ofrece el resort de lujo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143540 +0100",
+            "stop_time": "20250226150534 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150541 +0100",
+            "stop_time": "20250226153535 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nDesde lagunas llenas de delfines hasta el encanto colonial, Charlie presenta los tesoros del estado menos visitado de la península de Yucatán, Campeche",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153542 +0100",
+            "stop_time": "20250226160536 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nMientras recorre la escena artística de Madrid y disfruta de la animación de un mercado local, Alex se siente envuelto por la energía de esta joven ciudad europea.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160543 +0100",
+            "stop_time": "20250226163537 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226163543 +0100",
+            "stop_time": "20250226170537 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nAlex encuentra un pedazo de África llamado Bioparc en la tercera ciudad más grande de España, Valencia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170544 +0100",
+            "stop_time": "20250226173538 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nEn la histórica ciudad de Mérida, Charlie muestra las piscinas subterráneas, que narran historias de creencias mayas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226173545 +0100",
+            "stop_time": "20250226180539 +0100",
+            "title": "Costa Rica Calling",
+            "description": "| +7 | Estilo de vida |\n\nEn la región de Manuel Antonio en Costa Rica, la búsqueda de vida silvestre de Genevieve la lleva desde la selva tropical hasta el océano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180546 +0100",
+            "stop_time": "20250226183540 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLa gente acude en masa a Cabo para disfrutar de unas vacaciones perfectas en la playa. Sin embargo, Charlie conoce otro lado del objetivo: el lado lleno de acción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226183546 +0100",
+            "stop_time": "20250226190540 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nBarcelona fue el lienzo del arquitecto de renombre mundial Antoni Gaudí, quien marcó la ciudad con sus fantásticas creaciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190547 +0100",
+            "stop_time": "20250226193541 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nLa necesidad de un breve y refrescante descanso lleva a Asmita a una pintoresca aldea en Rajasthan, donde la vida no parece haber cambiado mucho desde el siglo XV. Por un lado, prueba el lujo en lo que una vez fue la mansión de caza de la realeza de Jodhpur y, por otro lado, se entrega al estilo de vida sencillo de los residentes de las aldeas cercanas. Sin embargo, lo más destacado de su viaje es una sorpresa que le espera en un antiguo pozo escalonado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226193548 +0100",
+            "stop_time": "20250226200542 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200549 +0100",
+            "stop_time": "20250226203543 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLa gente acude en masa a Cabo para disfrutar de unas vacaciones perfectas en la playa. Sin embargo, Charlie conoce otro lado del objetivo: el lado lleno de acción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226203549 +0100",
+            "stop_time": "20250226210543 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nBarcelona fue el lienzo del arquitecto de renombre mundial Antoni Gaudí, quien marcó la ciudad con sus fantásticas creaciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210550 +0100",
+            "stop_time": "20250226213544 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nLa necesidad de un breve y refrescante descanso lleva a Asmita a una pintoresca aldea en Rajasthan, donde la vida no parece haber cambiado mucho desde el siglo XV. Por un lado, prueba el lujo en lo que una vez fue la mansión de caza de la realeza de Jodhpur y, por otro lado, se entrega al estilo de vida sencillo de los residentes de las aldeas cercanas. Sin embargo, lo más destacado de su viaje es una sorpresa que le espera en un antiguo pozo escalonado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213551 +0100",
+            "stop_time": "20250226220545 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220552 +0100",
+            "stop_time": "20250226223546 +0100",
+            "title": "Viajar Mexico",
+            "description": "| +7 | Estilo de vida |\n\nLa gente acude en masa a Cabo para disfrutar de unas vacaciones perfectas en la playa. Sin embargo, Charlie conoce otro lado del objetivo: el lado lleno de acción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226223552 +0100",
+            "stop_time": "20250226230546 +0100",
+            "title": "Xplore Spain",
+            "description": "| +7 | Estilo de vida |\n\nBarcelona fue el lienzo del arquitecto de renombre mundial Antoni Gaudí, quien marcó la ciudad con sus fantásticas creaciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230553 +0100",
+            "stop_time": "20250226233547 +0100",
+            "title": "City Breaks",
+            "description": "| +7 | Estilo de vida |\n\nLa necesidad de un breve y refrescante descanso lleva a Asmita a una pintoresca aldea en Rajasthan, donde la vida no parece haber cambiado mucho desde el siglo XV. Por un lado, prueba el lujo en lo que una vez fue la mansión de caza de la realeza de Jodhpur y, por otro lado, se entrega al estilo de vida sencillo de los residentes de las aldeas cercanas. Sin embargo, lo más destacado de su viaje es una sorpresa que le espera en un antiguo pozo escalonado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233554 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000006 +0100",
+            "stop_time": "20250227003000 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227003006 +0100",
+            "stop_time": "20250227010000 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010007 +0100",
+            "stop_time": "20250227013001 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013008 +0100",
+            "stop_time": "20250227020002 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020009 +0100",
+            "stop_time": "20250227023003 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227023010 +0100",
+            "stop_time": "20250227030004 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030010 +0100",
+            "stop_time": "20250227033004 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227033011 +0100",
+            "stop_time": "20250227040005 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040012 +0100",
+            "stop_time": "20250227043006 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043013 +0100",
+            "stop_time": "20250227050007 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050014 +0100",
+            "stop_time": "20250227053008 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053015 +0100",
+            "stop_time": "20250227060009 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060015 +0100",
+            "stop_time": "20250227063009 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227063016 +0100",
+            "stop_time": "20250227070010 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070017 +0100",
+            "stop_time": "20250227073011 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073018 +0100",
+            "stop_time": "20250227080012 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080019 +0100",
+            "stop_time": "20250227083013 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083020 +0100",
+            "stop_time": "20250227090014 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090020 +0100",
+            "stop_time": "20250227093014 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093021 +0100",
+            "stop_time": "20250227100015 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100022 +0100",
+            "stop_time": "20250227103016 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103023 +0100",
+            "stop_time": "20250227110017 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110024 +0100",
+            "stop_time": "20250227113018 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227113024 +0100",
+            "stop_time": "20250227120018 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120025 +0100",
+            "stop_time": "20250227123019 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123026 +0100",
+            "stop_time": "20250227130020 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130027 +0100",
+            "stop_time": "20250227133021 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133028 +0100",
+            "stop_time": "20250227140022 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140028 +0100",
+            "stop_time": "20250227143022 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143029 +0100",
+            "stop_time": "20250227150023 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150030 +0100",
+            "stop_time": "20250227153024 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153031 +0100",
+            "stop_time": "20250227160025 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160032 +0100",
+            "stop_time": "20250227163026 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163032 +0100",
+            "stop_time": "20250227170026 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170033 +0100",
+            "stop_time": "20250227173027 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173034 +0100",
+            "stop_time": "20250227180028 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180035 +0100",
+            "stop_time": "20250227183029 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227183036 +0100",
+            "stop_time": "20250227190030 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190037 +0100",
+            "stop_time": "20250227193031 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193038 +0100",
+            "stop_time": "20250227200032 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200038 +0100",
+            "stop_time": "20250227203032 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203039 +0100",
+            "stop_time": "20250227210033 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210040 +0100",
+            "stop_time": "20250227213034 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213041 +0100",
+            "stop_time": "20250227220035 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220042 +0100",
+            "stop_time": "20250227223036 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223042 +0100",
+            "stop_time": "20250227230036 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230043 +0100",
+            "stop_time": "20250227233037 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233044 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000006 +0100",
+            "stop_time": "20250228003000 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003006 +0100",
+            "stop_time": "20250228010000 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010007 +0100",
+            "stop_time": "20250228013001 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013008 +0100",
+            "stop_time": "20250228020002 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020009 +0100",
+            "stop_time": "20250228023003 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023010 +0100",
+            "stop_time": "20250228030004 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030010 +0100",
+            "stop_time": "20250228033004 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228033011 +0100",
+            "stop_time": "20250228040005 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040012 +0100",
+            "stop_time": "20250228043006 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228043013 +0100",
+            "stop_time": "20250228050007 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050014 +0100",
+            "stop_time": "20250228053008 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053015 +0100",
+            "stop_time": "20250228060009 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060015 +0100",
+            "stop_time": "20250228063009 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063016 +0100",
+            "stop_time": "20250228070010 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070017 +0100",
+            "stop_time": "20250228073011 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073018 +0100",
+            "stop_time": "20250228080012 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080019 +0100",
+            "stop_time": "20250228083013 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083020 +0100",
+            "stop_time": "20250228090014 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090020 +0100",
+            "stop_time": "20250228093014 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093021 +0100",
+            "stop_time": "20250228100015 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100022 +0100",
+            "stop_time": "20250228103016 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228103023 +0100",
+            "stop_time": "20250228110017 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110024 +0100",
+            "stop_time": "20250228113018 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113024 +0100",
+            "stop_time": "20250228120018 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120025 +0100",
+            "stop_time": "20250228123019 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123026 +0100",
+            "stop_time": "20250228130020 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130027 +0100",
+            "stop_time": "20250228133021 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133028 +0100",
+            "stop_time": "20250228140022 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140028 +0100",
+            "stop_time": "20250228143022 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228143029 +0100",
+            "stop_time": "20250228150023 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150030 +0100",
+            "stop_time": "20250228153024 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153031 +0100",
+            "stop_time": "20250228160025 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160032 +0100",
+            "stop_time": "20250228163026 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163032 +0100",
+            "stop_time": "20250228170026 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170033 +0100",
+            "stop_time": "20250228173027 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173034 +0100",
+            "stop_time": "20250228180028 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180035 +0100",
+            "stop_time": "20250228183029 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183036 +0100",
+            "stop_time": "20250228190030 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190037 +0100",
+            "stop_time": "20250228193031 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193038 +0100",
+            "stop_time": "20250228200032 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200038 +0100",
+            "stop_time": "20250228203032 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228203039 +0100",
+            "stop_time": "20250228210033 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210040 +0100",
+            "stop_time": "20250228213034 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213041 +0100",
+            "stop_time": "20250228220035 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220042 +0100",
+            "stop_time": "20250228223036 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223042 +0100",
+            "stop_time": "20250228230036 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230043 +0100",
+            "stop_time": "20250228233037 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233044 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000006 +0100",
+            "stop_time": "20250301003000 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003006 +0100",
+            "stop_time": "20250301010000 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010007 +0100",
+            "stop_time": "20250301013001 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301013008 +0100",
+            "stop_time": "20250301020002 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020009 +0100",
+            "stop_time": "20250301023003 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023010 +0100",
+            "stop_time": "20250301030004 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030010 +0100",
+            "stop_time": "20250301033004 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301033011 +0100",
+            "stop_time": "20250301040005 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040012 +0100",
+            "stop_time": "20250301043006 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043013 +0100",
+            "stop_time": "20250301050007 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050014 +0100",
+            "stop_time": "20250301053008 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301053015 +0100",
+            "stop_time": "20250301060009 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060015 +0100",
+            "stop_time": "20250301063009 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301063016 +0100",
+            "stop_time": "20250301070010 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070017 +0100",
+            "stop_time": "20250301073011 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073018 +0100",
+            "stop_time": "20250301080012 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080019 +0100",
+            "stop_time": "20250301083013 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301083020 +0100",
+            "stop_time": "20250301090014 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090020 +0100",
+            "stop_time": "20250301093014 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301093021 +0100",
+            "stop_time": "20250301100015 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100022 +0100",
+            "stop_time": "20250301103016 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301103023 +0100",
+            "stop_time": "20250301110017 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110024 +0100",
+            "stop_time": "20250301113018 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301113024 +0100",
+            "stop_time": "20250301120018 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120025 +0100",
+            "stop_time": "20250301123019 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301123026 +0100",
+            "stop_time": "20250301130020 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130027 +0100",
+            "stop_time": "20250301133021 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133028 +0100",
+            "stop_time": "20250301140022 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140028 +0100",
+            "stop_time": "20250301143022 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301143029 +0100",
+            "stop_time": "20250301150023 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150030 +0100",
+            "stop_time": "20250301153024 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153031 +0100",
+            "stop_time": "20250301160025 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160032 +0100",
+            "stop_time": "20250301163026 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301163032 +0100",
+            "stop_time": "20250301170026 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170033 +0100",
+            "stop_time": "20250301173027 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301173034 +0100",
+            "stop_time": "20250301180028 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180035 +0100",
+            "stop_time": "20250301183029 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183036 +0100",
+            "stop_time": "20250301190030 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190037 +0100",
+            "stop_time": "20250301193031 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301193038 +0100",
+            "stop_time": "20250301200032 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200038 +0100",
+            "stop_time": "20250301203032 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301203039 +0100",
+            "stop_time": "20250301210033 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210040 +0100",
+            "stop_time": "20250301213034 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301213041 +0100",
+            "stop_time": "20250301220035 +0100",
+            "title": "Backpack",
+            "description": "| +7 | Estilo de vida |\n\nBali, un escondite tropical, logra ser un paraíso para los buscadores de aventuras, un santuario espiritual, un paraíso para los amantes de la comida y el retiro de un entusiasta de la naturaleza, todo al mismo tiempo. Esto es algo que Hannah Jackson descubre por sí misma mientras explora los templos de Bali, como el templo de Ulan Danu, prueba mariscos deliciosos y ultrafrescos, disfruta de algunas actividades de aventura como un paseo por el mar y visita un criadero de tortugas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220042 +0100",
+            "stop_time": "20250301223036 +0100",
+            "title": "Great World Hotels",
+            "description": "| +7 | Estilo de vida |\n\nUn viaje a Maldivas es como un viaje a un gran paraíso de aguas azules. Una villa con piso, que ofrece vistas claras del océano turquesa y la exquisita vida marina bajo sus pies, realza esta experiencia para Kim durante su visita. Se mima aún más con un tratamiento de spa bajo el agua y una botella de vino de una bodega subterránea, que es como una cueva del tesoro para los conocedores del vino de todo el mundo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223042 +0100",
+            "stop_time": "20250301230036 +0100",
+            "title": "Off The Grid",
+            "description": "| +7 | Estilo de vida |\n\nAl comenzar su viaje por la Ruta Atlántica Salvaje desde Dublín, Alex planea conducir hasta el final y hace su primera parada en \"Cliffs of Moher\". Luego se detiene en el pueblo de Kildare y comprende la cultura irlandesa. Visita el Centro de Arte Claddagh. Además, su siguiente parada es el Castillo de Ashford, que ahora es una propiedad de lujo de 5 estrellas y luego la Escuela de Falcony de Irlanda. Más adelante en su viaje, visita a Croagh Patrick en Westport y luego, al finalizar el episodio, recorre 60 kilómetros en bicicleta hasta Mulranny.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230043 +0100",
+            "stop_time": "20250301233037 +0100",
+            "title": "Xplore Oman",
+            "description": "| +7 | Estilo de vida |\n\nEn una visita a Mascate, la capital de Omán, Elisha Kriis se encuentra boquiabierta ante la magnificencia de la Gran Mezquita del Sultán Qaboos, que domina el horizonte de la ciudad. Mientras se pierde en los tesoros de Oriente Medio en el famoso Muttrah Souq, comienza a experimentar los clásicos encantos árabes de Omán.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233044 +0100",
+            "stop_time": "20250302000038 +0100",
+            "title": "10 Days Korea",
+            "description": "| +7 | Estilo de vida |\n\nSeúl, la capital de Corea del Sur, es una ciudad dinámica que forja sin miedo un camino hacia el futuro preservando fielmente sus raíces. Andrew Maciver, adicto a los viajes, prueba las delicias locales en los Pojangmachas, carritos de comida callejera típicos coreanos, de los animados mercados de Myeongdong. También ve las atracciones icónicas de la ciudad, como el templo Jogyesa, Daedongmun, que es la puerta este de la ciudad, y el palacio Gyeongbokgung, que alguna vez sirvió como sede de uno de los imperios más grandes del Asia medieval.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/travelxp-travelxp-es.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

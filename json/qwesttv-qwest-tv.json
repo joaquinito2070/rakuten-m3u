@@ -4,10 +4,10 @@
     "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg",
     "group_title": "Música",
     "original_master_url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2268&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=a45e3270-ed25-4ee7-996a-f0e6a1ffdb9f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/qwest-tv/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/640x360_1057680/index.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17d8650b69035f7a9d1b8c2a1cc6df2ffe4c3c74127387cee7288d90115ae1d15b2c79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81664af0d14b3c12d8b905ad4d38b05da16d8329e4dc9b0c6b1e71280809969836d93350d4b1d7c94817e9af65ebedb94673c90034d2c7d02b7f2c984245187435063edeccead5aeb0ade8c57e80a50ad098b46903f9831eb63dfe04ab392a9cb547e3aabca4f6429b4daac8bf53226bc61fed08cb7107997f14e392db36cdc31143b9ff3df118ad72a95ba2296a7601b31c390519292bcf18cdaec1ac650a0a9f59c2e7d4a66120b85589d9660cf5bbe12c99f497b363d45a9896ad792cb5b316f46888761dd1769ffb1cf828b5b3e99324c0aa565dd0950219831692ba874a0cc3d218f760fd3346cfd5e31821bfae2549fc8dae11504b1dbd14bfc6ad0a113c2f370cc075f4e07b1a85d35224d79c3d16303260ba52f80c3d8ee735372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb4abb786371e61d8ee55f10ea5df380176bf13cb6c1a88c13bcf/127/640x360_1057680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1057680",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/848x480_1686360/index.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17d8650b69035f7a9d1b8c2a1cc6df2ffe4c3c74127387cee7288d90115ae1d15b2c79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81664af0d14b3c12d8b905ad4d38b05da16d8329e4dc9b0c6b1e71280809969836d93350d4b1d7c94817e9af65ebedb94673c90034d2c7d02b7f2c984245187435063edeccead5aeb0ade8c57e80a50ad098b46903f9831eb63dfe04ab392a9cb547e3aabca4f6429b4daac8bf53226bc61fed08cb7107997f14e392db36cdc31143b9ff3df118ad72a95ba2296a7601b31c390519292bcf18cdaec1ac650a0a9f59c2e7d4a66120b85589d9660cf5bbe12c99f497b363d45a9896ad792cb5b316f46888761dd1769ffb1cf828b5b3e99324c0aa565dd0950219831692ba874a0cc3d218f760fd3346cfd5e31821bfae2549fc8dae11504b1dbd14bfc6ad0a113c2f370cc075f4e07b1a85d35224d79c3d16303260ba52f80c3d8ee735372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb4abb786371e61d8ee55f10ea5df380176bf13cb6c1a88c13bcf/127/848x480_1686360/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1686360",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/1280x720_3329040/index.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17d8650b69035f7a9d1b8c2a1cc6df2ffe4c3c74127387cee7288d90115ae1d15b2c79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81664af0d14b3c12d8b905ad4d38b05da16d8329e4dc9b0c6b1e71280809969836d93350d4b1d7c94817e9af65ebedb94673c90034d2c7d02b7f2c984245187435063edeccead5aeb0ade8c57e80a50ad098b46903f9831eb63dfe04ab392a9cb547e3aabca4f6429b4daac8bf53226bc61fed08cb7107997f14e392db36cdc31143b9ff3df118ad72a95ba2296a7601b31c390519292bcf18cdaec1ac650a0a9f59c2e7d4a66120b85589d9660cf5bbe12c99f497b363d45a9896ad792cb5b316f46888761dd1769ffb1cf828b5b3e99324c0aa565dd0950219831692ba874a0cc3d218f760fd3346cfd5e31821bfae2549fc8dae11504b1dbd14bfc6ad0a113c2f370cc075f4e07b1a85d35224d79c3d16303260ba52f80c3d8ee735372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb4abb786371e61d8ee55f10ea5df380176bf13cb6c1a88c13bcf/127/1280x720_3329040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3329040",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ad960036e595d7a9d1b8c291cc6df2ffe4c662f162087c9b47c8ccc160bb78b087c22b96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a817513abfc8922563e1e1dca0c00bcfe09cca6b57f53e278f0b5191d962d42e79f179dd619a684810e995e8f7ff74580c4f0ded54183d0c737fb5ee46e7c324b7c9d934681dd4bbfdee80153fa237f174600bff9e9943f3d82547c5df5feccb65afc1bcf872b846c45de6afb18d561d02ac071a6e55d9fbfafc97d4236aad05e6f339fe9a184fc2032ba6389c783be76729eac681235c869cb1d392c86c2c81b8ad71098a21c8cb01b7b52a4c317cdc5e8c785dc8c4e8f1adac8f0a7295b5e667676ec2fb2966cc22ccf68a9c9161e514440bf9559c8dcac345e634b95bf5ad10512badeb48fd21a49a90a7a0bb218b3340468df0b6879f324fa9f037890360ff75057984f30821886d241f4a3c8da1328b0ccf856e67feac763b89114a07e354d0da1a85e352f4d79c3d16b0c2272c65196b7a083721a5a9d9daaffc44007023701206ae186f762948af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961f5e88cbb778e17b41faa387af6601b2627dbafa5a70f616cd19a1/101/1920x1080_6046040/index.m3u8",
+            "url": "https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17d8650b69035f7a9d1b8c2a1cc6df2ffe4c3c74127387cee7288d90115ae1d15b2c79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81664af0d14b3c12d8b905ad4d38b05da16d8329e4dc9b0c6b1e71280809969836d93350d4b1d7c94817e9af65ebedb94673c90034d2c7d02b7f2c984245187435063edeccead5aeb0ade8c57e80a50ad098b46903f9831eb63dfe04ab392a9cb547e3aabca4f6429b4daac8bf53226bc61fed08cb7107997f14e392db36cdc31143b9ff3df118ad72a95ba2296a7601b31c390519292bcf18cdaec1ac650a0a9f59c2e7d4a66120b85589d9660cf5bbe12c99f497b363d45a9896ad792cb5b316f46888761dd1769ffb1cf828b5b3e99324c0aa565dd0950219831692ba874a0cc3d218f760fd3346cfd5e31821bfae2549fc8dae11504b1dbd14bfc6ad0a113c2f370cc075f4e07b1a85d35224d79c3d16303260ba52f80c3d8ee735372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb4abb786371e61d8ee55f10ea5df380176bf13cb6c1a88c13bcf/127/1920x1080_6046040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "6046040",
@@ -55,6 +55,596 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/qwesttv-qwest-tv.json"
+    "epg": [
+        {
+            "start_time": "20250224150101 +0100",
+            "stop_time": "20250224181100 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224181101 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250224214900 +0100",
+            "title": "Ethiopiques Magnetic Suite",
+            "description": "| +TP | Música |\n\nA must documentary on the musical revolution in Ethiopia during the 60’s full of archives and testimonies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224214901 +0100",
+            "stop_time": "20250224231900 +0100",
+            "title": "Derya Yıldırım & Grup Şimşek",
+            "description": "| +TP | Música |\n\nThe multi-instrumentist singer pays tribute to her Turkish roots combined with jazz and pop influences.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224231901 +0100",
+            "stop_time": "20250225003400 +0100",
+            "title": "Asa - Live at Art Rock Festival",
+            "description": "| +TP | Música |\n\nMulti-genre singer Asa transcends cultural boundaries with her performance.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225003401 +0100",
+            "stop_time": "20250225020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020001 +0100",
+            "stop_time": "20250225034900 +0100",
+            "title": "Ethiopiques Magnetic Suite",
+            "description": "| +TP | Música |\n\nA must documentary on the musical revolution in Ethiopia during the 60’s full of archives and testimonies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225034901 +0100",
+            "stop_time": "20250225051900 +0100",
+            "title": "Derya Yıldırım & Grup Şimşek",
+            "description": "| +TP | Música |\n\nThe multi-instrumentist singer pays tribute to her Turkish roots combined with jazz and pop influences.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225051901 +0100",
+            "stop_time": "20250225063400 +0100",
+            "title": "Asa - Live at Art Rock Festival",
+            "description": "| +TP | Música |\n\nMulti-genre singer Asa transcends cultural boundaries with her performance.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225063401 +0100",
+            "stop_time": "20250225070000 +0100",
+            "title": "Late Night Sounds by Qwest TV",
+            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070001 +0100",
+            "stop_time": "20250225100300 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100301 +0100",
+            "stop_time": "20250225130400 +0100",
+            "title": "Diverse, Beautiful Music by Qwest TV",
+            "description": "| +TP | Música |\n\nQwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130401 +0100",
+            "stop_time": "20250225150300 +0100",
+            "title": "Where Great Music Meets by Qwest TV",
+            "description": "| +TP | Música |\n\nA curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150301 +0100",
+            "stop_time": "20250225175800 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225175801 +0100",
+            "stop_time": "20250225200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200001 +0100",
+            "stop_time": "20250225203700 +0100",
+            "title": "Bobby McFerrin - Live at Munich",
+            "description": "| +TP | Música |\n\nDifferent arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203701 +0100",
+            "stop_time": "20250225223100 +0100",
+            "title": "Kenny Barron Trio - Live in France",
+            "description": "| +TP | Música |\n\nVeteran 81-year-old Philadelphia jazz piano legend alongside Kiyoshi Kitagawa (bass) & Johnathan Blake (drums)",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223101 +0100",
+            "stop_time": "20250225232500 +0100",
+            "title": "Emel Mathlouthi - Live",
+            "description": "| +TP | Música |\n\nEmel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225232501 +0100",
+            "stop_time": "20250226020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020001 +0100",
+            "stop_time": "20250226023700 +0100",
+            "title": "Bobby McFerrin - Live at Munich",
+            "description": "| +TP | Música |\n\nDifferent arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226023701 +0100",
+            "stop_time": "20250226043100 +0100",
+            "title": "Kenny Barron Trio - Live in France",
+            "description": "| +TP | Música |\n\nVeteran 81-year-old Philadelphia jazz piano legend alongside Kiyoshi Kitagawa (bass) & Johnathan Blake (drums)",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043101 +0100",
+            "stop_time": "20250226052500 +0100",
+            "title": "Emel Mathlouthi - Live",
+            "description": "| +TP | Música |\n\nEmel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226052501 +0100",
+            "stop_time": "20250226070000 +0100",
+            "title": "Late Night Sounds by Qwest TV",
+            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070001 +0100",
+            "stop_time": "20250226100500 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100501 +0100",
+            "stop_time": "20250226130700 +0100",
+            "title": "Diverse, Beautiful Music by Qwest TV",
+            "description": "| +TP | Música |\n\nQwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130701 +0100",
+            "stop_time": "20250226153200 +0100",
+            "title": "Where Great Music Meets by Qwest TV",
+            "description": "| +TP | Música |\n\nA curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153201 +0100",
+            "stop_time": "20250226172400 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226172401 +0100",
+            "stop_time": "20250226200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200001 +0100",
+            "stop_time": "20250226222700 +0100",
+            "title": "Shalosh - Live at Moods",
+            "description": "| +TP | Música |\n\nPianist Gadi Stern, bassist David Michaeli and drummer Matan Assayag express Tel Aviv's artistic richness",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226222701 +0100",
+            "stop_time": "20250226233000 +0100",
+            "title": "Inside Björk",
+            "description": "| +TP | Música |\n\nInside Björk explores the unique artistry and global impact of Iceland's most innovative pop singer",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233001 +0100",
+            "stop_time": "20250227005100 +0100",
+            "title": "Liz McComb - Olympia, Paris",
+            "description": "| +TP | Música |\n\nBetween gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227005101 +0100",
+            "stop_time": "20250227020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020001 +0100",
+            "stop_time": "20250227042700 +0100",
+            "title": "Shalosh - Live at Moods",
+            "description": "| +TP | Música |\n\nPianist Gadi Stern, bassist David Michaeli and drummer Matan Assayag express Tel Aviv's artistic richness",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227042701 +0100",
+            "stop_time": "20250227053000 +0100",
+            "title": "Inside Björk",
+            "description": "| +TP | Música |\n\nInside Björk explores the unique artistry and global impact of Iceland's most innovative pop singer",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053001 +0100",
+            "stop_time": "20250227065100 +0100",
+            "title": "Liz McComb - Olympia, Paris",
+            "description": "| +TP | Música |\n\nBetween gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227065101 +0100",
+            "stop_time": "20250227070000 +0100",
+            "title": "Late Night Sounds by Qwest TV",
+            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070001 +0100",
+            "stop_time": "20250227100900 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100901 +0100",
+            "stop_time": "20250227130300 +0100",
+            "title": "Diverse, Beautiful Music by Qwest TV",
+            "description": "| +TP | Música |\n\nQwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130301 +0100",
+            "stop_time": "20250227154000 +0100",
+            "title": "Where Great Music Meets by Qwest TV",
+            "description": "| +TP | Música |\n\nA curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227154001 +0100",
+            "stop_time": "20250227180600 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180601 +0100",
+            "stop_time": "20250227200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200001 +0100",
+            "stop_time": "20250227211100 +0100",
+            "title": "IIhan Ersahin's Istanbul Sessions",
+            "description": "| +TP | Música |\n\nTenor saxophonist Ilhan Ersahin has spent the last two decades putting Turkish jazz on the international map.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227211101 +0100",
+            "stop_time": "20250227230100 +0100",
+            "title": "Judith Hill - Live at Moods",
+            "description": "| +TP | Música |\n\nA soul heritage that Judith Hill, added to the delicacy of her touch on the piano, imposes naturally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230101 +0100",
+            "stop_time": "20250228001000 +0100",
+            "title": "Andy Emler MegaOctet - Live",
+            "description": "| +TP | Música |\n\n30 years after its creation in 1989, the sparkling nonet returns to the Parc Floral for the Paris Jazz Fest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228001001 +0100",
+            "stop_time": "20250228020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020001 +0100",
+            "stop_time": "20250228031100 +0100",
+            "title": "IIhan Ersahin's Istanbul Sessions",
+            "description": "| +TP | Música |\n\nTenor saxophonist Ilhan Ersahin has spent the last two decades putting Turkish jazz on the international map.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228031101 +0100",
+            "stop_time": "20250228050100 +0100",
+            "title": "Judith Hill - Live at Moods",
+            "description": "| +TP | Música |\n\nA soul heritage that Judith Hill, added to the delicacy of her touch on the piano, imposes naturally.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050101 +0100",
+            "stop_time": "20250228061000 +0100",
+            "title": "Andy Emler MegaOctet - Live",
+            "description": "| +TP | Música |\n\n30 years after its creation in 1989, the sparkling nonet returns to the Parc Floral for the Paris Jazz Fest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228061001 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "Late Night Sounds by Qwest TV",
+            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228095800 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228095801 +0100",
+            "stop_time": "20250228120800 +0100",
+            "title": "Diverse, Beautiful Music by Qwest TV",
+            "description": "| +TP | Música |\n\nQwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120801 +0100",
+            "stop_time": "20250228145900 +0100",
+            "title": "Where Great Music Meets by Qwest TV",
+            "description": "| +TP | Música |\n\nA curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228145901 +0100",
+            "stop_time": "20250228172500 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228172501 +0100",
+            "stop_time": "20250228200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200001 +0100",
+            "stop_time": "20250228221600 +0100",
+            "title": "Marcus Miller \"Tutu Revisited\"",
+            "description": "| +TP | Música |\n\nLegendary bassist, Miller revisits his collaboration with Miles Davis, featuring trumpeter Christian Scott.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221601 +0100",
+            "stop_time": "20250228232500 +0100",
+            "title": "Rodolphe Lauretta - Kreolia",
+            "description": "| +TP | Música |\n\nAt La Rochelle Jazz Festival, Rodolphe Lauretta led his quintet for his album release party for Kreolia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228232501 +0100",
+            "stop_time": "20250301005300 +0100",
+            "title": "Rhoda Scott & The Ladies All Star",
+            "description": "| +TP | Música |\n\nRhoda shares the stage with the Ladies All-Star, that includes talents such as Anne Paceo and Sophie Alour.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301005301 +0100",
+            "stop_time": "20250301020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020001 +0100",
+            "stop_time": "20250301041600 +0100",
+            "title": "Marcus Miller \"Tutu Revisited\"",
+            "description": "| +TP | Música |\n\nLegendary bassist, Miller revisits his collaboration with Miles Davis, featuring trumpeter Christian Scott.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301041601 +0100",
+            "stop_time": "20250301052500 +0100",
+            "title": "Rodolphe Lauretta - Kreolia",
+            "description": "| +TP | Música |\n\nAt La Rochelle Jazz Festival, Rodolphe Lauretta led his quintet for his album release party for Kreolia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301052501 +0100",
+            "stop_time": "20250301065300 +0100",
+            "title": "Rhoda Scott & The Ladies All Star",
+            "description": "| +TP | Música |\n\nRhoda shares the stage with the Ladies All-Star, that includes talents such as Anne Paceo and Sophie Alour.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301065301 +0100",
+            "stop_time": "20250301070000 +0100",
+            "title": "Late Night Sounds by Qwest TV",
+            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070001 +0100",
+            "stop_time": "20250301100900 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100901 +0100",
+            "stop_time": "20250301130400 +0100",
+            "title": "Diverse, Beautiful Music by Qwest TV",
+            "description": "| +TP | Música |\n\nQwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130401 +0100",
+            "stop_time": "20250301160500 +0100",
+            "title": "Where Great Music Meets by Qwest TV",
+            "description": "| +TP | Música |\n\nA curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160501 +0100",
+            "stop_time": "20250301190000 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190001 +0100",
+            "stop_time": "20250301200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200001 +0100",
+            "stop_time": "20250301210700 +0100",
+            "title": "The Last Poets",
+            "description": "| +TP | Música |\n\nForty years after their debut in 1968, and after many disagreements, the Last Poets agreed to a reunion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210701 +0100",
+            "stop_time": "20250301225600 +0100",
+            "title": "Marko Marković Brass Band - Live",
+            "description": "| +TP | Música |\n\nHis great-grandfather used to play for the king of Serbia. Here the Marko Marković Brass Band plays at Moods",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301225601 +0100",
+            "stop_time": "20250302003400 +0100",
+            "title": "Sophye Soliveau",
+            "description": "| +TP | Música |\n\nRising jazz vocalist & harpist captivates audiences against the beautiful landscape of the Cosmo Jazz Festival",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302003401 +0100",
+            "stop_time": "20250302020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020001 +0100",
+            "stop_time": "20250302030700 +0100",
+            "title": "The Last Poets",
+            "description": "| +TP | Música |\n\nForty years after their debut in 1968, and after many disagreements, the Last Poets agreed to a reunion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030701 +0100",
+            "stop_time": "20250302045600 +0100",
+            "title": "Marko Marković Brass Band - Live",
+            "description": "| +TP | Música |\n\nHis great-grandfather used to play for the king of Serbia. Here the Marko Marković Brass Band plays at Moods",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302045601 +0100",
+            "stop_time": "20250302063400 +0100",
+            "title": "Sophye Soliveau",
+            "description": "| +TP | Música |\n\nRising jazz vocalist & harpist captivates audiences against the beautiful landscape of the Cosmo Jazz Festival",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302063401 +0100",
+            "stop_time": "20250302070000 +0100",
+            "title": "Late Night Sounds by Qwest TV",
+            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302070001 +0100",
+            "stop_time": "20250302100500 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100501 +0100",
+            "stop_time": "20250302124800 +0100",
+            "title": "Diverse, Beautiful Music by Qwest TV",
+            "description": "| +TP | Música |\n\nQwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302124801 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "Where Great Music Meets by Qwest TV",
+            "description": "| +TP | Música |\n\nA curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302173200 +0100",
+            "title": "From Be Bop to Hip Hop by Qwest TV",
+            "description": "| +TP | Música |\n\nDiscover new tracks and timeless standards: \"From Bebop to Doo-Wop to Hip Hop\" as Quincy Jones loves to say!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302173201 +0100",
+            "stop_time": "20250302200000 +0100",
+            "title": "It’s Showtime! by Qwest TV",
+            "description": "| +TP | Música |\n\nThis is your front-row seat for tonight's concert on Qwest TV!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200001 +0100",
+            "stop_time": "20250302210800 +0100",
+            "title": "Walter Trout - Live in Germany",
+            "description": "| +TP | Música |\n\nWith his gritty vocals and his electrifying guitar solos, Walter Trout rouses the crowd that cheers for more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210801 +0100",
+            "stop_time": "20250302214100 +0100",
+            "title": "Art Blakey & The Jazz Messengers",
+            "description": "| +TP | Música |\n\nThe musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302214101 +0100",
+            "stop_time": "20250302224300 +0100",
+            "title": "Melody Gardot - Live in France",
+            "description": "| +TP | Música |\n\nThe Grammy-winning acclaimed jazz vocalist enchants us at the legendary Chateau d'Hérouville in France.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302224301 +0100",
+            "stop_time": "20250303020000 +0100",
+            "title": "Chillin’ with Qwest TV",
+            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/qwesttv-qwest-tv.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

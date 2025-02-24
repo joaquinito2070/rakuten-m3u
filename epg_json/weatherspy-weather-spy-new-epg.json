@@ -1,0 +1,1777 @@
+{
+    "name": "Weather Spy",
+    "tvg_id": "weather-spy-new",
+    "epg": [
+        {
+            "start_time": "20250224154838 +0100",
+            "stop_time": "20250224161832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark joins George  and a team of scientists in exploring the world’s largest lava lake - Mount Nyiragongo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224161838 +0100",
+            "stop_time": "20250224164832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224164838 +0100",
+            "stop_time": "20250224171832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224171838 +0100",
+            "stop_time": "20250224174832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn joins Mark in a ride through the US Midwest during the most prolific tornado season on record.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224174838 +0100",
+            "stop_time": "20250224181832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Tornado Terrorizing a Town and Golf Game in a Massive Storm?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224181838 +0100",
+            "stop_time": "20250224184832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Wave Ravaged Deck and Tornado Coming Ashore?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224184838 +0100",
+            "stop_time": "20250224191832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Tent Lightning Strike or Windshield Hail Attack?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191838 +0100",
+            "stop_time": "20250224194832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Paraglider vs. Dust Devil or Off Roaders Taking on a Mud Pit?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224194838 +0100",
+            "stop_time": "20250224201832 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nDo you ever wish you could see all the wackiest weather from around the world, without moving a muscle or lifting a finger? Your wish is our command here on a brand new episode of Extreme Weather Countdown!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224201838 +0100",
+            "stop_time": "20250224204832 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nWe have a brand new lineup bursting at the seams with some of the craziest climate events caught on camera.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224204838 +0100",
+            "stop_time": "20250224211832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nLightning strikes, volcanic eruptions, cyclones, and dust storms unleash nature’s raw power on Earth.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224211838 +0100",
+            "stop_time": "20250224214832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nFrom storm clouds to northern lights, high winds to meteor showers, chaos reigns in the skies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224214838 +0100",
+            "stop_time": "20250224221832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark joins George  and a team of scientists in exploring the world’s largest lava lake - Mount Nyiragongo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224221838 +0100",
+            "stop_time": "20250224224832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224224838 +0100",
+            "stop_time": "20250224231832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224231838 +0100",
+            "stop_time": "20250224234832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn joins Mark in a ride through the US Midwest during the most prolific tornado season on record.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224234838 +0100",
+            "stop_time": "20250225001832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nTake a look at the beautiful little Aquatic creatures that add cuteness to the vast marine life",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225001838 +0100",
+            "stop_time": "20250225004832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWelcome to Zootopia! We have a line-up of wild Friends ready to entertain you.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225004838 +0100",
+            "stop_time": "20250225011832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nThe North Atlantic Ocean is generous with her bounty, until she takes a life in return. Mark braves the deep seas on the most dangerous day of the lobster fishing season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225011838 +0100",
+            "stop_time": "20250225014832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOne year after witnessing a record number of deadly twisters in Tornado Alley, Mark & Jaclyn return to the Midwest in search of more  extreme storms. The hunt challenges their relationship with Mother Nature, as well as with each other.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225014838 +0100",
+            "stop_time": "20250225021832 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nThunderstorms come out to play with powerful booms, brilliant flashes, and enough force to take down trees!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225021838 +0100",
+            "stop_time": "20250225024832 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nRain. Snow. Lightning. Hurricanes. Dust devils. When these weather phenomena combine, it's usually a recipe for disaster. But on this show, it's just another normal day in the books. It's time for Extreme Weather Countdown!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225024838 +0100",
+            "stop_time": "20250225031832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Kayaker over a Waterfall and Car Avoiding Falling Tree?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225031838 +0100",
+            "stop_time": "20250225034832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Flash Flood Steals Car and a Tornado Tearing Through a Cafe?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225034838 +0100",
+            "stop_time": "20250225041832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Ice Cave Collapses and Bathing Suit Snow Dives?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225041838 +0100",
+            "stop_time": "20250225044832 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Parasiaing without a Tether and Snowboarder Facing an Avalanch?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225044838 +0100",
+            "stop_time": "20250225051832 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nTraveling during a storm makes for some interesting results.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225051838 +0100",
+            "stop_time": "20250225055102 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nThere are no rainbows behind these storm clouds.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225055108 +0100",
+            "stop_time": "20250225062102 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nTake a look at the beautiful little Aquatic creatures that add cuteness to the vast marine life",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225062108 +0100",
+            "stop_time": "20250225065102 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWelcome to Zootopia! We have a line-up of wild Friends ready to entertain you.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225065108 +0100",
+            "stop_time": "20250225072102 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nThe North Atlantic Ocean is generous with her bounty, until she takes a life in return. Mark braves the deep seas on the most dangerous day of the lobster fishing season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225072108 +0100",
+            "stop_time": "20250225075102 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOne year after witnessing a record number of deadly twisters in Tornado Alley, Mark & Jaclyn return to the Midwest in search of more  extreme storms. The hunt challenges their relationship with Mother Nature, as well as with each other.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225075108 +0100",
+            "stop_time": "20250225082102 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nThunderstorms come out to play with powerful booms, brilliant flashes, and enough force to take down trees!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225082108 +0100",
+            "stop_time": "20250225085102 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nRain. Snow. Lightning. Hurricanes. Dust devils. When these weather phenomena combine, it's usually a recipe for disaster. But on this show, it's just another normal day in the books. It's time for Extreme Weather Countdown!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225085108 +0100",
+            "stop_time": "20250225092102 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Kayaker over a Waterfall and Car Avoiding Falling Tree?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225092108 +0100",
+            "stop_time": "20250225095102 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Flash Flood Steals Car and a Tornado Tearing Through a Cafe?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225095108 +0100",
+            "stop_time": "20250225102102 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Ice Cave Collapses and Bathing Suit Snow Dives?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225102108 +0100",
+            "stop_time": "20250225105102 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Parasiaing without a Tether and Snowboarder Facing an Avalanch?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225105108 +0100",
+            "stop_time": "20250225112102 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nTraveling during a storm makes for some interesting results.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225112108 +0100",
+            "stop_time": "20250225115332 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nThere are no rainbows behind these storm clouds.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225115338 +0100",
+            "stop_time": "20250225122332 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nTake a look at the beautiful little Aquatic creatures that add cuteness to the vast marine life",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225122338 +0100",
+            "stop_time": "20250225125332 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWelcome to Zootopia! We have a line-up of wild Friends ready to entertain you.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225125338 +0100",
+            "stop_time": "20250225132332 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nThe North Atlantic Ocean is generous with her bounty, until she takes a life in return. Mark braves the deep seas on the most dangerous day of the lobster fishing season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225132338 +0100",
+            "stop_time": "20250225135332 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOne year after witnessing a record number of deadly twisters in Tornado Alley, Mark & Jaclyn return to the Midwest in search of more  extreme storms. The hunt challenges their relationship with Mother Nature, as well as with each other.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135338 +0100",
+            "stop_time": "20250225142332 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nThunderstorms come out to play with powerful booms, brilliant flashes, and enough force to take down trees!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225142338 +0100",
+            "stop_time": "20250225145332 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nRain. Snow. Lightning. Hurricanes. Dust devils. When these weather phenomena combine, it's usually a recipe for disaster. But on this show, it's just another normal day in the books. It's time for Extreme Weather Countdown!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225145338 +0100",
+            "stop_time": "20250225152332 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Kayaker over a Waterfall and Car Avoiding Falling Tree?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225152338 +0100",
+            "stop_time": "20250225155332 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Flash Flood Steals Car and a Tornado Tearing Through a Cafe?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225155338 +0100",
+            "stop_time": "20250225162332 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Ice Cave Collapses and Bathing Suit Snow Dives?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225162338 +0100",
+            "stop_time": "20250225165332 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Parasiaing without a Tether and Snowboarder Facing an Avalanch?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225165338 +0100",
+            "stop_time": "20250225172332 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nTraveling during a storm makes for some interesting results.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225172338 +0100",
+            "stop_time": "20250225175602 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nThere are no rainbows behind these storm clouds.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225175608 +0100",
+            "stop_time": "20250225182602 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nTake a look at the beautiful little Aquatic creatures that add cuteness to the vast marine life",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225182608 +0100",
+            "stop_time": "20250225185602 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWelcome to Zootopia! We have a line-up of wild Friends ready to entertain you.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225185608 +0100",
+            "stop_time": "20250225192602 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nThe North Atlantic Ocean is generous with her bounty, until she takes a life in return. Mark braves the deep seas on the most dangerous day of the lobster fishing season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225192608 +0100",
+            "stop_time": "20250225195602 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOne year after witnessing a record number of deadly twisters in Tornado Alley, Mark & Jaclyn return to the Midwest in search of more  extreme storms. The hunt challenges their relationship with Mother Nature, as well as with each other.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225195608 +0100",
+            "stop_time": "20250225202602 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nThunderstorms come out to play with powerful booms, brilliant flashes, and enough force to take down trees!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225202608 +0100",
+            "stop_time": "20250225205602 +0100",
+            "title": "Extreme Weather Countdown",
+            "description": "| +TP | Estilo de vida |\n\nRain. Snow. Lightning. Hurricanes. Dust devils. When these weather phenomena combine, it's usually a recipe for disaster. But on this show, it's just another normal day in the books. It's time for Extreme Weather Countdown!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225205608 +0100",
+            "stop_time": "20250225212602 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Kayaker over a Waterfall and Car Avoiding Falling Tree?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225212608 +0100",
+            "stop_time": "20250225215602 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Flash Flood Steals Car and a Tornado Tearing Through a Cafe?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225215608 +0100",
+            "stop_time": "20250225222602 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Ice Cave Collapses and Bathing Suit Snow Dives?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225222608 +0100",
+            "stop_time": "20250225225602 +0100",
+            "title": "Humans VS Weather",
+            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Parasiaing without a Tether and Snowboarder Facing an Avalanch?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225225608 +0100",
+            "stop_time": "20250225232602 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nTraveling during a storm makes for some interesting results.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225232608 +0100",
+            "stop_time": "20250225235832 +0100",
+            "title": "WeatherSpy Shorts",
+            "description": "| +TP | Estilo de vida |\n\nThere are no rainbows behind these storm clouds.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225235838 +0100",
+            "stop_time": "20250226002832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nFinders Keepers, Have fun watching these wild animals pilfering to satisfy their cravings",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002838 +0100",
+            "stop_time": "20250226005832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWildlife in the world can only be protected by the love of compassionate hearts in the world",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226005838 +0100",
+            "stop_time": "20250226012832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn Whittal and Mark Robinson are in Tornado Alley to track down some of the most ferocious weather.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226012838 +0100",
+            "stop_time": "20250226015832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark joins George  and a team of scientists in exploring the world’s largest lava lake - Mount Nyiragongo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226015838 +0100",
+            "stop_time": "20250226022832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn his home turf in Canada, Mark and his team chase one of nature’s deadliest forces, coming face to face with tornadoes’ shear strength.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226022838 +0100",
+            "stop_time": "20250226025832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nFrom hailstorms to hurricanes and tornadoes, the Storm Hunters revisit their craziest chases and share some of the most amazing moments in extreme weather events.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226025838 +0100",
+            "stop_time": "20250226032832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nDestructive tornadoes and ferocious winds are only two elements Mark and Jaclyn encounter when storm hunting.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226032838 +0100",
+            "stop_time": "20250226035832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark hikes up Mount Washington, New Hampshire, the highest peak in the Northeastern US and battles one of the most dangerous mountains in the world at its peak intensity.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226035838 +0100",
+            "stop_time": "20250226042832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nOne hurricane, 2 countries, 2,000 miles. Josh chases Hurricane Fiona from the Dominican Republic to Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226042838 +0100",
+            "stop_time": "20250226045832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nDurimg Super Typhoon Haiyan, Josh Morgerman found himself rescuing locals from its aftermath.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226045838 +0100",
+            "stop_time": "20250226052832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nExperience the devastation wrought by calamities and the havoc they wreak",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226052838 +0100",
+            "stop_time": "20250226055832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nEmbark on a journey through the treacherous realm of natural calamities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226055838 +0100",
+            "stop_time": "20250226062832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nFinders Keepers, Have fun watching these wild animals pilfering to satisfy their cravings",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226062838 +0100",
+            "stop_time": "20250226065832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWildlife in the world can only be protected by the love of compassionate hearts in the world",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226065838 +0100",
+            "stop_time": "20250226072832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn Whittal and Mark Robinson are in Tornado Alley to track down some of the most ferocious weather.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226072838 +0100",
+            "stop_time": "20250226075832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark joins George  and a team of scientists in exploring the world’s largest lava lake - Mount Nyiragongo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226075838 +0100",
+            "stop_time": "20250226082832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn his home turf in Canada, Mark and his team chase one of nature’s deadliest forces, coming face to face with tornadoes’ shear strength.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226082838 +0100",
+            "stop_time": "20250226085832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nFrom hailstorms to hurricanes and tornadoes, the Storm Hunters revisit their craziest chases and share some of the most amazing moments in extreme weather events.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226085838 +0100",
+            "stop_time": "20250226092832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nDestructive tornadoes and ferocious winds are only two elements Mark and Jaclyn encounter when storm hunting.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226092838 +0100",
+            "stop_time": "20250226095832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark hikes up Mount Washington, New Hampshire, the highest peak in the Northeastern US and battles one of the most dangerous mountains in the world at its peak intensity.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226095838 +0100",
+            "stop_time": "20250226102832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nOne hurricane, 2 countries, 2,000 miles. Josh chases Hurricane Fiona from the Dominican Republic to Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226102838 +0100",
+            "stop_time": "20250226105832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nDurimg Super Typhoon Haiyan, Josh Morgerman found himself rescuing locals from its aftermath.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226105838 +0100",
+            "stop_time": "20250226112832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nExperience the devastation wrought by calamities and the havoc they wreak",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226112838 +0100",
+            "stop_time": "20250226115832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nEmbark on a journey through the treacherous realm of natural calamities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226115838 +0100",
+            "stop_time": "20250226122832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nFinders Keepers, Have fun watching these wild animals pilfering to satisfy their cravings",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226122838 +0100",
+            "stop_time": "20250226125832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWildlife in the world can only be protected by the love of compassionate hearts in the world",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226125838 +0100",
+            "stop_time": "20250226132832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn Whittal and Mark Robinson are in Tornado Alley to track down some of the most ferocious weather.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226132838 +0100",
+            "stop_time": "20250226135832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark joins George  and a team of scientists in exploring the world’s largest lava lake - Mount Nyiragongo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226135838 +0100",
+            "stop_time": "20250226142832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn his home turf in Canada, Mark and his team chase one of nature’s deadliest forces, coming face to face with tornadoes’ shear strength.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226142838 +0100",
+            "stop_time": "20250226145832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nFrom hailstorms to hurricanes and tornadoes, the Storm Hunters revisit their craziest chases and share some of the most amazing moments in extreme weather events.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226145838 +0100",
+            "stop_time": "20250226152832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nDestructive tornadoes and ferocious winds are only two elements Mark and Jaclyn encounter when storm hunting.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226152838 +0100",
+            "stop_time": "20250226155832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark hikes up Mount Washington, New Hampshire, the highest peak in the Northeastern US and battles one of the most dangerous mountains in the world at its peak intensity.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226155838 +0100",
+            "stop_time": "20250226162832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nOne hurricane, 2 countries, 2,000 miles. Josh chases Hurricane Fiona from the Dominican Republic to Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226162838 +0100",
+            "stop_time": "20250226165832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nDurimg Super Typhoon Haiyan, Josh Morgerman found himself rescuing locals from its aftermath.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226165838 +0100",
+            "stop_time": "20250226172832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nExperience the devastation wrought by calamities and the havoc they wreak",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226172838 +0100",
+            "stop_time": "20250226175832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nEmbark on a journey through the treacherous realm of natural calamities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226175838 +0100",
+            "stop_time": "20250226182832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nFinders Keepers, Have fun watching these wild animals pilfering to satisfy their cravings",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226182838 +0100",
+            "stop_time": "20250226185832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWildlife in the world can only be protected by the love of compassionate hearts in the world",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226185838 +0100",
+            "stop_time": "20250226192832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn Whittal and Mark Robinson are in Tornado Alley to track down some of the most ferocious weather.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226192838 +0100",
+            "stop_time": "20250226195832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark joins George  and a team of scientists in exploring the world’s largest lava lake - Mount Nyiragongo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226195838 +0100",
+            "stop_time": "20250226202832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn his home turf in Canada, Mark and his team chase one of nature’s deadliest forces, coming face to face with tornadoes’ shear strength.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226202838 +0100",
+            "stop_time": "20250226205832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nFrom hailstorms to hurricanes and tornadoes, the Storm Hunters revisit their craziest chases and share some of the most amazing moments in extreme weather events.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226205838 +0100",
+            "stop_time": "20250226212832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nDestructive tornadoes and ferocious winds are only two elements Mark and Jaclyn encounter when storm hunting.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226212838 +0100",
+            "stop_time": "20250226215832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark hikes up Mount Washington, New Hampshire, the highest peak in the Northeastern US and battles one of the most dangerous mountains in the world at its peak intensity.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226215838 +0100",
+            "stop_time": "20250226222832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nOne hurricane, 2 countries, 2,000 miles. Josh chases Hurricane Fiona from the Dominican Republic to Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226222838 +0100",
+            "stop_time": "20250226225832 +0100",
+            "title": "Mission: Hurricane",
+            "description": "| +TP | Estilo de vida |\n\nDurimg Super Typhoon Haiyan, Josh Morgerman found himself rescuing locals from its aftermath.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226225838 +0100",
+            "stop_time": "20250226232832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nExperience the devastation wrought by calamities and the havoc they wreak",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226232838 +0100",
+            "stop_time": "20250226235832 +0100",
+            "title": "Sinister Storms",
+            "description": "| +TP | Estilo de vida |\n\nEmbark on a journey through the treacherous realm of natural calamities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226235838 +0100",
+            "stop_time": "20250227002832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGet ready to witness the mistakes and michiefs of our wild friends",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227002838 +0100",
+            "stop_time": "20250227005832 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nHeart warming rescues and encounters captured by every-day explorers across the globe",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227005838 +0100",
+            "stop_time": "20250227012832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark & Jaclyn chase extreme winter weather as Nor’easters hammer Atlantic Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227012838 +0100",
+            "stop_time": "20250227015832 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227015838 +0100",
+            "stop_time": "20250227022900 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nVolcanic ash engulfing a town, a massive firenado in California - just some of the viral weather videos caught on camera in this episode of Captured, as Vicious Winds take center stage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227022906 +0100",
+            "stop_time": "20250227025833 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nHumans are inclined to take the natural element of water for granted; until they witness its relentless power and destructive capabilities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227025839 +0100",
+            "stop_time": "20250227032833 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nA catastrophic earthquake, a mesmerizing avalanche, a destructive tornado, and an unintentional smashup derby on icy highways; our  experts weigh in on these viral videos as people get caught off guard by the sudden and powerful forces of nature.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227032839 +0100",
+            "stop_time": "20250227035833 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nEl Niño is a temperature anomaly in the Pacific Ocean that affects weather patterns around the globe. In this episode we show some of the costly and deadly weather that can result when a Super El Niño occurs.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227035839 +0100",
+            "stop_time": "20250227043103 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWith a little bit of sun, sand, and surf, life under the sea is simply stunning.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043109 +0100",
+            "stop_time": "20250227050333 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nSome of Earth's smallest critters can make the biggest impact.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050339 +0100",
+            "stop_time": "20250227053603 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGrace and poise is personified in the largest animals on the planet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053609 +0100",
+            "stop_time": "20250227060833 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBetween babbling brooks and lazy rivers lives nature's perfect calm.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060839 +0100",
+            "stop_time": "20250227063833 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGet ready to witness the mistakes and michiefs of our wild friends",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227063839 +0100",
+            "stop_time": "20250227070833 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nHeart warming rescues and encounters captured by every-day explorers across the globe",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070839 +0100",
+            "stop_time": "20250227073833 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark & Jaclyn chase extreme winter weather as Nor’easters hammer Atlantic Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073839 +0100",
+            "stop_time": "20250227080833 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080839 +0100",
+            "stop_time": "20250227083901 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nVolcanic ash engulfing a town, a massive firenado in California - just some of the viral weather videos caught on camera in this episode of Captured, as Vicious Winds take center stage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083907 +0100",
+            "stop_time": "20250227090834 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nHumans are inclined to take the natural element of water for granted; until they witness its relentless power and destructive capabilities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090840 +0100",
+            "stop_time": "20250227093834 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nA catastrophic earthquake, a mesmerizing avalanche, a destructive tornado, and an unintentional smashup derby on icy highways; our  experts weigh in on these viral videos as people get caught off guard by the sudden and powerful forces of nature.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093840 +0100",
+            "stop_time": "20250227101104 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWith a little bit of sun, sand, and surf, life under the sea is simply stunning.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227101110 +0100",
+            "stop_time": "20250227104334 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nSome of Earth's smallest critters can make the biggest impact.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227104340 +0100",
+            "stop_time": "20250227111604 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGrace and poise is personified in the largest animals on the planet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227111610 +0100",
+            "stop_time": "20250227114834 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBetween babbling brooks and lazy rivers lives nature's perfect calm.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227114840 +0100",
+            "stop_time": "20250227121834 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGet ready to witness the mistakes and michiefs of our wild friends",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227121840 +0100",
+            "stop_time": "20250227124834 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nHeart warming rescues and encounters captured by every-day explorers across the globe",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227124840 +0100",
+            "stop_time": "20250227131834 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark & Jaclyn chase extreme winter weather as Nor’easters hammer Atlantic Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227131840 +0100",
+            "stop_time": "20250227134834 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227134840 +0100",
+            "stop_time": "20250227141902 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nVolcanic ash engulfing a town, a massive firenado in California - just some of the viral weather videos caught on camera in this episode of Captured, as Vicious Winds take center stage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227141908 +0100",
+            "stop_time": "20250227144835 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nHumans are inclined to take the natural element of water for granted; until they witness its relentless power and destructive capabilities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227144841 +0100",
+            "stop_time": "20250227151835 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nA catastrophic earthquake, a mesmerizing avalanche, a destructive tornado, and an unintentional smashup derby on icy highways; our  experts weigh in on these viral videos as people get caught off guard by the sudden and powerful forces of nature.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227151841 +0100",
+            "stop_time": "20250227154835 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nEl Niño is a temperature anomaly in the Pacific Ocean that affects weather patterns around the globe. In this episode we show some of the costly and deadly weather that can result when a Super El Niño occurs.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227154841 +0100",
+            "stop_time": "20250227162105 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWith a little bit of sun, sand, and surf, life under the sea is simply stunning.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227162111 +0100",
+            "stop_time": "20250227165335 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nSome of Earth's smallest critters can make the biggest impact.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227165341 +0100",
+            "stop_time": "20250227172605 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGrace and poise is personified in the largest animals on the planet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227172611 +0100",
+            "stop_time": "20250227175835 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBetween babbling brooks and lazy rivers lives nature's perfect calm.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227175841 +0100",
+            "stop_time": "20250227182835 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGet ready to witness the mistakes and michiefs of our wild friends",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227182841 +0100",
+            "stop_time": "20250227185835 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nHeart warming rescues and encounters captured by every-day explorers across the globe",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227185841 +0100",
+            "stop_time": "20250227192835 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nMark & Jaclyn chase extreme winter weather as Nor’easters hammer Atlantic Canada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227192841 +0100",
+            "stop_time": "20250227195835 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nA mysterious fever overwhelms Mark as he struggles to fulfil a childhood dream. He must use every ounce of inner strength to journey to the mouth of hell, and make it out alive.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227195841 +0100",
+            "stop_time": "20250227202903 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nVolcanic ash engulfing a town, a massive firenado in California - just some of the viral weather videos caught on camera in this episode of Captured, as Vicious Winds take center stage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227202909 +0100",
+            "stop_time": "20250227205836 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nHumans are inclined to take the natural element of water for granted; until they witness its relentless power and destructive capabilities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227205842 +0100",
+            "stop_time": "20250227212836 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nA catastrophic earthquake, a mesmerizing avalanche, a destructive tornado, and an unintentional smashup derby on icy highways; our  experts weigh in on these viral videos as people get caught off guard by the sudden and powerful forces of nature.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227212842 +0100",
+            "stop_time": "20250227215836 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nEl Niño is a temperature anomaly in the Pacific Ocean that affects weather patterns around the globe. In this episode we show some of the costly and deadly weather that can result when a Super El Niño occurs.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227215842 +0100",
+            "stop_time": "20250227223106 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWith a little bit of sun, sand, and surf, life under the sea is simply stunning.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223112 +0100",
+            "stop_time": "20250227230336 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nSome of Earth's smallest critters can make the biggest impact.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230342 +0100",
+            "stop_time": "20250227233606 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nGrace and poise is personified in the largest animals on the planet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233612 +0100",
+            "stop_time": "20250228000836 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBetween babbling brooks and lazy rivers lives nature's perfect calm.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000842 +0100",
+            "stop_time": "20250228003836 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBirds of a feather flock together",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003842 +0100",
+            "stop_time": "20250228010836 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWhat good is the warmth of summer, without the cold of the Winter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010842 +0100",
+            "stop_time": "20250228013836 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nAnother chase through the hotbed of wicked weather puts the storm hunters a little too close to the danger zone. Will Mark & Jaclyn see the tornado they’re hoping for before it’s too late?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013842 +0100",
+            "stop_time": "20250228020836 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020842 +0100",
+            "stop_time": "20250228030806 +0100",
+            "title": "Hellfire Heroes",
+            "description": "| +TP | Estilo de vida |\n\nFirefighters burn grass fields hoping to prevent a repeat of the 2011 wildfires that devastated the town.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030812 +0100",
+            "stop_time": "20250228033736 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe bush pilots have to use all their skills - scuba diving, underwater rigging and expert flying - to try and salvage a de Havilland Beaver wing at the bottom of the 6 Mile Lake.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228033742 +0100",
+            "stop_time": "20250228040706 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe Tanalian bush pilots transport extreme paragliders to Moose Creek, in the Talkeetna Range, for a once-in-a-lifetime airborne experience.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040712 +0100",
+            "stop_time": "20250228043706 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nIn what is regarded as one of greatest survival stories of the 20th Century, sailor Steven Callahan finds himself alone and adrift in a life raft after his boat, the Napoleon Solo sinks in the mid Atlantic.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228043712 +0100",
+            "stop_time": "20250228050706 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nJustin and Jeremy Harris' weekend decent into a remote Utah canyon becomes a survival nightmare when Justin severely breaks his leg. As night fast approaches and temperatures drop below freezing, how will these two brothers survive?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050712 +0100",
+            "stop_time": "20250228053706 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nIn these viral videos we witness how, in the blink of an eye, your day can become suddenly dangerous. Even on a beautiful day, when you're not expecting any severe weather at all, Mother Nature can sometimes be malicious and sneaky",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053712 +0100",
+            "stop_time": "20250228060706 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nMother Nature unleashes some of her most deadly forces to wreak havoc in the air and unexpectedly terrify her victims.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060712 +0100",
+            "stop_time": "20250228063706 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBirds of a feather flock together",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063712 +0100",
+            "stop_time": "20250228070706 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWhat good is the warmth of summer, without the cold of the Winter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070712 +0100",
+            "stop_time": "20250228073706 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nAnother chase through the hotbed of wicked weather puts the storm hunters a little too close to the danger zone. Will Mark & Jaclyn see the tornado they’re hoping for before it’s too late?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073712 +0100",
+            "stop_time": "20250228080706 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080712 +0100",
+            "stop_time": "20250228090636 +0100",
+            "title": "Hellfire Heroes",
+            "description": "| +TP | Estilo de vida |\n\nFirefighters burn grass fields hoping to prevent a repeat of the 2011 wildfires that devastated the town.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090642 +0100",
+            "stop_time": "20250228093606 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe bush pilots have to use all their skills - scuba diving, underwater rigging and expert flying - to try and salvage a de Havilland Beaver wing at the bottom of the 6 Mile Lake.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093612 +0100",
+            "stop_time": "20250228100536 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe Tanalian bush pilots transport extreme paragliders to Moose Creek, in the Talkeetna Range, for a once-in-a-lifetime airborne experience.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100542 +0100",
+            "stop_time": "20250228103536 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nIn what is regarded as one of greatest survival stories of the 20th Century, sailor Steven Callahan finds himself alone and adrift in a life raft after his boat, the Napoleon Solo sinks in the mid Atlantic.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228103542 +0100",
+            "stop_time": "20250228110536 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nJustin and Jeremy Harris' weekend decent into a remote Utah canyon becomes a survival nightmare when Justin severely breaks his leg. As night fast approaches and temperatures drop below freezing, how will these two brothers survive?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110542 +0100",
+            "stop_time": "20250228113536 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nIn these viral videos we witness how, in the blink of an eye, your day can become suddenly dangerous. Even on a beautiful day, when you're not expecting any severe weather at all, Mother Nature can sometimes be malicious and sneaky",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113542 +0100",
+            "stop_time": "20250228120536 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nMother Nature unleashes some of her most deadly forces to wreak havoc in the air and unexpectedly terrify her victims.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120542 +0100",
+            "stop_time": "20250228123536 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBirds of a feather flock together",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123542 +0100",
+            "stop_time": "20250228130536 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWhat good is the warmth of summer, without the cold of the Winter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130542 +0100",
+            "stop_time": "20250228133536 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nAnother chase through the hotbed of wicked weather puts the storm hunters a little too close to the danger zone. Will Mark & Jaclyn see the tornado they’re hoping for before it’s too late?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133542 +0100",
+            "stop_time": "20250228140536 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140542 +0100",
+            "stop_time": "20250228150506 +0100",
+            "title": "Hellfire Heroes",
+            "description": "| +TP | Estilo de vida |\n\nFirefighters burn grass fields hoping to prevent a repeat of the 2011 wildfires that devastated the town.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150512 +0100",
+            "stop_time": "20250228153436 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe bush pilots have to use all their skills - scuba diving, underwater rigging and expert flying - to try and salvage a de Havilland Beaver wing at the bottom of the 6 Mile Lake.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153442 +0100",
+            "stop_time": "20250228160406 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe Tanalian bush pilots transport extreme paragliders to Moose Creek, in the Talkeetna Range, for a once-in-a-lifetime airborne experience.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160412 +0100",
+            "stop_time": "20250228163406 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nIn what is regarded as one of greatest survival stories of the 20th Century, sailor Steven Callahan finds himself alone and adrift in a life raft after his boat, the Napoleon Solo sinks in the mid Atlantic.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163412 +0100",
+            "stop_time": "20250228170406 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nJustin and Jeremy Harris' weekend decent into a remote Utah canyon becomes a survival nightmare when Justin severely breaks his leg. As night fast approaches and temperatures drop below freezing, how will these two brothers survive?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170412 +0100",
+            "stop_time": "20250228173406 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nIn these viral videos we witness how, in the blink of an eye, your day can become suddenly dangerous. Even on a beautiful day, when you're not expecting any severe weather at all, Mother Nature can sometimes be malicious and sneaky",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173412 +0100",
+            "stop_time": "20250228180406 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nMother Nature unleashes some of her most deadly forces to wreak havoc in the air and unexpectedly terrify her victims.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180412 +0100",
+            "stop_time": "20250228183406 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBirds of a feather flock together",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183412 +0100",
+            "stop_time": "20250228190406 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nWhat good is the warmth of summer, without the cold of the Winter.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190412 +0100",
+            "stop_time": "20250228193406 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nAnother chase through the hotbed of wicked weather puts the storm hunters a little too close to the danger zone. Will Mark & Jaclyn see the tornado they’re hoping for before it’s too late?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193412 +0100",
+            "stop_time": "20250228200406 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nOn the last day of their chase the storm hunters are shaken to the core by a giant, unpredictable tornado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200412 +0100",
+            "stop_time": "20250228210336 +0100",
+            "title": "Hellfire Heroes",
+            "description": "| +TP | Estilo de vida |\n\nFirefighters burn grass fields hoping to prevent a repeat of the 2011 wildfires that devastated the town.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210342 +0100",
+            "stop_time": "20250228213306 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe bush pilots have to use all their skills - scuba diving, underwater rigging and expert flying - to try and salvage a de Havilland Beaver wing at the bottom of the 6 Mile Lake.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213312 +0100",
+            "stop_time": "20250228220236 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe Tanalian bush pilots transport extreme paragliders to Moose Creek, in the Talkeetna Range, for a once-in-a-lifetime airborne experience.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220242 +0100",
+            "stop_time": "20250228223236 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nIn what is regarded as one of greatest survival stories of the 20th Century, sailor Steven Callahan finds himself alone and adrift in a life raft after his boat, the Napoleon Solo sinks in the mid Atlantic.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223242 +0100",
+            "stop_time": "20250228230236 +0100",
+            "title": "Fight to Survive",
+            "description": "| +TP | Estilo de vida |\n\nJustin and Jeremy Harris' weekend decent into a remote Utah canyon becomes a survival nightmare when Justin severely breaks his leg. As night fast approaches and temperatures drop below freezing, how will these two brothers survive?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230242 +0100",
+            "stop_time": "20250228233236 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nIn these viral videos we witness how, in the blink of an eye, your day can become suddenly dangerous. Even on a beautiful day, when you're not expecting any severe weather at all, Mother Nature can sometimes be malicious and sneaky",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233242 +0100",
+            "stop_time": "20250301000236 +0100",
+            "title": "Captured: Extreme Weather",
+            "description": "| +TP | Estilo de vida |\n\nMother Nature unleashes some of her most deadly forces to wreak havoc in the air and unexpectedly terrify her victims.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000242 +0100",
+            "stop_time": "20250301003236 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBears, although huge and majestic, are unBEARably cute",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003242 +0100",
+            "stop_time": "20250301010236 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nHere's what the last living descendants of Dinosaurs are upto now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010242 +0100",
+            "stop_time": "20250301013236 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nIt’s an ordinary town with a history of heartache. No one knows why Moore, Oklahoma has been the target of 3 mega-tornadoes in just 16 years. On the heels of the May 20, 2013 EF5 tornado, Mark & Jaclyn uncover stories behind the disaster, the recovery and the tenacious spirit of the people of the US Midwest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301013242 +0100",
+            "stop_time": "20250301020236 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn joins Mark in a ride through the US Midwest during the most prolific tornado season on record.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020242 +0100",
+            "stop_time": "20250301023336 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nThe Angry Planet team heads to Africa to climb the steep and very active Nyiragongo Volcano in the Congo that erupted in 2002, sending 125,000 people fleeing for their lives. Host/adventurer George Kourounis explores the bubbling lake of molten lava and investigates the risk the dangerous volcano poses to both the people of city of Goma and the Mountain Gorillas who live on the nearby jungle slopes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023342 +0100",
+            "stop_time": "20250301030436 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nThe autumn of 2006 brings hurricanes to the North Atlantic and hot dry winds fan forest fires across Northern Ontario. Host/adventurer George Kourounis has traveled to some awesome hurricanes, including Rita and Katrina, with his pal Mark Robinson. This year they stormchase in Newfoundland, site of the hurricane that pulled Mark out of a life-threatening depression.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030442 +0100",
+            "stop_time": "20250301033506 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nHost George Kourounis has braved many terrifying phenomena – but none as frightening as the one he takes on in this episode: marriage! To make sure his new bride is on the same adventurous page with him, he proposes to get married on the lip of an exploding volcano, on the South Pacific island of Tanna, in Vanuatu. Before the native preacher, dressed in grass skirt and kustom garb, gets to perform the smoky vows, George descends into the erupting volcano to bring out red hot samples of the lava it is producing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301033512 +0100",
+            "stop_time": "20250301040606 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nAvalanche danger is very high in the Rogers Pass area of the Trans Canada Highway in British Columbia. Host of Angry Planet George Kourounis travels with a variety of experts to bring down huge avalanches in the Rocky Mountains. Ski Patrollers throw hand charges to clear the slopes, the British Columbia Department of Highways uses helicopter bombing and mountaintop mortars to keep the roads safe, and the Canadian Armed Forces fire 105mm howitzers at the mountains to bring down the dangerous snow. Still, there are accidents and fatalities in the mountains. We meet Francois Desroisers, an avalanche burial victim who tells a terrible and tragic tale of a mountain disaster.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040612 +0100",
+            "stop_time": "20250301043706 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nSome of the fiercest weather can be experienced at the area the South Americans call the “Fin del Mundo”.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043712 +0100",
+            "stop_time": "20250301050806 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nGeorge returns to “Tornado Alley” with 3 fellow stormchasers to see what the 2007 Storm Season will bring.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050812 +0100",
+            "stop_time": "20250301053806 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nOne of the most exciting episodes of season one is “Wild Water” – our look at Great White Sharks, water-filled caves and high voltage marine action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301053812 +0100",
+            "stop_time": "20250301060806 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nWe hope Season Two will give us the opportunity to make the quintessential Angry Planet show – a full episode exploring a major hurricane that makes landfall in Florida or the Carolinas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060812 +0100",
+            "stop_time": "20250301063806 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBears, although huge and majestic, are unBEARably cute",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301063812 +0100",
+            "stop_time": "20250301070806 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nHere's what the last living descendants of Dinosaurs are upto now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070812 +0100",
+            "stop_time": "20250301073806 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nIt’s an ordinary town with a history of heartache. No one knows why Moore, Oklahoma has been the target of 3 mega-tornadoes in just 16 years. On the heels of the May 20, 2013 EF5 tornado, Mark & Jaclyn uncover stories behind the disaster, the recovery and the tenacious spirit of the people of the US Midwest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073812 +0100",
+            "stop_time": "20250301080806 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn joins Mark in a ride through the US Midwest during the most prolific tornado season on record.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080812 +0100",
+            "stop_time": "20250301083906 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nThe Angry Planet team heads to Africa to climb the steep and very active Nyiragongo Volcano in the Congo that erupted in 2002, sending 125,000 people fleeing for their lives. Host/adventurer George Kourounis explores the bubbling lake of molten lava and investigates the risk the dangerous volcano poses to both the people of city of Goma and the Mountain Gorillas who live on the nearby jungle slopes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301083912 +0100",
+            "stop_time": "20250301091006 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nThe autumn of 2006 brings hurricanes to the North Atlantic and hot dry winds fan forest fires across Northern Ontario. Host/adventurer George Kourounis has traveled to some awesome hurricanes, including Rita and Katrina, with his pal Mark Robinson. This year they stormchase in Newfoundland, site of the hurricane that pulled Mark out of a life-threatening depression.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301091012 +0100",
+            "stop_time": "20250301094106 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nAvalanche danger is very high in the Rogers Pass area of the Trans Canada Highway in British Columbia. Host of Angry Planet George Kourounis travels with a variety of experts to bring down huge avalanches in the Rocky Mountains. Ski Patrollers throw hand charges to clear the slopes, the British Columbia Department of Highways uses helicopter bombing and mountaintop mortars to keep the roads safe, and the Canadian Armed Forces fire 105mm howitzers at the mountains to bring down the dangerous snow. Still, there are accidents and fatalities in the mountains. We meet Francois Desroisers, an avalanche burial victim who tells a terrible and tragic tale of a mountain disaster.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301094112 +0100",
+            "stop_time": "20250301101206 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nSome of the fiercest weather can be experienced at the area the South Americans call the “Fin del Mundo”.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301101212 +0100",
+            "stop_time": "20250301104306 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nGeorge returns to “Tornado Alley” with 3 fellow stormchasers to see what the 2007 Storm Season will bring.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301104312 +0100",
+            "stop_time": "20250301111306 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nOne of the most exciting episodes of season one is “Wild Water” – our look at Great White Sharks, water-filled caves and high voltage marine action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301111312 +0100",
+            "stop_time": "20250301114306 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nWe hope Season Two will give us the opportunity to make the quintessential Angry Planet show – a full episode exploring a major hurricane that makes landfall in Florida or the Carolinas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301114312 +0100",
+            "stop_time": "20250301121306 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nBears, although huge and majestic, are unBEARably cute",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301121312 +0100",
+            "stop_time": "20250301124306 +0100",
+            "title": "Viral Wild",
+            "description": "| +TP | Estilo de vida |\n\nHere's what the last living descendants of Dinosaurs are upto now.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124312 +0100",
+            "stop_time": "20250301131306 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nIt’s an ordinary town with a history of heartache. No one knows why Moore, Oklahoma has been the target of 3 mega-tornadoes in just 16 years. On the heels of the May 20, 2013 EF5 tornado, Mark & Jaclyn uncover stories behind the disaster, the recovery and the tenacious spirit of the people of the US Midwest.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301131312 +0100",
+            "stop_time": "20250301134306 +0100",
+            "title": "Storm Hunters",
+            "description": "| +TP | Estilo de vida |\n\nJaclyn joins Mark in a ride through the US Midwest during the most prolific tornado season on record.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301134312 +0100",
+            "stop_time": "20250301141406 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nThe Angry Planet team heads to Africa to climb the steep and very active Nyiragongo Volcano in the Congo that erupted in 2002, sending 125,000 people fleeing for their lives. Host/adventurer George Kourounis explores the bubbling lake of molten lava and investigates the risk the dangerous volcano poses to both the people of city of Goma and the Mountain Gorillas who live on the nearby jungle slopes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301141412 +0100",
+            "stop_time": "20250301144506 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nThe autumn of 2006 brings hurricanes to the North Atlantic and hot dry winds fan forest fires across Northern Ontario. Host/adventurer George Kourounis has traveled to some awesome hurricanes, including Rita and Katrina, with his pal Mark Robinson. This year they stormchase in Newfoundland, site of the hurricane that pulled Mark out of a life-threatening depression.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301144512 +0100",
+            "stop_time": "20250301151536 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nHost George Kourounis has braved many terrifying phenomena – but none as frightening as the one he takes on in this episode: marriage! To make sure his new bride is on the same adventurous page with him, he proposes to get married on the lip of an exploding volcano, on the South Pacific island of Tanna, in Vanuatu. Before the native preacher, dressed in grass skirt and kustom garb, gets to perform the smoky vows, George descends into the erupting volcano to bring out red hot samples of the lava it is producing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301151542 +0100",
+            "stop_time": "20250301154636 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nAvalanche danger is very high in the Rogers Pass area of the Trans Canada Highway in British Columbia. Host of Angry Planet George Kourounis travels with a variety of experts to bring down huge avalanches in the Rocky Mountains. Ski Patrollers throw hand charges to clear the slopes, the British Columbia Department of Highways uses helicopter bombing and mountaintop mortars to keep the roads safe, and the Canadian Armed Forces fire 105mm howitzers at the mountains to bring down the dangerous snow. Still, there are accidents and fatalities in the mountains. We meet Francois Desroisers, an avalanche burial victim who tells a terrible and tragic tale of a mountain disaster.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301154642 +0100",
+            "stop_time": "20250301161736 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nSome of the fiercest weather can be experienced at the area the South Americans call the “Fin del Mundo”.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301161742 +0100",
+            "stop_time": "20250301164836 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nGeorge returns to “Tornado Alley” with 3 fellow stormchasers to see what the 2007 Storm Season will bring.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301164842 +0100",
+            "stop_time": "20250301171836 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nOne of the most exciting episodes of season one is “Wild Water” – our look at Great White Sharks, water-filled caves and high voltage marine action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301171842 +0100",
+            "stop_time": "20250301174836 +0100",
+            "title": "Angry Planet",
+            "description": "| +TP | Estilo de vida |\n\nWe hope Season Two will give us the opportunity to make the quintessential Angry Planet show – a full episode exploring a major hurricane that makes landfall in Florida or the Carolinas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301174842 +0100",
+            "stop_time": "20250301181806 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nAlaskan bush pilots risk everything to save hunters struggling to stay alive in a remote area of Kodiak.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301181812 +0100",
+            "stop_time": "20250301184736 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nIsland Air battles time and the elements, to rescue a group trapped in Deadman's Bay.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301184742 +0100",
+            "stop_time": "20250301191706 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nPilot Peter Rosendahl combats gail force wind while taxiing a group of hunters to a floating lodge.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301191712 +0100",
+            "stop_time": "20250301194636 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nRough seas have a couple of surfers turning to Island Air for an adventure of a life time.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301194642 +0100",
+            "stop_time": "20250301201606 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nWhile on a routine sightseeing flight, a massive storm has the pilots fighting to keep their passengers safe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301201612 +0100",
+            "stop_time": "20250301204436 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nIsland Air drops off a group of desperate hunters in the heart of the bush as a deep freeze hits Kodiak.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301204442 +0100",
+            "stop_time": "20250301211406 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nNew pilots are put to the test to see if they have what it takes to fly for Island Air.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211412 +0100",
+            "stop_time": "20250301214336 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nAn unexpected storm leaves Island Air struggling to pull their planes for mandatory maintenance.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301214342 +0100",
+            "stop_time": "20250301221336 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nTanalian Aviation battles winter weather to ferry ice climbers onto the Knik Glacier.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301221342 +0100",
+            "stop_time": "20250301224336 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nJoel and Mark Barker tempt fate and fly into no man's land to find and salvage a white airplane in a snowy forest, and fight hypothermia along the way.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301224342 +0100",
+            "stop_time": "20250301231306 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nTanalian Aviation bush pilots Joel and Josiah earn their keep slinging a stranded snow machine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301231312 +0100",
+            "stop_time": "20250301234236 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe Tanalian bush pilots transport extreme paragliders to Moose Creek, in the Talkeetna Range, for a once-in-a-lifetime airborne experience.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301234242 +0100",
+            "stop_time": "20250302001206 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nTanalian Aviation pilots assist with a search and rescue for an experienced hiker in the winter wilderness.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302001212 +0100",
+            "stop_time": "20250302004136 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nPilot Josiah Freeman takes a professional snowboarder Mark Barajas to the top of the Chugach Mountains for some hellacious heli-skiing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302004142 +0100",
+            "stop_time": "20250302011106 +0100",
+            "title": "Alaska's Ultimate Bush Pilots",
+            "description": "| +TP | Estilo de vida |\n\nThe bush pilots have to use all their skills - scuba diving, underwater rigging and expert flying - to try and salvage a de Havilland Beaver wing at the bottom of the 6 Mile Lake.",
+            "icon": ""
+        }
+    ]
+}

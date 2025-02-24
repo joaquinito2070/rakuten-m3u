@@ -1,0 +1,510 @@
+{
+    "name": "Thrillers",
+    "tvg_id": "thriller-rakuten-tv",
+    "epg": [
+        {
+            "start_time": "20250224152818 +0100",
+            "stop_time": "20250224170519 +0100",
+            "title": "Conexión criminal",
+            "description": "| +16 | Películas |\n\nUn trabajador social debe intervenir cuando un traficante de drogas sale de prisión y da un golpe junto con Duke (Frank Grillo), por el que arrastra a su familia a una vida delictiva.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/89b797fc-005c-456f-9b60-6810e1f87ef3-the-gateway-1637222950.jpeg"
+        },
+        {
+            "start_time": "20250224170520 +0100",
+            "stop_time": "20250224185356 +0100",
+            "title": "Los idus de marzo",
+            "description": "| +16 | Películas |\n\nLa sombra de 'House of Cards' sobrevuela este espléndido thriller político dirigido e interpretado por George Clooney. En las primaras de Ohio, el joven e idealista jefe de prensa del candidato a la presidencia Mike Morris deberá decidir qué es más importante ¿la victoria o los principios?",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7f28a195-af6c-43de-9c48-14c469dc988f-snapshot-1590663400.jpeg"
+        },
+        {
+            "start_time": "20250224185357 +0100",
+            "stop_time": "20250224210320 +0100",
+            "title": "El caso Farewell",
+            "description": "| +16 | Películas |\n\nThriller político con una trama brillantemente construida, sin trampas y fiel a los datos históricos, protagonizado por Guillaume Canet y Emir Kusturica. Un ingeniero francés se ve implicado en uno de los asuntos de espionaje más espectaculares del siglo XX, en plena Guerra Fría.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/7ff895aa-78fe-47ac-8d20-54702b83f8f1.jpeg"
+        },
+        {
+            "start_time": "20250224210321 +0100",
+            "stop_time": "20250224232621 +0100",
+            "title": "Los amos de Brooklyn",
+            "description": "| +16 | Películas |\n\nTres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/09e6c5b9-86d7-4e90-b010-d3911ffc2861-snapshot-1590665714.jpeg"
+        },
+        {
+            "start_time": "20250224232622 +0100",
+            "stop_time": "20250225012732 +0100",
+            "title": "Rememory",
+            "description": "| +16 | Películas |\n\nGordon Dunn, un pionero y afamado científico, es encontrado muerto justo después de revelar su nuevo trabajo: una máquina capaz de extraer, grabar y reproducir las emociones de las personas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6bda4e89-cf22-44af-a8b9-99df552f367b-snapshot-1590659170.jpeg"
+        },
+        {
+            "start_time": "20250225012733 +0100",
+            "stop_time": "20250225033700 +0100",
+            "title": "Valkiria",
+            "description": "| +16 | Películas |\n\nHerido, el coronel von Stauffenberg vuelve de África para organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a7cdd3d4-5358-45a1-8d19-045a7411f0c1.jpeg"
+        },
+        {
+            "start_time": "20250225033701 +0100",
+            "stop_time": "20250225054635 +0100",
+            "title": "Cliff Walkers",
+            "description": "| +16 | Películas |\n\nCuatro agentes especiales regresan a China después de recibir entrenamiento en la Unión Soviética. En plena misión secreta, son traicionados y serán puestos al límite con múltiples amenazas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/50ba7d31-b2a6-4c47-83a6-6045586ae2fc-xuan-ya-zhi-shang-cliff-walkers-1647865372.jpeg"
+        },
+        {
+            "start_time": "20250225054636 +0100",
+            "stop_time": "20250225074229 +0100",
+            "title": "Mobius",
+            "description": "| +16 | Películas |\n\nThriller que tiene como escenario Mónaco y el mundo de las altas finanzas. Un agente del servicio de inteligencia francés (Dujardin) trata de detener por todos los medios a un oligarca corrupto.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/cb2b209a-27bb-43f9-be41-fa47b1070a4f.jpeg"
+        },
+        {
+            "start_time": "20250225074230 +0100",
+            "stop_time": "20250225092651 +0100",
+            "title": "McCanick - Búsqueda obsesiva",
+            "description": "| +16 | Películas |\n\nEugene \"Mack\" McCanick es un detective de narcóticos que resuelve los casos junto a su socio Floyd Intrator.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/680271aa-44cb-4ae2-bd79-64a660f9f892-mccanick-1596549154.jpeg"
+        },
+        {
+            "start_time": "20250225092652 +0100",
+            "stop_time": "20250225114014 +0100",
+            "title": "Dinero fácil",
+            "description": "| +16 | Películas |\n\nMartin Scorsese apadrinó este eléctrico thriller con Joel Kinnaman ('Escuadrón Suicida') que mezcla el clasicismo de 'El padrino' con la vertiginosidad de Scorsese. La enigmática desaparición de una mujer será el nexo de unión de 3 criminales con un objetivo común: vengarse del gran capo Radovan.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/28deeb41-b47c-4cf7-8add-6dc526091902.jpeg"
+        },
+        {
+            "start_time": "20250225114015 +0100",
+            "stop_time": "20250225132602 +0100",
+            "title": "Criminal Activities",
+            "description": "| +16 | Películas |\n\nCuatro amigos se reúnen en el funeral de un ex-compañero. Entre una conversación uno de ellos informa a los demás sobre una buena inversión, que les va a generar unas ganancias seguras convirtiéndoles en millonarios. Pero por desgracia todo sale mal y pierden el dinero invertido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a110ee2c-69c0-4b54-ad34-d73605c07b22.jpeg"
+        },
+        {
+            "start_time": "20250225132603 +0100",
+            "stop_time": "20250225150710 +0100",
+            "title": "Mira por mí",
+            "description": "| +16 | Películas |\n\nSophie, una joven ciega que trabaja en una mansión apartada, se ve invadida por ladrones que buscan una caja fuerte oculta. Su único medio de defensa: una nueva aplicación llamada \"Mira por mí\".",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d6814a5e-c9e2-4388-b7c0-22d7b99287b5-see-for-me-1639580321.jpeg"
+        },
+        {
+            "start_time": "20250225150711 +0100",
+            "stop_time": "20250225170012 +0100",
+            "title": "In the Shadow",
+            "description": "| +16 | Películas |\n\nPraga, 1950. Hakl, un miembro de la policía comunista, investiga un robo aparentemente mundano en la tienda de un orfebre. A pesar de todo, su deseo por la verdad, le conduce hasta una nueva prueba que indica que el caso es mucho más complicado de lo que parece.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/173654a2-bae7-4cb3-a858-fe453af6565e-in-the-shadow-1595432830.jpeg"
+        },
+        {
+            "start_time": "20250225170013 +0100",
+            "stop_time": "20250225190352 +0100",
+            "title": "Traidor",
+            "description": "| +16 | Películas |\n\nCuando el estricto agente del FBI Roy Clayton investiga una peligrosa conspiración internacional, todas las pruebas parecen dirigir a Samir Horn, el director de operaciones especiales.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5218b0b4-0b2a-4ad1-8011-8df0221d79bc-snapshot-1590664124.jpeg"
+        },
+        {
+            "start_time": "20250225190353 +0100",
+            "stop_time": "20250225204623 +0100",
+            "title": "El agente",
+            "description": "| +16 | Películas |\n\nEn el año 2030, el mundo se encuentra en perenne estado de recesión económica y se enfrenta a problemas medioambientales. Todos los ciudadanos improductivos son exiliados a una colonia.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/f627bc90-3cbc-4df4-9630-83cd2dbd2459-snapshot-1590659873.jpeg"
+        },
+        {
+            "start_time": "20250225204624 +0100",
+            "stop_time": "20250225222937 +0100",
+            "title": "Cuatro vidas",
+            "description": "| +16 | Películas |\n\nCuatro vidas entrelazadas por emociones: felicidad, placer, pena y amor. Un banquero, un gangster, una estrella del pop y un doctor enfrentan sus destinos entrelazados por un criminal.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fee757be-22a4-4694-8a2b-cc6d87e3064d.jpeg"
+        },
+        {
+            "start_time": "20250225222938 +0100",
+            "stop_time": "20250226004300 +0100",
+            "title": "Dinero fácil",
+            "description": "| +16 | Películas |\n\nMartin Scorsese apadrinó este eléctrico thriller con Joel Kinnaman ('Escuadrón Suicida') que mezcla el clasicismo de 'El padrino' con la vertiginosidad de Scorsese. La enigmática desaparición de una mujer será el nexo de unión de 3 criminales con un objetivo común: vengarse del gran capo Radovan.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/28deeb41-b47c-4cf7-8add-6dc526091902.jpeg"
+        },
+        {
+            "start_time": "20250226004301 +0100",
+            "stop_time": "20250226023205 +0100",
+            "title": "Intersections",
+            "description": "| +16 | Películas |\n\nSu argumento de desarrolla en Marruecos, lugar en el que una esposa planeará asesinar a su marido con la ayuda de su amante, plan que se complicará cuando estos dos últimos tienen un accidente de coche en una carretera desierta.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/40df813b-eeeb-40a8-b082-c5d48d377fac.jpeg"
+        },
+        {
+            "start_time": "20250226023206 +0100",
+            "stop_time": "20250226045005 +0100",
+            "title": "Reglas de compromiso",
+            "description": "| +16 | Películas |\n\nEl coronel Terry Childer (Jackson), un condecorado oficial veterano de Vietnam y Líbano, es acusado de asesinato por el Ejército. Como abogado defensor elige al Coronel Hays Hodges (Lee Jones), un camarada que le debe la vida.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d68acf5f-e2d8-491e-82fc-db83a58d7dbc-rules-of-engagement-1637771466.jpeg"
+        },
+        {
+            "start_time": "20250226045006 +0100",
+            "stop_time": "20250226062416 +0100",
+            "title": "Despierto",
+            "description": "| +16 | Películas |\n\nUn extraño thriller de misterio sorprendentemente efectivo. Un joven multimillonario que sufre la llamada “percepción intraoperatoria”, se encuentra paralizado pero despierto sin haber perdido los sentidos del tacto ni el oído mientras le practican un transplante de corazón.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/59d20ba6-aee0-4f75-a54a-cb548827ef18.jpeg"
+        },
+        {
+            "start_time": "20250226062417 +0100",
+            "stop_time": "20250226081756 +0100",
+            "title": "Fuga de Pretoria",
+            "description": "| +16 | Películas |\n\nLa extraordinaria historia real de Tim Jenkin y Stephen Lee, dos activistas sudafricanos blancos, calificados de “terroristas” y encarcelados en 1978 por su participación en operaciones encubiertas antiaparheid para el Congreso Nacional Africano.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/267999dc-f690-4323-b8a4-35d566d47714-snapshot-1590668699.jpeg"
+        },
+        {
+            "start_time": "20250226081757 +0100",
+            "stop_time": "20250226095729 +0100",
+            "title": "La Bahía Del Silencio",
+            "description": "| +16 | Películas |\n\nWill cree que su esposa Rosalind es inocente del presunto asesinato de su hijo, pero descubre la devastadora verdad de que está vinculada a otro crimen sin resolver.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/e8b6dc60-2639-4cf3-8c09-c390efa56a3f-the-bay-of-silence-1599206197.jpeg"
+        },
+        {
+            "start_time": "20250226095730 +0100",
+            "stop_time": "20250226114407 +0100",
+            "title": "El juego del asesino",
+            "description": "| +16 | Películas |\n\nUn curtido teniente, su fuerza policial y un vigilante local se ven inmersos en una peligrosa conspiración relacionada con la detención de un problemático hombre a quien se le relaciona con múltiples raptos, asesinatos y violaciones.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/4d9fd274-1cea-43c7-86e8-95552661aba8-snapshot-1590667145.jpeg"
+        },
+        {
+            "start_time": "20250226114408 +0100",
+            "stop_time": "20250226132109 +0100",
+            "title": "Conexión criminal",
+            "description": "| +16 | Películas |\n\nUn trabajador social debe intervenir cuando un traficante de drogas sale de prisión y da un golpe junto con Duke (Frank Grillo), por el que arrastra a su familia a una vida delictiva.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/89b797fc-005c-456f-9b60-6810e1f87ef3-the-gateway-1637222950.jpeg"
+        },
+        {
+            "start_time": "20250226132110 +0100",
+            "stop_time": "20250226151452 +0100",
+            "title": "Acero Azul",
+            "description": "| +16 | Películas |\n\nUna novata del cuerpo de policía se ve envuelta en un juego del gato y el ratón con un psicópata con una pistola que se obsesiona con ella.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/740c475c-1627-48d9-98e7-036c2c79e8b0-snapshot-1590664775.jpeg"
+        },
+        {
+            "start_time": "20250226151453 +0100",
+            "stop_time": "20250226172815 +0100",
+            "title": "Dinero fácil",
+            "description": "| +16 | Películas |\n\nMartin Scorsese apadrinó este eléctrico thriller con Joel Kinnaman ('Escuadrón Suicida') que mezcla el clasicismo de 'El padrino' con la vertiginosidad de Scorsese. La enigmática desaparición de una mujer será el nexo de unión de 3 criminales con un objetivo común: vengarse del gran capo Radovan.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/28deeb41-b47c-4cf7-8add-6dc526091902.jpeg"
+        },
+        {
+            "start_time": "20250226172816 +0100",
+            "stop_time": "20250226191719 +0100",
+            "title": "Amenazados (Unthinkable)",
+            "description": "| +16 | Películas |\n\nThriller psicológico que gira en torno al interrogatorio, por parte de un agente del FBI, a un sospechoso de terrorismo para que confiese la ubicación de tres bombas nucleares preparadas para detonar en los E.E.U.U.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/440e9115-33a8-4455-a035-6d029eb825cb.jpeg"
+        },
+        {
+            "start_time": "20250226191720 +0100",
+            "stop_time": "20250226210307 +0100",
+            "title": "Criminal Activities",
+            "description": "| +16 | Películas |\n\nCuatro amigos se reúnen en el funeral de un ex-compañero. Entre una conversación uno de ellos informa a los demás sobre una buena inversión, que les va a generar unas ganancias seguras convirtiéndoles en millonarios. Pero por desgracia todo sale mal y pierden el dinero invertido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a110ee2c-69c0-4b54-ad34-d73605c07b22.jpeg"
+        },
+        {
+            "start_time": "20250226210308 +0100",
+            "stop_time": "20250226225609 +0100",
+            "title": "In the Shadow",
+            "description": "| +16 | Películas |\n\nPraga, 1950. Hakl, un miembro de la policía comunista, investiga un robo aparentemente mundano en la tienda de un orfebre. A pesar de todo, su deseo por la verdad, le conduce hasta una nueva prueba que indica que el caso es mucho más complicado de lo que parece.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/173654a2-bae7-4cb3-a858-fe453af6565e-in-the-shadow-1595432830.jpeg"
+        },
+        {
+            "start_time": "20250226225610 +0100",
+            "stop_time": "20250227010537 +0100",
+            "title": "Valkiria",
+            "description": "| +16 | Películas |\n\nHerido, el coronel von Stauffenberg vuelve de África para organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a7cdd3d4-5358-45a1-8d19-045a7411f0c1.jpeg"
+        },
+        {
+            "start_time": "20250227010538 +0100",
+            "stop_time": "20250227024759 +0100",
+            "title": "Ríos de sangre",
+            "description": "| +16 | Películas |\n\nCuando el hijo de un juez es asesinado por dos policías y el sistema les deja libres, un detective veterano descubre unos archivos incriminatorios. El detective y el juez aunarán fuerzas con otro padre afligido para conseguir justicia.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/185a44c2-eb78-4194-9381-56926d8db94c-river-runs-red-1595244903.jpeg"
+        },
+        {
+            "start_time": "20250227024800 +0100",
+            "stop_time": "20250227043139 +0100",
+            "title": "El falsificador",
+            "description": "| +16 | Películas |\n\nUn ladrón de poca monta se las arregla para conseguir que el sindicato donde trabaja su padre pague la fianza para poder salir de la cárcel y pasar tiempo con su hijo enfermo. Eso sí, tendrá que cumplir una condición para devolver el dinero prestado.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/635a6e75-f845-4126-8c56-c20d72e53202.jpeg"
+        },
+        {
+            "start_time": "20250227043140 +0100",
+            "stop_time": "20250227062453 +0100",
+            "title": "Cada respiro que das",
+            "description": "| +16 | Películas |\n\nIntenso thriller con un elenco brillante. Philip Clark (Casey Affleck) es un psicólogo cuya paciente se suicida. James (Sam Claflin), el hermano de la paciente, se integra en la familia de Philip, hasta que descubren que James no es quien decía ser.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c8d14391-9d30-4143-a965-97925dd3a66b-you-belong-to-me-aka-every-breath-you-take-1619427901.jpeg"
+        },
+        {
+            "start_time": "20250227062454 +0100",
+            "stop_time": "20250227080807 +0100",
+            "title": "Cuatro vidas",
+            "description": "| +16 | Películas |\n\nCuatro vidas entrelazadas por emociones: felicidad, placer, pena y amor. Un banquero, un gangster, una estrella del pop y un doctor enfrentan sus destinos entrelazados por un criminal.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fee757be-22a4-4694-8a2b-cc6d87e3064d.jpeg"
+        },
+        {
+            "start_time": "20250227080808 +0100",
+            "stop_time": "20250227101600 +0100",
+            "title": "El cuarto protocolo",
+            "description": "| +16 | Películas |\n\nEl gobierno británico busca a un implacable y frío oficial del ejército ruso que llega a Inglaterra con una identidad falsa y se instala cerca de una base militar norteamericana. Tratarán de averiguar cuál es su misión para impedir que la lleve a cabo... ",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/a9cd3356-97c6-48f1-a0e0-30a5beb2d567.jpeg"
+        },
+        {
+            "start_time": "20250227101601 +0100",
+            "stop_time": "20250227121307 +0100",
+            "title": "El Hombre Perfecto",
+            "description": "| +16 | Películas |\n\nMathieu, de 25 años, siempre ha aspirado a convertirse en un autor reconocido. Un sueño que parece inalcanzable para él porque, sus obras nunca han sido editadas. Cuando se topa con el manuscrito de un viejo solitario que acaba de morir. Mathieu se apodera del texto y lo firma con su nombre.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b5f76158-89d4-437c-8238-c68cc2c2af25-snapshot-1590665118.jpeg"
+        },
+        {
+            "start_time": "20250227121308 +0100",
+            "stop_time": "20250227141647 +0100",
+            "title": "Traidor",
+            "description": "| +16 | Películas |\n\nCuando el estricto agente del FBI Roy Clayton investiga una peligrosa conspiración internacional, todas las pruebas parecen dirigir a Samir Horn, el director de operaciones especiales.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5218b0b4-0b2a-4ad1-8011-8df0221d79bc-snapshot-1590664124.jpeg"
+        },
+        {
+            "start_time": "20250227141648 +0100",
+            "stop_time": "20250227155305 +0100",
+            "title": "Aislados",
+            "description": "| +16 | Películas |\n\nKate y Martin forman una joven pareja que intenta reconstruir su relación después de una dura tragedia personal. Juntos deciden abandonar Londres y sus respectivas profesiones para pasar una temporada en una isla remota e inhabitada al oeste de la costa de Escocia.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2c19e9b6-847e-4e71-bd78-8cb404f82bfe-snapshot-1590664138.jpeg"
+        },
+        {
+            "start_time": "20250227155306 +0100",
+            "stop_time": "20250227174648 +0100",
+            "title": "Acero Azul",
+            "description": "| +16 | Películas |\n\nUna novata del cuerpo de policía se ve envuelta en un juego del gato y el ratón con un psicópata con una pistola que se obsesiona con ella.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/740c475c-1627-48d9-98e7-036c2c79e8b0-snapshot-1590664775.jpeg"
+        },
+        {
+            "start_time": "20250227174649 +0100",
+            "stop_time": "20250227193236 +0100",
+            "title": "Criminal Activities",
+            "description": "| +16 | Películas |\n\nCuatro amigos se reúnen en el funeral de un ex-compañero. Entre una conversación uno de ellos informa a los demás sobre una buena inversión, que les va a generar unas ganancias seguras convirtiéndoles en millonarios. Pero por desgracia todo sale mal y pierden el dinero invertido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a110ee2c-69c0-4b54-ad34-d73605c07b22.jpeg"
+        },
+        {
+            "start_time": "20250227193237 +0100",
+            "stop_time": "20250227212550 +0100",
+            "title": "Cada respiro que das",
+            "description": "| +16 | Películas |\n\nIntenso thriller con un elenco brillante. Philip Clark (Casey Affleck) es un psicólogo cuya paciente se suicida. James (Sam Claflin), el hermano de la paciente, se integra en la familia de Philip, hasta que descubren que James no es quien decía ser.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c8d14391-9d30-4143-a965-97925dd3a66b-you-belong-to-me-aka-every-breath-you-take-1619427901.jpeg"
+        },
+        {
+            "start_time": "20250227212551 +0100",
+            "stop_time": "20250227230904 +0100",
+            "title": "Cuatro vidas",
+            "description": "| +16 | Películas |\n\nCuatro vidas entrelazadas por emociones: felicidad, placer, pena y amor. Un banquero, un gangster, una estrella del pop y un doctor enfrentan sus destinos entrelazados por un criminal.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fee757be-22a4-4694-8a2b-cc6d87e3064d.jpeg"
+        },
+        {
+            "start_time": "20250227230905 +0100",
+            "stop_time": "20250228010713 +0100",
+            "title": "El Sr. Wakefield",
+            "description": "| +16 | Películas |\n\nUna mirada inquebrantable al distanciamiento conyugal. Cuenta la historia del exitoso abogado, Howard Wakefield (Bryan Cranston), que un día, estresado y harto de su monótona vida, decide esconderse en el ático de su garaje y observar secretamente la vida de su esposa, sus hijos y sus vecinos.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/e60395f5-e999-4697-9d2a-b7ee427129e9.jpeg"
+        },
+        {
+            "start_time": "20250228010714 +0100",
+            "stop_time": "20250228025618 +0100",
+            "title": "Intersections",
+            "description": "| +16 | Películas |\n\nSu argumento de desarrolla en Marruecos, lugar en el que una esposa planeará asesinar a su marido con la ayuda de su amante, plan que se complicará cuando estos dos últimos tienen un accidente de coche en una carretera desierta.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/40df813b-eeeb-40a8-b082-c5d48d377fac.jpeg"
+        },
+        {
+            "start_time": "20250228025619 +0100",
+            "stop_time": "20250228050542 +0100",
+            "title": "El caso Farewell",
+            "description": "| +16 | Películas |\n\nThriller político con una trama brillantemente construida, sin trampas y fiel a los datos históricos, protagonizado por Guillaume Canet y Emir Kusturica. Un ingeniero francés se ve implicado en uno de los asuntos de espionaje más espectaculares del siglo XX, en plena Guerra Fría.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/7ff895aa-78fe-47ac-8d20-54702b83f8f1.jpeg"
+        },
+        {
+            "start_time": "20250228050543 +0100",
+            "stop_time": "20250228064321 +0100",
+            "title": "Policías Corruptos",
+            "description": "| +16 | Películas |\n\nUn thriller de acción que gira en torno a dos policías corruptos que descubren una custodiada caja fuerte, con un contenido totalmente incógnito. La ambición de ambos por hacerse con el indeterminado hallazgo les empujará al enfrentamiento, a la lucha por sus vidas y a no saber en quién confiar.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/36bccf68-cfb6-43a2-9114-6c13893303c1-snapshot-1590663685.jpeg"
+        },
+        {
+            "start_time": "20250228064322 +0100",
+            "stop_time": "20250228082120 +0100",
+            "title": "Inconcebible",
+            "description": "| +16 | Películas |\n\nUna mujer interpreta un beso en una reunión de secundaria como una invitación a seguir a su ex por todo el país y suplantar a su familia actual.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/43e08769-e60e-40b2-a690-ee17ba774c07-inconceivable-1649256040.jpeg"
+        },
+        {
+            "start_time": "20250228082121 +0100",
+            "stop_time": "20250228104421 +0100",
+            "title": "Los amos de Brooklyn",
+            "description": "| +16 | Películas |\n\nTres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/09e6c5b9-86d7-4e90-b010-d3911ffc2861-snapshot-1590665714.jpeg"
+        },
+        {
+            "start_time": "20250228104422 +0100",
+            "stop_time": "20250228125617 +0100",
+            "title": "El Secuestro de Alfred Heineken",
+            "description": "| +16 | Películas |\n\nComo uno de los hombres más ricos de los Países Bajos, Alfred ‘Freddy’ Heineken era un objetivo prioritario para los criminales. Secuestrado una noche por un equipo de jóvenes e inexpertos delincuentes, Heineken es retenido durante 21 agotadores días.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/e7c2f621-98ab-4daf-a64b-6ceb4109e495-de-heineken-ontvoering-1596618695.jpeg"
+        },
+        {
+            "start_time": "20250228125618 +0100",
+            "stop_time": "20250228145806 +0100",
+            "title": "El Traficante",
+            "description": "| +16 | Películas |\n\nUtah y Opal son dos adictos que viven en las calles de la zona rural de Ohio hasta que un encuentro aparentemente casual con el enigmático Wood los lleva a Los Ángeles para recibir tratamiento. Mientras Utah recibe ayuda, pronto descubre que ahí hay gato encerrado.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/416760db-19c3-4238-8afd-9bfb63654906-body-brokers-1614153232.jpeg"
+        },
+        {
+            "start_time": "20250228145807 +0100",
+            "stop_time": "20250228164228 +0100",
+            "title": "McCanick - Búsqueda obsesiva",
+            "description": "| +16 | Películas |\n\nEugene \"Mack\" McCanick es un detective de narcóticos que resuelve los casos junto a su socio Floyd Intrator.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/680271aa-44cb-4ae2-bd79-64a660f9f892-mccanick-1596549154.jpeg"
+        },
+        {
+            "start_time": "20250228164229 +0100",
+            "stop_time": "20250228182125 +0100",
+            "title": "Mariposa negra",
+            "description": "| +16 | Películas |\n\nPaul es un guionista en horas bajas que vive en una apartada cabaña. Un día recoge a un vagabundo y le ofrece quedarse con él, pero el extraño decide tomarle como rehén y lo obliga a escribir todos sus secretos íntimos, enterrados durante años…",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/83a39dc7-f7f2-460b-a52b-03835972a509.jpeg"
+        },
+        {
+            "start_time": "20250228182126 +0100",
+            "stop_time": "20250228201505 +0100",
+            "title": "Fuga de Pretoria",
+            "description": "| +16 | Películas |\n\nLa extraordinaria historia real de Tim Jenkin y Stephen Lee, dos activistas sudafricanos blancos, calificados de “terroristas” y encarcelados en 1978 por su participación en operaciones encubiertas antiaparheid para el Congreso Nacional Africano.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/267999dc-f690-4323-b8a4-35d566d47714-snapshot-1590668699.jpeg"
+        },
+        {
+            "start_time": "20250228201506 +0100",
+            "stop_time": "20250228220807 +0100",
+            "title": "In the Shadow",
+            "description": "| +16 | Películas |\n\nPraga, 1950. Hakl, un miembro de la policía comunista, investiga un robo aparentemente mundano en la tienda de un orfebre. A pesar de todo, su deseo por la verdad, le conduce hasta una nueva prueba que indica que el caso es mucho más complicado de lo que parece.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/173654a2-bae7-4cb3-a858-fe453af6565e-in-the-shadow-1595432830.jpeg"
+        },
+        {
+            "start_time": "20250228220808 +0100",
+            "stop_time": "20250301001600 +0100",
+            "title": "El cuarto protocolo",
+            "description": "| +16 | Películas |\n\nEl gobierno británico busca a un implacable y frío oficial del ejército ruso que llega a Inglaterra con una identidad falsa y se instala cerca de una base militar norteamericana. Tratarán de averiguar cuál es su misión para impedir que la lleve a cabo... ",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/a9cd3356-97c6-48f1-a0e0-30a5beb2d567.jpeg"
+        },
+        {
+            "start_time": "20250301001601 +0100",
+            "stop_time": "20250301020534 +0100",
+            "title": "El escapista",
+            "description": "| +16 | Películas |\n\n5 hombres. 4 paredes. 1 plan. Frank Perry es un convicto condenado a cadena perpetua que lleva doce años en prisión. Cuando su hija cae enferma, intentará hacer las paces con ella antes de que sea demasiado tarde. Para ello elaborará un ingenioso plan de fuga.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/83057f15-1696-4b4c-9034-1d3a55e3f449-the-escapist-1646816649.jpeg"
+        },
+        {
+            "start_time": "20250301020535 +0100",
+            "stop_time": "20250301035438 +0100",
+            "title": "Amenazados (Unthinkable)",
+            "description": "| +16 | Películas |\n\nThriller psicológico que gira en torno al interrogatorio, por parte de un agente del FBI, a un sospechoso de terrorismo para que confiese la ubicación de tres bombas nucleares preparadas para detonar en los E.E.U.U.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/440e9115-33a8-4455-a035-6d029eb825cb.jpeg"
+        },
+        {
+            "start_time": "20250301035439 +0100",
+            "stop_time": "20250301055818 +0100",
+            "title": "Traidor",
+            "description": "| +16 | Películas |\n\nCuando el estricto agente del FBI Roy Clayton investiga una peligrosa conspiración internacional, todas las pruebas parecen dirigir a Samir Horn, el director de operaciones especiales.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5218b0b4-0b2a-4ad1-8011-8df0221d79bc-snapshot-1590664124.jpeg"
+        },
+        {
+            "start_time": "20250301055819 +0100",
+            "stop_time": "20250301074406 +0100",
+            "title": "Criminal Activities",
+            "description": "| +16 | Películas |\n\nCuatro amigos se reúnen en el funeral de un ex-compañero. Entre una conversación uno de ellos informa a los demás sobre una buena inversión, que les va a generar unas ganancias seguras convirtiéndoles en millonarios. Pero por desgracia todo sale mal y pierden el dinero invertido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a110ee2c-69c0-4b54-ad34-d73605c07b22.jpeg"
+        },
+        {
+            "start_time": "20250301074407 +0100",
+            "stop_time": "20250301092303 +0100",
+            "title": "Mariposa negra",
+            "description": "| +16 | Películas |\n\nPaul es un guionista en horas bajas que vive en una apartada cabaña. Un día recoge a un vagabundo y le ofrece quedarse con él, pero el extraño decide tomarle como rehén y lo obliga a escribir todos sus secretos íntimos, enterrados durante años…",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/83a39dc7-f7f2-460b-a52b-03835972a509.jpeg"
+        },
+        {
+            "start_time": "20250301092304 +0100",
+            "stop_time": "20250301110215 +0100",
+            "title": "October Gale",
+            "description": "| +16 | Películas |\n\nTras una fuerte tormenta, un doctor encuentra un hombre lavándose en la orilla del río cercana a su cabaña en la remota isla canadiense de Helen Matthews. Viéndole sangrar a causa de una herida de bala y medio inconsciente es trasladado por el médico dentro del hogar.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/02791191-5699-4b07-b1f3-4b969d86a0a4.jpeg"
+        },
+        {
+            "start_time": "20250301110216 +0100",
+            "stop_time": "20250301131143 +0100",
+            "title": "Valkiria",
+            "description": "| +16 | Películas |\n\nHerido, el coronel von Stauffenberg vuelve de África para organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a7cdd3d4-5358-45a1-8d19-045a7411f0c1.jpeg"
+        },
+        {
+            "start_time": "20250301131144 +0100",
+            "stop_time": "20250301150117 +0100",
+            "title": "El escapista",
+            "description": "| +16 | Películas |\n\n5 hombres. 4 paredes. 1 plan. Frank Perry es un convicto condenado a cadena perpetua que lleva doce años en prisión. Cuando su hija cae enferma, intentará hacer las paces con ella antes de que sea demasiado tarde. Para ello elaborará un ingenioso plan de fuga.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/83057f15-1696-4b4c-9034-1d3a55e3f449-the-escapist-1646816649.jpeg"
+        },
+        {
+            "start_time": "20250301150118 +0100",
+            "stop_time": "20250301165457 +0100",
+            "title": "Fuga de Pretoria",
+            "description": "| +16 | Películas |\n\nLa extraordinaria historia real de Tim Jenkin y Stephen Lee, dos activistas sudafricanos blancos, calificados de “terroristas” y encarcelados en 1978 por su participación en operaciones encubiertas antiaparheid para el Congreso Nacional Africano.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/267999dc-f690-4323-b8a4-35d566d47714-snapshot-1590668699.jpeg"
+        },
+        {
+            "start_time": "20250301165458 +0100",
+            "stop_time": "20250301184219 +0100",
+            "title": "Una historia real",
+            "description": "| +16 | Películas |\n\nCuando el desafortunado reportero del NY Times, Michael Finkel (Jonah Hill) conoce a Christian Longo (James Franco) –el cual ha robado su identidad– su investigación se convierte en una tensa persecución entre ratón y gato.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/97d9fddf-3e7e-4390-8752-3f47aa75a9b9.jpeg"
+        },
+        {
+            "start_time": "20250301184220 +0100",
+            "stop_time": "20250301202933 +0100",
+            "title": "La sabiduria de los cocodrilos",
+            "description": "| +16 | Películas |\n\nSteven es un hombre que parece tenerlo todo, es guapo, atractivo e ingenioso, seduce a las mujeres con facilidad y se gana su confianza rápidamente. Pero cuando el cuerpo de su última conquista es encontrado en el mar, todas las pruebas apuntan hacia él.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/a187079a-2753-463d-8f5b-42c6ed1103e2-la-sabiduria-de-los-cocodrilos-1595425063.jpeg"
+        },
+        {
+            "start_time": "20250301202934 +0100",
+            "stop_time": "20250301221838 +0100",
+            "title": "Intersections",
+            "description": "| +16 | Películas |\n\nSu argumento de desarrolla en Marruecos, lugar en el que una esposa planeará asesinar a su marido con la ayuda de su amante, plan que se complicará cuando estos dos últimos tienen un accidente de coche en una carretera desierta.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/40df813b-eeeb-40a8-b082-c5d48d377fac.jpeg"
+        },
+        {
+            "start_time": "20250301221839 +0100",
+            "stop_time": "20250302002512 +0100",
+            "title": "El pasajero de la lluvia",
+            "description": "| +16 | Películas |\n\nMélancolie, una atractiva joven, es asaltada y violada por un misterioso desconocido. La chica consigue quitarle la pistola al violador y lo asesina; después arroja el cadáver al fondo del océano.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/971e70b4-07b0-4a6f-af2a-cda2e187b9ba.jpeg"
+        },
+        {
+            "start_time": "20250302002513 +0100",
+            "stop_time": "20250302021005 +0100",
+            "title": "Juego Asesino",
+            "description": "| +16 | Películas |\n\nHarto de perseguir asesinos en serie, el agente del FBI Joel Campbell decide retirarse: pide la baja voluntaria y se traslada a vivir a Chicago. Cuando un año más tarde, una mujer aparece asesinada en su edificio, Campbell reconoce el estilo de David Allen Griffin, un peligroso psicópata...",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d745375a-97f8-4127-bc9a-54efd17658cc-snapshot-1590669040.jpeg"
+        },
+        {
+            "start_time": "20250302021006 +0100",
+            "stop_time": "20250302041929 +0100",
+            "title": "El caso Farewell",
+            "description": "| +16 | Películas |\n\nThriller político con una trama brillantemente construida, sin trampas y fiel a los datos históricos, protagonizado por Guillaume Canet y Emir Kusturica. Un ingeniero francés se ve implicado en uno de los asuntos de espionaje más espectaculares del siglo XX, en plena Guerra Fría.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/7ff895aa-78fe-47ac-8d20-54702b83f8f1.jpeg"
+        },
+        {
+            "start_time": "20250302041930 +0100",
+            "stop_time": "20250302055728 +0100",
+            "title": "Inconcebible",
+            "description": "| +16 | Películas |\n\nUna mujer interpreta un beso en una reunión de secundaria como una invitación a seguir a su ex por todo el país y suplantar a su familia actual.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/43e08769-e60e-40b2-a690-ee17ba774c07-inconceivable-1649256040.jpeg"
+        },
+        {
+            "start_time": "20250302055729 +0100",
+            "stop_time": "20250302073836 +0100",
+            "title": "Mira por mí",
+            "description": "| +16 | Películas |\n\nSophie, una joven ciega que trabaja en una mansión apartada, se ve invadida por ladrones que buscan una caja fuerte oculta. Su único medio de defensa: una nueva aplicación llamada \"Mira por mí\".",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d6814a5e-c9e2-4388-b7c0-22d7b99287b5-see-for-me-1639580321.jpeg"
+        }
+    ]
+}

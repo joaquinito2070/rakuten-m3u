@@ -4,10 +4,10 @@
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg",
     "group_title": "Música",
     "original_master_url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8?ads_amagi_channel=917&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5979&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=8b9b1fa4-5343-4c64-9096-3423fca4d393&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vevo-latino-es/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c198a64093e50587a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aa8bcac32fd14dd211a5d30428d996996bb34dcbd8c602a9565275444208ccd92fa5d0382425555fbfaf4b368eb61ade344d03a4bd172994b970f987fbc36a4ee40b4a8b5cb7d483dd6a2310572f9b2f9d0895f59bc62e89de4dc61779ce2661c2dab68cb785a52f7fccf07bbc61b80c445efd0790f37c4cb1ff1edb387fc8f9e5e8e20cbcafd963a7d47677644ec19fa9834d978db79fc834672081e09f9990390cb800e693402d5d40c871518b88f8fd0865d09ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc56708420d76a9396d150baca5d2c9f5c2a995e53076614d87b2a681/85/640x360_1057680/index.m3u8",
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168d330b39520b7a9d1b8c2a1cc6df2ffe4c6574177687c9e379d899170ce0da0c7e7fb95f246faf5a56bf710664d0ea1f378930a10b66798958341258e1bc0dee19129ad465cf3669de8ff95b1b3d060ed6081fa5f109f690bc04119a33fded1660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aaebcb332fd14dd261d4e1d7e968e6d96c74989d39e1b5ff6157d1f490cbcf9f98e4f3895785048eafacab26cf114f18021f3265dff589a1686618c6afe44f2b21af3e0efdc141574fd9402376af3b1f2d9fd3632e962a8fbba870216fef7106b78cc63ce504d52f4edd91b809960fcdf2281a7560f2cd69841e9f5d8e5bde7dc12c97c90bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880fb6ecb35f3471708b814cdf160fcbbfe1e1da1d092401712280e172c66716ae015f3e8818f79328698d6639913429fe4b47f8289e960d856a5f786441d8f0c850eb67af9407d7e40baa6c46376a0978ed3d372b5fdff762193f7781368c63487c157b62dad6b796f65a2a0030195b0dc1858d15c9dd99784a448b3bae07051bed81f8145afd2030604ea97eb3543ad4c5d6456796863258486595c9feaf82c1f57dba6dd8f58153592b4077b53c0b6b7cd6a7985cee2c58312813d35d2a10cf672022e0f791b781e18eaf679438e504413a79399e96facec70348fdc0f266de/82/640x360_1057680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1057680",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c198a64093e50587a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aa8bcac32fd14dd211a5d30428d996996bb34dcbd8c602a9565275444208ccd92fa5d0382425555fbfaf4b368eb61ade344d03a4bd172994b970f987fbc36a4ee40b4a8b5cb7d483dd6a2310572f9b2f9d0895f59bc62e89de4dc61779ce2661c2dab68cb785a52f7fccf07bbc61b80c445efd0790f37c4cb1ff1edb387fc8f9e5e8e20cbcafd963a7d47677644ec19fa9834d978db79fc834672081e09f9990390cb800e693402d5d40c871518b88f8fd0865d09ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc56708420d76a9396d150baca5d2c9f5c2a995e53076614d87b2a681/85/848x480_2284360/index.m3u8",
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168d330b39520b7a9d1b8c2a1cc6df2ffe4c6574177687c9e379d899170ce0da0c7e7fb95f246faf5a56bf710664d0ea1f378930a10b66798958341258e1bc0dee19129ad465cf3669de8ff95b1b3d060ed6081fa5f109f690bc04119a33fded1660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aaebcb332fd14dd261d4e1d7e968e6d96c74989d39e1b5ff6157d1f490cbcf9f98e4f3895785048eafacab26cf114f18021f3265dff589a1686618c6afe44f2b21af3e0efdc141574fd9402376af3b1f2d9fd3632e962a8fbba870216fef7106b78cc63ce504d52f4edd91b809960fcdf2281a7560f2cd69841e9f5d8e5bde7dc12c97c90bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880fb6ecb35f3471708b814cdf160fcbbfe1e1da1d092401712280e172c66716ae015f3e8818f79328698d6639913429fe4b47f8289e960d856a5f786441d8f0c850eb67af9407d7e40baa6c46376a0978ed3d372b5fdff762193f7781368c63487c157b62dad6b796f65a2a0030195b0dc1858d15c9dd99784a448b3bae07051bed81f8145afd2030604ea97eb3543ad4c5d6456796863258486595c9feaf82c1f57dba6dd8f58153592b4077b53c0b6b7cd6a7985cee2c58312813d35d2a10cf672022e0f791b781e18eaf679438e504413a79399e96facec70348fdc0f266de/82/848x480_2284360/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "2284360",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c198a64093e50587a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aa8bcac32fd14dd211a5d30428d996996bb34dcbd8c602a9565275444208ccd92fa5d0382425555fbfaf4b368eb61ade344d03a4bd172994b970f987fbc36a4ee40b4a8b5cb7d483dd6a2310572f9b2f9d0895f59bc62e89de4dc61779ce2661c2dab68cb785a52f7fccf07bbc61b80c445efd0790f37c4cb1ff1edb387fc8f9e5e8e20cbcafd963a7d47677644ec19fa9834d978db79fc834672081e09f9990390cb800e693402d5d40c871518b88f8fd0865d09ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc56708420d76a9396d150baca5d2c9f5c2a995e53076614d87b2a681/85/1280x720_4473040/index.m3u8",
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168d330b39520b7a9d1b8c2a1cc6df2ffe4c6574177687c9e379d899170ce0da0c7e7fb95f246faf5a56bf710664d0ea1f378930a10b66798958341258e1bc0dee19129ad465cf3669de8ff95b1b3d060ed6081fa5f109f690bc04119a33fded1660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aaebcb332fd14dd261d4e1d7e968e6d96c74989d39e1b5ff6157d1f490cbcf9f98e4f3895785048eafacab26cf114f18021f3265dff589a1686618c6afe44f2b21af3e0efdc141574fd9402376af3b1f2d9fd3632e962a8fbba870216fef7106b78cc63ce504d52f4edd91b809960fcdf2281a7560f2cd69841e9f5d8e5bde7dc12c97c90bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880fb6ecb35f3471708b814cdf160fcbbfe1e1da1d092401712280e172c66716ae015f3e8818f79328698d6639913429fe4b47f8289e960d856a5f786441d8f0c850eb67af9407d7e40baa6c46376a0978ed3d372b5fdff762193f7781368c63487c157b62dad6b796f65a2a0030195b0dc1858d15c9dd99784a448b3bae07051bed81f8145afd2030604ea97eb3543ad4c5d6456796863258486595c9feaf82c1f57dba6dd8f58153592b4077b53c0b6b7cd6a7985cee2c58312813d35d2a10cf672022e0f791b781e18eaf679438e504413a79399e96facec70348fdc0f266de/82/1280x720_4473040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "4473040",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c198a64093e50587a9d1b8c291cc6df2ffe4c657c412087ccb42ed9c8165db1d00f2d2eb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aa8bcac32fd14dd211a5d30428d996996bb34dcbd8c602a9565275444208ccd92fa5d0382425555fbfaf4b368eb61ade344d03a4bd172994b970f987fbc36a4ee40b4a8b5cb7d483dd6a2310572f9b2f9d0895f59bc62e89de4dc61779ce2661c2dab68cb785a52f7fccf07bbc61b80c445efd0790f37c4cb1ff1edb387fc8f9e5e8e20cbcafd963a7d47677644ec19fa9834d978db79fc834672081e09f9990390cb800e693402d5d40c871518b88f8fd0865d09ca0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175c1362e1b444d7223dfe1515c24db05be33c7ce049248c1d384cbda2dfcd562a0e3a161d2f83ebe4719c81fa557760d14a32687b1e5a8401c77cda135d13619b5080fe4727f7665b4decc56708420d76a9396d150baca5d2c9f5c2a995e53076614d87b2a681/85/1920x1080_7333040/index.m3u8",
+            "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168d330b39520b7a9d1b8c2a1cc6df2ffe4c6574177687c9e379d899170ce0da0c7e7fb95f246faf5a56bf710664d0ea1f378930a10b66798958341258e1bc0dee19129ad465cf3669de8ff95b1b3d060ed6081fa5f109f690bc04119a33fded1660af1014b3c12d9d815ae2d38134da0ac623d321a7a1b7de811aaebcb332fd14dd261d4e1d7e968e6d96c74989d39e1b5ff6157d1f490cbcf9f98e4f3895785048eafacab26cf114f18021f3265dff589a1686618c6afe44f2b21af3e0efdc141574fd9402376af3b1f2d9fd3632e962a8fbba870216fef7106b78cc63ce504d52f4edd91b809960fcdf2281a7560f2cd69841e9f5d8e5bde7dc12c97c90bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880fb6ecb35f3471708b814cdf160fcbbfe1e1da1d092401712280e172c66716ae015f3e8818f79328698d6639913429fe4b47f8289e960d856a5f786441d8f0c850eb67af9407d7e40baa6c46376a0978ed3d372b5fdff762193f7781368c63487c157b62dad6b796f65a2a0030195b0dc1858d15c9dd99784a448b3bae07051bed81f8145afd2030604ea97eb3543ad4c5d6456796863258486595c9feaf82c1f57dba6dd8f58153592b4077b53c0b6b7cd6a7985cee2c58312813d35d2a10cf672022e0f791b781e18eaf679438e504413a79399e96facec70348fdc0f266de/82/1920x1080_7333040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "7333040",
@@ -51,6 +51,1086 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/vevolatino-vevo-latino-es.json"
+    "epg": [
+        {
+            "start_time": "20250224150001 +0100",
+            "stop_time": "20250224160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160001 +0100",
+            "stop_time": "20250224170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170001 +0100",
+            "stop_time": "20250224180000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180001 +0100",
+            "stop_time": "20250224190000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190001 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250224210000 +0100",
+            "title": "Clásicos Latinos",
+            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210001 +0100",
+            "stop_time": "20250224220000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220001 +0100",
+            "stop_time": "20250224230000 +0100",
+            "title": "Hora del Jangueo",
+            "description": "| +16 | Música |\n\nLos mejores vídeos para disfrutar bailando al beat del mejor reggaetón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230001 +0100",
+            "stop_time": "20250225000000 +0100",
+            "title": "Latino Romántico",
+            "description": "| +16 | Música |\n\nUna hora de música latina con mucho amor. ¡Para bailar pegaíto!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000001 +0100",
+            "stop_time": "20250225010000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010001 +0100",
+            "stop_time": "20250225020000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020001 +0100",
+            "stop_time": "20250225030000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030001 +0100",
+            "stop_time": "20250225040000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040001 +0100",
+            "stop_time": "20250225050000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050001 +0100",
+            "stop_time": "20250225060000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060001 +0100",
+            "stop_time": "20250225070000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070001 +0100",
+            "stop_time": "20250225080000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080001 +0100",
+            "stop_time": "20250225090000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090001 +0100",
+            "stop_time": "20250225100000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100001 +0100",
+            "stop_time": "20250225110000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110001 +0100",
+            "stop_time": "20250225120000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120001 +0100",
+            "stop_time": "20250225130000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130001 +0100",
+            "stop_time": "20250225140000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140001 +0100",
+            "stop_time": "20250225150000 +0100",
+            "title": "Iconos Latinos",
+            "description": "| +16 | Música |\n\nVídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150001 +0100",
+            "stop_time": "20250225160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160001 +0100",
+            "stop_time": "20250225170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170001 +0100",
+            "stop_time": "20250225180000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180001 +0100",
+            "stop_time": "20250225190000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190001 +0100",
+            "stop_time": "20250225200000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200001 +0100",
+            "stop_time": "20250225210000 +0100",
+            "title": "Clásicos Latinos",
+            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210001 +0100",
+            "stop_time": "20250225220000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220001 +0100",
+            "stop_time": "20250225230000 +0100",
+            "title": "Hora del Jangueo",
+            "description": "| +16 | Música |\n\nLos mejores vídeos para disfrutar bailando al beat del mejor reggaetón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230001 +0100",
+            "stop_time": "20250226000000 +0100",
+            "title": "Latino Romántico",
+            "description": "| +16 | Música |\n\nUna hora de música latina con mucho amor. ¡Para bailar pegaíto!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000001 +0100",
+            "stop_time": "20250226010000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010001 +0100",
+            "stop_time": "20250226020000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020001 +0100",
+            "stop_time": "20250226030000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030001 +0100",
+            "stop_time": "20250226040000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040001 +0100",
+            "stop_time": "20250226050000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050001 +0100",
+            "stop_time": "20250226060000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060001 +0100",
+            "stop_time": "20250226070000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070001 +0100",
+            "stop_time": "20250226080000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080001 +0100",
+            "stop_time": "20250226090000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090001 +0100",
+            "stop_time": "20250226100000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100001 +0100",
+            "stop_time": "20250226110000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110001 +0100",
+            "stop_time": "20250226120000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120001 +0100",
+            "stop_time": "20250226130000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130001 +0100",
+            "stop_time": "20250226140000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140001 +0100",
+            "stop_time": "20250226150000 +0100",
+            "title": "Iconos Latinos",
+            "description": "| +16 | Música |\n\nVídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150001 +0100",
+            "stop_time": "20250226160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160001 +0100",
+            "stop_time": "20250226170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170001 +0100",
+            "stop_time": "20250226180000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180001 +0100",
+            "stop_time": "20250226190000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190001 +0100",
+            "stop_time": "20250226200000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200001 +0100",
+            "stop_time": "20250226210000 +0100",
+            "title": "Clásicos Latinos",
+            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210001 +0100",
+            "stop_time": "20250226220000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220001 +0100",
+            "stop_time": "20250226230000 +0100",
+            "title": "Hora del Jangueo",
+            "description": "| +16 | Música |\n\nLos mejores vídeos para disfrutar bailando al beat del mejor reggaetón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230001 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "Latino Romántico",
+            "description": "| +16 | Música |\n\nUna hora de música latina con mucho amor. ¡Para bailar pegaíto!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000001 +0100",
+            "stop_time": "20250227010000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010001 +0100",
+            "stop_time": "20250227020000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020001 +0100",
+            "stop_time": "20250227030000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030001 +0100",
+            "stop_time": "20250227040000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040001 +0100",
+            "stop_time": "20250227050000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050001 +0100",
+            "stop_time": "20250227060000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060001 +0100",
+            "stop_time": "20250227070000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070001 +0100",
+            "stop_time": "20250227080000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080001 +0100",
+            "stop_time": "20250227090000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090001 +0100",
+            "stop_time": "20250227100000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100001 +0100",
+            "stop_time": "20250227110000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110001 +0100",
+            "stop_time": "20250227120000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120001 +0100",
+            "stop_time": "20250227130000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130001 +0100",
+            "stop_time": "20250227140000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140001 +0100",
+            "stop_time": "20250227150000 +0100",
+            "title": "Iconos Latinos",
+            "description": "| +16 | Música |\n\nVídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150001 +0100",
+            "stop_time": "20250227160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170001 +0100",
+            "stop_time": "20250227180000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180001 +0100",
+            "stop_time": "20250227190000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190001 +0100",
+            "stop_time": "20250227200000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200001 +0100",
+            "stop_time": "20250227210000 +0100",
+            "title": "Clásicos Latinos",
+            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210001 +0100",
+            "stop_time": "20250227220000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220001 +0100",
+            "stop_time": "20250227230000 +0100",
+            "title": "Hora del Jangueo",
+            "description": "| +16 | Música |\n\nLos mejores vídeos para disfrutar bailando al beat del mejor reggaetón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230001 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "Latino Romántico",
+            "description": "| +16 | Música |\n\nUna hora de música latina con mucho amor. ¡Para bailar pegaíto!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228010000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010001 +0100",
+            "stop_time": "20250228020000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020001 +0100",
+            "stop_time": "20250228030000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030001 +0100",
+            "stop_time": "20250228040000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228050000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050001 +0100",
+            "stop_time": "20250228060000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060001 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228080000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080001 +0100",
+            "stop_time": "20250228090000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090001 +0100",
+            "stop_time": "20250228100000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100001 +0100",
+            "stop_time": "20250228110000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110001 +0100",
+            "stop_time": "20250228120000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120001 +0100",
+            "stop_time": "20250228130000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130001 +0100",
+            "stop_time": "20250228140000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140001 +0100",
+            "stop_time": "20250228150000 +0100",
+            "title": "Iconos Latinos",
+            "description": "| +16 | Música |\n\nVídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150001 +0100",
+            "stop_time": "20250228160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160001 +0100",
+            "stop_time": "20250228170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170001 +0100",
+            "stop_time": "20250228180000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180001 +0100",
+            "stop_time": "20250228190000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190001 +0100",
+            "stop_time": "20250228200000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200001 +0100",
+            "stop_time": "20250228210000 +0100",
+            "title": "Clásicos Latinos",
+            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210001 +0100",
+            "stop_time": "20250228220000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220001 +0100",
+            "stop_time": "20250228230000 +0100",
+            "title": "Hora del Jangueo",
+            "description": "| +16 | Música |\n\nLos mejores vídeos para disfrutar bailando al beat del mejor reggaetón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230001 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301010000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010001 +0100",
+            "stop_time": "20250301020000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020001 +0100",
+            "stop_time": "20250301030000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030001 +0100",
+            "stop_time": "20250301040000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040001 +0100",
+            "stop_time": "20250301050000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050001 +0100",
+            "stop_time": "20250301060000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060001 +0100",
+            "stop_time": "20250301070000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070001 +0100",
+            "stop_time": "20250301080000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080001 +0100",
+            "stop_time": "20250301090000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090001 +0100",
+            "stop_time": "20250301100000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100001 +0100",
+            "stop_time": "20250301110000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110001 +0100",
+            "stop_time": "20250301120000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120001 +0100",
+            "stop_time": "20250301130000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130001 +0100",
+            "stop_time": "20250301140000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140001 +0100",
+            "stop_time": "20250301150000 +0100",
+            "title": "Iconos Latinos",
+            "description": "| +16 | Música |\n\nVídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150001 +0100",
+            "stop_time": "20250301160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160001 +0100",
+            "stop_time": "20250301170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170001 +0100",
+            "stop_time": "20250301180000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180001 +0100",
+            "stop_time": "20250301190000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190001 +0100",
+            "stop_time": "20250301200000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200001 +0100",
+            "stop_time": "20250301210000 +0100",
+            "title": "Clásicos Latinos",
+            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210001 +0100",
+            "stop_time": "20250301220000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220001 +0100",
+            "stop_time": "20250301230000 +0100",
+            "title": "Hora del Jangueo",
+            "description": "| +16 | Música |\n\nLos mejores vídeos para disfrutar bailando al beat del mejor reggaetón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230001 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302010000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302010001 +0100",
+            "stop_time": "20250302020000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020001 +0100",
+            "stop_time": "20250302030000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030001 +0100",
+            "stop_time": "20250302040000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302050000 +0100",
+            "title": "Sabor Tropical",
+            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050001 +0100",
+            "stop_time": "20250302060000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302060001 +0100",
+            "stop_time": "20250302070000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302070001 +0100",
+            "stop_time": "20250302080000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302080001 +0100",
+            "stop_time": "20250302090000 +0100",
+            "title": "Pop & Rock Latino",
+            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090001 +0100",
+            "stop_time": "20250302100000 +0100",
+            "title": "Latino Chill",
+            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100001 +0100",
+            "stop_time": "20250302110000 +0100",
+            "title": "Música Chingona",
+            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302110001 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "DSCVR New Music Latino",
+            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302130000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302130001 +0100",
+            "stop_time": "20250302140000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302140001 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "Iconos Latinos",
+            "description": "| +16 | Música |\n\nVídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302160000 +0100",
+            "title": "Buena Onda",
+            "description": "| +16 | Música |\n\nLa música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302170000 +0100",
+            "title": "Conexión España-Latam",
+            "description": "| +16 | Música |\n\nEspaña y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170001 +0100",
+            "stop_time": "20250302180000 +0100",
+            "title": "Vevo Studios Live",
+            "description": "| +16 | Música |\n\nContenido exclusivo desde los estudios de Vevo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180001 +0100",
+            "stop_time": "20250302190000 +0100",
+            "title": "Latino Esencial",
+            "description": "| +16 | Música |\n\nLas canciones latinas que han marcado a una generación y que seguro no podrás dejar de cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190001 +0100",
+            "stop_time": "20250302200000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200001 +0100",
+            "stop_time": "20250302210000 +0100",
+            "title": "Clásicos Latinos",
+            "description": "| +16 | Música |\n\nLos temazos más top de los 2000 y 2010, en tres horas de reggaetón y música latina para que no puedas parar de bailar y cantar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210001 +0100",
+            "stop_time": "20250302220000 +0100",
+            "title": "Sonido Urbano",
+            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220001 +0100",
+            "stop_time": "20250302230000 +0100",
+            "title": "Hora del Jangueo",
+            "description": "| +16 | Música |\n\nLos mejores vídeos para disfrutar bailando al beat del mejor reggaetón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302230001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "Latino Romántico",
+            "description": "| +16 | Música |\n\nUna hora de música latina con mucho amor. ¡Para bailar pegaíto!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303010000 +0100",
+            "title": "Lo Más Pegao",
+            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/vevolatino-vevo-latino-es.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

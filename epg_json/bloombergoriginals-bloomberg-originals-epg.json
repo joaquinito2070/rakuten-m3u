@@ -1,0 +1,384 @@
+{
+    "name": "Bloomberg Originals",
+    "tvg_id": "bloomberg-originals",
+    "epg": [
+        {
+            "start_time": "20250224150005 +0100",
+            "stop_time": "20250224175958 +0100",
+            "title": "Take Charge",
+            "description": "| +12 | Documental |\n\nThe morning’s global headlines impacting your day.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180005 +0100",
+            "stop_time": "20250224215958 +0100",
+            "title": "Take a Break",
+            "description": "| +12 | Documental |\n\nMidday snapshot at the stories making news around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220005 +0100",
+            "stop_time": "20250224222959 +0100",
+            "title": "Quicktake Geo",
+            "description": "| +12 | Documental |\n\nThe most interesting story of the news cycle, through a global lens.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223005 +0100",
+            "stop_time": "20250225005958 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010006 +0100",
+            "stop_time": "20250225015959 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020005 +0100",
+            "stop_time": "20250225045958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050005 +0100",
+            "stop_time": "20250225075958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080005 +0100",
+            "stop_time": "20250225105958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110005 +0100",
+            "stop_time": "20250225135958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140005 +0100",
+            "stop_time": "20250225145958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150005 +0100",
+            "stop_time": "20250225175958 +0100",
+            "title": "Take Charge",
+            "description": "| +12 | Documental |\n\nThe morning’s global headlines impacting your day.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180005 +0100",
+            "stop_time": "20250225215958 +0100",
+            "title": "Take a Break",
+            "description": "| +12 | Documental |\n\nMidday snapshot at the stories making news around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220005 +0100",
+            "stop_time": "20250225222959 +0100",
+            "title": "Quicktake Geo",
+            "description": "| +12 | Documental |\n\nThe most interesting story of the news cycle, through a global lens.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223005 +0100",
+            "stop_time": "20250226005958 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010006 +0100",
+            "stop_time": "20250226015959 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020005 +0100",
+            "stop_time": "20250226045958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050005 +0100",
+            "stop_time": "20250226075958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080005 +0100",
+            "stop_time": "20250226105958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110005 +0100",
+            "stop_time": "20250226135958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140005 +0100",
+            "stop_time": "20250226145958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150005 +0100",
+            "stop_time": "20250226175958 +0100",
+            "title": "Take Charge",
+            "description": "| +12 | Documental |\n\nThe morning’s global headlines impacting your day.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180005 +0100",
+            "stop_time": "20250226215958 +0100",
+            "title": "Take a Break",
+            "description": "| +12 | Documental |\n\nMidday snapshot at the stories making news around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220005 +0100",
+            "stop_time": "20250226222959 +0100",
+            "title": "Quicktake Geo",
+            "description": "| +12 | Documental |\n\nThe most interesting story of the news cycle, through a global lens.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226223005 +0100",
+            "stop_time": "20250227005958 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010006 +0100",
+            "stop_time": "20250227015959 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020005 +0100",
+            "stop_time": "20250227045958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050005 +0100",
+            "stop_time": "20250227075958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080005 +0100",
+            "stop_time": "20250227105958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110005 +0100",
+            "stop_time": "20250227135958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140005 +0100",
+            "stop_time": "20250227145958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150005 +0100",
+            "stop_time": "20250227175958 +0100",
+            "title": "Take Charge",
+            "description": "| +12 | Documental |\n\nThe morning’s global headlines impacting your day.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180005 +0100",
+            "stop_time": "20250227215958 +0100",
+            "title": "Take a Break",
+            "description": "| +12 | Documental |\n\nMidday snapshot at the stories making news around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220005 +0100",
+            "stop_time": "20250227222959 +0100",
+            "title": "Quicktake Geo",
+            "description": "| +12 | Documental |\n\nThe most interesting story of the news cycle, through a global lens.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223005 +0100",
+            "stop_time": "20250228005958 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010006 +0100",
+            "stop_time": "20250228015959 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020005 +0100",
+            "stop_time": "20250228045958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050005 +0100",
+            "stop_time": "20250228075958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080005 +0100",
+            "stop_time": "20250228105958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110005 +0100",
+            "stop_time": "20250228135958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140005 +0100",
+            "stop_time": "20250228145958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150005 +0100",
+            "stop_time": "20250228175958 +0100",
+            "title": "Take Charge",
+            "description": "| +12 | Documental |\n\nThe morning’s global headlines impacting your day.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180005 +0100",
+            "stop_time": "20250228215958 +0100",
+            "title": "Take a Break",
+            "description": "| +12 | Documental |\n\nMidday snapshot at the stories making news around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220005 +0100",
+            "stop_time": "20250228222959 +0100",
+            "title": "Quicktake Geo",
+            "description": "| +12 | Documental |\n\nThe most interesting story of the news cycle, through a global lens.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223005 +0100",
+            "stop_time": "20250301005958 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010006 +0100",
+            "stop_time": "20250301015959 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020005 +0100",
+            "stop_time": "20250301045958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050005 +0100",
+            "stop_time": "20250301075958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080005 +0100",
+            "stop_time": "20250301105958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110005 +0100",
+            "stop_time": "20250301135958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140005 +0100",
+            "stop_time": "20250301145958 +0100",
+            "title": "Bloomberg Originals",
+            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150005 +0100",
+            "stop_time": "20250301175958 +0100",
+            "title": "Take Charge",
+            "description": "| +12 | Documental |\n\nThe morning’s global headlines impacting your day.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180005 +0100",
+            "stop_time": "20250301215958 +0100",
+            "title": "Take a Break",
+            "description": "| +12 | Documental |\n\nMidday snapshot at the stories making news around the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220005 +0100",
+            "stop_time": "20250301222959 +0100",
+            "title": "Quicktake Geo",
+            "description": "| +12 | Documental |\n\nThe most interesting story of the news cycle, through a global lens.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223005 +0100",
+            "stop_time": "20250302005958 +0100",
+            "title": "Take the Lead",
+            "description": "| +12 | Documental |\n\nThe people and companies impacting your money.",
+            "icon": ""
+        }
+    ]
+}

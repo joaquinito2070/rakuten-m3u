@@ -1,0 +1,2155 @@
+{
+    "name": "The Design Network",
+    "tvg_id": "the-design-network-new",
+    "epg": [
+        {
+            "start_time": "20250224153001 +0100",
+            "stop_time": "20250224160000 +0100",
+            "title": "A Celebration of Covenant House",
+            "description": "| +TP | Estilo de vida |\n\nInternational model Nicole Williams English heads to the Bronx to celebrate Covenant House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160001 +0100",
+            "stop_time": "20250224163000 +0100",
+            "title": "Transformed Teen Bedroom & Living Room Refresh",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224163001 +0100",
+            "stop_time": "20250224170000 +0100",
+            "title": "Baby Juniper's Nursery Reveal & Katie's Coastal Home Office",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170001 +0100",
+            "stop_time": "20250224173000 +0100",
+            "title": "A Pooch-Perfect Laundry Room & A Primary Suite Built for Wellness",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173001 +0100",
+            "stop_time": "20250224180000 +0100",
+            "title": "From Hangout to Elevated Speakeasy & A Camp-Inspired Kids’ Room",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180001 +0100",
+            "stop_time": "20250224183000 +0100",
+            "title": "Hidden Hills Equestrian Enclave",
+            "description": "| +TP | Estilo de vida |\n\nMatthew explores the gorgeous, guard-gated equestrian community of Hidden Hills, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224183001 +0100",
+            "stop_time": "20250224190000 +0100",
+            "title": "Beverly Hills Ultimate Estates",
+            "description": "| +TP | Estilo de vida |\n\nMatthew heads to Beverly Hills, the pinnacle of A-List living.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190001 +0100",
+            "stop_time": "20250224193000 +0100",
+            "title": "Bel Air Palatial Properties",
+            "description": "| +TP | Estilo de vida |\n\nMatthew visits exclusive Bel Air, home to some of the biggest stars with the deepest pockets.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224193001 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "San Marino & Pasadena Pedigreed Estates",
+            "description": "| +TP | Estilo de vida |\n\nMatthew tours pedigreed estates in San Marino and Pasadena, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250224203000 +0100",
+            "title": "Architectural Masterpieces",
+            "description": "| +TP | Estilo de vida |\n\nMatthew tours some of the most architecturally significant properties you’ve ever seen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224203001 +0100",
+            "stop_time": "20250224210000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210001 +0100",
+            "stop_time": "20250224213000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213001 +0100",
+            "stop_time": "20250224220000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220001 +0100",
+            "stop_time": "20250224223000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223001 +0100",
+            "stop_time": "20250224230000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230001 +0100",
+            "stop_time": "20250224233000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224233001 +0100",
+            "stop_time": "20250225000000 +0100",
+            "title": "Kayla & Ryan’s Toddler To-Do List",
+            "description": "| +TP | Estilo de vida |\n\nKayla and Ryan have a newborn and a toddler and need both functionality and style in their space.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000001 +0100",
+            "stop_time": "20250225003000 +0100",
+            "title": "Jack & Tyler’s Colorful Curb Appeal",
+            "description": "| +TP | Estilo de vida |\n\nJack and Tyler have made their home picture-perfect, but now it’s time for the exterior to shine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225003001 +0100",
+            "stop_time": "20250225010000 +0100",
+            "title": "Eduardo & Gabriela’s Guest Retreat",
+            "description": "| +TP | Estilo de vida |\n\nEduardo and Gabriela's ‘little’ home projects have piled up and they’re ready for Drew’s help.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010001 +0100",
+            "stop_time": "20250225013000 +0100",
+            "title": "Prismatic & Patterned LA Bungalow",
+            "description": "| +TP | Estilo de vida |\n\nPeek inside Los Angeles-based designer Dani Dazey’s pink bungalow in Highland Park, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013001 +0100",
+            "stop_time": "20250225020000 +0100",
+            "title": "Moody & Masculine Mid-Century Style",
+            "description": "| +TP | Estilo de vida |\n\nLos Angeles-based designer, Eddie Mickenberg welcomes you into this Encino, California home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020001 +0100",
+            "stop_time": "20250225023000 +0100",
+            "title": "Historical Modern Heirloom Estate",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225023001 +0100",
+            "stop_time": "20250225030000 +0100",
+            "title": "Modern & Minimal South End Makeover",
+            "description": "| +TP | Estilo de vida |\n\nLeia T. Ward transforms a traditional home into a modern, open floorplan with elevated style.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030001 +0100",
+            "stop_time": "20250225033000 +0100",
+            "title": "Artful & Eclectic Designer Dwelling",
+            "description": "| +TP | Estilo de vida |\n\nAndrea Schumacher invites you into her Colorado home, which tells the story of her life and travels.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033001 +0100",
+            "stop_time": "20250225040000 +0100",
+            "title": "Montauk-Inspired Calibu Vineyard",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Jennifer Farrell invites you to experience Calibu Vineyard, her home nestled in the Califronia hills.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040001 +0100",
+            "stop_time": "20250225043000 +0100",
+            "title": "The Laws of Lighting & Color",
+            "description": "| +TP | Estilo de vida |\n\nJulie Couch breaks down the basic equations for taking the stress out of design.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043001 +0100",
+            "stop_time": "20250225050000 +0100",
+            "title": "The Science Behind Kitchens & Bedrooms",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch takes on the science of transforming spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050001 +0100",
+            "stop_time": "20250225053000 +0100",
+            "title": "The Formula for Small Spaces & Outdoor Living",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch transforms everything from small rooms to outdoor spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225053001 +0100",
+            "stop_time": "20250225060000 +0100",
+            "title": "Living It Up in Los Cabos",
+            "description": "| +TP | Estilo de vida |\n\nAndrea and her sister Sabrina head to spectacular Los Cabos for the adventure of a lifetime.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060001 +0100",
+            "stop_time": "20250225063000 +0100",
+            "title": "Historical Modern Heirloom Estate",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225063001 +0100",
+            "stop_time": "20250225070000 +0100",
+            "title": "Modern & Minimal South End Makeover",
+            "description": "| +TP | Estilo de vida |\n\nLeia T. Ward transforms a traditional home into a modern, open floorplan with elevated style.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070001 +0100",
+            "stop_time": "20250225073000 +0100",
+            "title": "Artful & Eclectic Designer Dwelling",
+            "description": "| +TP | Estilo de vida |\n\nAndrea Schumacher invites you into her Colorado home, which tells the story of her life and travels.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225073001 +0100",
+            "stop_time": "20250225080000 +0100",
+            "title": "Montauk-Inspired Calibu Vineyard",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Jennifer Farrell invites you to experience Calibu Vineyard, her home nestled in the Califronia hills.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080001 +0100",
+            "stop_time": "20250225083000 +0100",
+            "title": "The Laws of Lighting & Color",
+            "description": "| +TP | Estilo de vida |\n\nJulie Couch breaks down the basic equations for taking the stress out of design.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083001 +0100",
+            "stop_time": "20250225090000 +0100",
+            "title": "The Science Behind Kitchens & Bedrooms",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch takes on the science of transforming spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090001 +0100",
+            "stop_time": "20250225093000 +0100",
+            "title": "The Formula for Small Spaces & Outdoor Living",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch transforms everything from small rooms to outdoor spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093001 +0100",
+            "stop_time": "20250225100000 +0100",
+            "title": "Living It Up in Los Cabos",
+            "description": "| +TP | Estilo de vida |\n\nAndrea and her sister Sabrina head to spectacular Los Cabos for the adventure of a lifetime.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100001 +0100",
+            "stop_time": "20250225103000 +0100",
+            "title": "Going Off the Grid",
+            "description": "| +TP | Estilo de vida |\n\nThe Finn's are heading to the Texas backcountry to build their dream home off the grid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225103001 +0100",
+            "stop_time": "20250225110000 +0100",
+            "title": "Let Go and Let Gary",
+            "description": "| +TP | Estilo de vida |\n\nWith Builder Gary’s help, Leah’s hoping to get this house back on track.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110001 +0100",
+            "stop_time": "20250225113000 +0100",
+            "title": "Corbels, Old Doors, & Cupolas",
+            "description": "| +TP | Estilo de vida |\n\nNina heads to Nashville, Tennessee to turn a 37-acre farm into a family homestead.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225113001 +0100",
+            "stop_time": "20250225120000 +0100",
+            "title": "Like Watching Mortar Dry",
+            "description": "| +TP | Estilo de vida |\n\nThe mortar on the exterior stone is finally dry, but hasn’t turned out at all like Leah envisioned.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120001 +0100",
+            "stop_time": "20250225123000 +0100",
+            "title": "Bring Your Daughter to Work Year",
+            "description": "| +TP | Estilo de vida |\n\nLeah focuses on interior selections, but choosing paint colors proves to be more difficult than she thought.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225123001 +0100",
+            "stop_time": "20250225130000 +0100",
+            "title": "The Final Push",
+            "description": "| +TP | Estilo de vida |\n\nWith the end of the project in sight, everyone’s working hard to make sure the Finn's make their move-in date!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130001 +0100",
+            "stop_time": "20250225133000 +0100",
+            "title": "Making the Date",
+            "description": "| +TP | Estilo de vida |\n\nLeah’s heard that the last 10% of the build takes 90% of the effort … and it couldn’t be more true.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225133001 +0100",
+            "stop_time": "20250225140000 +0100",
+            "title": "Kayla & Ryan’s Toddler To-Do List",
+            "description": "| +TP | Estilo de vida |\n\nKayla and Ryan have a newborn and a toddler and need both functionality and style in their space.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140001 +0100",
+            "stop_time": "20250225143000 +0100",
+            "title": "Jack & Tyler’s Colorful Curb Appeal",
+            "description": "| +TP | Estilo de vida |\n\nJack and Tyler have made their home picture-perfect, but now it’s time for the exterior to shine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225143001 +0100",
+            "stop_time": "20250225150000 +0100",
+            "title": "Eduardo & Gabriela’s Guest Retreat",
+            "description": "| +TP | Estilo de vida |\n\nEduardo and Gabriela's ‘little’ home projects have piled up and they’re ready for Drew’s help.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150001 +0100",
+            "stop_time": "20250225153000 +0100",
+            "title": "Fran & Theresa’s Family-Friendly Haven",
+            "description": "| +TP | Estilo de vida |\n\nFran and Theresa want to create a safe, family-friendly haven for their 13 grandkids.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225153001 +0100",
+            "stop_time": "20250225160000 +0100",
+            "title": "Margot & Josh’s Teal Transformation",
+            "description": "| +TP | Estilo de vida |\n\nMargot and Josh spent years perfecting every room in the house but overlooked their bedroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160001 +0100",
+            "stop_time": "20250225163000 +0100",
+            "title": "Kimberly & Justin’s Dodecagon Dream",
+            "description": "| +TP | Estilo de vida |\n\nKimberly and Justin need an overhaul for their twelve-sided, dodecagon dream house.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225163001 +0100",
+            "stop_time": "20250225170000 +0100",
+            "title": "Moroccan Modern",
+            "description": "| +TP | Estilo de vida |\n\nMichelle Boudreau brings Morocco to life in this Palm Springs vacation home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170001 +0100",
+            "stop_time": "20250225173000 +0100",
+            "title": "Black & White Coastal Escape",
+            "description": "| +TP | Estilo de vida |\n\nLeia T. Ward embraces minimal, modern design that is warm and livable in this coastal escape.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225173001 +0100",
+            "stop_time": "20250225180000 +0100",
+            "title": "Monochromatic Mod Linda Flora",
+            "description": "| +TP | Estilo de vida |\n\nDesigner David Brian Sanders proves that a black and white palette is modern, chic and fabulously interesting.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180001 +0100",
+            "stop_time": "20250225183000 +0100",
+            "title": "Prismatic & Patterned LA Bungalow",
+            "description": "| +TP | Estilo de vida |\n\nPeek inside Los Angeles-based designer Dani Dazey’s pink bungalow in Highland Park, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225183001 +0100",
+            "stop_time": "20250225190000 +0100",
+            "title": "Moody & Masculine Mid-Century Style",
+            "description": "| +TP | Estilo de vida |\n\nLos Angeles-based designer, Eddie Mickenberg welcomes you into this Encino, California home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190001 +0100",
+            "stop_time": "20250225193000 +0100",
+            "title": "Historical Modern Heirloom Estate",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225193001 +0100",
+            "stop_time": "20250225200000 +0100",
+            "title": "A Tiny Frame of Mind / Tiny Cabin & Caboose",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200001 +0100",
+            "stop_time": "20250225203000 +0100",
+            "title": "Sleek & Scandinavian Cozy Cabins / Tiny Treehouse Overlooks",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203001 +0100",
+            "stop_time": "20250225210000 +0100",
+            "title": "Trailblazing Treehouses / White Farmhouse, Black Cabin",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210001 +0100",
+            "stop_time": "20250225213000 +0100",
+            "title": "Southern Stays in the Trees / Tiny Treasures in the Round",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225213001 +0100",
+            "stop_time": "20250225220000 +0100",
+            "title": "Small-Scale Retreats / Waterfront Wonders",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220001 +0100",
+            "stop_time": "20250225223000 +0100",
+            "title": "A Celebration of Covenant House",
+            "description": "| +TP | Estilo de vida |\n\nInternational model Nicole Williams English heads to the Bronx to celebrate Covenant House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223001 +0100",
+            "stop_time": "20250225230000 +0100",
+            "title": "A Salute to Operation Song",
+            "description": "| +TP | Estilo de vida |\n\nCountry music duo Maddie & Tae hop off the tour bus in Nashville to salute Operation Song.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230001 +0100",
+            "stop_time": "20250225233000 +0100",
+            "title": "The Blueprint",
+            "description": "| +TP | Estilo de vida |\n\nDarrel and Patrice of Maxam Hotels embark on an epic journey to build a tiny home resort.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233001 +0100",
+            "stop_time": "20250226000000 +0100",
+            "title": "Foundations",
+            "description": "| +TP | Estilo de vida |\n\nDarrel and Patrice begin construction, laying the foundation for the resort.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000001 +0100",
+            "stop_time": "20250226003000 +0100",
+            "title": "The Drop",
+            "description": "| +TP | Estilo de vida |\n\nThe tension begins to mount as the deadline looms larger.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226003001 +0100",
+            "stop_time": "20250226010000 +0100",
+            "title": "Down to the Wire",
+            "description": "| +TP | Estilo de vida |\n\nIt’s all hands-on deck at the resort and the team is working around the clock.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010001 +0100",
+            "stop_time": "20250226013000 +0100",
+            "title": "Sewing Up Loose Ends",
+            "description": "| +TP | Estilo de vida |\n\nWith power finally in place, the Maxams begin to ready the resort for opening.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226013001 +0100",
+            "stop_time": "20250226020000 +0100",
+            "title": "Ribbon Cutting",
+            "description": "| +TP | Estilo de vida |\n\nThe town of Sodus shows up as the Maxams unveil The Finger Lakes Treehouse Resort.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020001 +0100",
+            "stop_time": "20250226023000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226023001 +0100",
+            "stop_time": "20250226030000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030001 +0100",
+            "stop_time": "20250226033000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033001 +0100",
+            "stop_time": "20250226040000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040001 +0100",
+            "stop_time": "20250226043000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043001 +0100",
+            "stop_time": "20250226050000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050001 +0100",
+            "stop_time": "20250226053000 +0100",
+            "title": "The 64,000-Foot Ranch &  The Arizona Villa Imported from Italy",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226053001 +0100",
+            "stop_time": "20250226060000 +0100",
+            "title": "The English Manor & The Home Carved Into the Side of a Mountain",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060001 +0100",
+            "stop_time": "20250226063000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226063001 +0100",
+            "stop_time": "20250226070000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070001 +0100",
+            "stop_time": "20250226073000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073001 +0100",
+            "stop_time": "20250226080000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080001 +0100",
+            "stop_time": "20250226083000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226083001 +0100",
+            "stop_time": "20250226090000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090001 +0100",
+            "stop_time": "20250226093000 +0100",
+            "title": "The 64,000-Foot Ranch &  The Arizona Villa Imported from Italy",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226093001 +0100",
+            "stop_time": "20250226100000 +0100",
+            "title": "The English Manor & The Home Carved Into the Side of a Mountain",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100001 +0100",
+            "stop_time": "20250226103000 +0100",
+            "title": "A Salute to Operation Song",
+            "description": "| +TP | Estilo de vida |\n\nCountry music duo Maddie & Tae hop off the tour bus in Nashville to salute Operation Song.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226103001 +0100",
+            "stop_time": "20250226110000 +0100",
+            "title": "A Celebration of Covenant House",
+            "description": "| +TP | Estilo de vida |\n\nInternational model Nicole Williams English heads to the Bronx to celebrate Covenant House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110001 +0100",
+            "stop_time": "20250226113000 +0100",
+            "title": "Roasted Peri Peri Chicken & Veggies",
+            "description": "| +TP | Estilo de vida |\n\nHeather’s turning up the heat with her roasted peri peri chicken with broccolini and crispy potatoes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226113001 +0100",
+            "stop_time": "20250226120000 +0100",
+            "title": "Shrimp Chop Salad",
+            "description": "| +TP | Estilo de vida |\n\nHeather whips up a grilled shrimp chop salad and simple berry dessert.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120001 +0100",
+            "stop_time": "20250226123000 +0100",
+            "title": "Chicken Salsa Verde",
+            "description": "| +TP | Estilo de vida |\n\nHeather makes a lighter version of an old family favorite: chicken salsa verde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123001 +0100",
+            "stop_time": "20250226130000 +0100",
+            "title": "Shrimp Aguachile",
+            "description": "| +TP | Estilo de vida |\n\nHeather celebrates one of Mexico’s most popular restaurant dishes: shrimp aguachile.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130001 +0100",
+            "stop_time": "20250226133000 +0100",
+            "title": "Prosciutto, Arugula & Cheese Pizza",
+            "description": "| +TP | Estilo de vida |\n\nHeather makes prosciutto, arugula and cheese pizza - a client favorite!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133001 +0100",
+            "stop_time": "20250226140000 +0100",
+            "title": "The Science Behind Kitchens & Bedrooms",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch takes on the science of transforming spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140001 +0100",
+            "stop_time": "20250226143000 +0100",
+            "title": "The Formula for Small Spaces & Outdoor Living",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch transforms everything from small rooms to outdoor spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143001 +0100",
+            "stop_time": "20250226150000 +0100",
+            "title": "The Principles of Space Planning",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch breaks down the basic formulas for successful design.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150001 +0100",
+            "stop_time": "20250226153000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153001 +0100",
+            "stop_time": "20250226160000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160001 +0100",
+            "stop_time": "20250226163000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226163001 +0100",
+            "stop_time": "20250226170000 +0100",
+            "title": "Back on the Road",
+            "description": "| +TP | Estilo de vida |\n\nTaking his camera back on the road, Adam embarks on a solo journey to Nevada’s Valley of Fire.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170001 +0100",
+            "stop_time": "20250226173000 +0100",
+            "title": "Rolling with It",
+            "description": "| +TP | Estilo de vida |\n\nAdam heads south to New Mexico, where he receives lessons in the art of Van Life.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226173001 +0100",
+            "stop_time": "20250226180000 +0100",
+            "title": "The Bluegrass School Bus",
+            "description": "| +TP | Estilo de vida |\n\nAdam finds himself aboard a log cabin-inspired school bus in Oklahoma City.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180001 +0100",
+            "stop_time": "20250226183000 +0100",
+            "title": "Sunset at the Good Vibe Village",
+            "description": "| +TP | Estilo de vida |\n\nAfter three solo weeks in the Arizona desert, Adam finds himself in desperate need of a change of scene.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226183001 +0100",
+            "stop_time": "20250226190000 +0100",
+            "title": "A Celebration of Nomads",
+            "description": "| +TP | Estilo de vida |\n\nWith the Van Life gathering over, a group of nomads decide to temporarily stay put in Sedona.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190001 +0100",
+            "stop_time": "20250226193000 +0100",
+            "title": "Meteor Showers, Go-Carts & Rock Climbing",
+            "description": "| +TP | Estilo de vida |\n\nAdam and his brother Trey explore the Coconino National Forest and its massive rock formations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226193001 +0100",
+            "stop_time": "20250226200000 +0100",
+            "title": "An Inner Journey to the Outer Banks",
+            "description": "| +TP | Estilo de vida |\n\nAdam returns to North Carolina and journeys to the Outer Banks with his friend and master builder Bryce.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200001 +0100",
+            "stop_time": "20250226203000 +0100",
+            "title": "Looking Back to Move Forward",
+            "description": "| +TP | Estilo de vida |\n\nAdam takes lessons learned from living on the road to heart as he sets roots back down at his family home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226203001 +0100",
+            "stop_time": "20250226210000 +0100",
+            "title": "Armando Bacot's Luxe Loft",
+            "description": "| +TP | Estilo de vida |\n\nUNC Center Armando Bacot gets a home makeover with the help of designer-in-training, Chloe Barbu.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210001 +0100",
+            "stop_time": "20250226213000 +0100",
+            "title": "A Camp-Inspired Kids’ Room & The Multi-Use Playroom",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213001 +0100",
+            "stop_time": "20250226220000 +0100",
+            "title": "A Primary Suite Built for Wellness & From Hangout to Elevated Speakeasy",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220001 +0100",
+            "stop_time": "20250226223000 +0100",
+            "title": "The Whimsical Nursery & A Pooch-Perfect Laundry Room",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226223001 +0100",
+            "stop_time": "20250226230000 +0100",
+            "title": "Living Room Refresh & Baby Juniper's Big Nursery Reveal",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230001 +0100",
+            "stop_time": "20250226233000 +0100",
+            "title": "Bare to Blended Bedroom & Totally Transformed Teen Bedroom",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233001 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000001 +0100",
+            "stop_time": "20250227003000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227003001 +0100",
+            "stop_time": "20250227010000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010001 +0100",
+            "stop_time": "20250227013000 +0100",
+            "title": "Ruby's Kitchen with a View / Pon and Garmen's Lost Living Room",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013001 +0100",
+            "stop_time": "20250227020000 +0100",
+            "title": "Vero's Traditional & Modern Mix / Lexy's Comfy Condo \"Glam Up\"",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020001 +0100",
+            "stop_time": "20250227023000 +0100",
+            "title": "Rachel & Kevin's Mid-Century Remodel / Rachel & Tanner's Really Great Room",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227023001 +0100",
+            "stop_time": "20250227030000 +0100",
+            "title": "Sabrina's Scandinavian Bedroom Sanctuary / Jennie's Butterflies & Blush Nursery",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030001 +0100",
+            "stop_time": "20250227033000 +0100",
+            "title": "Kimberly & Justin’s Dodecagon Dream",
+            "description": "| +TP | Estilo de vida |\n\nKimberly and Justin need an overhaul for their twelve-sided, dodecagon dream house.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227033001 +0100",
+            "stop_time": "20250227040000 +0100",
+            "title": "Margot & Josh’s Teal Transformation",
+            "description": "| +TP | Estilo de vida |\n\nMargot and Josh spent years perfecting every room in the house but overlooked their bedroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040001 +0100",
+            "stop_time": "20250227043000 +0100",
+            "title": "Fran & Theresa’s Family-Friendly Haven",
+            "description": "| +TP | Estilo de vida |\n\nFran and Theresa want to create a safe, family-friendly haven for their 13 grandkids.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043001 +0100",
+            "stop_time": "20250227050000 +0100",
+            "title": "Eduardo & Gabriela’s Guest Retreat",
+            "description": "| +TP | Estilo de vida |\n\nEduardo and Gabriela's ‘little’ home projects have piled up and they’re ready for Drew’s help.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050001 +0100",
+            "stop_time": "20250227053000 +0100",
+            "title": "Jack & Tyler’s Colorful Curb Appeal",
+            "description": "| +TP | Estilo de vida |\n\nJack and Tyler have made their home picture-perfect, but now it’s time for the exterior to shine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053001 +0100",
+            "stop_time": "20250227060000 +0100",
+            "title": "Kayla & Ryan’s Toddler To-Do List",
+            "description": "| +TP | Estilo de vida |\n\nKayla and Ryan have a newborn and a toddler and need both functionality and style in their space.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060001 +0100",
+            "stop_time": "20250227063000 +0100",
+            "title": "Rachel & Kevin's Mid-Century Remodel / Rachel & Tanner's Really Great Room",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227063001 +0100",
+            "stop_time": "20250227070000 +0100",
+            "title": "Sabrina's Scandinavian Bedroom Sanctuary / Jennie's Butterflies & Blush Nursery",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070001 +0100",
+            "stop_time": "20250227073000 +0100",
+            "title": "Kimberly & Justin’s Dodecagon Dream",
+            "description": "| +TP | Estilo de vida |\n\nKimberly and Justin need an overhaul for their twelve-sided, dodecagon dream house.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073001 +0100",
+            "stop_time": "20250227080000 +0100",
+            "title": "Margot & Josh’s Teal Transformation",
+            "description": "| +TP | Estilo de vida |\n\nMargot and Josh spent years perfecting every room in the house but overlooked their bedroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080001 +0100",
+            "stop_time": "20250227083000 +0100",
+            "title": "Fran & Theresa’s Family-Friendly Haven",
+            "description": "| +TP | Estilo de vida |\n\nFran and Theresa want to create a safe, family-friendly haven for their 13 grandkids.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083001 +0100",
+            "stop_time": "20250227090000 +0100",
+            "title": "Eduardo & Gabriela’s Guest Retreat",
+            "description": "| +TP | Estilo de vida |\n\nEduardo and Gabriela's ‘little’ home projects have piled up and they’re ready for Drew’s help.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090001 +0100",
+            "stop_time": "20250227093000 +0100",
+            "title": "Jack & Tyler’s Colorful Curb Appeal",
+            "description": "| +TP | Estilo de vida |\n\nJack and Tyler have made their home picture-perfect, but now it’s time for the exterior to shine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093001 +0100",
+            "stop_time": "20250227100000 +0100",
+            "title": "Kayla & Ryan’s Toddler To-Do List",
+            "description": "| +TP | Estilo de vida |\n\nKayla and Ryan have a newborn and a toddler and need both functionality and style in their space.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100001 +0100",
+            "stop_time": "20250227103000 +0100",
+            "title": "Cleaned Up Kitchen Chaos & Clutter Busted Closet",
+            "description": "| +TP | Estilo de vida |\n\nThe Home Sort sisters transform spaces from chaos to clutter-free.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103001 +0100",
+            "stop_time": "20250227110000 +0100",
+            "title": "Bathroom Revamp & Laundry Room Hack",
+            "description": "| +TP | Estilo de vida |\n\nThe Home Sort sisters transform spaces from chaos to clutter-free.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110001 +0100",
+            "stop_time": "20250227113000 +0100",
+            "title": "Pasadena Billionaire's Bunker",
+            "description": "| +TP | Estilo de vida |\n\nMatthew heads to Pasadena, the picture-perfect backdrop for a home like no other.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227113001 +0100",
+            "stop_time": "20250227120000 +0100",
+            "title": "Architectural Masterpieces",
+            "description": "| +TP | Estilo de vida |\n\nMatthew tours some of the most architecturally significant properties you’ve ever seen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120001 +0100",
+            "stop_time": "20250227123000 +0100",
+            "title": "San Marino & Pasadena Pedigreed Estates",
+            "description": "| +TP | Estilo de vida |\n\nMatthew tours pedigreed estates in San Marino and Pasadena, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123001 +0100",
+            "stop_time": "20250227130000 +0100",
+            "title": "Bel Air Palatial Properties",
+            "description": "| +TP | Estilo de vida |\n\nMatthew visits exclusive Bel Air, home to some of the biggest stars with the deepest pockets.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130001 +0100",
+            "stop_time": "20250227133000 +0100",
+            "title": "Beverly Hills Ultimate Estates",
+            "description": "| +TP | Estilo de vida |\n\nMatthew heads to Beverly Hills, the pinnacle of A-List living.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133001 +0100",
+            "stop_time": "20250227140000 +0100",
+            "title": "Hidden Hills Equestrian Enclave",
+            "description": "| +TP | Estilo de vida |\n\nMatthew explores the gorgeous, guard-gated equestrian community of Hidden Hills, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140001 +0100",
+            "stop_time": "20250227143000 +0100",
+            "title": "Creative Container Homes / Dockside Destinations",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143001 +0100",
+            "stop_time": "20250227150000 +0100",
+            "title": "Texas Tiny Cabins / Curated Containers",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150001 +0100",
+            "stop_time": "20250227153000 +0100",
+            "title": "Sensational Silos / Small Southern Sojourns",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153001 +0100",
+            "stop_time": "20250227160000 +0100",
+            "title": "Decked-Out Destinations / Tiny Wonders of the Pacific Northwest",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227163000 +0100",
+            "title": "Small Sustainable Stays / Tiny Georgia Treehouses",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163001 +0100",
+            "stop_time": "20250227170000 +0100",
+            "title": "Montana’s Mountainous Mini Stays / Sleek & Scandinavian Cozy Cabins",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170001 +0100",
+            "stop_time": "20250227173000 +0100",
+            "title": "Tiny Treehouse Overlooks / A Tiny Frame of Mind",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173001 +0100",
+            "stop_time": "20250227180000 +0100",
+            "title": "Kimberly & Justin’s Dodecagon Dream",
+            "description": "| +TP | Estilo de vida |\n\nKimberly and Justin need an overhaul for their twelve-sided, dodecagon dream house.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180001 +0100",
+            "stop_time": "20250227183000 +0100",
+            "title": "Margot & Josh’s Teal Transformation",
+            "description": "| +TP | Estilo de vida |\n\nMargot and Josh spent years perfecting every room in the house but overlooked their bedroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227183001 +0100",
+            "stop_time": "20250227190000 +0100",
+            "title": "Fran & Theresa’s Family-Friendly Haven",
+            "description": "| +TP | Estilo de vida |\n\nFran and Theresa want to create a safe, family-friendly haven for their 13 grandkids.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190001 +0100",
+            "stop_time": "20250227193000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193001 +0100",
+            "stop_time": "20250227200000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200001 +0100",
+            "stop_time": "20250227203000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203001 +0100",
+            "stop_time": "20250227210000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210001 +0100",
+            "stop_time": "20250227213000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213001 +0100",
+            "stop_time": "20250227220000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220001 +0100",
+            "stop_time": "20250227223000 +0100",
+            "title": "Historical Modern Heirloom Estate",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223001 +0100",
+            "stop_time": "20250227230000 +0100",
+            "title": "Monochromatic Mod Linda Flora",
+            "description": "| +TP | Estilo de vida |\n\nDesigner David Brian Sanders proves that a black and white palette is modern, chic and fabulously interesting.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230001 +0100",
+            "stop_time": "20250227233000 +0100",
+            "title": "Black & White Coastal Escape",
+            "description": "| +TP | Estilo de vida |\n\nLeia T. Ward embraces minimal, modern design that is warm and livable in this coastal escape.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233001 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "New England Modern Coastal Reno",
+            "description": "| +TP | Estilo de vida |\n\nLeia Ward transforms a traditional colonial home into a getaway with a fresh, coastal vibe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228003000 +0100",
+            "title": "Deer Valley Ski-In/Out Vacation Home",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton brings her organic modern style to this ski-in/ski-out getaway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003001 +0100",
+            "stop_time": "20250228010000 +0100",
+            "title": "Modern French Country Farmhouse",
+            "description": "| +TP | Estilo de vida |\n\nDon Massenburg invites you to tour this beautiful French country farmhouse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010001 +0100",
+            "stop_time": "20250228013000 +0100",
+            "title": "Crazy Vehicle Conversions & Peculiar Pads",
+            "description": "| +TP | Estilo de vida |\n\nCaleb tours two unexpected vehicles and an old laundromat turned into unique living quarters.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013001 +0100",
+            "stop_time": "20250228020000 +0100",
+            "title": "Micro Living",
+            "description": "| +TP | Estilo de vida |\n\nCaleb discovers what might be the smallest studio apartment in Midtown Manhattan!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020001 +0100",
+            "stop_time": "20250228023000 +0100",
+            "title": "A Salute to Operation Song",
+            "description": "| +TP | Estilo de vida |\n\nCountry music duo Maddie & Tae hop off the tour bus in Nashville to salute Operation Song.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023001 +0100",
+            "stop_time": "20250228030000 +0100",
+            "title": "A Celebration of Covenant House",
+            "description": "| +TP | Estilo de vida |\n\nInternational model Nicole Williams English heads to the Bronx to celebrate Covenant House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030001 +0100",
+            "stop_time": "20250228033000 +0100",
+            "title": "The Science Behind Kitchens & Bedrooms",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch takes on the science of transforming spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228033001 +0100",
+            "stop_time": "20250228040000 +0100",
+            "title": "The Formula for Small Spaces & Outdoor Living",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch transforms everything from small rooms to outdoor spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228043000 +0100",
+            "title": "The Principles of Space Planning",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch breaks down the basic formulas for successful design.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228043001 +0100",
+            "stop_time": "20250228050000 +0100",
+            "title": "Brad Rempel's Country Music Cottage",
+            "description": "| +TP | Estilo de vida |\n\nAndrea goes to Nashville to spend a day with Brad Rempel, lead singer of country music sensation High Valley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050001 +0100",
+            "stop_time": "20250228053000 +0100",
+            "title": "Jonathan Bennett’s Mai Tai Manor",
+            "description": "| +TP | Estilo de vida |\n\nAndrea's off to Palm Springs for a fun-filled day with actor Jonathan Bennett.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053001 +0100",
+            "stop_time": "20250228060000 +0100",
+            "title": "Nigel Barker’s Picture Perfect Mountain Home",
+            "description": "| +TP | Estilo de vida |\n\nAndrea lands in Upstate New York for pancakes, ping pong and plenty of fun with Nigel Barker.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060001 +0100",
+            "stop_time": "20250228063000 +0100",
+            "title": "A Salute to Operation Song",
+            "description": "| +TP | Estilo de vida |\n\nCountry music duo Maddie & Tae hop off the tour bus in Nashville to salute Operation Song.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063001 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "A Celebration of Covenant House",
+            "description": "| +TP | Estilo de vida |\n\nInternational model Nicole Williams English heads to the Bronx to celebrate Covenant House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228073000 +0100",
+            "title": "The Science Behind Kitchens & Bedrooms",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch takes on the science of transforming spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073001 +0100",
+            "stop_time": "20250228080000 +0100",
+            "title": "The Formula for Small Spaces & Outdoor Living",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch transforms everything from small rooms to outdoor spaces.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080001 +0100",
+            "stop_time": "20250228083000 +0100",
+            "title": "The Principles of Space Planning",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch breaks down the basic formulas for successful design.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083001 +0100",
+            "stop_time": "20250228090000 +0100",
+            "title": "Brad Rempel's Country Music Cottage",
+            "description": "| +TP | Estilo de vida |\n\nAndrea goes to Nashville to spend a day with Brad Rempel, lead singer of country music sensation High Valley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090001 +0100",
+            "stop_time": "20250228093000 +0100",
+            "title": "Jonathan Bennett’s Mai Tai Manor",
+            "description": "| +TP | Estilo de vida |\n\nAndrea's off to Palm Springs for a fun-filled day with actor Jonathan Bennett.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093001 +0100",
+            "stop_time": "20250228100000 +0100",
+            "title": "Nigel Barker’s Picture Perfect Mountain Home",
+            "description": "| +TP | Estilo de vida |\n\nAndrea lands in Upstate New York for pancakes, ping pong and plenty of fun with Nigel Barker.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100001 +0100",
+            "stop_time": "20250228103000 +0100",
+            "title": "No Place Like Home",
+            "description": "| +TP | Estilo de vida |\n\nDarius Rucker brings together an all-star team to transform a historic mansion.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228103001 +0100",
+            "stop_time": "20250228110000 +0100",
+            "title": "Sweet Tea & Southern Hospitality",
+            "description": "| +TP | Estilo de vida |\n\nHospitality takes center stage when a Victorian ballroom gets a modern makeover.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110001 +0100",
+            "stop_time": "20250228113000 +0100",
+            "title": "Dinnertime Down South",
+            "description": "| +TP | Estilo de vida |\n\nFamily traditions shine bright as the dining room gets its moment in the spotlight.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113001 +0100",
+            "stop_time": "20250228120000 +0100",
+            "title": "Unwinding & Weaving",
+            "description": "| +TP | Estilo de vida |\n\nRest and relaxation are front and center as the master suite gets a new look.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120001 +0100",
+            "stop_time": "20250228123000 +0100",
+            "title": "Blank Canvas Conundrum & Bare to Blended Bedroom",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123001 +0100",
+            "stop_time": "20250228130000 +0100",
+            "title": "Transformed Teen Bedroom & Living Room Refresh",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130001 +0100",
+            "stop_time": "20250228133000 +0100",
+            "title": "Baby Juniper's Nursery Reveal & Katie's Coastal Home Office",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133001 +0100",
+            "stop_time": "20250228140000 +0100",
+            "title": "A Pooch-Perfect Laundry Room & A Primary Suite Built for Wellness",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140001 +0100",
+            "stop_time": "20250228143000 +0100",
+            "title": "From Hangout to Elevated Speakeasy & A Camp-Inspired Kids’ Room",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228143001 +0100",
+            "stop_time": "20250228150000 +0100",
+            "title": "Armando Bacot's Luxe Loft",
+            "description": "| +TP | Estilo de vida |\n\nUNC Center Armando Bacot gets a home makeover with the help of designer-in-training, Chloe Barbu.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150001 +0100",
+            "stop_time": "20250228153000 +0100",
+            "title": "The Paradise Valley Global Ranch & The 64,000-Foot Ranch",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153001 +0100",
+            "stop_time": "20250228160000 +0100",
+            "title": "The Arizona Villa Imported from Italy & The English Manor",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160001 +0100",
+            "stop_time": "20250228163000 +0100",
+            "title": "The Home Carved Into the Side of a Mountain & The Ultimate Entertainer's Retreat",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163001 +0100",
+            "stop_time": "20250228170000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170001 +0100",
+            "stop_time": "20250228173000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173001 +0100",
+            "stop_time": "20250228180000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180001 +0100",
+            "stop_time": "20250228183000 +0100",
+            "title": "Skylar & Tyler's Blank Bungalow / Melissa's Galley Kitchen Glow Up",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183001 +0100",
+            "stop_time": "20250228190000 +0100",
+            "title": "Sabrina's Scandinavian Bedroom Sanctuary / Jennie's Butterflies & Blush Nursery",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190001 +0100",
+            "stop_time": "20250228193000 +0100",
+            "title": "Vero's Traditional & Modern Mix / Lexy's Comfy Condo \"Glam Up\"",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193001 +0100",
+            "stop_time": "20250228200000 +0100",
+            "title": "Ruby's Kitchen with a View / Pon and Garmen's Lost Living Room",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200001 +0100",
+            "stop_time": "20250228203000 +0100",
+            "title": "Rachel & Kevin's Mid-Century Remodel / Rachel & Tanner's Really Great Room",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228203001 +0100",
+            "stop_time": "20250228210000 +0100",
+            "title": "Laura's Outdoor Dreamscape / Julie's Reclaimed Refuge",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210001 +0100",
+            "stop_time": "20250228213000 +0100",
+            "title": "Micro Living",
+            "description": "| +TP | Estilo de vida |\n\nCaleb discovers what might be the smallest studio apartment in Midtown Manhattan!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213001 +0100",
+            "stop_time": "20250228220000 +0100",
+            "title": "A Window Into Williamsburg & Influencer Abodes",
+            "description": "| +TP | Estilo de vida |\n\nCaleb Simpson gets an inside look at how people make - and afford - their homes in the big city.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220001 +0100",
+            "stop_time": "20250228223000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223001 +0100",
+            "stop_time": "20250228230000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230001 +0100",
+            "stop_time": "20250228233000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233001 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "A Tiny Frame of Mind / Tiny Cabin & Caboose",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301003000 +0100",
+            "title": "Sleek & Scandinavian Cozy Cabins / Tiny Treehouse Overlooks",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003001 +0100",
+            "stop_time": "20250301010000 +0100",
+            "title": "White Farmhouse, Black Cabin / Contemporary Containers",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010001 +0100",
+            "stop_time": "20250301013000 +0100",
+            "title": "Rare & Remote Rentals / Trailblazing Treehouses",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301013001 +0100",
+            "stop_time": "20250301020000 +0100",
+            "title": "Tiny Treasures in the Round / Hidden Gems in Hocking Hills",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020001 +0100",
+            "stop_time": "20250301023000 +0100",
+            "title": "Cabins, Caves, and Kettle & Crumb / Southern Stays in the Trees",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023001 +0100",
+            "stop_time": "20250301030000 +0100",
+            "title": "Tiny Georgia Treehouses / Mini & Modern in Marble Falls",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030001 +0100",
+            "stop_time": "20250301033000 +0100",
+            "title": "Designer's Dwelling: Family-Friendly Glam",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch gives you a personal tour of her timeless Brentwood, TN home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301033001 +0100",
+            "stop_time": "20250301040000 +0100",
+            "title": "Wilmington's British Invasion",
+            "description": "| +TP | Estilo de vida |\n\nBridgett Mazer invites you on a home tour that melds modern coastal style with British themes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040001 +0100",
+            "stop_time": "20250301043000 +0100",
+            "title": "Deer Valley Ski-In/Out Vacation Home",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton brings her organic modern style to this ski-in/ski-out getaway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043001 +0100",
+            "stop_time": "20250301050000 +0100",
+            "title": "Prismatic & Patterned LA Bungalow",
+            "description": "| +TP | Estilo de vida |\n\nPeek inside Los Angeles-based designer Dani Dazey’s pink bungalow in Highland Park, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050001 +0100",
+            "stop_time": "20250301053000 +0100",
+            "title": "Moody & Masculine Mid-Century Style",
+            "description": "| +TP | Estilo de vida |\n\nLos Angeles-based designer, Eddie Mickenberg welcomes you into this Encino, California home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301053001 +0100",
+            "stop_time": "20250301060000 +0100",
+            "title": "Historical Modern Heirloom Estate",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060001 +0100",
+            "stop_time": "20250301063000 +0100",
+            "title": "Cabins, Caves, and Kettle & Crumb / Southern Stays in the Trees",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301063001 +0100",
+            "stop_time": "20250301070000 +0100",
+            "title": "Tiny Georgia Treehouses / Mini & Modern in Marble Falls",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070001 +0100",
+            "stop_time": "20250301073000 +0100",
+            "title": "Designer's Dwelling: Family-Friendly Glam",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch gives you a personal tour of her timeless Brentwood, TN home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073001 +0100",
+            "stop_time": "20250301080000 +0100",
+            "title": "Wilmington's British Invasion",
+            "description": "| +TP | Estilo de vida |\n\nBridgett Mazer invites you on a home tour that melds modern coastal style with British themes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080001 +0100",
+            "stop_time": "20250301083000 +0100",
+            "title": "Deer Valley Ski-In/Out Vacation Home",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton brings her organic modern style to this ski-in/ski-out getaway.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301083001 +0100",
+            "stop_time": "20250301090000 +0100",
+            "title": "Prismatic & Patterned LA Bungalow",
+            "description": "| +TP | Estilo de vida |\n\nPeek inside Los Angeles-based designer Dani Dazey’s pink bungalow in Highland Park, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090001 +0100",
+            "stop_time": "20250301093000 +0100",
+            "title": "Moody & Masculine Mid-Century Style",
+            "description": "| +TP | Estilo de vida |\n\nLos Angeles-based designer, Eddie Mickenberg welcomes you into this Encino, California home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301093001 +0100",
+            "stop_time": "20250301100000 +0100",
+            "title": "Historical Modern Heirloom Estate",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100001 +0100",
+            "stop_time": "20250301103000 +0100",
+            "title": "Back on the Road",
+            "description": "| +TP | Estilo de vida |\n\nTaking his camera back on the road, Adam embarks on a solo journey to Nevada’s Valley of Fire.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301103001 +0100",
+            "stop_time": "20250301110000 +0100",
+            "title": "Rolling with It",
+            "description": "| +TP | Estilo de vida |\n\nAdam heads south to New Mexico, where he receives lessons in the art of Van Life.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110001 +0100",
+            "stop_time": "20250301113000 +0100",
+            "title": "The Bluegrass School Bus",
+            "description": "| +TP | Estilo de vida |\n\nAdam finds himself aboard a log cabin-inspired school bus in Oklahoma City.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301113001 +0100",
+            "stop_time": "20250301120000 +0100",
+            "title": "Sunset at the Good Vibe Village",
+            "description": "| +TP | Estilo de vida |\n\nAfter three solo weeks in the Arizona desert, Adam finds himself in desperate need of a change of scene.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120001 +0100",
+            "stop_time": "20250301123000 +0100",
+            "title": "A Celebration of Nomads",
+            "description": "| +TP | Estilo de vida |\n\nWith the Van Life gathering over, a group of nomads decide to temporarily stay put in Sedona.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301123001 +0100",
+            "stop_time": "20250301130000 +0100",
+            "title": "Meteor Showers, Go-Carts & Rock Climbing",
+            "description": "| +TP | Estilo de vida |\n\nAdam and his brother Trey explore the Coconino National Forest and its massive rock formations.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130001 +0100",
+            "stop_time": "20250301133000 +0100",
+            "title": "An Inner Journey to the Outer Banks",
+            "description": "| +TP | Estilo de vida |\n\nAdam returns to North Carolina and journeys to the Outer Banks with his friend and master builder Bryce.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133001 +0100",
+            "stop_time": "20250301140000 +0100",
+            "title": "Looking Back to Move Forward",
+            "description": "| +TP | Estilo de vida |\n\nAdam takes lessons learned from living on the road to heart as he sets roots back down at his family home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140001 +0100",
+            "stop_time": "20250301143000 +0100",
+            "title": "A Celebration of Covenant House",
+            "description": "| +TP | Estilo de vida |\n\nInternational model Nicole Williams English heads to the Bronx to celebrate Covenant House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301143001 +0100",
+            "stop_time": "20250301150000 +0100",
+            "title": "A Salute to Operation Song",
+            "description": "| +TP | Estilo de vida |\n\nCountry music duo Maddie & Tae hop off the tour bus in Nashville to salute Operation Song.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150001 +0100",
+            "stop_time": "20250301153000 +0100",
+            "title": "Hidden Hills Equestrian Enclave",
+            "description": "| +TP | Estilo de vida |\n\nMatthew explores the gorgeous, guard-gated equestrian community of Hidden Hills, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153001 +0100",
+            "stop_time": "20250301160000 +0100",
+            "title": "Beverly Hills Ultimate Estates",
+            "description": "| +TP | Estilo de vida |\n\nMatthew heads to Beverly Hills, the pinnacle of A-List living.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160001 +0100",
+            "stop_time": "20250301163000 +0100",
+            "title": "Bel Air Palatial Properties",
+            "description": "| +TP | Estilo de vida |\n\nMatthew visits exclusive Bel Air, home to some of the biggest stars with the deepest pockets.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301163001 +0100",
+            "stop_time": "20250301170000 +0100",
+            "title": "San Marino & Pasadena Pedigreed Estates",
+            "description": "| +TP | Estilo de vida |\n\nMatthew tours pedigreed estates in San Marino and Pasadena, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170001 +0100",
+            "stop_time": "20250301173000 +0100",
+            "title": "Architectural Masterpieces",
+            "description": "| +TP | Estilo de vida |\n\nMatthew tours some of the most architecturally significant properties you’ve ever seen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301173001 +0100",
+            "stop_time": "20250301180000 +0100",
+            "title": "Tiny Treehouse Overlooks / A Tiny Frame of Mind",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180001 +0100",
+            "stop_time": "20250301183000 +0100",
+            "title": "Montana’s Mountainous Mini Stays / Sleek & Scandinavian Cozy Cabins",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183001 +0100",
+            "stop_time": "20250301190000 +0100",
+            "title": "White Farmhouse, Black Cabin / Contemporary Containers",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190001 +0100",
+            "stop_time": "20250301193000 +0100",
+            "title": "Rare & Remote Rentals / Trailblazing Treehouses",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301193001 +0100",
+            "stop_time": "20250301200000 +0100",
+            "title": "Tiny Treasures in the Round / Hidden Gems in Hocking Hills",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200001 +0100",
+            "stop_time": "20250301203000 +0100",
+            "title": "Cabins, Caves, and Kettle & Crumb / Southern Stays in the Trees",
+            "description": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301203001 +0100",
+            "stop_time": "20250301210000 +0100",
+            "title": "Kayla & Ryan’s Toddler To-Do List",
+            "description": "| +TP | Estilo de vida |\n\nKayla and Ryan have a newborn and a toddler and need both functionality and style in their space.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210001 +0100",
+            "stop_time": "20250301213000 +0100",
+            "title": "Jack & Tyler’s Colorful Curb Appeal",
+            "description": "| +TP | Estilo de vida |\n\nJack and Tyler have made their home picture-perfect, but now it’s time for the exterior to shine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301213001 +0100",
+            "stop_time": "20250301220000 +0100",
+            "title": "Eduardo & Gabriela’s Guest Retreat",
+            "description": "| +TP | Estilo de vida |\n\nEduardo and Gabriela's ‘little’ home projects have piled up and they’re ready for Drew’s help.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220001 +0100",
+            "stop_time": "20250301223000 +0100",
+            "title": "Fran & Theresa’s Family-Friendly Haven",
+            "description": "| +TP | Estilo de vida |\n\nFran and Theresa want to create a safe, family-friendly haven for their 13 grandkids.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223001 +0100",
+            "stop_time": "20250301230000 +0100",
+            "title": "Margot & Josh’s Teal Transformation",
+            "description": "| +TP | Estilo de vida |\n\nMargot and Josh spent years perfecting every room in the house but overlooked their bedroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230001 +0100",
+            "stop_time": "20250301233000 +0100",
+            "title": "Kimberly & Justin’s Dodecagon Dream",
+            "description": "| +TP | Estilo de vida |\n\nKimberly and Justin need an overhaul for their twelve-sided, dodecagon dream house.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233001 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "The Paradise Valley Global Ranch & The 64,000-Foot Ranch",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302003000 +0100",
+            "title": "The Arizona Villa Imported from Italy & The English Manor",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302003001 +0100",
+            "stop_time": "20250302010000 +0100",
+            "title": "The Home Carved Into the Side of a Mountain & The Ultimate Entertainer's Retreat",
+            "description": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302010001 +0100",
+            "stop_time": "20250302013000 +0100",
+            "title": "Starbreaker Ranch at Joshua Tree",
+            "description": "| +TP | Estilo de vida |\n\nKristen and Michael help prospective buyers Malachi and Christina purchase their first vacation home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302013001 +0100",
+            "stop_time": "20250302020000 +0100",
+            "title": "Austin's Casa Azul",
+            "description": "| +TP | Estilo de vida |\n\nReal estate investor Bara helps guide Gillian through the purchase of her first short-term rental home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020001 +0100",
+            "stop_time": "20250302023000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302023001 +0100",
+            "stop_time": "20250302030000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030001 +0100",
+            "stop_time": "20250302033000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302033001 +0100",
+            "stop_time": "20250302040000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302043000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302043001 +0100",
+            "stop_time": "20250302050000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050001 +0100",
+            "stop_time": "20250302053000 +0100",
+            "title": "Peculiar Pads & Micro Living",
+            "description": "| +TP | Estilo de vida |\n\nCaleb discovers a secret \"laundromat\" apartment and the smallest studio in Midtown Manhattan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302053001 +0100",
+            "stop_time": "20250302060000 +0100",
+            "title": "Micro Living & A Window Into Williamsburg",
+            "description": "| +TP | Estilo de vida |\n\nCaleb Simpson gets an inside look at how people make - and afford - their homes in the big city.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302060001 +0100",
+            "stop_time": "20250302063000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302063001 +0100",
+            "stop_time": "20250302070000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302070001 +0100",
+            "stop_time": "20250302073000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302073001 +0100",
+            "stop_time": "20250302080000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302080001 +0100",
+            "stop_time": "20250302083000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302083001 +0100",
+            "stop_time": "20250302090000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090001 +0100",
+            "stop_time": "20250302093000 +0100",
+            "title": "Peculiar Pads & Micro Living",
+            "description": "| +TP | Estilo de vida |\n\nCaleb discovers a secret \"laundromat\" apartment and the smallest studio in Midtown Manhattan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302093001 +0100",
+            "stop_time": "20250302100000 +0100",
+            "title": "Micro Living & A Window Into Williamsburg",
+            "description": "| +TP | Estilo de vida |\n\nCaleb Simpson gets an inside look at how people make - and afford - their homes in the big city.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100001 +0100",
+            "stop_time": "20250302103000 +0100",
+            "title": "Kimberly & Justin’s Dodecagon Dream",
+            "description": "| +TP | Estilo de vida |\n\nKimberly and Justin need an overhaul for their twelve-sided, dodecagon dream house.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302103001 +0100",
+            "stop_time": "20250302110000 +0100",
+            "title": "Margot & Josh’s Teal Transformation",
+            "description": "| +TP | Estilo de vida |\n\nMargot and Josh spent years perfecting every room in the house but overlooked their bedroom.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302110001 +0100",
+            "stop_time": "20250302113000 +0100",
+            "title": "Fran & Theresa’s Family-Friendly Haven",
+            "description": "| +TP | Estilo de vida |\n\nFran and Theresa want to create a safe, family-friendly haven for their 13 grandkids.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302113001 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "Eduardo & Gabriela’s Guest Retreat",
+            "description": "| +TP | Estilo de vida |\n\nEduardo and Gabriela's ‘little’ home projects have piled up and they’re ready for Drew’s help.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302123000 +0100",
+            "title": "Jack & Tyler’s Colorful Curb Appeal",
+            "description": "| +TP | Estilo de vida |\n\nJack and Tyler have made their home picture-perfect, but now it’s time for the exterior to shine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302123001 +0100",
+            "stop_time": "20250302130000 +0100",
+            "title": "Kayla & Ryan’s Toddler To-Do List",
+            "description": "| +TP | Estilo de vida |\n\nKayla and Ryan have a newborn and a toddler and need both functionality and style in their space.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302130001 +0100",
+            "stop_time": "20250302133000 +0100",
+            "title": "Ruby's Kitchen with a View / Pon and Garmen's Lost Living Room",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302133001 +0100",
+            "stop_time": "20250302140000 +0100",
+            "title": "Vero's Traditional & Modern Mix / Lexy's Comfy Condo \"Glam Up\"",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302140001 +0100",
+            "stop_time": "20250302143000 +0100",
+            "title": "Rachel & Kevin's Mid-Century Remodel / Rachel & Tanner's Really Great Room",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302143001 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "Sabrina's Scandinavian Bedroom Sanctuary / Jennie's Butterflies & Blush Nursery",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton offers homeowners a transformation that will change their spaces and their lives.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302153000 +0100",
+            "title": "Prismatic & Patterned LA Bungalow",
+            "description": "| +TP | Estilo de vida |\n\nPeek inside Los Angeles-based designer Dani Dazey’s pink bungalow in Highland Park, California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302153001 +0100",
+            "stop_time": "20250302160000 +0100",
+            "title": "Moody & Masculine Mid-Century Style",
+            "description": "| +TP | Estilo de vida |\n\nLos Angeles-based designer, Eddie Mickenberg welcomes you into this Encino, California home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302163000 +0100",
+            "title": "Historical Modern Heirloom Estate",
+            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302163001 +0100",
+            "stop_time": "20250302170000 +0100",
+            "title": "Artful & Eclectic Designer Dwelling",
+            "description": "| +TP | Estilo de vida |\n\nAndrea Schumacher invites you into her Colorado home, which tells the story of her life and travels.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170001 +0100",
+            "stop_time": "20250302173000 +0100",
+            "title": "Modern & Minimal South End Makeover",
+            "description": "| +TP | Estilo de vida |\n\nLeia T. Ward transforms a traditional home into a modern, open floorplan with elevated style.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302173001 +0100",
+            "stop_time": "20250302180000 +0100",
+            "title": "Black & White Coastal Escape",
+            "description": "| +TP | Estilo de vida |\n\nLeia T. Ward embraces minimal, modern design that is warm and livable in this coastal escape.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180001 +0100",
+            "stop_time": "20250302183000 +0100",
+            "title": "Chicken Salsa Verde",
+            "description": "| +TP | Estilo de vida |\n\nHeather makes a lighter version of an old family favorite: chicken salsa verde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302183001 +0100",
+            "stop_time": "20250302190000 +0100",
+            "title": "FRESH. SIMPLE. HEALHTY.: E4",
+            "description": "| +TP | Estilo de vida |\n\nFRESH. SIMPLE. HEALHTY.: E4",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190001 +0100",
+            "stop_time": "20250302193000 +0100",
+            "title": "Prosciutto, Arugula & Cheese Pizza",
+            "description": "| +TP | Estilo de vida |\n\nHeather makes prosciutto, arugula and cheese pizza - a client favorite!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302193001 +0100",
+            "stop_time": "20250302200000 +0100",
+            "title": "Chipotle Steak Fajitas",
+            "description": "| +TP | Estilo de vida |\n\nHeather brings the sizzle and the steak with chipotle steak fajitas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200001 +0100",
+            "stop_time": "20250302203000 +0100",
+            "title": "Innovation, Design and Style: Modern Marvels",
+            "description": "| +TP | Estilo de vida |\n\nJillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302203001 +0100",
+            "stop_time": "20250302210000 +0100",
+            "title": "From Cats to Co-Living: A Place for Everyone",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into community living, exploring how we create spaces that bring us closer together.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210001 +0100",
+            "stop_time": "20250302213000 +0100",
+            "title": "Once Upon a Time: Fairy Tale Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian explores some of the most whimsical homes in Southern California.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302213001 +0100",
+            "stop_time": "20250302220000 +0100",
+            "title": "Off-Grid Living: The Creative Space",
+            "description": "| +TP | Estilo de vida |\n\nJillian dives into an off-grid dream when she visits a one-of-a-kind Quonset hut in Joshua Tree.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220001 +0100",
+            "stop_time": "20250302223000 +0100",
+            "title": "Container Homes: All Shapes and Sizes",
+            "description": "| +TP | Estilo de vida |\n\nJillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302223001 +0100",
+            "stop_time": "20250302230000 +0100",
+            "title": "Living in Art: Kaleidoscopic Homes",
+            "description": "| +TP | Estilo de vida |\n\nJillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302230001 +0100",
+            "stop_time": "20250302233000 +0100",
+            "title": "A Camp-Inspired Kids’ Room & The Multi-Use Playroom",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302233001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "A Primary Suite Built for Wellness & From Hangout to Elevated Speakeasy",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303003000 +0100",
+            "title": "The Whimsical Nursery & A Pooch-Perfect Laundry Room",
+            "description": "| +TP | Estilo de vida |\n\nExpert carpentress Rachel Taylor helps homeowners transform a neglected space - and all she needs is a day!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303003001 +0100",
+            "stop_time": "20250303010000 +0100",
+            "title": "Living Room Refresh & Baby Juniper's Big Nursery Reveal",
+            "description": "| +TP | Estilo de vida |\n\nDIYer Philip or Flop helps homeowners transform a neglected space - and all he needs is a day!",
+            "icon": ""
+        }
+    ]
+}

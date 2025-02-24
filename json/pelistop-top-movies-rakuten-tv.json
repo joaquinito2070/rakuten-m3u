@@ -4,10 +4,10 @@
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg",
     "group_title": "Películas",
     "original_master_url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=13868acb-597b-421c-ab3a-d732b2f7f4ec&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/top-movies-rakuten-tv/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/88cbcf24-4421-4fd6-8b79-487653e5f036/0.m3u8",
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/67ff48df-1555-422b-aef9-f278a0cd3234/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "532123",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/88cbcf24-4421-4fd6-8b79-487653e5f036/1.m3u8",
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/67ff48df-1555-422b-aef9-f278a0cd3234/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "901030",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/88cbcf24-4421-4fd6-8b79-487653e5f036/2.m3u8",
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/67ff48df-1555-422b-aef9-f278a0cd3234/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1469933",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/88cbcf24-4421-4fd6-8b79-487653e5f036/3.m3u8",
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/67ff48df-1555-422b-aef9-f278a0cd3234/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2636062",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/88cbcf24-4421-4fd6-8b79-487653e5f036/4.m3u8",
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/67ff48df-1555-422b-aef9-f278a0cd3234/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4618166",
@@ -62,6 +62,505 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/pelistop-top-movies-rakuten-tv.json"
+    "epg": [
+        {
+            "start_time": "20250224153507 +0100",
+            "stop_time": "20250224172725 +0100",
+            "title": "Hojas de Hierba",
+            "description": "| +16 | Películas |\n\nLas vidas de dos gemelos idénticos (interpretados por Edward Norton) dan un giro cuando el primero, un profesor de filosofía, es confundido por el segundo, un traficante de drogas al que varios clanes del narcotráfico quieren ver muerto.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fa67cdab-5daf-467e-a07f-0f21dbfd08e1-snapshot-1590667395.jpeg"
+        },
+        {
+            "start_time": "20250224172726 +0100",
+            "stop_time": "20250224192454 +0100",
+            "title": "Emperador",
+            "description": "| +16 | Películas |\n\nTras la rendición japonesa a finales de la Segunda Guerra Mundial, el prestigioso general Douglas MacArthur (Tommy Lee Jones) y su colega, el general Fellers (Matthew Fox, 'Perdidos'), deben decidir si el emperador Hirohito será ahorcado o no como criminal de guerra.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1510e229-7108-4679-828e-1d0812831da1-snapshot-1590663472.jpeg"
+        },
+        {
+            "start_time": "20250224192455 +0100",
+            "stop_time": "20250224210622 +0100",
+            "title": "Atraco en Belfast",
+            "description": "| +16 | Películas |\n\nJimbo, un jugador que necesita saldar cuentas con el jefe de la mafia local, roba inadvertidamente en la misma tienda que el mafioso utiliza como fachada, y la pequeña deuda se convierte gigantesca...",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bf01045f-e964-4c56-8f09-45fa09305f55.jpeg"
+        },
+        {
+            "start_time": "20250224210623 +0100",
+            "stop_time": "20250224223708 +0100",
+            "title": "La última aventura",
+            "description": "| +16 | Películas |\n\nCuando el cirujano retirado Ben Givens descubre que tiene un cáncer terminal, coge a su perro y regresa al hogar de su infancia en el este de Washington, decidido a vivir el final de su vida a su manera.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f18d52ad-0607-41ea-b158-9d06489a440c.jpeg"
+        },
+        {
+            "start_time": "20250224223709 +0100",
+            "stop_time": "20250225003755 +0100",
+            "title": "Zulu",
+            "description": "| +16 | Películas |\n\nEn una Sudáfrica todavía atormentada por el apartheid, una pareja de policías persigue al asesino de una joven adolescente. Brutalidad y modernidad chocan, mientras los ecos del apartheid todavía resuenan en una sociedad que lucha por la reconciliación.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a767fb5b-6f2a-4c45-b0e2-9c30d6d18cd7-snapshot-1590659927.jpeg"
+        },
+        {
+            "start_time": "20250225003756 +0100",
+            "stop_time": "20250225025324 +0100",
+            "title": "Asesinato en Yellowstone",
+            "description": "| +16 | Películas |\n\nUn antiguo esclavo llega a Yellowston en busca de un hogar. Cuando un hombre descubre oro en el pueblo y es asesinado, el sheriff arresta a un recién llegado, pero los asesinatos continúan. ",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b2ff626c-4373-4b29-9a58-3b56254a16cc.jpeg"
+        },
+        {
+            "start_time": "20250225025325 +0100",
+            "stop_time": "20250225051625 +0100",
+            "title": "Los amos de Brooklyn",
+            "description": "| +16 | Películas |\n\nTres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/09e6c5b9-86d7-4e90-b010-d3911ffc2861-snapshot-1590665714.jpeg"
+        },
+        {
+            "start_time": "20250225051626 +0100",
+            "stop_time": "20250225072858 +0100",
+            "title": "Uno tras otro",
+            "description": "| +16 | Películas |\n\nNils, de 45 años, pasa el invierno noruego conduciendo su camión quitanieves por un remoto paraíso nevado. Un día recibe una llamada telefónica: su hijo, que acaba de empezar su carrera universitaria en Oslo, ha muerto por una sobredosis de droga.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/ba036023-22ee-4f80-ac3a-159e69ea5598-snapshot-1590663593.jpeg"
+        },
+        {
+            "start_time": "20250225072859 +0100",
+            "stop_time": "20250225092642 +0100",
+            "title": "Un hombre de familia",
+            "description": "| +16 | Películas |\n\nÉsta es la emotiva historia de un hombre en busca de la redención. Un empresario de alto nivel (Gerard Butler) recibe la oportunidad de controlar su compañía de trabajo, pero para lograrlo tendrá que poner a su familia de por medio.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/07769ef1-ed42-47b3-b20b-748aeaa7094e.jpeg"
+        },
+        {
+            "start_time": "20250225092643 +0100",
+            "stop_time": "20250225120406 +0100",
+            "title": "La Directora de orquesta",
+            "description": "| +16 | Películas |\n\nBasada en hechos reales. Cuenta la historia de Antonia Brico, una joven que sueña en convertirse en directora de orquesta, pero nadie la toma en serio por ser una mujer.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/56ce9e21-4027-4e53-b50e-a9f09c78ef3b-snapshot-1590666806.jpeg"
+        },
+        {
+            "start_time": "20250225120407 +0100",
+            "stop_time": "20250225135243 +0100",
+            "title": "La mujer de la montaña",
+            "description": "| +16 | Películas |\n\nHalla, profesora de canto y concienciada con el medio ambiente, se encuentra en un dilema entre su activismo y su deseo de ser madre.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/077b3100-8dd1-4b93-882a-6b0069c5cf36-snapshot-1590666631.jpeg"
+        },
+        {
+            "start_time": "20250225135244 +0100",
+            "stop_time": "20250225162229 +0100",
+            "title": "Crónica de una mentira",
+            "description": "| +16 | Películas |\n\nUn jefe de obra sin ningún tipo de escrúpulos prepara la ampliación de una autopista. Todo cambia cuando conoce a la alcaldesa de un pequeño pueblo que la autopista va a cruzar. Ella le descubre un mundo desconocido para él: los sentimientos.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/836036cc-9c76-4cc8-aedd-33ced1c5a2f7.jpeg"
+        },
+        {
+            "start_time": "20250225162230 +0100",
+            "stop_time": "20250225181134 +0100",
+            "title": "El novio de mi madre",
+            "description": "| +16 | Películas |\n\nCuando el joven y brillante actor Adam Perl aparece, Rosie se queda prendada de él. El problema es que, en el mundo del espectáculo, las mujeres mayores no suelen salir con hombres más jóvenes. Pero se equivoca completamente.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/28622aaa-1e8b-4060-8203-870094e95be8.jpeg"
+        },
+        {
+            "start_time": "20250225181135 +0100",
+            "stop_time": "20250225201702 +0100",
+            "title": "Un hombre llamado Ove",
+            "description": "| +16 | Películas |\n\nOve no es el típico vecino con el que apetece cruzarte en el barrio. Es un cascarrabias, un pesado que insiste hasta la exageración en mantener el orden y la disciplina, un casi sesentón solitario y resentido a quien el destino ha arrebatado demasiadas cosas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6c13a612-c870-4a15-b735-7a6223dc36dc-snapshot-1590665130.jpeg"
+        },
+        {
+            "start_time": "20250225201703 +0100",
+            "stop_time": "20250225215607 +0100",
+            "title": "Nunca es tarde para enamorarse",
+            "description": "| +16 | Películas |\n\nEn Londres para la boda de su hija, Harvey (Dustin Hoffman), un hombre arruinado encuentra su espíritu romántico levantado por una nueva mujer en su vida.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/66e26998-fd41-4352-99f9-059395c3a28c.jpeg"
+        },
+        {
+            "start_time": "20250225215608 +0100",
+            "stop_time": "20250225235824 +0100",
+            "title": "Plan 75",
+            "description": "| +16 | Películas |\n\nEn Japón, en un futuro cercano, el envejecimiento de la población se acelera. El gobierno estima que, a partir de cierta edad, los mayores se convierten en una carga inútil para la sociedad e implementa el “Plan 75”.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/2f4bd7d5-69ad-4d49-abe3-d5aa9aba568e.jpeg"
+        },
+        {
+            "start_time": "20250225235825 +0100",
+            "stop_time": "20250226015204 +0100",
+            "title": "Fuga de Pretoria",
+            "description": "| +16 | Películas |\n\nLa extraordinaria historia real de Tim Jenkin y Stephen Lee, dos activistas sudafricanos blancos, calificados de “terroristas” y encarcelados en 1978 por su participación en operaciones encubiertas antiaparheid para el Congreso Nacional Africano.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/267999dc-f690-4323-b8a4-35d566d47714-snapshot-1590668699.jpeg"
+        },
+        {
+            "start_time": "20250226015205 +0100",
+            "stop_time": "20250226035251 +0100",
+            "title": "Zulu",
+            "description": "| +16 | Películas |\n\nEn una Sudáfrica todavía atormentada por el apartheid, una pareja de policías persigue al asesino de una joven adolescente. Brutalidad y modernidad chocan, mientras los ecos del apartheid todavía resuenan en una sociedad que lucha por la reconciliación.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a767fb5b-6f2a-4c45-b0e2-9c30d6d18cd7-snapshot-1590659927.jpeg"
+        },
+        {
+            "start_time": "20250226035252 +0100",
+            "stop_time": "20250226054410 +0100",
+            "title": "Los mercenarios",
+            "description": "| +16 | Películas |\n\nBarney Ross es un veterano de guerra que ha reunido a un grupo de mercenarios de élite para operaciones puntuales de rescate. Siguiendo un encargo que proviene de altas esferas gubernamentales, el grupo se dirige a una república latinoamericana con la misión de derrocar a un dictador despiadado.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/47e94016-2c3c-4f21-b9b0-91f6995544e4.jpeg"
+        },
+        {
+            "start_time": "20250226054411 +0100",
+            "stop_time": "20250226073717 +0100",
+            "title": "Corrupción y poder",
+            "description": "| +16 | Películas |\n\nUn ambicioso y joven abogado acepta un caso importante contra un despiadado empresario de una farmacéutica, viéndose envuelto en un caso de chantaje y corrupción.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3d755014-4d01-4254-bc0e-a12bc9391871.jpeg"
+        },
+        {
+            "start_time": "20250226073718 +0100",
+            "stop_time": "20250226092544 +0100",
+            "title": "Una buena receta",
+            "description": "| +16 | Películas |\n\nTras perder el prestigio por culpa de su carácter y sus problemas personales, el chef Adam Jones reabre con su antiguo equipo un restaurante con el objetivo de conseguir las tres estrellas michelin.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/9f26b734-a165-42e8-9bea-84272d32bff0.jpeg"
+        },
+        {
+            "start_time": "20250226092545 +0100",
+            "stop_time": "20250226111421 +0100",
+            "title": "La mujer de la montaña",
+            "description": "| +16 | Películas |\n\nHalla, profesora de canto y concienciada con el medio ambiente, se encuentra en un dilema entre su activismo y su deseo de ser madre.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/077b3100-8dd1-4b93-882a-6b0069c5cf36-snapshot-1590666631.jpeg"
+        },
+        {
+            "start_time": "20250226111422 +0100",
+            "stop_time": "20250226133213 +0100",
+            "title": "En el nombre del rey",
+            "description": "| +16 | Películas |\n\nPelícula basada en el popular videojuego Dungeon Siege. Historia de corte medieval en la que un granjero de origen humilde consigue convertirse en un heroico y valeroso príncipe que tendrá que salvar su reino de un oscuro y tenebroso final.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/047c8bdb-a941-4104-b720-29096afc769b.jpeg"
+        },
+        {
+            "start_time": "20250226133214 +0100",
+            "stop_time": "20250226153430 +0100",
+            "title": "Plan 75",
+            "description": "| +16 | Películas |\n\nEn Japón, en un futuro cercano, el envejecimiento de la población se acelera. El gobierno estima que, a partir de cierta edad, los mayores se convierten en una carga inútil para la sociedad e implementa el “Plan 75”.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/2f4bd7d5-69ad-4d49-abe3-d5aa9aba568e.jpeg"
+        },
+        {
+            "start_time": "20250226153431 +0100",
+            "stop_time": "20250226173240 +0100",
+            "title": "Adam",
+            "description": "| +16 | Películas |\n\nUn vendedor de éxito, queda tetrapléjico tras un accidente.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/f9648e20-6c4f-48fd-b703-550705d0a6e6-quad-1605538675.jpeg"
+        },
+        {
+            "start_time": "20250226173241 +0100",
+            "stop_time": "20250226190326 +0100",
+            "title": "La última aventura",
+            "description": "| +16 | Películas |\n\nCuando el cirujano retirado Ben Givens descubre que tiene un cáncer terminal, coge a su perro y regresa al hogar de su infancia en el este de Washington, decidido a vivir el final de su vida a su manera.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f18d52ad-0607-41ea-b158-9d06489a440c.jpeg"
+        },
+        {
+            "start_time": "20250226190327 +0100",
+            "stop_time": "20250226204830 +0100",
+            "title": "Siempre a tu lado. Hachiko",
+            "description": "| +16 | Películas |\n\nBasada en hechos reales, la película sigue la leal amistad entre un profesor y su perro Akita. Hachi espera en la estación, incluso cuando su dueño ya no regresa.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/1f82f93d-6c60-484e-ac65-3bf60f86251e.jpeg"
+        },
+        {
+            "start_time": "20250226204831 +0100",
+            "stop_time": "20250226232554 +0100",
+            "title": "La Directora de orquesta",
+            "description": "| +16 | Películas |\n\nBasada en hechos reales. Cuenta la historia de Antonia Brico, una joven que sueña en convertirse en directora de orquesta, pero nadie la toma en serio por ser una mujer.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/56ce9e21-4027-4e53-b50e-a9f09c78ef3b-snapshot-1590666806.jpeg"
+        },
+        {
+            "start_time": "20250226232555 +0100",
+            "stop_time": "20250227010828 +0100",
+            "title": "Eliminators",
+            "description": "| +16 | Películas |\n\nThomas, ex agente federal en protección de testigos se ve expuesto y tiene que huir de Londres para poner a salvo a su hija cuando mata en defensa propia a tres hombres que entran en su casa y se ve perseguido por el asesino más peligroso de Europa.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/068351fa-37ee-43eb-83e1-adb982c0fc5a.jpeg"
+        },
+        {
+            "start_time": "20250227010829 +0100",
+            "stop_time": "20250227031821 +0100",
+            "title": "Juegos de mujer",
+            "description": "| +16 | Películas |\n\nDesde la década de los años 20, pasando por la Guerra Civil Española y el ascenso de Hitler al poder, las vidas de un maestro irlandés, una heredera provocadora y su musa española se entrecruzan.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/033643ee-b3a0-49af-8783-3d3cbb188630.jpeg"
+        },
+        {
+            "start_time": "20250227031822 +0100",
+            "stop_time": "20250227050450 +0100",
+            "title": "La trinchera",
+            "description": "| +16 | Películas |\n\nJunio de 1916. El ejército británico planea una gran ofensiva en la región francesa del Somme. Seguimos a un pelotón de soldados británicos sentados en una trinchera avanzada, esperando ansiosamente la orden de pasar al frente.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/2e17eba4-00f0-4a15-819c-6d0167410613.jpeg"
+        },
+        {
+            "start_time": "20250227050451 +0100",
+            "stop_time": "20250227064653 +0100",
+            "title": "97 minutos",
+            "description": "| +16 | Películas |\n\nUn avión secuestrado se estrellará en 97 minutos. El destino de los pasajeros quedará en manos de uno de los secuestradores a bordo, que dice ser un agente encubierto de la Interpol.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/0d6f053c-e1be-4db0-ba79-d46ffbf169c3.jpeg"
+        },
+        {
+            "start_time": "20250227064654 +0100",
+            "stop_time": "20250227082412 +0100",
+            "title": "Negocios con resaca",
+            "description": "| +16 | Películas |\n\nDesmadre de comedia gamberra y transgresora con Vince Vaughn como el sufrido dueño de un pequeño negocio quien, junto con sus dos socios, viajan a Europa para cerrar el acuerdo más importante de sus vidas. Pero lo que comenzó como un viaje de negocios de rutina descarrila en inimaginables caminos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/a29d1231-2749-419b-bcf8-9843e63f4e41-snapshot-1590662908.jpeg"
+        },
+        {
+            "start_time": "20250227082413 +0100",
+            "stop_time": "20250227101608 +0100",
+            "title": "Un paseo por el bosque",
+            "description": "| +16 | Películas |\n\nTras pasar dos décadas en Inglaterra, Bill Bryson regresa a los Estados Unidos con el fin de emprender la gran aventura de su vida: escalar el sendero de los Apalaches y sus más de 3.500 kilómetros de longitud, atravesando algunos de los paisajes más indescriptiblemente bellos del continente.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/06387dc2-a621-49bb-9da1-a47ae36c2352-snapshot-1590663664.jpeg"
+        },
+        {
+            "start_time": "20250227101609 +0100",
+            "stop_time": "20250227122841 +0100",
+            "title": "Uno tras otro",
+            "description": "| +16 | Películas |\n\nNils, de 45 años, pasa el invierno noruego conduciendo su camión quitanieves por un remoto paraíso nevado. Un día recibe una llamada telefónica: su hijo, que acaba de empezar su carrera universitaria en Oslo, ha muerto por una sobredosis de droga.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/ba036023-22ee-4f80-ac3a-159e69ea5598-snapshot-1590663593.jpeg"
+        },
+        {
+            "start_time": "20250227122842 +0100",
+            "stop_time": "20250227142148 +0100",
+            "title": "Corrupción y poder",
+            "description": "| +16 | Películas |\n\nUn ambicioso y joven abogado acepta un caso importante contra un despiadado empresario de una farmacéutica, viéndose envuelto en un caso de chantaje y corrupción.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3d755014-4d01-4254-bc0e-a12bc9391871.jpeg"
+        },
+        {
+            "start_time": "20250227142149 +0100",
+            "stop_time": "20250227160053 +0100",
+            "title": "Nunca es tarde para enamorarse",
+            "description": "| +16 | Películas |\n\nEn Londres para la boda de su hija, Harvey (Dustin Hoffman), un hombre arruinado encuentra su espíritu romántico levantado por una nueva mujer en su vida.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/66e26998-fd41-4352-99f9-059395c3a28c.jpeg"
+        },
+        {
+            "start_time": "20250227160054 +0100",
+            "stop_time": "20250227183817 +0100",
+            "title": "La Directora de orquesta",
+            "description": "| +16 | Películas |\n\nBasada en hechos reales. Cuenta la historia de Antonia Brico, una joven que sueña en convertirse en directora de orquesta, pero nadie la toma en serio por ser una mujer.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/56ce9e21-4027-4e53-b50e-a9f09c78ef3b-snapshot-1590666806.jpeg"
+        },
+        {
+            "start_time": "20250227183818 +0100",
+            "stop_time": "20250227204157 +0100",
+            "title": "Traidor",
+            "description": "| +16 | Películas |\n\nCuando el estricto agente del FBI Roy Clayton investiga una peligrosa conspiración internacional, todas las pruebas parecen dirigir a Samir Horn, el director de operaciones especiales.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5218b0b4-0b2a-4ad1-8011-8df0221d79bc-snapshot-1590664124.jpeg"
+        },
+        {
+            "start_time": "20250227204158 +0100",
+            "stop_time": "20250227223926 +0100",
+            "title": "Emperador",
+            "description": "| +16 | Películas |\n\nTras la rendición japonesa a finales de la Segunda Guerra Mundial, el prestigioso general Douglas MacArthur (Tommy Lee Jones) y su colega, el general Fellers (Matthew Fox, 'Perdidos'), deben decidir si el emperador Hirohito será ahorcado o no como criminal de guerra.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1510e229-7108-4679-828e-1d0812831da1-snapshot-1590663472.jpeg"
+        },
+        {
+            "start_time": "20250227223927 +0100",
+            "stop_time": "20250228002430 +0100",
+            "title": "La balada de Davy Crockett",
+            "description": "| +16 | Películas |\n\nEn 1815, una leyenda americana, cuya esposa ha enfermado de muerte, dejando a sus hijos pequeños para sobrevivir por su cuenta, debe luchar su camino de regreso a ellos a través de los muchos peligros que se encuentran en las Tierras Salvajes de la frontera salvaje.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/ab789cb1-a594-4832-bc19-7d9d76197484.jpeg"
+        },
+        {
+            "start_time": "20250228002431 +0100",
+            "stop_time": "20250228022517 +0100",
+            "title": "Zulu",
+            "description": "| +16 | Películas |\n\nEn una Sudáfrica todavía atormentada por el apartheid, una pareja de policías persigue al asesino de una joven adolescente. Brutalidad y modernidad chocan, mientras los ecos del apartheid todavía resuenan en una sociedad que lucha por la reconciliación.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a767fb5b-6f2a-4c45-b0e2-9c30d6d18cd7-snapshot-1590659927.jpeg"
+        },
+        {
+            "start_time": "20250228022518 +0100",
+            "stop_time": "20250228040751 +0100",
+            "title": "Eliminators",
+            "description": "| +16 | Películas |\n\nThomas, ex agente federal en protección de testigos se ve expuesto y tiene que huir de Londres para poner a salvo a su hija cuando mata en defensa propia a tres hombres que entran en su casa y se ve perseguido por el asesino más peligroso de Europa.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/068351fa-37ee-43eb-83e1-adb982c0fc5a.jpeg"
+        },
+        {
+            "start_time": "20250228040752 +0100",
+            "stop_time": "20250228055327 +0100",
+            "title": "Becky",
+            "description": "| +16 | Películas |\n\nEl fin de semana en un lago de una adolescente que pasa unos días con su padre toma un rumbo inesperado cuando un grupo de convictos aparece de súbito en sus vidas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/939a4031-022d-4287-b8c0-973c6f0e41a8-becky-1597736241.jpeg"
+        },
+        {
+            "start_time": "20250228055328 +0100",
+            "stop_time": "20250228075855 +0100",
+            "title": "Un hombre llamado Ove",
+            "description": "| +16 | Películas |\n\nOve no es el típico vecino con el que apetece cruzarte en el barrio. Es un cascarrabias, un pesado que insiste hasta la exageración en mantener el orden y la disciplina, un casi sesentón solitario y resentido a quien el destino ha arrebatado demasiadas cosas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6c13a612-c870-4a15-b735-7a6223dc36dc-snapshot-1590665130.jpeg"
+        },
+        {
+            "start_time": "20250228075856 +0100",
+            "stop_time": "20250228095624 +0100",
+            "title": "Emperador",
+            "description": "| +16 | Películas |\n\nTras la rendición japonesa a finales de la Segunda Guerra Mundial, el prestigioso general Douglas MacArthur (Tommy Lee Jones) y su colega, el general Fellers (Matthew Fox, 'Perdidos'), deben decidir si el emperador Hirohito será ahorcado o no como criminal de guerra.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1510e229-7108-4679-828e-1d0812831da1-snapshot-1590663472.jpeg"
+        },
+        {
+            "start_time": "20250228095625 +0100",
+            "stop_time": "20250228113343 +0100",
+            "title": "Negocios con resaca",
+            "description": "| +16 | Películas |\n\nDesmadre de comedia gamberra y transgresora con Vince Vaughn como el sufrido dueño de un pequeño negocio quien, junto con sus dos socios, viajan a Europa para cerrar el acuerdo más importante de sus vidas. Pero lo que comenzó como un viaje de negocios de rutina descarrila en inimaginables caminos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/a29d1231-2749-419b-bcf8-9843e63f4e41-snapshot-1590662908.jpeg"
+        },
+        {
+            "start_time": "20250228113344 +0100",
+            "stop_time": "20250228133127 +0100",
+            "title": "Un hombre de familia",
+            "description": "| +16 | Películas |\n\nÉsta es la emotiva historia de un hombre en busca de la redención. Un empresario de alto nivel (Gerard Butler) recibe la oportunidad de controlar su compañía de trabajo, pero para lograrlo tendrá que poner a su familia de por medio.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/07769ef1-ed42-47b3-b20b-748aeaa7094e.jpeg"
+        },
+        {
+            "start_time": "20250228133128 +0100",
+            "stop_time": "20250228151032 +0100",
+            "title": "Nunca es tarde para enamorarse",
+            "description": "| +16 | Películas |\n\nEn Londres para la boda de su hija, Harvey (Dustin Hoffman), un hombre arruinado encuentra su espíritu romántico levantado por una nueva mujer en su vida.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/66e26998-fd41-4352-99f9-059395c3a28c.jpeg"
+        },
+        {
+            "start_time": "20250228151033 +0100",
+            "stop_time": "20250228165909 +0100",
+            "title": "La mujer de la montaña",
+            "description": "| +16 | Películas |\n\nHalla, profesora de canto y concienciada con el medio ambiente, se encuentra en un dilema entre su activismo y su deseo de ser madre.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/077b3100-8dd1-4b93-882a-6b0069c5cf36-snapshot-1590666631.jpeg"
+        },
+        {
+            "start_time": "20250228165910 +0100",
+            "stop_time": "20250228184413 +0100",
+            "title": "Siempre a tu lado. Hachiko",
+            "description": "| +16 | Películas |\n\nBasada en hechos reales, la película sigue la leal amistad entre un profesor y su perro Akita. Hachi espera en la estación, incluso cuando su dueño ya no regresa.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/1f82f93d-6c60-484e-ac65-3bf60f86251e.jpeg"
+        },
+        {
+            "start_time": "20250228184414 +0100",
+            "stop_time": "20250228204941 +0100",
+            "title": "Un hombre llamado Ove",
+            "description": "| +16 | Películas |\n\nOve no es el típico vecino con el que apetece cruzarte en el barrio. Es un cascarrabias, un pesado que insiste hasta la exageración en mantener el orden y la disciplina, un casi sesentón solitario y resentido a quien el destino ha arrebatado demasiadas cosas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6c13a612-c870-4a15-b735-7a6223dc36dc-snapshot-1590665130.jpeg"
+        },
+        {
+            "start_time": "20250228204942 +0100",
+            "stop_time": "20250228223846 +0100",
+            "title": "El novio de mi madre",
+            "description": "| +16 | Películas |\n\nCuando el joven y brillante actor Adam Perl aparece, Rosie se queda prendada de él. El problema es que, en el mundo del espectáculo, las mujeres mayores no suelen salir con hombres más jóvenes. Pero se equivoca completamente.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/28622aaa-1e8b-4060-8203-870094e95be8.jpeg"
+        },
+        {
+            "start_time": "20250228223847 +0100",
+            "stop_time": "20250301000932 +0100",
+            "title": "La última aventura",
+            "description": "| +16 | Películas |\n\nCuando el cirujano retirado Ben Givens descubre que tiene un cáncer terminal, coge a su perro y regresa al hogar de su infancia en el este de Washington, decidido a vivir el final de su vida a su manera.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f18d52ad-0607-41ea-b158-9d06489a440c.jpeg"
+        },
+        {
+            "start_time": "20250301000933 +0100",
+            "stop_time": "20250301015123 +0100",
+            "title": "Sin escapatoria",
+            "description": "| +16 | Películas |\n\nShannon presencia cómo una agente de policía asesina a un traficante de drogas. Junto a Jack, un policía retirado (Bruce Willis), se enfrenta a los policías corruptos para hacer justicia.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/279109ba-ae1a-4a86-86c9-474f89ff6ebc-out-of-death-1625754809.jpeg"
+        },
+        {
+            "start_time": "20250301015124 +0100",
+            "stop_time": "20250301034949 +0100",
+            "title": "La huella del silencio",
+            "description": "| +16 | Películas |\n\nUna niña de once años de edad de una familia disfuncional demuestra una notable, casi mística, don para deletrear cuando gana concursos de ortografía del distrito y se califica para los nacionales; de repente, se convierte en el centro de atención y se gana la aprobación de su padre.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/cf1b753a-af91-400d-b439-e6f8b005d171-bee-season-1612951916.jpeg"
+        },
+        {
+            "start_time": "20250301034950 +0100",
+            "stop_time": "20250301053614 +0100",
+            "title": "Mercenarios de élite",
+            "description": "| +16 | Películas |\n\nUn equipo de letales mercenarios son contratados estratégicamente por el multimillonario CEO de tecnología Donovan Chalmers (Bruce Willis) para proteger una pieza de tecnología que, si se expone, podría destruir el mundo.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2941e72e-d5a4-4d2b-842f-860216f525e7-hard-kill-1598252379.jpeg"
+        },
+        {
+            "start_time": "20250301053615 +0100",
+            "stop_time": "20250301072441 +0100",
+            "title": "Una buena receta",
+            "description": "| +16 | Películas |\n\nTras perder el prestigio por culpa de su carácter y sus problemas personales, el chef Adam Jones reabre con su antiguo equipo un restaurante con el objetivo de conseguir las tres estrellas michelin.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/9f26b734-a165-42e8-9bea-84272d32bff0.jpeg"
+        },
+        {
+            "start_time": "20250301072442 +0100",
+            "stop_time": "20250301092658 +0100",
+            "title": "Plan 75",
+            "description": "| +16 | Películas |\n\nEn Japón, en un futuro cercano, el envejecimiento de la población se acelera. El gobierno estima que, a partir de cierta edad, los mayores se convierten en una carga inútil para la sociedad e implementa el “Plan 75”.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/2f4bd7d5-69ad-4d49-abe3-d5aa9aba568e.jpeg"
+        },
+        {
+            "start_time": "20250301092659 +0100",
+            "stop_time": "20250301111535 +0100",
+            "title": "Los idus de marzo",
+            "description": "| +16 | Películas |\n\nLa sombra de 'House of Cards' sobrevuela este espléndido thriller político dirigido e interpretado por George Clooney. En las primaras de Ohio, el joven e idealista jefe de prensa del candidato a la presidencia Mike Morris deberá decidir qué es más importante ¿la victoria o los principios?",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7f28a195-af6c-43de-9c48-14c469dc988f-snapshot-1590663400.jpeg"
+        },
+        {
+            "start_time": "20250301111536 +0100",
+            "stop_time": "20250301131304 +0100",
+            "title": "Emperador",
+            "description": "| +16 | Películas |\n\nTras la rendición japonesa a finales de la Segunda Guerra Mundial, el prestigioso general Douglas MacArthur (Tommy Lee Jones) y su colega, el general Fellers (Matthew Fox, 'Perdidos'), deben decidir si el emperador Hirohito será ahorcado o no como criminal de guerra.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1510e229-7108-4679-828e-1d0812831da1-snapshot-1590663472.jpeg"
+        },
+        {
+            "start_time": "20250301131305 +0100",
+            "stop_time": "20250301151113 +0100",
+            "title": "El Sr. Wakefield",
+            "description": "| +16 | Películas |\n\nUna mirada inquebrantable al distanciamiento conyugal. Cuenta la historia del exitoso abogado, Howard Wakefield (Bryan Cranston), que un día, estresado y harto de su monótona vida, decide esconderse en el ático de su garaje y observar secretamente la vida de su esposa, sus hijos y sus vecinos.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/e60395f5-e999-4697-9d2a-b7ee427129e9.jpeg"
+        },
+        {
+            "start_time": "20250301151114 +0100",
+            "stop_time": "20250301172346 +0100",
+            "title": "Uno tras otro",
+            "description": "| +16 | Películas |\n\nNils, de 45 años, pasa el invierno noruego conduciendo su camión quitanieves por un remoto paraíso nevado. Un día recibe una llamada telefónica: su hijo, que acaba de empezar su carrera universitaria en Oslo, ha muerto por una sobredosis de droga.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/ba036023-22ee-4f80-ac3a-159e69ea5598-snapshot-1590663593.jpeg"
+        },
+        {
+            "start_time": "20250301172347 +0100",
+            "stop_time": "20250301190546 +0100",
+            "title": "Infalible",
+            "description": "| +16 | Películas |\n\nKevin, Rob y Sam son miembros de un grupo que, sólo en teoría, planea asaltos perfectos, como hobby, sin la menor intención de llevarlos a cabo. Un gángster encuentra parte de su material de trabajo y decide chantajearlos para que realicen un robo millonario.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/c4ba2cd2-b455-4063-9c5d-583eb9347f3e.jpeg"
+        },
+        {
+            "start_time": "20250301190547 +0100",
+            "stop_time": "20250301210330 +0100",
+            "title": "Un hombre de familia",
+            "description": "| +16 | Películas |\n\nÉsta es la emotiva historia de un hombre en busca de la redención. Un empresario de alto nivel (Gerard Butler) recibe la oportunidad de controlar su compañía de trabajo, pero para lograrlo tendrá que poner a su familia de por medio.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/07769ef1-ed42-47b3-b20b-748aeaa7094e.jpeg"
+        },
+        {
+            "start_time": "20250301210331 +0100",
+            "stop_time": "20250301225526 +0100",
+            "title": "Un paseo por el bosque",
+            "description": "| +16 | Películas |\n\nTras pasar dos décadas en Inglaterra, Bill Bryson regresa a los Estados Unidos con el fin de emprender la gran aventura de su vida: escalar el sendero de los Apalaches y sus más de 3.500 kilómetros de longitud, atravesando algunos de los paisajes más indescriptiblemente bellos del continente.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/06387dc2-a621-49bb-9da1-a47ae36c2352-snapshot-1590663664.jpeg"
+        },
+        {
+            "start_time": "20250301225527 +0100",
+            "stop_time": "20250302003717 +0100",
+            "title": "Sin escapatoria",
+            "description": "| +16 | Películas |\n\nShannon presencia cómo una agente de policía asesina a un traficante de drogas. Junto a Jack, un policía retirado (Bruce Willis), se enfrenta a los policías corruptos para hacer justicia.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/279109ba-ae1a-4a86-86c9-474f89ff6ebc-out-of-death-1625754809.jpeg"
+        },
+        {
+            "start_time": "20250302003718 +0100",
+            "stop_time": "20250302024710 +0100",
+            "title": "Juegos de mujer",
+            "description": "| +16 | Películas |\n\nDesde la década de los años 20, pasando por la Guerra Civil Española y el ascenso de Hitler al poder, las vidas de un maestro irlandés, una heredera provocadora y su musa española se entrecruzan.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/033643ee-b3a0-49af-8783-3d3cbb188630.jpeg"
+        },
+        {
+            "start_time": "20250302024711 +0100",
+            "stop_time": "20250302043335 +0100",
+            "title": "Mercenarios de élite",
+            "description": "| +16 | Películas |\n\nUn equipo de letales mercenarios son contratados estratégicamente por el multimillonario CEO de tecnología Donovan Chalmers (Bruce Willis) para proteger una pieza de tecnología que, si se expone, podría destruir el mundo.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2941e72e-d5a4-4d2b-842f-860216f525e7-hard-kill-1598252379.jpeg"
+        },
+        {
+            "start_time": "20250302043336 +0100",
+            "stop_time": "20250302064512 +0100",
+            "title": "Fish Tank",
+            "description": "| +16 | Películas |\n\nMia, una adolescente frustrada y solitaria de 15 años, huérfana de padre y cuya madre apenas se ocupa de ella, se enfada cuando se entera de que ésta sale con un hombre, el atractivo Connor.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d98831ce-27b0-4876-8469-b49bfb78e933.jpeg"
+        },
+        {
+            "start_time": "20250302064513 +0100",
+            "stop_time": "20250302084833 +0100",
+            "title": "Sissi: La Emperatriz Rebelde",
+            "description": "| +16 | Películas |\n\nEn la Navidad de 1877, Sissi Emperatriz celebra su 40 cumpleaños y no hay atisbo de felicidad a su alrededor: es juzgada constantemente por sus propios hijos y vive sumisa a su belleza en decadencia por el paso del tiempo.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bb8f1df6-ffd0-427c-8aba-5e9e26ee1f38.jpeg"
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/pelistop-top-movies-rakuten-tv.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

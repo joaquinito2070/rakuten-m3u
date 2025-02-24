@@ -4,10 +4,10 @@
     "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg",
     "group_title": "Películas",
     "original_master_url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=4f476c3b-967c-4450-a7d2-00c46caaa8ea&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/grjngo-es/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/2b77a710-7d30-41ea-ad6d-69c60e0cf935/0.m3u8",
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/e95d8ccc-1b3a-4db9-ac51-9a260813f38f/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/2b77a710-7d30-41ea-ad6d-69c60e0cf935/1.m3u8",
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/e95d8ccc-1b3a-4db9-ac51-9a260813f38f/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/2b77a710-7d30-41ea-ad6d-69c60e0cf935/2.m3u8",
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/e95d8ccc-1b3a-4db9-ac51-9a260813f38f/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
@@ -34,6 +34,547 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/grjngo-grjngo-es.json"
+    "epg": [
+        {
+            "start_time": "20250224145538 +0100",
+            "stop_time": "20250224164927 +0100",
+            "title": "Más muerto que vivo",
+            "description": "| +16 | Películas |\n\nLiberado de la prisión después de 18 años, el famoso pistolero 'Killer' Cain es ahora, un hombre pacífico y reformado pero el Viejo Oeste ha muerto y no puede adaptarse al Oeste moderno donde algunas deudas morales sin pagar y viejos problemas resurgen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224164934 +0100",
+            "stop_time": "20250224183144 +0100",
+            "title": "Los apuros de dos gallos",
+            "description": "| +16 | Películas |\n\nDos estafadores se ensañan con la economía local de un pequeño pueblo que visitan... pero luego se enamoran de dos jóvenes emparentadas con los ricos terratenientes que son el objetivo de su principal estafa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224183151 +0100",
+            "stop_time": "20250224200455 +0100",
+            "title": "Pistoleros de Río Grande",
+            "description": "| +16 | Películas |\n\nUn vagabundo regresa a un pequeño pueblo para vengar el asesinato de su esposa e hija.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200501 +0100",
+            "stop_time": "20250224201955 +0100",
+            "title": "No Me Entierren",
+            "description": "| +16 | Películas |\n\nDos mujeres ocultan la sorprendente verdad mientras un sheriff investiga un asesinato.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224202002 +0100",
+            "stop_time": "20250224220400 +0100",
+            "title": "El sureño",
+            "description": "| +16 | Películas |\n\nAdaptación de la novela \"Sostén el otoño en tu mano\" - La vida de la pobre familia Tucker, que trabajaba como taponadora de algodón y decidió conseguir su propio terreno, pero la naturaleza está en su contra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220406 +0100",
+            "stop_time": "20250224234536 +0100",
+            "title": "Dónde diablos está el oro",
+            "description": "| +16 | Películas |\n\nEn 1895, los forajidos Cross y Boone se ven obligados a llevar a las autoridades mexicanas su botín. Viajan hasta allí en un tren lleno de dinamita con un grupo de prostitutas. Los rebeldes mexicanos, los indios y los agentes de la Wells Fargo les persiguen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224234543 +0100",
+            "stop_time": "20250225012645 +0100",
+            "title": "Avanzada del Infierno",
+            "description": "| +16 | Películas |\n\nUn veterano de la guerra de Corea intenta ayudar al propietario de una mina de un pequeño pueblo, a desarrollar su mina de tungsteno a pesar de los esfuerzos del jefe del pueblo por detenerlo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225012651 +0100",
+            "stop_time": "20250225031442 +0100",
+            "title": "La quebrada del diablo",
+            "description": "| +16 | Películas |\n\nAl capitán Viktor Kaleb, desertor del ejército, se le ofrece el indulto y la reincorporación a la caballería si acepta liderar un grupo de fuerzas especiales en una incursión contra un bastión apache en México.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225031449 +0100",
+            "stop_time": "20250225045700 +0100",
+            "title": "30 Winchester para El Diablo",
+            "description": "| +16 | Películas |\n\nEl líder de los bandidos El Diablo, que controla el país con su banda, planea conseguir oro destinado a México, pero no es el único.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225045706 +0100",
+            "stop_time": "20250225062329 +0100",
+            "title": "Daniel Boone, juicio de fuego",
+            "description": "| +16 | Películas |\n\nDaniel Boone conduce a los colonos a Kentucky, pero debe luchar contra los indios Shawnee que han sido convencidos por un renegado francés de que Boone y los colonos están allí para matarlos y robarles sus tierras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225062335 +0100",
+            "stop_time": "20250225080131 +0100",
+            "title": "¡Ay, Jalisco no te rajes!",
+            "description": "| +16 | Películas |\n\nWestern clásico de vaqueros hecho en México.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080138 +0100",
+            "stop_time": "20250225094646 +0100",
+            "title": "La batalla de los rancheros",
+            "description": "| +16 | Películas |\n\nAntigua película del Oeste protagonizada por Brian Donlevy: La batalla de los rancheros - Las disputas por la propiedad de un hombre muerto se convierten en una sangrienta guerra en el campo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225094652 +0100",
+            "stop_time": "20250225120407 +0100",
+            "title": "Yo soy la revolución",
+            "description": "| +16 | Películas |\n\nUna banda de traficantes de armas mexicanos empleados por un general revolucionario aceptan a un americano en su banda, sin saber sus intenciones.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120413 +0100",
+            "stop_time": "20250225130511 +0100",
+            "title": "Al oeste de la división",
+            "description": "| +16 | Películas |\n\nTed Hayden se hace pasar por un hombre buscado y se une a la banda de Gentry sólo para enterarse más tarde de que Gentry fue quien mató a su padre. Salva el rancho del padre de Virginia Winters de Gentry y también rescata a su hermano Spud, perdido hace tiempo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130518 +0100",
+            "stop_time": "20250225140558 +0100",
+            "title": "El hombre de Utah",
+            "description": "| +16 | Películas |\n\nEn un concurso de equitación los malos quieren que John Weston pierda. Cuando éste no acepta, añaden un seguro: una aguja envenenada justo debajo de su montura.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140605 +0100",
+            "stop_time": "20250225153923 +0100",
+            "title": "El imperio del ganado",
+            "description": "| +16 | Películas |\n\nLiberado de la cárcel, un jefe de ganado es solicitado por los barones rivales para conducir sus respectivos rebaños de ganado a Fort Clemson.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225153930 +0100",
+            "stop_time": "20250225171904 +0100",
+            "title": "La reina de Montana",
+            "description": "| +16 | Películas |\n\nSierra Nevada Jones debe luchar contra un malvado ranchero para reclamar la tierra que por derecho le pertenece.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225171910 +0100",
+            "stop_time": "20250225184037 +0100",
+            "title": "Tormenta en Arizona",
+            "description": "| +16 | Películas |\n\nPelícula de vaqueros publicada en 1956 dirigida por Joseph Kane y protagonizada por Skip Homeier: Tomenta en Arizona - Se descubre una rica veta de mineral en una mina de plata cerca de un pequeño pueblo. El corrupto alcalde casi consigue hacerse con el control de la mina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225184044 +0100",
+            "stop_time": "20250225202540 +0100",
+            "title": "Entre Dios, el diablo y un arma",
+            "description": "| +16 | Películas |\n\nUn hombre accede al mapa de un tesoro y convence a un guía (Juan Chasquisdo) para que le acompañe en su búsqueda para recuperarlo. Ambos son perseguidos por bandidos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225202546 +0100",
+            "stop_time": "20250225220002 +0100",
+            "title": "Texas Lady",
+            "description": "| +16 | Películas |\n\nUna mujer de cabeza fuerte del Este hereda un periódico en un pequeño pueblo de Texas donde los barones del ganado locales, que controlan la región, quieren quitársela de encima.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220009 +0100",
+            "stop_time": "20250225234104 +0100",
+            "title": "Los indomables",
+            "description": "| +16 | Películas |\n\nUn detective de Pinkerton va de incógnito para infiltrarse en una banda de ladrones cuyo jefe es una aguerrida tabernera. Las complicaciones sobrevienen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225234110 +0100",
+            "stop_time": "20250226011557 +0100",
+            "title": "...Y le llamaban El Halcón",
+            "description": "| +16 | Películas |\n\nGianni Garko regresa como el Espíritu Santo, un pistolero sobrenatural vestido de blanco y con una paloma al hombro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226011603 +0100",
+            "stop_time": "20250226025932 +0100",
+            "title": "La Ley de Dan Candy",
+            "description": "| +16 | Películas |\n\nBasada en un hecho real, esta es la trágica historia del fugitivo de Saskatchewan Almighty Voice (Gordon Tootoosis), un indio Cree que es arrestado por robar ganado del gobierno por hambre desesperada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226025939 +0100",
+            "stop_time": "20250226043910 +0100",
+            "title": "El cuatrero errante",
+            "description": "| +16 | Películas |\n\nEl hermano se enfrenta al hermano en esta historia de rancheros enfrentados en el viejo oeste.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043916 +0100",
+            "stop_time": "20250226065212 +0100",
+            "title": "El forastero",
+            "description": "| +16 | Películas |\n\nHistoria de amor prohibido entre una joven viuda de un grupo religioso de corte menonita y un pistolero al que acoge en su casa después de que este resulte herido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226065218 +0100",
+            "stop_time": "20250226084448 +0100",
+            "title": "El hombre, el orgullo y la venganza",
+            "description": "| +16 | Películas |\n\nUn robusto soldado español se convierte en un criminal para demostrar su amor por una misteriosa y promiscua mujer gitana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226084455 +0100",
+            "stop_time": "20250226105822 +0100",
+            "title": "Río Lobo",
+            "description": "| +16 | Películas |\n\nTras la Guerra Civil, Cord McNally busca al traidor cuya traición causó la derrota de la unidad de McNally y la pérdida de un amigo íntimo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226105829 +0100",
+            "stop_time": "20250226123820 +0100",
+            "title": "Furia al amanecer",
+            "description": "| +16 | Películas |\n\nUn agente especial de Chicago es enviado al oeste para traer a los famosos hermanos Reno.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123826 +0100",
+            "stop_time": "20250226142935 +0100",
+            "title": "Los hermanos O'Toole",
+            "description": "| +16 | Películas |\n\nPelícula de vaqueros - Los hermanos, un par de pozos inútiles, ponen patas arriba una somnolienta ciudad minera en su búsqueda de riquezas rápidas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226142942 +0100",
+            "stop_time": "20250226161102 +0100",
+            "title": "Yellow Rock",
+            "description": "| +16 | Películas |\n\nCinco hombres se adentran en el inquietante pueblo de Yellow Rock con la esperanza de rescatar a un familiar y a su hijo perdido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226161108 +0100",
+            "stop_time": "20250226175658 +0100",
+            "title": "Tres flechas",
+            "description": "| +16 | Películas |\n\nUn cazarrecompensas acoge al hijo de un hombre al que mató.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226175705 +0100",
+            "stop_time": "20250226194127 +0100",
+            "title": "El niño y el potro",
+            "description": "| +16 | Películas |\n\nEn un pueblo de Galicia vive trabajando la tierra un hombre joven, Andrés, que quedó viudo con la única compañía de su hijo, Andresiño. En la doma de caballos salvajes, Fuco es competidor de Andrés, y quiere ante éste lucir su fuerza para ganarse la admiración de Ana, la joven maestra del pueblo. Tampoco Andrés oculta su admiración por la maestra de Andresiño. Hay otro \"personaje\" en la historia, Benito, gracioso potrillo del que Andresiño procura no separarse nunca. Fuco se muestra resentido porque Andrés y la maestra han iniciado una relación muy cordial, que se hace cada día más frecuente. Ana tiene, además como alumno más aventajado, a Andresiño.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226194133 +0100",
+            "stop_time": "20250226215343 +0100",
+            "title": "El forajido",
+            "description": "| +16 | Películas |\n\nPat Garrett, Doc Holliday y Billy the Kid se enfrentan entre sí por la ley y las atenciones de la vivaz zorra campesina Río McDonald.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226215350 +0100",
+            "stop_time": "20250226225635 +0100",
+            "title": "El cazador de forajidos",
+            "description": "| +16 | Películas |\n\nUna banda que trabaja para La Sombra está aterrorizando al pueblo. John Travers decide asumir el trabajo de sheriff y hacer algo al respecto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226225642 +0100",
+            "stop_time": "20250227005131 +0100",
+            "title": "La leyenda del Llanero Solitario",
+            "description": "| +16 | Películas |\n\nEl único Ranger de Texas (Klinton Spilsbury) superviviente de una emboscada organizada por el líder de los forajidos, el Mayor Bartholomew \"Butch\" Cavendish (Christopher Lloyd), vuelve para contraatacar como un gran héroe del western enmascarado, El Llanero Solitario.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227005137 +0100",
+            "stop_time": "20250227024413 +0100",
+            "title": "El pistolero más tembloroso del Oeste",
+            "description": "| +16 | Películas |\n\nUna ladrona de diligencias indultada, se convierte en agente del gobierno y se casa con un ingenuo y desprevenido dentista de la costa este para unirse a una caravana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227024419 +0100",
+            "stop_time": "20250227044322 +0100",
+            "title": "En el viejo Oklahoma",
+            "description": "| +16 | Películas |\n\nEn 1906, en las tierras indias de Oklahoma, un vaquero lucha por los derechos de arrendamiento de petróleo contra un codicioso petrolero mientras una bonita maestra de escuela roba el corazón de ambos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227044328 +0100",
+            "stop_time": "20250227062729 +0100",
+            "title": "El día de los forajidos",
+            "description": "| +16 | Películas |\n\nBlaise Starrett es un ranchero que se enfrenta a los granjeros cuando los forajidos asaltan el pequeño pueblo. Los forajidos sólo son controlados por su notorio líder, pero se le diagnostica una herida mortal y el pueblo es un polvorín a punto de estallar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227062736 +0100",
+            "stop_time": "20250227080956 +0100",
+            "title": "Venganza sangrienta",
+            "description": "| +16 | Películas |\n\nLos padres de Tom son asesinados por forajidos mexicanos después de que su líder (Van Cleef) violara a su madre mientras miraba.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227081002 +0100",
+            "stop_time": "20250227095200 +0100",
+            "title": "Nos llaman Adiós Amigo",
+            "description": "| +16 | Películas |\n\nLos crímenes de un estafador se atribuyen a un vaquero de buen carácter y rápido con las pistolas que conoce y decide usar como señuelo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227095206 +0100",
+            "stop_time": "20250227112807 +0100",
+            "title": "The Warrant",
+            "description": "| +16 | Películas |\n\nDespués de luchar en la Guerra Civil, dos amigos del Ejército de la Unión se encuentran en lados opuestos de la ley con la paz de la posguerra en peligro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227112814 +0100",
+            "stop_time": "20250227130426 +0100",
+            "title": "Duelo en el desfiladero",
+            "description": "| +16 | Películas |\n\nUn agente de la línea de escena investiga una serie de robos aceptando el trabajo de un ayudante de sheriff en un pueblo fronterizo de Arizona.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130433 +0100",
+            "stop_time": "20250227142614 +0100",
+            "title": "La ley de Yuma",
+            "description": "| +16 | Películas |\n\nUn duro mariscal es enviado a limpiar un pueblo del oeste sin ley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227142620 +0100",
+            "stop_time": "20250227160924 +0100",
+            "title": "Gran Duelo Al Amanecer",
+            "description": "| +16 | Películas |\n\nUn ex-sheriff canoso ayuda a un hombre incriminado por asesinato a enfrentarse al poderoso trío de hermanos que lo quieren muerto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160931 +0100",
+            "stop_time": "20250227174030 +0100",
+            "title": "El ángel vengador",
+            "description": "| +16 | Películas |\n\nUn predicador se convierte en cazarrecompensas después de que un grupo de refugiados que busca cobijo en su iglesia sea asesinado por una banda de despiadados forajidos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227174036 +0100",
+            "stop_time": "20250227193634 +0100",
+            "title": "Cañones para Córdoba",
+            "description": "| +16 | Películas |\n\nEn 1916, cuando un rebelde mexicano roba cañones del ejército americano, el general Pershing envía a un grupo de inadaptados a recuperar las armas robadas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193641 +0100",
+            "stop_time": "20250227211307 +0100",
+            "title": "A través del huracán",
+            "description": "| +16 | Películas |\n\nTres vaqueros, confundidos con miembros de una banda de forajidos, son perseguidos implacablemente por un pelotón.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227211313 +0100",
+            "stop_time": "20250227224743 +0100",
+            "title": "El potro",
+            "description": "| +16 | Películas |\n\nDurante el fragor de la batalla en medio de la guerra civil, un potro nace de la yegua del soldado Jim Rabb. Rechazando las órdenes de fusilarlo, Rabb se queda con el potro como consuelo en estos tiempos desesperados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227224750 +0100",
+            "stop_time": "20250228003218 +0100",
+            "title": "La ley de la fuerza",
+            "description": "| +16 | Películas |\n\nUna colonia cuáquera trata de salvar a las gigantescas secuoyas de un barón maderero.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003225 +0100",
+            "stop_time": "20250228020448 +0100",
+            "title": "Relevo para un pistolero",
+            "description": "| +16 | Películas |\n\nUn desconocido de Boston ofrece a un notorio ex forajido de Arizona un trabajo que no puede rechazar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020454 +0100",
+            "stop_time": "20250228035537 +0100",
+            "title": "Trinidad y Bambino... (tal para cual)",
+            "description": "| +16 | Películas |\n\nLa trama muestra como Trinidad descubre que Bambino ha sido injustamente condenado a muerte por el asesinato de dos pistoleros. Logrará sustituir al verdugo y salvarle de la muerte, huyendo con él en busca de los verdaderos autores del delito.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228035544 +0100",
+            "stop_time": "20250228053855 +0100",
+            "title": "Historia de dos Pistolas",
+            "description": "| +16 | Películas |\n\nEn el Oeste sin ley, una notoria hermandad de asesinos y ladrones llamada Los Cowboys reina sobre la tierra con brutalidad y veloces pistolas. El destino finalmente los alcanza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053901 +0100",
+            "stop_time": "20250228071720 +0100",
+            "title": "Duelo de razas",
+            "description": "| +16 | Películas |\n\nLos esfuerzos comunes del gobierno estadounidense y de la nación comanche para negociar un tratado de paz son saboteados por los indios renegados y por el miope comisario indio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228071727 +0100",
+            "stop_time": "20250228083431 +0100",
+            "title": "Buffalo Bill en territorio Tomahawk",
+            "description": "| +16 | Películas |\n\nBuffalo Bill intenta proteger las tierras de los indios de una banda que quiere hacerse con el oro enterrado allí.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083437 +0100",
+            "stop_time": "20250228095818 +0100",
+            "title": "Más allá de la ley",
+            "description": "| +16 | Películas |\n\nUn trío de ladrones conspira para robar el cargamento de plata de un pueblo, pero un giro de los acontecimientos los convierte en los héroes del pueblo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228095825 +0100",
+            "stop_time": "20250228112713 +0100",
+            "title": "El desierto pintado",
+            "description": "| +16 | Películas |\n\nDos hombres encuentran un bebé abandonado y se pelean por la propiedad del niño, lo que resulta en una rivalidad de por vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228112719 +0100",
+            "stop_time": "20250228135038 +0100",
+            "title": "El gran McLintock",
+            "description": "| +16 | Películas |\n\nEl rico ranchero G.W. McLintock utiliza su poder e influencia en el territorio para mantener la paz entre los agricultores, ganaderos, acaparadores de tierras, indios y funcionarios corruptos del gobierno.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228135045 +0100",
+            "stop_time": "20250228153427 +0100",
+            "title": "Flecha rota",
+            "description": "| +16 | Películas |\n\nTom Jeffords intenta hacer la paz entre los colonos y los apaches en el territorio de Arizona.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153433 +0100",
+            "stop_time": "20250228172339 +0100",
+            "title": "Mad Morgan",
+            "description": "| +16 | Películas |\n\nLa verdadera historia del forajido irlandés Daniel Morgan, que es buscado, vivo o muerto, en Australia durante la década de 1850.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228172345 +0100",
+            "stop_time": "20250228191459 +0100",
+            "title": "Death Alley",
+            "description": "| +16 | Películas |\n\nEn 1892, Los hermanos Dalton se proponen convertirse en los forajidos más famosos de Estados Unidos. Ese sueño se convertiría en una pesadilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228191506 +0100",
+            "stop_time": "20250228211924 +0100",
+            "title": "Gloriosos camaradas",
+            "description": "| +16 | Películas |\n\n¿Qué podría ser peor para dos oficiales de caballería que luchar contra las tribus nativas? Luchar entre sí por la misma mujer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228211930 +0100",
+            "stop_time": "20250228233057 +0100",
+            "title": "El último vaquero",
+            "description": "| +16 | Películas |\n\nWyoming, 1892. Monte ha sido vaquero de los rancheros toda su vida, pero ya no es joven y los grandes negocios se están apoderando de los ranchos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233104 +0100",
+            "stop_time": "20250301012325 +0100",
+            "title": "El jardín del diablo",
+            "description": "| +16 | Películas |\n\nTres americanos navegan alrededor del cabo hasta los yacimientos de oro de California cuando son puestos en tierra durante varias semanas en un pequeño pueblo mexicano dormido.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301012331 +0100",
+            "stop_time": "20250301025014 +0100",
+            "title": "El Ahorcado",
+            "description": "| +16 | Películas |\n\nMilagrosamente aún vivo después de su ahorcamiento, el pistolero James Devlin defiende la granja de una joven viuda de un vicioso acaparador de tierras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301025021 +0100",
+            "stop_time": "20250301043431 +0100",
+            "title": "El poni rojo",
+            "description": "| +16 | Películas |\n\nUn niño de rancho es dotado con un potro, crece para amarlo pero el potro se escapa, con resultados trágicos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043437 +0100",
+            "stop_time": "20250301061847 +0100",
+            "title": "La venganza de los cheyennes",
+            "description": "| +16 | Películas |\n\nCuando Charlotte Sutter es secuestrada por los apaches, su hermano Sam, ayudado por un viejo buscador borracho, va en su busca.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301061853 +0100",
+            "stop_time": "20250301074207 +0100",
+            "title": "Un deseo de matar",
+            "description": "| +16 | Películas |\n\nUn vaquero se escapa de la cárcel con la ayuda de su novia, y va tras los hombres que cree que son responsables de que su hermano sea abatido por los agentes de la ley.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301074213 +0100",
+            "stop_time": "20250301092130 +0100",
+            "title": "La promesa del pistolero",
+            "description": "| +16 | Películas |\n\nEl antiguo sheriff asesina por accidente a un hombre mientras intentaba dar caza al asesino de su familia. Austin promete entregar el cuerpo a la hermana del fallecido y confesar que fue el culpable.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301092137 +0100",
+            "stop_time": "20250301112131 +0100",
+            "title": "Doc West",
+            "description": "| +16 | Películas |\n\nDespués de ser despojado de sus ganancias en un juego de póquer, Doc West busca venganza. Durante una partida en un pueblo, acaba en la cárcel, y cuando su pasado se revela, el pueblo estalla en una batalla a tiros. Doc deberá decidir si unirse a los forajidos o apoyar a los ciudadanos honrados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301112137 +0100",
+            "stop_time": "20250301124905 +0100",
+            "title": "La tribu de los pawnee",
+            "description": "| +16 | Películas |\n\nPale Arrow es un hombre blanco criado desde niño por el Jefe Pawnee. Con las caravanas que invaden la tierra de los Pawnee, el Jefe envía a Flecha Pálida a estar con los blancos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124912 +0100",
+            "stop_time": "20250301143714 +0100",
+            "title": "Pampa salvaje",
+            "description": "| +16 | Películas |\n\nA finales del siglo XIX, un capitán del ejército intenta domar las llanuras abiertas de Argentina, dominadas por los indios y los bandidos. Para ello, el capitán trae a un grupo de mujeres para mantener contentos a sus soldados.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301143720 +0100",
+            "stop_time": "20250301160516 +0100",
+            "title": "Cinco pistolas",
+            "description": "| +16 | Películas |\n\nShalee Jethro (Dorothy Malone) ayuda a su padre a dirigir una estación de diligencias en el desierto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160522 +0100",
+            "stop_time": "20250301180056 +0100",
+            "title": "La caravana de Oregón",
+            "description": "| +16 | Películas |\n\nDos caravanas de carros convergen en lo que ahora es Kansas City, y se combinan para el empuje hacia el oeste de Oregón. En su búsqueda, los peregrinos experimentarán el calor del desierto, la nieve de las montañas, el hambre y los ataques de los indios.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180102 +0100",
+            "stop_time": "20250301194035 +0100",
+            "title": "La ruta de Denver",
+            "description": "| +16 | Películas |\n\nDos hermanos tejanos fugitivos y enfrentados entre sí huyen a Colorado, donde aceptan trabajos con jefes rivales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301194042 +0100",
+            "stop_time": "20250301211132 +0100",
+            "title": "El rifle de Kentucky",
+            "description": "| +16 | Películas |\n\nMientras la caravana avanza, algunas personas se quedan atrás para reparar una carreta llena de rifles inutilizada, pero tienen que enfrentarse al ego de los demás y a los agresivos comanches que exigen los rifles como pago por el paso seguro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301211138 +0100",
+            "stop_time": "20250301230600 +0100",
+            "title": "Se busca",
+            "description": "| +16 | Películas |\n\nEn Nuevo México, la infeliz esposa de mediana edad de un sheriff ayuda a un preso condenado a escapar de la cárcel de su marido y se fuga con el joven y atractivo forajido a México, perseguido por la partida del sheriff.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230606 +0100",
+            "stop_time": "20250302003715 +0100",
+            "title": "La fiebre de la pradera",
+            "description": "| +16 | Películas |\n\nUn grupo de mujeres contrae una extraña fiebre y un antiguo sheriff se encarga de llevarlas al hospital de la ciudad más cercana, pero en su camino se encontrarán con una peligrosa banda de asesinos.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/grjngo-grjngo-es.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

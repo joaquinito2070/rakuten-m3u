@@ -4,10 +4,10 @@
     "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg",
     "group_title": "Crimen y Misterio",
     "original_master_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=e824d580-8df2-413b-a40f-c99ec9cf73dd&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/todo-crimen/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e5550d57-a4cf-4920-a812-ffbab1d59a8d/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9bbe63e0-2cd1-46eb-9cf2-2b0ab72e1dfb/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1200000",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e5550d57-a4cf-4920-a812-ffbab1d59a8d/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9bbe63e0-2cd1-46eb-9cf2-2b0ab72e1dfb/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "230000",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e5550d57-a4cf-4920-a812-ffbab1d59a8d/2.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9bbe63e0-2cd1-46eb-9cf2-2b0ab72e1dfb/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "440000",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e5550d57-a4cf-4920-a812-ffbab1d59a8d/3.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9bbe63e0-2cd1-46eb-9cf2-2b0ab72e1dfb/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "700000",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e5550d57-a4cf-4920-a812-ffbab1d59a8d/4.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9bbe63e0-2cd1-46eb-9cf2-2b0ab72e1dfb/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "2500000",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e5550d57-a4cf-4920-a812-ffbab1d59a8d/5.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9bbe63e0-2cd1-46eb-9cf2-2b0ab72e1dfb/5.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "5000000",
@@ -67,6 +67,1184 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/todocrimen-todo-crimen.json"
+    "epg": [
+        {
+            "start_time": "20250224153804 +0100",
+            "stop_time": "20250224163327 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nUn globo plateado lleno de helio que atraviesa el cielo de Colorado con un polizón a bordo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224163328 +0100",
+            "stop_time": "20250224173120 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nLa muerte de Jean-Bernard Wiktorska, que inicialmente se creyó que había sido un accidente, tomó un giro siniestro cuando un misterioso informante implicó a su esposa y a su amante en el asesinato.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173121 +0100",
+            "stop_time": "20250224180002 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nUn chico de fraternidad atrae a una chica a su casa con la promesa de una fiesta, pero una vez allí resulta que tiene motivos ocultos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180003 +0100",
+            "stop_time": "20250224185505 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nEl Museo del Palacio Topkapi de Turquía contiene un enorme tesoro de cultura, ciencia y armamento islámico que millones de personas visitan cada año.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224185506 +0100",
+            "stop_time": "20250224200257 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn la década de 1980, un violador pedófilo andaba suelto desde hacía cinco años en la conurbación de Grenoble, en el conflictivo barrio de La Villeneuve.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200258 +0100",
+            "stop_time": "20250224210820 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl viernes 12 de enero de 2007 hallan el cuerpo sin vida y mutilado de una mujer en el bosque de Rambouillet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210821 +0100",
+            "stop_time": "20250224221648 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\n16 de septiembre de 2005. El cuerpo sin vida de Audrey Jouannet, de 24 años, aparece escondido debajo de la cama en su pequeño apartamento en Soisy-sur-Seine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224221649 +0100",
+            "stop_time": "20250224231212 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nUn globo plateado lleno de helio que atraviesa el cielo de Colorado con un polizón a bordo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224231213 +0100",
+            "stop_time": "20250225001006 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nLa muerte de Jean-Bernard Wiktorska, que inicialmente se creyó que había sido un accidente, tomó un giro siniestro cuando un misterioso informante implicó a su esposa y a su amante en el asesinato.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225001007 +0100",
+            "stop_time": "20250225012005 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nNoura Hitchou es asesinada a plena luz del día al regresar a casa tras finalizar su jornada laboral. Tres días después es detenido Rachid Bennis, su ex-pareja, como culpable del crimen. El homicida había permanecido oculto junto con uno de los hijos que tenía en común con la víctima al que había secuestrado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225012006 +0100",
+            "stop_time": "20250225022736 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nJoël Vaillant, coronel retirado de la Gendarmería, reflexiona sobre uno de los casos judiciales más importantes de la historia de Francia: las desapariciones de Mourmelon.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225022737 +0100",
+            "stop_time": "20250225032010 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nEl asesino en serie más famoso de la historia, el hombre que asesinó a cinco mujeres en las calles de Whitechapel... y se salió con la suya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225032011 +0100",
+            "stop_time": "20250225042232 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nAl enfrentarse a un crimen, la única alternativa del investigador es hacer que las pistas hablen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225042233 +0100",
+            "stop_time": "20250225045114 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nEn 1988, un chico promiscuo de 22 años de la comunidad sij tiene una aventura de más y acaba perdiendo la vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225045115 +0100",
+            "stop_time": "20250225051956 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nSe revelan las sorprendentes técnicas y tecnologías empleadas para atrapar delincuentes. Además, el análisis de los delitos a partir de los registros policiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225051957 +0100",
+            "stop_time": "20250225061442 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nMichel Cunault trabajó en la policía judicial de los suburbios de París. En 2004, viaja a Dijon y se enfrenta a la investigación de su vida: la desaparición de Géraldine Giraud y Katia Lherbier. Fue un caso que le persiguió hasta su jubilación.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225061443 +0100",
+            "stop_time": "20250225071359 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl domingo 22 de julio de 2001, una bicicleta averiada, propiedad de Karine Schaaff, de 16 años, aparece abandonada al borde de una carretera en Moselle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225071400 +0100",
+            "stop_time": "20250225080902 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nEn el Museo Nacional de Antropología de México, se puede observar cómo los atletas antiguos pateaban cabezas cortadas y hacían sacrificios humanos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080903 +0100",
+            "stop_time": "20250225090523 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nUn día antes de cumplir 18 años, el cuerpo de Marie Varnerot, una joven de 17 años, fue encontrado semidesnudo en su cama en Maincy, cerca de Melun.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090524 +0100",
+            "stop_time": "20250225093510 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nEl 11 de enero de 1977 María Dolores Santiago Palenzuela desaparece sin dejar rastro. 29 años después el caso sería resuelto tras el hallazgo de sus restos, enterrados en el sótano de un hotel de Palma que se encontraba en obras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093511 +0100",
+            "stop_time": "20250225102223 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nAño 2010. En la isla de Menorca se hallan los restos momificados de un niño en el interior de una maleta. Tras una complicada investigación, el grupo de homicidios de la Policía Nacional logra establecer la identidad de la víctima, César, y localizar a su asesina, Mónica Juanatey, su madre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225102224 +0100",
+            "stop_time": "20250225111705 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUn parque en Viena por la noche: dos mujeres jóvenes se convierten en testigos oculares de un crimen brutal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225111706 +0100",
+            "stop_time": "20250225122814 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nSylvain Dromard encuentra el cuerpo de su esposa Laurence tirado en un charco de sangre en la cocina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225122815 +0100",
+            "stop_time": "20250225125657 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nEn 1971, antes de la era de la seguridad aeroportuaria, un Pantera Negra secuestra un avión con destino a La Habana, Cuba.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225125658 +0100",
+            "stop_time": "20250225134920 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nEn un caluroso día de verano de 1934, se hizo un descubrimiento aterrador en un baúl en la consigna de equipaje de la estación de tren de Brighton.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225134921 +0100",
+            "stop_time": "20250225145636 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 12 de abril de 2003, Xavier Flactif, su pareja Graziella y sus tres hijos desaparecen repentinamente en la Alta Saboya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225145637 +0100",
+            "stop_time": "20250225155642 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nUna investigación marcó especialmente a Valérie Bouvard: el 30 de agosto de 2013, un hombre, ex estrella del boxeo que se convirtió en educador, desapareció sin dejar rastro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225155643 +0100",
+            "stop_time": "20250225165204 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nUna joven heredera de una de las familias más ricas y políticamente conectadas de Estados Unidos, secuestrada por una misteriosa milicia clandestina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225165205 +0100",
+            "stop_time": "20250225174825 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nUn día antes de cumplir 18 años, el cuerpo de Marie Varnerot, una joven de 17 años, fue encontrado semidesnudo en su cama en Maincy, cerca de Melun.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225174826 +0100",
+            "stop_time": "20250225181709 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nTres adolescentes acompañan a un repartidor a una zona densamente boscosa para una fiesta de copas que, al poco tiempo, se convierte en una pesadilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225181710 +0100",
+            "stop_time": "20250225191211 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nUn museo vienés alberga muchas curiosidades recopiladas por la familia real de los Habsburgo. Los expertos también revelan cómo la endogamia llevó a su desaparición.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225191212 +0100",
+            "stop_time": "20250225201728 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn noviembre de 2006, los familiares de Nicole Saada, una mujer de unos sesenta años, acudieron a denunciar su desaparición.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225201729 +0100",
+            "stop_time": "20250225212445 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 12 de abril de 2003, Xavier Flactif, su pareja Graziella y sus tres hijos desaparecen repentinamente en la Alta Saboya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225212446 +0100",
+            "stop_time": "20250225223554 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nSylvain Dromard encuentra el cuerpo de su esposa Laurence tirado en un charco de sangre en la cocina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223555 +0100",
+            "stop_time": "20250225233215 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nUn día antes de cumplir 18 años, el cuerpo de Marie Varnerot, una joven de 17 años, fue encontrado semidesnudo en su cama en Maincy, cerca de Melun.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233216 +0100",
+            "stop_time": "20250226000202 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nEl 11 de enero de 1977 María Dolores Santiago Palenzuela desaparece sin dejar rastro. 29 años después el caso sería resuelto tras el hallazgo de sus restos, enterrados en el sótano de un hotel de Palma que se encontraba en obras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000203 +0100",
+            "stop_time": "20250226004646 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nEn septiembre de 1996 el radiólogo alemán Rudgerer Oyntzen asesinó, durante unas vacaciones en Mallorca, a sus dos hijos, de 6 y 8 años, mediante una inyección letal. Un crimen minuciosamente planificado por Oyntzen, quién llego a escribir un diario detallando los últimos minutos de vida de sus hijos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226004647 +0100",
+            "stop_time": "20250226015421 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEl comandante Pierrick Guillaume siempre quiso ser investigador, como su padre antes que él.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226015422 +0100",
+            "stop_time": "20250226024557 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nEn medio de Viena, se encuentra el cadáver de una mujer en el maletero de su propio coche.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226024558 +0100",
+            "stop_time": "20250226033826 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nLa verdadera historia de los asesinatos de Whitechapel como nunca antes se había escuchado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033827 +0100",
+            "stop_time": "20250226043743 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl domingo 22 de julio de 2001, una bicicleta averiada, propiedad de Karine Schaaff, de 16 años, aparece abandonada al borde de una carretera en Moselle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043744 +0100",
+            "stop_time": "20250226050626 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nUn astuto pirómano va un paso por delante de la policía y aterroriza a una pequeña comunidad agrícola.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050627 +0100",
+            "stop_time": "20250226060314 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn septiembre de 2009, Marie-Christine Hodeau, una corredora, es secuestrada y encerrada en el maletero del coche de su secuestrador.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060315 +0100",
+            "stop_time": "20250226070837 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl viernes 12 de enero de 2007 hallan el cuerpo sin vida y mutilado de una mujer en el bosque de Rambouillet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070838 +0100",
+            "stop_time": "20250226080524 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nUna de las colecciones de arte más grandes del mundo, en el Museo Metropolitano de Nueva York, presenta galerías llenas de tragedia, locura y asesinatos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080525 +0100",
+            "stop_time": "20250226090158 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEn Saint-Andéol-Le-Château, Ródano, la Brigada de Investigación de Lyon investiga un cuádruple homicidio en el que una familia entera fue asesinada con la misma arma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090159 +0100",
+            "stop_time": "20250226093145 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nEl 11 de enero de 1977 María Dolores Santiago Palenzuela desaparece sin dejar rastro. 29 años después el caso sería resuelto tras el hallazgo de sus restos, enterrados en el sótano de un hotel de Palma que se encontraba en obras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226093146 +0100",
+            "stop_time": "20250226101628 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nEn septiembre de 1996 el radiólogo alemán Rudgerer Oyntzen asesinó, durante unas vacaciones en Mallorca, a sus dos hijos, de 6 y 8 años, mediante una inyección letal. Un crimen minuciosamente planificado por Oyntzen, quién llego a escribir un diario detallando los últimos minutos de vida de sus hijos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226101629 +0100",
+            "stop_time": "20250226111111 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUna joven madre soltera es encontrada asesinada en su apartamento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226111112 +0100",
+            "stop_time": "20250226121709 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nGabrielle y Pierre Labrell sufren dolores estomacales sin causa aparente en octubre del 2001. Los dos son transportados al hospital y mueren.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226121710 +0100",
+            "stop_time": "20250226124551 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nLa peor pesadilla de toda mujer cobra vida cuando un depredador sexual barbudo comienza a atacar a las mujeres.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226124552 +0100",
+            "stop_time": "20250226133808 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nMientras la policía investigaba la desaparición de la adinerada viuda Olive Durand Deacon, a principios de 1949, no podrían haber imaginado la espantosa confesión.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133809 +0100",
+            "stop_time": "20250226144356 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 11 de mayo de 1995, Marc Van Beers, un abogado fiscalista de Bruselas de 36 años, muere en un accidente de tráfico durante su luna de miel. Su esposa Aurore sale ilesa de la tragedia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226144357 +0100",
+            "stop_time": "20250226154459 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn el mes de abril de 2012, solicitan al investigador Guillaume Bocrie, del Departamento de Policía de Versalles, acudir al lugar en el que Maëva Rousseau, de 23 años, fue asesinada ante los ojos de su hijo de 11 meses.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226154500 +0100",
+            "stop_time": "20250226164024 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nFue uno de los crímenes más comentados de la década de 1970, una travesura escandalosa a 10,000 pies de altura.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226164025 +0100",
+            "stop_time": "20250226173657 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEn Saint-Andéol-Le-Château, Ródano, la Brigada de Investigación de Lyon investiga un cuádruple homicidio en el que una familia entera fue asesinada con la misma arma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226173658 +0100",
+            "stop_time": "20250226180540 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nUn joven judío ortodoxo está en Pittsburgh para celebrar la Pascua con su familia cuando lo matan a tiros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180541 +0100",
+            "stop_time": "20250226190227 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nLos secretos ocultos del ataúd de Ramsés, el guerrero Seqenenre y las pirámides en el fascinante Museo Egipcio de El Cairo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190228 +0100",
+            "stop_time": "20250226200923 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nComo jefe de la Unidad de Robo de Arte, el Mayor Erhardy se enfrenta a un caso increíble: el robo de cinco pinturas maestras del Museo de Arte Moderno de París.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200924 +0100",
+            "stop_time": "20250226211511 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 11 de mayo de 1995, Marc Van Beers, un abogado fiscalista de Bruselas de 36 años, muere en un accidente de tráfico durante su luna de miel. Su esposa Aurore sale ilesa de la tragedia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226211512 +0100",
+            "stop_time": "20250226222109 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nGabrielle y Pierre Labrell sufren dolores estomacales sin causa aparente en octubre del 2001. Los dos son transportados al hospital y mueren.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226222110 +0100",
+            "stop_time": "20250226231634 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nFue uno de los crímenes más comentados de la década de 1970, una travesura escandalosa a 10,000 pies de altura.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226231635 +0100",
+            "stop_time": "20250227001307 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEn Saint-Andéol-Le-Château, Ródano, la Brigada de Investigación de Lyon investiga un cuádruple homicidio en el que una familia entera fue asesinada con la misma arma.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227001308 +0100",
+            "stop_time": "20250227010020 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nAño 2010. En la isla de Menorca se hallan los restos momificados de un niño en el interior de una maleta. Tras una complicada investigación, el grupo de homicidios de la Policía Nacional logra establecer la identidad de la víctima, César, y localizar a su asesina, Mónica Juanatey, su madre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010021 +0100",
+            "stop_time": "20250227020707 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEl 20 de noviembre de 2013, el cuerpo de un bebé ahogado fue descubierto en la playa de Berck-sur-Mer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020708 +0100",
+            "stop_time": "20250227030117 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUna joven es secuestrada y amenazada de muerte.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030118 +0100",
+            "stop_time": "20250227035426 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nA principios del siglo XX, una nueva tecnología cambió para siempre la forma en que consumimos las noticias.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227035427 +0100",
+            "stop_time": "20250227045950 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl viernes 12 de enero de 2007 hallan el cuerpo sin vida y mutilado de una mujer en el bosque de Rambouillet.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227045951 +0100",
+            "stop_time": "20250227052418 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nEn 1996, un atacante en serie comienza a colocar bombas en lugares públicos y aterroriza a la comunidad de la Isla del Príncipe Eduardo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227052419 +0100",
+            "stop_time": "20250227062324 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nLa agente Marie-Pierre Evrard solía abordar los casos que le encomendaban con distancia, hasta el día en que la denuncia de una mujer que acusaba a su compañero de intento de asesinato trastornó su vida cotidiana.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227062325 +0100",
+            "stop_time": "20250227073040 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 12 de abril de 2003, Xavier Flactif, su pareja Graziella y sus tres hijos desaparecen repentinamente en la Alta Saboya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073041 +0100",
+            "stop_time": "20250227082542 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nLos vikingos prueban su poder contra espadas irrompibles. El extraño vínculo entre la arquitectura antigua y Adolf Hitler. Un sombrero dorado predice el futuro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227082543 +0100",
+            "stop_time": "20250227091859 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nA raíz de un escalofriante secuestro en Remoulins, los investigadores de Nimes, con la ayuda de importantes testimonios de testigos, se embarcaron en una implacable búsqueda de un conocido delincuente belga.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227091900 +0100",
+            "stop_time": "20250227103800 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nEl cadáver del ciudadano alemán Günter Ulrich es localizado en el fondo de un pozo sellado en la finca de Las Siete Casas, al este de la isla de Mallorca. El cuerpo presentaba síntomas de una muerte violenta. Desaparecido 5 años antes, Günter había tenido negocios inmobiliarios relacionados con el turismo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103801 +0100",
+            "stop_time": "20250227113220 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nEn el camino desde un centro de terapia, un adolescente desaparece sin dejar rastro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227113221 +0100",
+            "stop_time": "20250227124301 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nNelly Crémel, de 39 años, desaparece tras salir a correr en junio de 2005, su cadáver aparece oculto bajo unas ramas ocho días después y no hay duda de que fue asesinada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227124302 +0100",
+            "stop_time": "20250227133507 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nEl día antes de la coronación de la reina Isabel II, el cuerpo de una adolescente fue encontrado flotando en el río Támesis",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133508 +0100",
+            "stop_time": "20250227144056 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 29 de junio de 2012, Marina Ciampi, de 52 años, aparece muerta en su casa de Marsella.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227144057 +0100",
+            "stop_time": "20250227153737 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn 2002, Christophe Molmy, entonces subdirector de la OCRB, descubrió el caso de Antonio Ferrara, un delincuente de poca monta que se convirtió en un gran bandido. Luego, mientras huía, Christophe Molmy y sus hombres lo arrestaron por primera vez.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153738 +0100",
+            "stop_time": "20250227163815 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nCon su dieta Subway, Jared Fogle se convirtió en una inspiración para millones de estadounidenses con sobrepeso.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163816 +0100",
+            "stop_time": "20250227173131 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nA raíz de un escalofriante secuestro en Remoulins, los investigadores de Nimes, con la ayuda de importantes testimonios de testigos, se embarcaron en una implacable búsqueda de un conocido delincuente belga.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173132 +0100",
+            "stop_time": "20250227180014 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nUn hombre roba un vehículo blindado a punta de pistola y retiene como rehén a un trabajador de un salón de masajes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180015 +0100",
+            "stop_time": "20250227185701 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nEl museo del Louvre en París alberga 35 000 objetos desde la era prehistórica hasta el siglo XIX.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227185702 +0100",
+            "stop_time": "20250227200126 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nStéphane Touvet, entonces capitán del departamento de investigación de París, se ve inmerso en la investigación de su vida, un doble asesinato con un trasfondo de juegos sexuales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200127 +0100",
+            "stop_time": "20250227210715 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 29 de junio de 2012, Marina Ciampi, de 52 años, aparece muerta en su casa de Marsella.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210716 +0100",
+            "stop_time": "20250227221756 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nNelly Crémel, de 39 años, desaparece tras salir a correr en junio de 2005, su cadáver aparece oculto bajo unas ramas ocho días después y no hay duda de que fue asesinada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227221757 +0100",
+            "stop_time": "20250227231834 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nCon su dieta Subway, Jared Fogle se convirtió en una inspiración para millones de estadounidenses con sobrepeso.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227231835 +0100",
+            "stop_time": "20250228001150 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nA raíz de un escalofriante secuestro en Remoulins, los investigadores de Nimes, con la ayuda de importantes testimonios de testigos, se embarcaron en una implacable búsqueda de un conocido delincuente belga.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228001151 +0100",
+            "stop_time": "20250228005952 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nAño 2002. Agentes de la Guardia Civil reciben accidentalmente una información sobre un supuesto crimen sin resolver. La posterior investigación va dirigir sus pasos hasta Andrea Illona Budach, una joven alemana desaparecida el mes del julio de 1998... pero también hasta la identidad del culpable de su homicidio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228005953 +0100",
+            "stop_time": "20250228020604 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEl 5 de octubre de 2017, en Servian, Hérault, Daniel Malgouyres disparó y mató a un ladrón en su domicilio que lo amenazaba.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020605 +0100",
+            "stop_time": "20250228030046 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUn parque en Viena por la noche: dos mujeres jóvenes se convierten en testigos oculares de un crimen brutal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030047 +0100",
+            "stop_time": "20250228035324 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nLa Primera Guerra Mundial se cobró la vida de innumerables soldados en el frente. Pero un hombre en París demasiado mayor para el combate vio esto como una oportunidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228035325 +0100",
+            "stop_time": "20250228050040 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 12 de abril de 2003, Xavier Flactif, su pareja Graziella y sus tres hijos desaparecen repentinamente en la Alta Saboya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050041 +0100",
+            "stop_time": "20250228055730 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn busca de los ex miembros de French Connection que estaban preparando un gran golpe de estado entre América del Sur, España y el sur de Francia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228055731 +0100",
+            "stop_time": "20250228070318 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 11 de mayo de 1995, Marc Van Beers, un abogado fiscalista de Bruselas de 36 años, muere en un accidente de tráfico durante su luna de miel. Su esposa Aurore sale ilesa de la tragedia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070319 +0100",
+            "stop_time": "20250228080005 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nInnumerables tesoros y obras de arte pertenecientes a la Iglesia Católica se encuentran dentro del Vaticano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080006 +0100",
+            "stop_time": "20250228085435 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEl secuestro de Muriel Reigada desencadenó una búsqueda masiva por parte de la policía de Orleans, que duró 31 días y siete horas antes de que se identificaran a los culpables.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228085436 +0100",
+            "stop_time": "20250228092422 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nEl 11 de enero de 1977 María Dolores Santiago Palenzuela desaparece sin dejar rastro. 29 años después el caso sería resuelto tras el hallazgo de sus restos, enterrados en el sótano de un hotel de Palma que se encontraba en obras.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228092423 +0100",
+            "stop_time": "20250228100725 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nAño 1987. La aparición del cadáver de ciudadano alemán Winfred Brandt inicia una investigación que llevará a la resolución del misterioso caso de los restos humanos aparecidos en dos playas de la isla de Mallorca. Unas muertes relacionadas entre sí y que esconden múltiples incógnitas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100726 +0100",
+            "stop_time": "20250228110152 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUna mujer adinerada, soltera, de cuarenta y tantos años, es encontrada estrangulada en su apartamento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110153 +0100",
+            "stop_time": "20250228120943 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nWilly Pomonti, un arquitecto jubilado, es encontrado salvajemente asesinado en su opulenta villa de La Celle-Saint-Cloud, cerca de París.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120944 +0100",
+            "stop_time": "20250228123826 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nUn joven judío ortodoxo está en Pittsburgh para celebrar la Pascua con su familia cuando lo matan a tiros.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123827 +0100",
+            "stop_time": "20250228130709 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nUn hombre roba un vehículo blindado a punta de pistola y retiene como rehén a un trabajador de un salón de masajes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130710 +0100",
+            "stop_time": "20250228135925 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nRuth Ellis fue la última mujer ahorcada en Gran Bretaña.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228135926 +0100",
+            "stop_time": "20250228150128 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 26 de junio de 2012, los bomberos de Barbizieux, en Charente, deben acudir por un incendio en una gran casa del pueblo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150129 +0100",
+            "stop_time": "20250228160122 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn 1995, una joven desapareció cerca de la estación de Perpiñán. En 1997 y 1998, Perpiñán fue nuevamente golpeada por nuevos asesinatos horribles. Gilles Soulié, comisario de la policía judicial, comienza la búsqueda del asesino en serie.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160123 +0100",
+            "stop_time": "20250228165647 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nUn grupo de niños ricos y mimados invadió las casas de los ricos y famosos, arrebatándoles carteras, diamantes y perlas de Gucci.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228165648 +0100",
+            "stop_time": "20250228175118 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEl secuestro de Muriel Reigada desencadenó una búsqueda masiva por parte de la policía de Orleans, que duró 31 días y siete horas antes de que se identificaran a los culpables.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228175119 +0100",
+            "stop_time": "20250228184805 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nLos secretos ocultos del ataúd de Ramsés, el guerrero Seqenenre y las pirámides en el fascinante Museo Egipcio de El Cairo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228184806 +0100",
+            "stop_time": "20250228195524 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEl 26 de junio de 1999, en Marsella, cinco presos de la prisión de Baumettes se aferraron a las cuerdas lanzadas desde un helicóptero y despegaron.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228195525 +0100",
+            "stop_time": "20250228205727 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 26 de junio de 2012, los bomberos de Barbizieux, en Charente, deben acudir por un incendio en una gran casa del pueblo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228205728 +0100",
+            "stop_time": "20250228220517 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nWilly Pomonti, un arquitecto jubilado, es encontrado salvajemente asesinado en su opulenta villa de La Celle-Saint-Cloud, cerca de París.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220518 +0100",
+            "stop_time": "20250228230043 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nUn grupo de niños ricos y mimados invadió las casas de los ricos y famosos, arrebatándoles carteras, diamantes y perlas de Gucci.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230044 +0100",
+            "stop_time": "20250228235513 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEl secuestro de Muriel Reigada desencadenó una búsqueda masiva por parte de la policía de Orleans, que duró 31 días y siete horas antes de que se identificaran a los culpables.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228235514 +0100",
+            "stop_time": "20250301005112 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nLa operación Kraken llevó a la desarticulación de una peligrosa banda organizada de paramilitares dedicada a la realización de robos con violencia en domicilios y locales comerciales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301005113 +0100",
+            "stop_time": "20250301014742 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nBertrand Depierre, teniente coronel de la Policía francesa, narra cómo el 16 de noviembre de 2011 llegó a sus manos el caso más duro de su carrera: la desaparición de una chica de 13 años en un internado de Ardecha.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301014743 +0100",
+            "stop_time": "20250301024224 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUna joven madre soltera es encontrada asesinada en su apartamento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301024225 +0100",
+            "stop_time": "20250301033513 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nHerbert Rowse Armstrong pasó a la historia como El envenenador de heno.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301033514 +0100",
+            "stop_time": "20250301044101 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 11 de mayo de 1995, Marc Van Beers, un abogado fiscalista de Bruselas de 36 años, muere en un accidente de tráfico durante su luna de miel. Su esposa Aurore sale ilesa de la tragedia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301044102 +0100",
+            "stop_time": "20250301050943 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nLa peor pesadilla de toda mujer cobra vida cuando un depredador sexual barbudo comienza a atacar a las mujeres.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050944 +0100",
+            "stop_time": "20250301061913 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nUn llamativo doble atraco a la joyería \"Harry Winston\" que fue noticia en 2007 en la prensa internacional.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301061914 +0100",
+            "stop_time": "20250301072503 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 29 de junio de 2012, Marina Ciampi, de 52 años, aparece muerta en su casa de Marsella.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301072504 +0100",
+            "stop_time": "20250301082005 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nEl Museo del Palacio Topkapi de Turquía contiene un enorme tesoro de cultura, ciencia y armamento islámico que millones de personas visitan cada año.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301082006 +0100",
+            "stop_time": "20250301091430 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nConocidos como los \"Constructores del Horror\", la desaparición de Jocelyne y Jean-Claude Saint Aubert conmocionó a su tranquilo barrio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301091431 +0100",
+            "stop_time": "20250301095220 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nFebrero de 2013. Un joven de 18 años mata a su madre en Palma golpeándola salvajemente con una marcuerna. Fue el final de una cruel historia de maltrato familiar reflejada en un diario localizado por los investigadores y escrito por la víctima, María Luisa Perún, durante sus últimos meses de vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301095221 +0100",
+            "stop_time": "20250301104210 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\n2 de octubre del año 2013. El barrio de Pere Garau, en Palma de Mallorca, despierta con la noticia de que uno de sus vecinos ha confesado en sede policial haber matado y descuartizado a su hermano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301104211 +0100",
+            "stop_time": "20250301113704 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUna anciana es encontrada muerta en su apartamento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301113705 +0100",
+            "stop_time": "20250301124712 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nChristophe Lejard es acribillado cuando sale a trabajar. La investigación revela que el hombre no es tan tranquilo como parecía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124713 +0100",
+            "stop_time": "20250301133949 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nPeter Manuel fue un asesino en serie escocés que mató al menos a ocho personas entre 1956 y 1958 en el área del Gran Glasgow en Escocia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133950 +0100",
+            "stop_time": "20250301144253 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 1 de diciembre de 2005, Dominique Aubry, una rica viuda de 58 años, aparece ahorcada en su barcaza de Neuilly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301144254 +0100",
+            "stop_time": "20250301153739 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nMichel Cunault trabajó en la policía judicial de los suburbios de París. En 2004, viaja a Dijon y se enfrenta a la investigación de su vida: la desaparición de Géraldine Giraud y Katia Lherbier. Fue un caso que le persiguió hasta su jubilación.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153740 +0100",
+            "stop_time": "20250301163304 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nAnthony Weiner era un político prometedor del partido demócrata de Nueva York, pero tenía un lado oscuro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301163305 +0100",
+            "stop_time": "20250301172729 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nConocidos como los \"Constructores del Horror\", la desaparición de Jocelyne y Jean-Claude Saint Aubert conmocionó a su tranquilo barrio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301172730 +0100",
+            "stop_time": "20250301175612 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nEn 1986, un estadounidense se convierte en uno de los bandidos de bancos y joyerías más prolíficos de Canadá.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301175613 +0100",
+            "stop_time": "20250301185111 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nLos barcos griegos luchan contra los invasores. Alejandro Magno lleva una armadura de tela. El filósofo Platón se entrega a actividades extracurriculares. Un artilugio antiguo predice el futuro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301185112 +0100",
+            "stop_time": "20250301195722 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nPatrick Isoird fue encontrado el 17 de julio de 2014 en una cueva cerca de Sète, atado de pies y manos, su cuerpo quemado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301195723 +0100",
+            "stop_time": "20250301210026 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 1 de diciembre de 2005, Dominique Aubry, una rica viuda de 58 años, aparece ahorcada en su barcaza de Neuilly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210027 +0100",
+            "stop_time": "20250301221034 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nChristophe Lejard es acribillado cuando sale a trabajar. La investigación revela que el hombre no es tan tranquilo como parecía.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301221035 +0100",
+            "stop_time": "20250301230600 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nAnthony Weiner era un político prometedor del partido demócrata de Nueva York, pero tenía un lado oscuro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230601 +0100",
+            "stop_time": "20250302000025 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nConocidos como los \"Constructores del Horror\", la desaparición de Jocelyne y Jean-Claude Saint Aubert conmocionó a su tranquilo barrio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000026 +0100",
+            "stop_time": "20250302004827 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nAño 2002. Agentes de la Guardia Civil reciben accidentalmente una información sobre un supuesto crimen sin resolver. La posterior investigación va dirigir sus pasos hasta Andrea Illona Budach, una joven alemana desaparecida el mes del julio de 1998... pero también hasta la identidad del culpable de su homicidio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302004828 +0100",
+            "stop_time": "20250302014656 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn 2001, Fabienne Lopéo conoció por primera vez a la pequeña Marine, víctima de abuso. Desde este primer caso, estalla el mayor caso de pedofilia en Francia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302014657 +0100",
+            "stop_time": "20250302024116 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nEn el camino desde un centro de terapia, un adolescente desaparece sin dejar rastro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302024117 +0100",
+            "stop_time": "20250302033357 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nAmelia Dyer fue quizás la asesina más prolífica de la historia británica.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302033358 +0100",
+            "stop_time": "20250302043946 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 29 de junio de 2012, Marina Ciampi, de 52 años, aparece muerta en su casa de Marsella.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302043947 +0100",
+            "stop_time": "20250302050829 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nTres adolescentes acompañan a un repartidor a una zona densamente boscosa para una fiesta de copas que, al poco tiempo, se convierte en una pesadilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050830 +0100",
+            "stop_time": "20250302061322 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn 2004, Benoît Pinel y su equipo fueron llamados tras el descubrimiento de un cuerpo a la deriva en el Sena.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302061323 +0100",
+            "stop_time": "20250302071525 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 26 de junio de 2012, los bomberos de Barbizieux, en Charente, deben acudir por un incendio en una gran casa del pueblo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302071526 +0100",
+            "stop_time": "20250302081212 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nEl museo del Louvre en París alberga 35 000 objetos desde la era prehistórica hasta el siglo XIX.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302081213 +0100",
+            "stop_time": "20250302090557 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEl caso de Yoni Palmier, denominado \"el asesino en serie de Essonne\", se desarrolló rápidamente bajo la atenta mirada de la policía de Versalles.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090558 +0100",
+            "stop_time": "20250302100333 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\nTras la aparición de los cadáveres calcinados de dos ciudadanos chinos en una casa abandonada, da comienzo una trepidante investigación que logra resolver el caso y destapar una red de tráfico de drogas vinculada a clanes de narcotraficantes del poblado de Son Banya.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100334 +0100",
+            "stop_time": "20250302105721 +0100",
+            "title": "Asesinato en la Mira - Casos Verdaderos de Austria",
+            "description": "| +16 | Crime |\n\nUna mujer joven yace quemada y con heridas de arma blanca en su apartamento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302105722 +0100",
+            "stop_time": "20250302120813 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nUn hombre entra en una gendarmería cerca de Saint-Malo para informar que su esposa está desaparecida desde el día anterior.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120814 +0100",
+            "stop_time": "20250302123656 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nSe revelan las sorprendentes técnicas y tecnologías empleadas para atrapar delincuentes. Además, el análisis de los delitos a partir de los registros policiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302123657 +0100",
+            "stop_time": "20250302130539 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nSe revelan las sorprendentes técnicas y tecnologías empleadas para atrapar delincuentes. Además, el análisis de los delitos a partir de los registros policiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302130540 +0100",
+            "stop_time": "20250302135805 +0100",
+            "title": "Mapas de Asesinatos",
+            "description": "| +16 | Crime |\n\nNacida en 1832, la historia de la Viuda Negra es una historia de asesinato clásico victoriano.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302135806 +0100",
+            "stop_time": "20250302150056 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 8 de noviembre de 1999 la policía de Estrasburgo recibe una sorprendente llamada de urgencia del doctor Jean-Louis Muller, un patólogo forense muy conocido en la región.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150057 +0100",
+            "stop_time": "20250302155744 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nEn septiembre de 2009, Marie-Christine Hodeau, una corredora, es secuestrada y encerrada en el maletero del coche de su secuestrador.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302155745 +0100",
+            "stop_time": "20250302165309 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nLa llamaban La Madrina, la madrina de la cocaína, una brutal narcotraficante que aplastaba a cualquiera que se interpusiera en su camino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302165310 +0100",
+            "stop_time": "20250302174654 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEl caso de Yoni Palmier, denominado \"el asesino en serie de Essonne\", se desarrolló rápidamente bajo la atenta mirada de la policía de Versalles.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302174655 +0100",
+            "stop_time": "20250302181537 +0100",
+            "title": "Las Primeras 72 Horas Tras El Crimen",
+            "description": "| +16 | Crime |\n\nSe revelan las sorprendentes técnicas y tecnologías empleadas para atrapar delincuentes. Además, el análisis de los delitos a partir de los registros policiales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302181538 +0100",
+            "stop_time": "20250302191040 +0100",
+            "title": "Secretos de los Museos",
+            "description": "| +16 | Crime |\n\nLos vikingos prueban su poder contra espadas irrompibles. El extraño vínculo entre la arquitectura antigua y Adolf Hitler. Un sombrero dorado predice el futuro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302191041 +0100",
+            "stop_time": "20250302201714 +0100",
+            "title": "El Caso de mi Vida",
+            "description": "| +16 | Crime |\n\nUna investigadora de la gendarmería explora pistas que pueden permitirle encontrar a Félicien Kabouga, acusado de ser el financista del genocidio de Ruanda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302201715 +0100",
+            "stop_time": "20250302212006 +0100",
+            "title": "Cómo Resolver Un Crimen",
+            "description": "| +16 | Crime |\n\nEl 8 de noviembre de 1999 la policía de Estrasburgo recibe una sorprendente llamada de urgencia del doctor Jean-Louis Muller, un patólogo forense muy conocido en la región.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302212007 +0100",
+            "stop_time": "20250302223058 +0100",
+            "title": "Evidencias del Crimena",
+            "description": "| +16 | Crime |\n\nUn hombre entra en una gendarmería cerca de Saint-Malo para informar que su esposa está desaparecida desde el día anterior.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302223059 +0100",
+            "stop_time": "20250302232622 +0100",
+            "title": "Crímenes Celebres (Notorious)",
+            "description": "| +16 | Crime |\n\nLa llamaban La Madrina, la madrina de la cocaína, una brutal narcotraficante que aplastaba a cualquiera que se interpusiera en su camino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302232623 +0100",
+            "stop_time": "20250303002007 +0100",
+            "title": "Contra Reloj",
+            "description": "| +16 | Crime |\n\nEl caso de Yoni Palmier, denominado \"el asesino en serie de Essonne\", se desarrolló rápidamente bajo la atenta mirada de la policía de Versalles.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303002008 +0100",
+            "stop_time": "20250303010958 +0100",
+            "title": "Memoria Negra",
+            "description": "| +16 | Crime |\n\n2 de octubre del año 2013. El barrio de Pere Garau, en Palma de Mallorca, despierta con la noticia de que uno de sus vecinos ha confesado en sede policial haber matado y descuartizado a su hermano.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/todocrimen-todo-crimen.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

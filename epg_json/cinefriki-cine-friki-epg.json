@@ -1,0 +1,601 @@
+{
+    "name": "Cine Friki",
+    "tvg_id": "cine-friki",
+    "epg": [
+        {
+            "start_time": "20250224145758 +0100",
+            "stop_time": "20250224164715 +0100",
+            "title": "Inferno",
+            "description": "| +12 | Películas |\n\nMientras un hombre conduce su moto por el desierto, unos matones le roban el vehículo y lo dan por muerto. Sobrevive y ya no piensa en el suicidio, porque ahora tiene un objetivo en la vida: vengarse y recuperar su moto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224164716 +0100",
+            "stop_time": "20250224190152 +0100",
+            "title": "Terra Nova",
+            "description": "| +12 | Películas |\n\nCon la abolición de la pena de muerte, las cárceles se están desbordando en todo el mundo, lo que representa un problema importante para las autoridades.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190153 +0100",
+            "stop_time": "20250224205906 +0100",
+            "title": "The DaVinci Treasure",
+            "description": "| +12 | Películas |\n\nUn antropólogo debe descifrar el código oculto en las obras de Leonardo Da Vinci para encontrar el mayor tesoro de la historia, uno que podría cambiar el cristianismo para siempre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224205907 +0100",
+            "stop_time": "20250224225535 +0100",
+            "title": "Choque Mortal",
+            "description": "| +12 | Películas |\n\nUna pareja de luna de miel en Marruecos sobrevive a un fatal accidente de coche en medio del desierto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224225536 +0100",
+            "stop_time": "20250225005138 +0100",
+            "title": "Fighter",
+            "description": "| +12 | Películas |\n\nAicha asiste a clases de Kung Fu en su instituto de Copenhague. Su padre, turco y musulmán, quiere que estudie mucho y se haga médico, pero ella empieza a entrenar en un club de Kung Fu donde Emil la ayuda. Se hacen amigos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225005139 +0100",
+            "stop_time": "20250225022044 +0100",
+            "title": "Blood Lake",
+            "description": "| +12 | Películas |\n\nDespués de devorar a la población de peces, miles de lampreas hambrientas comienzan a atacar a los ciudadanos de una tranquila ciudad lacustre, y la comunidad lucha por mantenerse con vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225022045 +0100",
+            "stop_time": "20250225043305 +0100",
+            "title": "El bosque de los Sueños",
+            "description": "| +12 | Películas |\n\nEl amor y la pérdida llevan a Arthur Brennan a cruzar el mundo para poner fin a sus días en Aokigahara, un denso bosque a los pies del Monte Fuji en Japón. Allí rememora los momentos más importantes de su historia de amor y restaura así su voluntad de vivir.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043306 +0100",
+            "stop_time": "20250225062759 +0100",
+            "title": "Asesino a Sueldo",
+            "description": "| +12 | Películas |\n\nViktor creció en los suburbios de Rumanía y conoce el valor de la vida, lo que lo convierte en el asesino perfecto. Después de ser traicionado por aquellos que consideraba sus amigos, debe fingir su propia muerte y huir a Londres, donde se une a una nueva familia de gánsteres. Viktor es ahora más letal que nunca, un sicario de élite. Los secretos de su pasado se niegan a desaparecer, pero un encuentro con una belleza oscura le ofrece la oportunidad de una nueva vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225062800 +0100",
+            "stop_time": "20250225080755 +0100",
+            "title": "The Tracker",
+            "description": "| +12 | Películas |\n\nUn misterioso forastero visita un remoto pueblo donde su mujer y su hija fueron secuestradas quince años antes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080756 +0100",
+            "stop_time": "20250225095117 +0100",
+            "title": "El Hombre del Presidente",
+            "description": "| +12 | Películas |\n\nUn agente secreto altamente clasificado del presidente de Estados Unidos debe encontrar un intrépido sustituto que se haga cargo de sus peligrosísimas misiones militares.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225095118 +0100",
+            "stop_time": "20250225120424 +0100",
+            "title": "Yatterman",
+            "description": "| +12 | Películas |\n\nLa hermosa y ultra sexy Doronjo y sus malvados esbirros, sedientos de dinero, fama y poder, intentan recuperar los pedazos de una legendaria piedra con poderes misteriosos. Pero sus planes se verán interrumpidos por Gan, Ai y su fiel perro robot gigante, quienes iniciarán una frenética carrera contrarreloj para impedir que la gema caiga en manos de los villanos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120425 +0100",
+            "stop_time": "20250225135451 +0100",
+            "title": "San Andreas Mega Seísmo",
+            "description": "| +12 | Películas |\n\nLos científicos hacen un horrible descubrimiento: El \"Big One\" se acerca en dos días, con él, California se hundirá en el océano. Su única esperanza es romper un volcán que desplace la energía del terremoto y construya una nueva corteza en la superficie. Pero a medida que las pretemblores convierten California en un caos, se trata de una carrera contrarreloj que los científicos podrían no ganar",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135452 +0100",
+            "stop_time": "20250225153825 +0100",
+            "title": "Geo Disaster V2",
+            "description": "| +12 | Películas |\n\nUna familia de Los Ángeles se ve separada durante la convergencia de los mayores desastres de la historia: un supervolcán, un megaterremoto y un tornado masivo, e intentarán reunirse a toda costa.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225153826 +0100",
+            "stop_time": "20250225172354 +0100",
+            "title": "USS Seaviper",
+            "description": "| +12 | Películas |\n\nEl submarino alemán, U-234, del puerto de Kiel está intercambiando carga con los japoneses. USS Seaviper debe localizar y detener este peligroso intercambio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225172355 +0100",
+            "stop_time": "20250225190557 +0100",
+            "title": "Código de defensa",
+            "description": "| +12 | Películas |\n\nUn operativo de Black Ops es enviado a una remota estación de la CIA para proteger a un operador de código. Pronto se encuentran en una situación a vida o muerte, intentando desmantelar una trama letal antes de que sea demasiado tarde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190558 +0100",
+            "stop_time": "20250225205837 +0100",
+            "title": "Tarzán en Manhattan",
+            "description": "| +12 | Películas |\n\nTarzán viaja a Nueva York para rescatar al chimpancé Chita, que ha sido capturado por un malvado experimentador con animales. Allí forma equipo con Jane, taxista e hija de un ex policía detective privado, que ayuda a Tarzán a liberar a Chita y a sus amigos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225205838 +0100",
+            "stop_time": "20250225224204 +0100",
+            "title": "Santos y soldados",
+            "description": "| +12 | Películas |\n\nCuatro soldados estadounidenses y un británico durante la Segunda Guerra Mundial luchan por regresar al territorio aliado después de ser separados de las fuerzas estadounidenses durante la histórica Masacre de Malmedy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225224205 +0100",
+            "stop_time": "20250226002758 +0100",
+            "title": "Sherlock Holmes",
+            "description": "| +12 | Películas |\n\nEs el Blitz de Londres en 1940. Un anciano y enfermo Dr. John Watson cuenta a su enfermera la historia de su investigación más compleja con Sherlock Holmes, que ambos juraron que nunca se contaría al público ni se adaptaría a una de las famosas historias de Watson.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002759 +0100",
+            "stop_time": "20250226024014 +0100",
+            "title": "Gagarin, Pionero del Espacio",
+            "description": "| +12 | Películas |\n\nEl 12 de abril de 1961, el cosmonauta soviético Yuri Gagarin despegó en un cohete Vostok y orbitó alrededor de la Tierra durante 108 minutos. Seleccionado entre más de tres mil pilotos de combate de toda la Unión Soviética, Gagarin tuvo que entrenarse rápidamente para realizar el viaje de su vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226024015 +0100",
+            "stop_time": "20250226043320 +0100",
+            "title": "A Ciegas",
+            "description": "| +12 | Películas |\n\nUn detective de policía tiene que resolver dos horribles asesinatos. El problema es que su único sospechoso es un ciego.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043321 +0100",
+            "stop_time": "20250226063035 +0100",
+            "title": "Buffalo soldiers",
+            "description": "| +12 | Películas |\n\n1989. El muro de Berlín está a punto de caer y el planeta va a convertirse en un lugar seguro según un nuevo orden mundial. El especialista Ray Elwood, en la Base del ejército norteamericano, está a punto de comprobar cómo su particular guerra fría se pone al rojo vivo. Elwood, bastante granuja, atiendo su trabajo como secretario del oficial superior. Cuando llega a la base un nuevo Sargento Primero, éste se dedicará a limpiarla de arriba abajo. Para mayor complicación, Elwood le echa el ojo a la hija del Sargento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226063036 +0100",
+            "stop_time": "20250226082826 +0100",
+            "title": "Truth or Die",
+            "description": "| +12 | Películas |\n\nUn millonario ha sido brutalmente asesinado en su casa y se han llevado un valioso maletín de la caja de seguridad. Cuando el guardaespaldas del millonario regresa a la escena del crimen, se encuentra con tres testigos-sospechosos: el hijo del millonario, una joven aparentemente dulce y un mago bohemio. Los tres relatan las escenas del asesinato desde puntos de vista opuestos, cada uno con una versión diferente de quién cometió el crimen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226082827 +0100",
+            "stop_time": "20250226101150 +0100",
+            "title": "El Hombre del Presidente 2",
+            "description": "| +12 | Películas |\n\nUn especialista en contraterrorismo recibe el encargo del Presidente de seguir la pista de un terrorista sospechoso de planear la activación de un artefacto nuclear en Estados Unidos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226101151 +0100",
+            "stop_time": "20250226115746 +0100",
+            "title": "Bermuda Tentacles",
+            "description": "| +12 | Películas |\n\nCuando el Air Force One se hunde en el Triángulo de las Bermudas, la Marina envía a su mejor equipo de rescate. Pero al rescatar al presidente, el equipo despierta a una criatura que amenaza a toda la costa este.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226115747 +0100",
+            "stop_time": "20250226141223 +0100",
+            "title": "Terra Nova",
+            "description": "| +12 | Películas |\n\nCon la abolición de la pena de muerte, las cárceles se están desbordando en todo el mundo, lo que representa un problema importante para las autoridades.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226141224 +0100",
+            "stop_time": "20250226154339 +0100",
+            "title": "Blood Lake",
+            "description": "| +12 | Películas |\n\nDespués de devorar a la población de peces, miles de lampreas hambrientas comienzan a atacar a los ciudadanos de una tranquila ciudad lacustre, y la comunidad lucha por mantenerse con vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226154340 +0100",
+            "stop_time": "20250226172035 +0100",
+            "title": "Contrición",
+            "description": "| +12 | Películas |\n\nCuando una chica tailandesa con poderes míticos desaparece, Axe y su antiguo equipo se unen para intentar traerla de vuelta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226172036 +0100",
+            "stop_time": "20250226191208 +0100",
+            "title": "Las Septima Espadas",
+            "description": "| +12 | Películas |\n\nUn grupo de cinco soldados supervivientes a finales del siglo XIV regresan a casa, pero durante el viaje se encuentran con un giro imprevisto de los acontecimientos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226191209 +0100",
+            "stop_time": "20250226205759 +0100",
+            "title": "Ataque en el Aire",
+            "description": "| +12 | Películas |\n\nUnos agentes rusos secuestran un avión comercial estadounidense y planean estrellarlo contra una central nuclear cerca de Washington D.C., lo que provocará una lluvia radiactiva que devastará la costa este. Con poco tiempo para que los cazas de la Fuerza Aérea lo derriben, los pasajeros y la tripulación del avión deben confiar en su propia formación militar y civil para detener a los terroristas antes de que sea demasiado tarde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226205800 +0100",
+            "stop_time": "20250226224350 +0100",
+            "title": "Ataque en el Aire",
+            "description": "| +12 | Películas |\n\nUnos agentes rusos secuestran un avión comercial estadounidense y planean estrellarlo contra una central nuclear cerca de Washington D.C., lo que provocará una lluvia radiactiva que devastará la costa este. Con poco tiempo para que los cazas de la Fuerza Aérea lo derriben, los pasajeros y la tripulación del avión deben confiar en su propia formación militar y civil para detener a los terroristas antes de que sea demasiado tarde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226224351 +0100",
+            "stop_time": "20250227002441 +0100",
+            "title": "Tormenta nuclear",
+            "description": "| +12 | Películas |\n\nLas alarmas se disparan en una central nuclear, que para colmo, se ve afectada por una tormenta de gran intensidad. Los encargados deberán hacer frente a esta situación para evitar una catástrofe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227002442 +0100",
+            "stop_time": "20250227020250 +0100",
+            "title": "La Guerra de los Drones",
+            "description": "| +12 | Películas |\n\nLa invasión llenó de humo y fuego el cielo, que ahora está repleto de naves que cosechan todos los recursos de la Tierra. Las ciudades en ruinas están patrulladas por drones que eliminan todo lo que consideran una amenaza. En medio del caos, un grupo de científicos supervivientes vive escondido en las entrañas de Los Ángeles, buscando la manera de derrotar a los drones y derribar las naves nodrizas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020251 +0100",
+            "stop_time": "20250227034151 +0100",
+            "title": "La Fuga",
+            "description": "| +12 | Películas |\n\nTras hacerse con el control de una prisión de máxima seguridad, un cerebro criminal se enfrenta a un agente retirado de Black Ops que había estado visitando a su hijo encarcelado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227034152 +0100",
+            "stop_time": "20250227051952 +0100",
+            "title": "La Jungla",
+            "description": "| +12 | Películas |\n\nUna criatura despiadada y mortal para el hombre se esconde en la jungla de Indonesia. Un equipo de expertos se adentra en la naturaleza para encontrar al leopardo que está aterrorizando a la población local. Pero lo que no saben es que están a punto de descubrir una nueva especie depredadora que no teme a los humanos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227051953 +0100",
+            "stop_time": "20250227065745 +0100",
+            "title": "Citadel",
+            "description": "| +12 | Películas |\n\nTommy es testigo impotente de la agresión que una banda de niños encapuchados perpetran contra su mujer embarazada. El bebé logra sobrevivir, pero ella queda en coma. Tras esto, Tommy desarrolla una agorafobia aguda, y empieza a sospechar que los niños le están siguiendo. Un cura le advertirá de forma críptica que vigile sus espaldas, pues es muy posible que estos quieran arrebatarle también a su hija. Pero… ¿qué son en realidad estas pequeñas criaturas?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227065746 +0100",
+            "stop_time": "20250227083927 +0100",
+            "title": "La piedra sagrada",
+            "description": "| +12 | Películas |\n\nMientras intentan arrestar a un grupo de ladrones, dos agentes del FBI encuentran un antiguo artefacto japonés de enorme poder. Su máxima prioridad será evitar que el artilugio caiga en manos de criminales.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083928 +0100",
+            "stop_time": "20250227102255 +0100",
+            "title": "Santos y soldados",
+            "description": "| +12 | Películas |\n\nCuatro soldados estadounidenses y un británico durante la Segunda Guerra Mundial luchan por regresar al territorio aliado después de ser separados de las fuerzas estadounidenses durante la histórica Masacre de Malmedy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227102256 +0100",
+            "stop_time": "20250227120048 +0100",
+            "title": "Combate a Meurte",
+            "description": "| +12 | Películas |\n\nJack Severino has no memory, all he knows is the brutal sport of Pit Fighting. When his past catches him up, he realizes he is not who he thought he was. For some men must fight for redemption.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120049 +0100",
+            "stop_time": "20250227134617 +0100",
+            "title": "USS Seaviper",
+            "description": "| +12 | Películas |\n\nEl submarino alemán, U-234, del puerto de Kiel está intercambiando carga con los japoneses. USS Seaviper debe localizar y detener este peligroso intercambio.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227134618 +0100",
+            "stop_time": "20250227153210 +0100",
+            "title": "Sherlock Holmes",
+            "description": "| +12 | Películas |\n\nEs el Blitz de Londres en 1940. Un anciano y enfermo Dr. John Watson cuenta a su enfermera la historia de su investigación más compleja con Sherlock Holmes, que ambos juraron que nunca se contaría al público ni se adaptaría a una de las famosas historias de Watson.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153211 +0100",
+            "stop_time": "20250227172839 +0100",
+            "title": "Choque Mortal",
+            "description": "| +12 | Películas |\n\nUna pareja de luna de miel en Marruecos sobrevive a un fatal accidente de coche en medio del desierto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227172840 +0100",
+            "stop_time": "20250227190829 +0100",
+            "title": "Tomb Invader",
+            "description": "| +12 | Películas |\n\nLa arqueóloga Alabama Channing es reclutada por un misterioso multimillonario para que le ayude a encontrar una antigua reliquia china. El mismo tesoro que buscaba su madre antes de desaparecer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190830 +0100",
+            "stop_time": "20250227205932 +0100",
+            "title": "Alien Convergence",
+            "description": "| +12 | Películas |\n\nUn equipo de militares discapacitados que desarrolla un revolucionario avión de combate controlado por el pensamiento se ve obligado a repeler una invasión alienígena.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227205933 +0100",
+            "stop_time": "20250227225212 +0100",
+            "title": "Tarzán en Manhattan",
+            "description": "| +12 | Películas |\n\nTarzán viaja a Nueva York para rescatar al chimpancé Chita, que ha sido capturado por un malvado experimentador con animales. Allí forma equipo con Jane, taxista e hija de un ex policía detective privado, que ayuda a Tarzán a liberar a Chita y a sus amigos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227225213 +0100",
+            "stop_time": "20250228003415 +0100",
+            "title": "Código de defensa",
+            "description": "| +12 | Películas |\n\nUn operativo de Black Ops es enviado a una remota estación de la CIA para proteger a un operador de código. Pronto se encuentran en una situación a vida o muerte, intentando desmantelar una trama letal antes de que sea demasiado tarde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003416 +0100",
+            "stop_time": "20250228024631 +0100",
+            "title": "Gagarin, Pionero del Espacio",
+            "description": "| +12 | Películas |\n\nEl 12 de abril de 1961, el cosmonauta soviético Yuri Gagarin despegó en un cohete Vostok y orbitó alrededor de la Tierra durante 108 minutos. Seleccionado entre más de tres mil pilotos de combate de toda la Unión Soviética, Gagarin tuvo que entrenarse rápidamente para realizar el viaje de su vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228024632 +0100",
+            "stop_time": "20250228043614 +0100",
+            "title": "Love bite",
+            "description": "| +12 | Películas |\n\nLa escuela ha terminado y el verano llega a la ciudad costera de Rainmouth. Jamie, un chico de 18 años, deberá empezar a trabajar en el negocio familiar junto a su madre. Aburrido y agobiado, Jamie fantasea con escapar de allí hasta que de repente aparece en el pueblo Juliana, una guapa, inteligente y sexy viajante americana de la que se enamora inmediatamente. Pero hay un recién llegado más siniestro en la ciudad: un hombre lobo se alimenta de vírgenes, y Rainmouth se convierte en un coto de caza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228043615 +0100",
+            "stop_time": "20250228061936 +0100",
+            "title": "El Hombre del Presidente",
+            "description": "| +12 | Películas |\n\nUn agente secreto altamente clasificado del presidente de Estados Unidos debe encontrar un intrépido sustituto que se haga cargo de sus peligrosísimas misiones militares.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228061937 +0100",
+            "stop_time": "20250228081004 +0100",
+            "title": "Arachnid",
+            "description": "| +12 | Películas |\n\nUna expedición científica que investiga el brote de una epidemia vírica desconocida en una isla del sur del Pacífico se enfrenta a una araña alienígena gigante en la jungla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228081005 +0100",
+            "stop_time": "20250228102441 +0100",
+            "title": "Terra Nova",
+            "description": "| +12 | Películas |\n\nCon la abolición de la pena de muerte, las cárceles se están desbordando en todo el mundo, lo que representa un problema importante para las autoridades.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228102442 +0100",
+            "stop_time": "20250228121035 +0100",
+            "title": "Painball",
+            "description": "| +12 | Películas |\n\nUn grupo de jóvenes adictos al trabajo urbano se apuntan a un fin de semana de paintball para vivir alguna aventura. Pero el entretenimiento lleno de adrenalina pronto se convierte en una cacería humana, en la que ellos se convierten en la presa y el cazador dispara munición real, no pintura. Ya no se trata de un juego.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228121036 +0100",
+            "stop_time": "20250228134730 +0100",
+            "title": "Contrición",
+            "description": "| +12 | Películas |\n\nCuando una chica tailandesa con poderes míticos desaparece, Axe y su antiguo equipo se unen para intentar traerla de vuelta.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228134731 +0100",
+            "stop_time": "20250228152822 +0100",
+            "title": "Tormenta nuclear",
+            "description": "| +12 | Películas |\n\nLas alarmas se disparan en una central nuclear, que para colmo, se ve afectada por una tormenta de gran intensidad. Los encargados deberán hacer frente a esta situación para evitar una catástrofe.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228152823 +0100",
+            "stop_time": "20250228171955 +0100",
+            "title": "Las Septima Espadas",
+            "description": "| +12 | Películas |\n\nUn grupo de cinco soldados supervivientes a finales del siglo XIV regresan a casa, pero durante el viaje se encuentran con un giro imprevisto de los acontecimientos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228171956 +0100",
+            "stop_time": "20250228190507 +0100",
+            "title": "Battledogs",
+            "description": "| +12 | Películas |\n\nUn virus de hombre lobo se desata sobre Nueva York, y el Mayor Hoffman busca una cura mientras el Teniente General Monning quiere establecer un nuevo ejército canino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190508 +0100",
+            "stop_time": "20250228205551 +0100",
+            "title": "American Yakuza",
+            "description": "| +12 | Películas |\n\nUn agente americano del FBI es atraído por la mafia japonesa -la Yakuza- en esta película de acción.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228205552 +0100",
+            "stop_time": "20250228224142 +0100",
+            "title": "Ataque en el Aire",
+            "description": "| +12 | Películas |\n\nUnos agentes rusos secuestran un avión comercial estadounidense y planean estrellarlo contra una central nuclear cerca de Washington D.C., lo que provocará una lluvia radiactiva que devastará la costa este. Con poco tiempo para que los cazas de la Fuerza Aérea lo derriben, los pasajeros y la tripulación del avión deben confiar en su propia formación militar y civil para detener a los terroristas antes de que sea demasiado tarde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228224143 +0100",
+            "stop_time": "20250301003855 +0100",
+            "title": "The DaVinci Treasure",
+            "description": "| +12 | Películas |\n\nUn antropólogo debe descifrar el código oculto en las obras de Leonardo Da Vinci para encontrar el mayor tesoro de la historia, uno que podría cambiar el cristianismo para siempre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003856 +0100",
+            "stop_time": "20250301023607 +0100",
+            "title": "El Túnel de los Huesos",
+            "description": "| +12 | Películas |\n\nBasada en hechos reales, mientras intentan una espectacular fuga, siete prisioneros hacen un extraño y aterrador descubrimiento en el túnel hacia su libertad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023608 +0100",
+            "stop_time": "20250301042104 +0100",
+            "title": "El Proyecto Supermente",
+            "description": "| +12 | Películas |\n\nEl proyecto Supermente es un programa secreto del gobierno en la guerra psicotrónica que sale mal. Ahora hay que eliminar a todos los involucrados. Huyendo por su vida, Jennifer Gaines debe descubrir quién ha robado la tecnología con planes de usarla para poner a Estados Unidos de rodillas. Cuando los desastres comienzan de verdad, el secreto más oscuro del experimento comienza a desvelarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301042105 +0100",
+            "stop_time": "20250301061404 +0100",
+            "title": "War of the world annihilation",
+            "description": "| +12 | Películas |\n\nTras una dura invasión alienígena, la única esperanza de supervivencia de una madre y su hijo reside en descubrir una verdad impensable.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301061405 +0100",
+            "stop_time": "20250301082711 +0100",
+            "title": "Yatterman",
+            "description": "| +12 | Películas |\n\nLa hermosa y ultra sexy Doronjo y sus malvados esbirros, sedientos de dinero, fama y poder, intentan recuperar los pedazos de una legendaria piedra con poderes misteriosos. Pero sus planes se verán interrumpidos por Gan, Ai y su fiel perro robot gigante, quienes iniciarán una frenética carrera contrarreloj para impedir que la gema caiga en manos de los villanos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301082712 +0100",
+            "stop_time": "20250301100913 +0100",
+            "title": "Código de defensa",
+            "description": "| +12 | Películas |\n\nUn operativo de Black Ops es enviado a una remota estación de la CIA para proteger a un operador de código. Pronto se encuentran en una situación a vida o muerte, intentando desmantelar una trama letal antes de que sea demasiado tarde.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100914 +0100",
+            "stop_time": "20250301120027 +0100",
+            "title": "El Enviado",
+            "description": "| +12 | Películas |\n\nUna pareja acepta que clonen a su hijo fallecido, bajo la supervisión de un enigmático doctor, pero empiezan a ocurrir cosas extrañas varios años después de su renacimiento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120028 +0100",
+            "stop_time": "20250301135055 +0100",
+            "title": "Arachnid",
+            "description": "| +12 | Películas |\n\nUna expedición científica que investiga el brote de una epidemia vírica desconocida en una isla del sur del Pacífico se enfrenta a una araña alienígena gigante en la jungla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301135056 +0100",
+            "stop_time": "20250301153214 +0100",
+            "title": "Fast And Fierce Death Race V2",
+            "description": "| +12 | Películas |\n\nCuando unos terroristas colocan una bomba en un vuelo comercial, los pasajeros a bordo del avión deben luchar para mantener el avión en el aire y a todos los pasajeros con vida: la bomba está preparada para detonar cada vez que el avión descienda por debajo de los 800 pies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153215 +0100",
+            "stop_time": "20250301172329 +0100",
+            "title": "Exit Speed",
+            "description": "| +12 | Películas |\n\nDiez pasajeros de autobús quedan atrapados en un depósito de chatarra tras ser sacados de la carretera por unos motoristas. Para sobrevivir deben improvisar armas y tener las agallas suficientes para defenderse de los asesinos motoristas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301172330 +0100",
+            "stop_time": "20250301191344 +0100",
+            "title": "El Cobrador 2",
+            "description": "| +12 | Películas |\n\nTwo debt collectors are plunged into an extremely dangerous situation, pursuing various criminals while evading a vengeful enemy.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301191345 +0100",
+            "stop_time": "20250301205818 +0100",
+            "title": "Glaciación 2012",
+            "description": "| +12 | Películas |\n\nUna erupción volcánica en Islandia envía un glaciar hacia Norteamérica, provocando la congelación de todo lo que encuentra a su paso. Un padre de familia lucha por escapar del ataque de la era glacial que se avecina.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301205819 +0100",
+            "stop_time": "20250301223937 +0100",
+            "title": "Fast And Fierce Death Race V2",
+            "description": "| +12 | Películas |\n\nCuando unos terroristas colocan una bomba en un vuelo comercial, los pasajeros a bordo del avión deben luchar para mantener el avión en el aire y a todos los pasajeros con vida: la bomba está preparada para detonar cada vez que el avión descienda por debajo de los 800 pies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223938 +0100",
+            "stop_time": "20250302003821 +0100",
+            "title": "Behewulf: la Leyenda Vikinga",
+            "description": "| +12 | Películas |\n\nDinamarca, siglo VI. El rey danés Hrothgar y sus guerreros matan a un trol cuyo hijo, Grendel, jura vengarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302003822 +0100",
+            "stop_time": "20250302024937 +0100",
+            "title": "Asalto al Cine",
+            "description": "| +12 | Películas |\n\nUnos jóvenes en México planean un atraco a un cine, sin saber que sus vidas van a cambiar drásticamente tras el crimen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302024938 +0100",
+            "stop_time": "20250302044321 +0100",
+            "title": "Cuestion de Honor",
+            "description": "| +12 | Películas |\n\nUn Ranger del Ejército se infiltra en una familia mafiosa haciéndose pasar por asesino a sueldo. Junto con su tío, traman una venganza contra los asesinos que mataron a toda su familia cuando él era joven.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302044322 +0100",
+            "stop_time": "20250302062856 +0100",
+            "title": "Megalodon Rising",
+            "description": "| +12 | Películas |\n\nCuando el mayor depredador acuático de la historia regresa, la armada de modernos buques de guerra enviada para destruirlo no tiene ninguna posibilidad.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302062857 +0100",
+            "stop_time": "20250302082611 +0100",
+            "title": "Buffalo soldiers",
+            "description": "| +12 | Películas |\n\n1989. El muro de Berlín está a punto de caer y el planeta va a convertirse en un lugar seguro según un nuevo orden mundial. El especialista Ray Elwood, en la Base del ejército norteamericano, está a punto de comprobar cómo su particular guerra fría se pone al rojo vivo. Elwood, bastante granuja, atiendo su trabajo como secretario del oficial superior. Cuando llega a la base un nuevo Sargento Primero, éste se dedicará a limpiarla de arriba abajo. Para mayor complicación, Elwood le echa el ojo a la hija del Sargento.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302082612 +0100",
+            "stop_time": "20250302095728 +0100",
+            "title": "Blood Lake",
+            "description": "| +12 | Películas |\n\nDespués de devorar a la población de peces, miles de lampreas hambrientas comienzan a atacar a los ciudadanos de una tranquila ciudad lacustre, y la comunidad lucha por mantenerse con vida.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302095729 +0100",
+            "stop_time": "20250302115331 +0100",
+            "title": "Fighter",
+            "description": "| +12 | Películas |\n\nAicha asiste a clases de Kung Fu en su instituto de Copenhague. Su padre, turco y musulmán, quiere que estudie mucho y se haga médico, pero ella empieza a entrenar en un club de Kung Fu donde Emil la ayuda. Se hacen amigos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302115332 +0100",
+            "stop_time": "20250302134446 +0100",
+            "title": "Exit Speed",
+            "description": "| +12 | Películas |\n\nDiez pasajeros de autobús quedan atrapados en un depósito de chatarra tras ser sacados de la carretera por unos motoristas. Para sobrevivir deben improvisar armas y tener las agallas suficientes para defenderse de los asesinos motoristas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302134447 +0100",
+            "stop_time": "20250302153404 +0100",
+            "title": "Inferno",
+            "description": "| +12 | Películas |\n\nMientras un hombre conduce su moto por el desierto, unos matones le roban el vehículo y lo dan por muerto. Sobrevive y ya no piensa en el suicidio, porque ahora tiene un objetivo en la vida: vengarse y recuperar su moto.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302153405 +0100",
+            "stop_time": "20250302172748 +0100",
+            "title": "Asalto a Wall Street",
+            "description": "| +12 | Películas |\n\nJim, un neoyorquino corriente, vive con una esposa enferma pero cariñosa. De repente, todo cambia cuando la economía se hunde y lo pierde todo. Lleno de ira y rabia, Jim se propone vengarse de la vida que le han arrebatado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302172749 +0100",
+            "stop_time": "20250302190859 +0100",
+            "title": "Kung Fu Killer 2",
+            "description": "| +12 | Películas |\n\nUn monje caucásico de Shanghai se infiltra en los bajos fondos para encontrar a los asesinos de su Gran Maestro espiritual femenino.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190900 +0100",
+            "stop_time": "20250302205927 +0100",
+            "title": "Arachnid",
+            "description": "| +12 | Películas |\n\nUna expedición científica que investiga el brote de una epidemia vírica desconocida en una isla del sur del Pacífico se enfrenta a una araña alienígena gigante en la jungla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302205928 +0100",
+            "stop_time": "20250302225052 +0100",
+            "title": "Invicto 3",
+            "description": "| +12 | Películas |\n\nBoyka ha vuelto. Esta vez lucha en el primer torneo intercarcelario de la historia con una sola rodilla.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302225053 +0100",
+            "stop_time": "20250303003042 +0100",
+            "title": "Tomb Invader",
+            "description": "| +12 | Películas |\n\nLa arqueóloga Alabama Channing es reclutada por un misterioso multimillonario para que le ayude a encontrar una antigua reliquia china. El mismo tesoro que buscaba su madre antes de desaparecer.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303003043 +0100",
+            "stop_time": "20250303023711 +0100",
+            "title": "Speed Asesino",
+            "description": "| +12 | Películas |\n\nDos mejores amigos utilizan aviones de alta tecnología construidos por ellos mismos para llevar droga de México a California y financiar así su estilo de vida en Hollywood.",
+            "icon": ""
+        }
+    ]
+}

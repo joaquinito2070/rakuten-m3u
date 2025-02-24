@@ -4,10 +4,10 @@
     "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c03fa5a5-dd8d-4e53-ba59-352993c4e6fb.jpeg",
     "group_title": "Infantil",
     "original_master_url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=rantaro-ninja-boy-rakuten-tv_es&ads.rtv_content_id=6432&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=8f2c6004-0598-4ae8-8a57-2a7b71c308ba&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6432&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/rantaro-ninja-boy-rakuten-tv/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/14bf8b0f-f411-454f-bb41-95bd0c4a3f16/0.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/a35ad1d5-6180-405e-8a3c-7fecb58b650d/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "538416",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/14bf8b0f-f411-454f-bb41-95bd0c4a3f16/1.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/a35ad1d5-6180-405e-8a3c-7fecb58b650d/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "920012",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/14bf8b0f-f411-454f-bb41-95bd0c4a3f16/2.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/a35ad1d5-6180-405e-8a3c-7fecb58b650d/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1477780",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/14bf8b0f-f411-454f-bb41-95bd0c4a3f16/3.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/a35ad1d5-6180-405e-8a3c-7fecb58b650d/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2665902",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/14bf8b0f-f411-454f-bb41-95bd0c4a3f16/4.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/a35ad1d5-6180-405e-8a3c-7fecb58b650d/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4653638",
@@ -62,6 +62,1940 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/rantaróelninjaboy-rantaro-ninja-boy-rakuten-tv.json"
+    "epg": [
+        {
+            "start_time": "20250224155124 +0100",
+            "stop_time": "20250224162054 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El señor Hansuke está enfermo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/17c9f3c8-0c01-4bb1-80b0-d92b8e1f1bff.jpeg"
+        },
+        {
+            "start_time": "20250224162055 +0100",
+            "stop_time": "20250224165026 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La carta de Kyoeimaru tercero.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/322e413d-6ca5-4644-ad46-51aed016fbec.jpeg"
+        },
+        {
+            "start_time": "20250224165027 +0100",
+            "stop_time": "20250224171957 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Haciendo de niñera.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8374c1a5-c577-464d-b9ed-c68a62124fe8.jpeg"
+        },
+        {
+            "start_time": "20250224171958 +0100",
+            "stop_time": "20250224174928 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Las babosas desaparecidas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/76b8598b-abd8-4d2e-adc4-26e35baa7f2e.jpeg"
+        },
+        {
+            "start_time": "20250224174929 +0100",
+            "stop_time": "20250224181859 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Han capturado a Orin.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/2eae837d-7c24-4d67-8fe2-bb8aa862bbc7.jpeg"
+        },
+        {
+            "start_time": "20250224181900 +0100",
+            "stop_time": "20250224184830 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La entrevista de trabajo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/90d8782d-2d23-49b6-ba62-f3e2e7a5d00e.jpeg"
+        },
+        {
+            "start_time": "20250224184831 +0100",
+            "stop_time": "20250224191801 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Haciendo los deberes.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/defadcfb-d13c-40e1-a4b9-93cc0ff9c5f4.jpeg"
+        },
+        {
+            "start_time": "20250224191802 +0100",
+            "stop_time": "20250224194732 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Vamos tras él.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4c6990bb-f876-488c-867d-757c7b29965e.jpeg"
+        },
+        {
+            "start_time": "20250224194733 +0100",
+            "stop_time": "20250224201703 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Makinosuke preocupado.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/5787cd8b-55cd-47ce-89f5-a4ac76edd2d3.jpeg"
+        },
+        {
+            "start_time": "20250224201704 +0100",
+            "stop_time": "20250224204634 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El misterioso estudiante de intercambio.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/86ab40f2-1a38-4882-9f7b-b6a0891e3d7c.jpeg"
+        },
+        {
+            "start_time": "20250224204635 +0100",
+            "stop_time": "20250224211605 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El enfado.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/ea34fe4e-4de2-462e-a4a5-544244512f47.jpeg"
+        },
+        {
+            "start_time": "20250224211606 +0100",
+            "stop_time": "20250224214536 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La idea repentina del director.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/171234a3-2d81-4ef4-89a1-2919e239b4a3.jpeg"
+        },
+        {
+            "start_time": "20250224214537 +0100",
+            "stop_time": "20250224221507 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Por qué no se duerme?",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/c70b8757-a570-43e4-a461-7378dc0b3680.jpeg"
+        },
+        {
+            "start_time": "20250224221508 +0100",
+            "stop_time": "20250224224438 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los peces de Kyoemaru tercero.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/8df5cc59-c367-498d-a793-9ac59ed39f1d.jpeg"
+        },
+        {
+            "start_time": "20250224224439 +0100",
+            "stop_time": "20250224231409 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El incienso sagrado.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/80386ad2-5248-45ef-b991-62a3c31556e8.jpeg"
+        },
+        {
+            "start_time": "20250224231410 +0100",
+            "stop_time": "20250224234340 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Pony de Danzo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/4005af27-5d91-4dd9-954e-2f449fe57ac0.jpeg"
+        },
+        {
+            "start_time": "20250224234341 +0100",
+            "stop_time": "20250225001311 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Pepinillos bellotas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/696a9299-bcdc-4d69-a8c3-13ef1bd5c5d7.jpeg"
+        },
+        {
+            "start_time": "20250225001312 +0100",
+            "stop_time": "20250225004242 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Kalaba Zatsura.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/56508ca9-64eb-4f7c-8e11-84796ace9d61.jpeg"
+        },
+        {
+            "start_time": "20250225004243 +0100",
+            "stop_time": "20250225011213 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El señor Kuenro.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/cb57b8bb-d3ab-4a04-b593-ec6ccb380f0a.jpeg"
+        },
+        {
+            "start_time": "20250225011214 +0100",
+            "stop_time": "20250225014144 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Las vacaciones de verano de un ninja.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/03f467ad-232e-45b4-aec6-687dad7e396a.jpeg"
+        },
+        {
+            "start_time": "20250225014145 +0100",
+            "stop_time": "20250225021115 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El regalo de la escuela de verano.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/bce2b224-e750-48ef-80d5-bcc0b6b0ee88.jpeg"
+        },
+        {
+            "start_time": "20250225021116 +0100",
+            "stop_time": "20250225024048 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El muñeco de Vudú.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/97fb8c0f-fd93-4c20-9a79-e155f94305cb.jpeg"
+        },
+        {
+            "start_time": "20250225024049 +0100",
+            "stop_time": "20250225031020 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El secreto del señor Tobe.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/c0174bf8-2a88-4827-a657-ca2ffb7fa93d.jpeg"
+        },
+        {
+            "start_time": "20250225031021 +0100",
+            "stop_time": "20250225033951 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El pato misterioso.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/995f39f3-0c58-4631-a4a4-59465344a004.jpeg"
+        },
+        {
+            "start_time": "20250225033952 +0100",
+            "stop_time": "20250225040923 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La táctica del pájaro bajo la lluvia.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/459e47a1-4ee2-42f5-a15d-07f4134874a9.jpeg"
+        },
+        {
+            "start_time": "20250225040924 +0100",
+            "stop_time": "20250225043855 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La excursión peligrosa.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/aed590f0-be5b-489e-a2be-000ca6a3dfb2.jpeg"
+        },
+        {
+            "start_time": "20250225043856 +0100",
+            "stop_time": "20250225050826 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El apetito de otoño.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b15f8f86-3fd8-42f2-8f0c-f2218eb2d2da.jpeg"
+        },
+        {
+            "start_time": "20250225050827 +0100",
+            "stop_time": "20250225053758 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El tesoro de Shinbei.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/9b22a352-74d8-4a72-aba5-5a86970c91e0.jpeg"
+        },
+        {
+            "start_time": "20250225053759 +0100",
+            "stop_time": "20250225060728 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La depresión de Rikichi.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/c94e025b-4cf6-4951-b124-9e81a9f1a11c.jpeg"
+        },
+        {
+            "start_time": "20250225060729 +0100",
+            "stop_time": "20250225063658 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Kirimaru feliz.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/4cb9a140-d78d-4ba0-98b7-efa1e3ee5a21.jpeg"
+        },
+        {
+            "start_time": "20250225063659 +0100",
+            "stop_time": "20250225070617 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Hermano Superior",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5c8749ac-2e33-4adb-a1c0-38a87072b4b5-rantaro-ninja-boy1-0x20-1646136258.jpeg"
+        },
+        {
+            "start_time": "20250225070618 +0100",
+            "stop_time": "20250225073548 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: A nadie le cae bien Hipo Hieta.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/e30c61a1-03d7-4d8b-baac-cd537210e5ac.jpeg"
+        },
+        {
+            "start_time": "20250225073549 +0100",
+            "stop_time": "20250225080520 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Shinbei se pierde.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/01710877-b2a7-491b-9d9f-9df2544ddab7.jpeg"
+        },
+        {
+            "start_time": "20250225080521 +0100",
+            "stop_time": "20250225083452 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los piratas en peligro.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b1182691-8a55-421b-b6ee-61445e19ea30.jpeg"
+        },
+        {
+            "start_time": "20250225083453 +0100",
+            "stop_time": "20250225090424 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La carrera de caballos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/46499309-dffc-4512-862b-a025e9db15a2.jpeg"
+        },
+        {
+            "start_time": "20250225090425 +0100",
+            "stop_time": "20250225093355 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: No quiero perder.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/8b953750-6423-43f3-84a0-f7b6b39f9044.jpeg"
+        },
+        {
+            "start_time": "20250225093356 +0100",
+            "stop_time": "20250225100326 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Una idea sorprendente.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4ac8eab0-2053-4f37-9145-8f2450e5b2ff.jpeg"
+        },
+        {
+            "start_time": "20250225100327 +0100",
+            "stop_time": "20250225103257 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Una batalla apestosa.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3afe05ad-c89d-4d54-9806-19f58bfd798d.jpeg"
+        },
+        {
+            "start_time": "20250225103258 +0100",
+            "stop_time": "20250225110227 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La reunión de los grandes samuráis.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/866b0bdc-8a5b-4beb-8f0e-72ce4896d53b.jpeg"
+        },
+        {
+            "start_time": "20250225110228 +0100",
+            "stop_time": "20250225113159 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La competición de artes marciales.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/e8ff6b0f-9795-4efd-9ba9-568518bcd522.jpeg"
+        },
+        {
+            "start_time": "20250225113200 +0100",
+            "stop_time": "20250225120131 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Tafugai Genki.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/573480f8-faf7-4486-96a6-e6a1c1b8724f.jpeg"
+        },
+        {
+            "start_time": "20250225120132 +0100",
+            "stop_time": "20250225123103 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El pistolero.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0b4a5a55-e91e-42d2-b021-affbc5dff1d9.jpeg"
+        },
+        {
+            "start_time": "20250225123104 +0100",
+            "stop_time": "20250225130035 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Volvamos a la escuela ninja.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7d6ea138-c4d0-4112-a917-90fd6fe11b6f.jpeg"
+        },
+        {
+            "start_time": "20250225130036 +0100",
+            "stop_time": "20250225133007 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La petición de Kyoemaru tercero.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/48dd27af-9d42-4882-b076-358351ff6ecc.jpeg"
+        },
+        {
+            "start_time": "20250225133008 +0100",
+            "stop_time": "20250225135939 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Shinbei el magnífico.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/ba87e632-bc52-4a1a-876a-54154c9a392a.jpeg"
+        },
+        {
+            "start_time": "20250225135940 +0100",
+            "stop_time": "20250225142911 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La olla especial de China.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/3aa44c54-2393-447a-8b50-f3df6f6a0fb2.jpeg"
+        },
+        {
+            "start_time": "20250225142912 +0100",
+            "stop_time": "20250225145843 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La clase suplementaria especial.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/72ccfeaa-62d3-4aaa-9eb2-83e3bcb34ffe.jpeg"
+        },
+        {
+            "start_time": "20250225145844 +0100",
+            "stop_time": "20250225152815 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La nueva técnica ninja.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/19db36a1-525e-489d-a52c-59695e4bf3e2.jpeg"
+        },
+        {
+            "start_time": "20250225152816 +0100",
+            "stop_time": "20250225155747 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El escondite ninja.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/05b12df7-36e1-42a7-9268-a8ba962243a9.jpeg"
+        },
+        {
+            "start_time": "20250225155748 +0100",
+            "stop_time": "20250225162719 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿La esposa del señor Hansuke?",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/83401862-6827-44f4-9e2f-7895b207cf2f.jpeg"
+        },
+        {
+            "start_time": "20250225162720 +0100",
+            "stop_time": "20250225165651 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El sueño del padre de Shinbei.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/410c4781-4fe9-4547-9cdc-819292532b1a.jpeg"
+        },
+        {
+            "start_time": "20250225165652 +0100",
+            "stop_time": "20250225172623 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El nuevo año.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/62404735-8c08-42b4-b201-4e0af6f78ece.jpeg"
+        },
+        {
+            "start_time": "20250225172624 +0100",
+            "stop_time": "20250225175555 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: De nuevo en la escuela.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/cd2f209f-4879-4b81-b361-1793a16249e8.jpeg"
+        },
+        {
+            "start_time": "20250225175556 +0100",
+            "stop_time": "20250225182527 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Yo no estoy resfriado.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/7d869ce3-86b9-4ad1-b7d8-c25643316042.jpeg"
+        },
+        {
+            "start_time": "20250225182528 +0100",
+            "stop_time": "20250225185459 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Takiyashamaru el servicial.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d98c6d10-6a11-41d4-8cf9-0e6b5f2eb5af.jpeg"
+        },
+        {
+            "start_time": "20250225185500 +0100",
+            "stop_time": "20250225192431 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El gran error de Kirimaru.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/da0ff8b8-1f15-410c-b4a7-1fbac65b8693.jpeg"
+        },
+        {
+            "start_time": "20250225192432 +0100",
+            "stop_time": "20250225195403 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un barco terrestre.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/6fbd4acb-49e4-4a05-9d31-76b57f47acbe.jpeg"
+        },
+        {
+            "start_time": "20250225195404 +0100",
+            "stop_time": "20250225202335 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El viaje de estudios.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/699b243a-2a5a-44dd-a4c8-2b8cf7174e62.jpeg"
+        },
+        {
+            "start_time": "20250225202336 +0100",
+            "stop_time": "20250225205307 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La escuela ninja de Dokutake.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/22d7d5ea-a2dc-4907-a250-bf29c99d587c.jpeg"
+        },
+        {
+            "start_time": "20250225205308 +0100",
+            "stop_time": "20250225212239 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El tesoro de los bandidos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/10d3d6c8-71a4-4582-9fa4-16980a5dc5f6.jpeg"
+        },
+        {
+            "start_time": "20250225212240 +0100",
+            "stop_time": "20250225215211 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La batalla de las armas ocultas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/a13dbae6-f86c-434c-9c99-06a20b0e822f.jpeg"
+        },
+        {
+            "start_time": "20250225215212 +0100",
+            "stop_time": "20250225222143 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Registrar la escuela ninja.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3f93afe0-b41b-46a6-b224-34c2afb902a0.jpeg"
+        },
+        {
+            "start_time": "20250225222144 +0100",
+            "stop_time": "20250225225115 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Deprisa, bellotas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/73f20c40-e51f-4ee1-bcd6-705968d5887f.jpeg"
+        },
+        {
+            "start_time": "20250225225116 +0100",
+            "stop_time": "20250225232047 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Mucho dinero.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/4473c51c-8a57-4c7c-a000-577f13a3e2b8.jpeg"
+        },
+        {
+            "start_time": "20250225232048 +0100",
+            "stop_time": "20250225235019 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La lucha contra los doku-bellotas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/be510a44-01b9-4390-b36f-0a7c0a65477b.jpeg"
+        },
+        {
+            "start_time": "20250225235020 +0100",
+            "stop_time": "20250226001951 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Komatsuda y Kyoemaru.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/85c759ad-06d3-49d1-99f6-0033feb9dd04.jpeg"
+        },
+        {
+            "start_time": "20250226001952 +0100",
+            "stop_time": "20250226004923 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Las clases suspendidas.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/0add795c-dd6a-4747-8abe-612b561e3340.jpeg"
+        },
+        {
+            "start_time": "20250226004924 +0100",
+            "stop_time": "20250226011843 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Empieza el Curso en la Escuela Ninja",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/0e5e9f39-2ef6-4401-9d11-b8f2dae01273-rantaro-ninja-boy1-0x1-1646136015.jpeg"
+        },
+        {
+            "start_time": "20250226011844 +0100",
+            "stop_time": "20250226014802 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Ninja Extraño",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/49b58170-5364-40af-843f-fb96190b9291-rantaro-ninja-boy1-0x2-1646136026.jpeg"
+        },
+        {
+            "start_time": "20250226014803 +0100",
+            "stop_time": "20250226021721 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Shinbei desaparecido",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/57ee7a31-68bd-4836-88fe-4b522f6f1b10-rantaro-ninja-boy1-0x3-1646136038.jpeg"
+        },
+        {
+            "start_time": "20250226021722 +0100",
+            "stop_time": "20250226024639 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Unas vacaciones emocionantes",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/8b34a5ed-b13d-40f2-818d-5061b5b5f80c-rantaro-ninja-boy1-0x4-1646136051.jpeg"
+        },
+        {
+            "start_time": "20250226024640 +0100",
+            "stop_time": "20250226031559 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Maki, el espadachín.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/4a61f429-7d63-413e-908a-15c7ee96466f-rantaro-ninja-boy1-0x5-1646136064.jpeg"
+        },
+        {
+            "start_time": "20250226031600 +0100",
+            "stop_time": "20250226034518 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Entrando en la escuela Kunoicihi",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b72881dc-eae2-4b3d-8a59-949d01d1bee8-rantaro-ninja-boy1-0x6-1646136076.jpeg"
+        },
+        {
+            "start_time": "20250226034519 +0100",
+            "stop_time": "20250226041439 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El ninja genial",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/bc4486d9-a2ff-4e99-8243-f37e3b609c89-rantaro-ninja-boy1-0x7-1646136088.jpeg"
+        },
+        {
+            "start_time": "20250226041440 +0100",
+            "stop_time": "20250226044358 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El torneo de artes marciales",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/013a9fd4-3048-48c8-90c1-0eef307ed392-rantaro-ninja-boy1-0x8-1646136099.jpeg"
+        },
+        {
+            "start_time": "20250226044359 +0100",
+            "stop_time": "20250226051318 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El mensajero secreto",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/91f7b6f3-4a2a-4cd6-8b01-4e22dafbece2-rantaro-ninja-boy1-0x9-1646136111.jpeg"
+        },
+        {
+            "start_time": "20250226051319 +0100",
+            "stop_time": "20250226054237 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El pirata que no sabía nadar",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/ce318c26-d92c-43a2-a3ca-c2e21bf296dd-rantaro-ninja-boy1-0x10-1646136126.jpeg"
+        },
+        {
+            "start_time": "20250226054238 +0100",
+            "stop_time": "20250226061154 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un asesino persigue al señor Denzo",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fc2b3512-4d22-494e-bb81-8824008551a8-rantaro-ninja-boy1-0x11-1646136139.jpeg"
+        },
+        {
+            "start_time": "20250226061155 +0100",
+            "stop_time": "20250226064114 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Entrenamiento en la montaña del Champiñón",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/5c5a950d-92e4-4ffb-acb4-a06706a6a305-rantaro-ninja-boy1-0x12-1646136154.jpeg"
+        },
+        {
+            "start_time": "20250226064115 +0100",
+            "stop_time": "20250226065959 +0100",
+            "title": "Volvemos pronto con más contenido",
+            "description": "| +12 | Anime |\n\n¡Estamos recuperando el sueño perdido! Permanece atento a la magnífica selección de entretenimiento de Rakuten TV.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070000 +0100",
+            "stop_time": "20250226072917 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Venganza del Padre",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/1a6987f0-88e2-4e60-96b0-9c538f29dcd1-rantaro-ninja-boy1-0x13-1646136165.jpeg"
+        },
+        {
+            "start_time": "20250226072918 +0100",
+            "stop_time": "20250226075839 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Pergamino del Director",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/47c09c41-ccf5-409a-afef-4d0e2d4cd483-rantaro-ninja-boy1-0x14-1646136177.jpeg"
+        },
+        {
+            "start_time": "20250226075840 +0100",
+            "stop_time": "20250226082757 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Rey del Castillo de la Pasa",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5cfa78be-46f2-45fe-8152-2987fdb79d53-rantaro-ninja-boy1-0x15-1646136192.jpeg"
+        },
+        {
+            "start_time": "20250226082758 +0100",
+            "stop_time": "20250226085715 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Barco Nuevo de Hyogo Tercero",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/0931b3be-bbff-41e4-9ab1-36dfe6a5fd76-rantaro-ninja-boy1-0x16-1646136205.jpeg"
+        },
+        {
+            "start_time": "20250226085716 +0100",
+            "stop_time": "20250226092634 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Disculpa de Shinbei",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/097e610d-b550-4224-b70b-0f7eb1f3df0d-rantaro-ninja-boy1-0x17-1646136219.jpeg"
+        },
+        {
+            "start_time": "20250226092635 +0100",
+            "stop_time": "20250226095553 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Gente con Problemas",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/a1b0dd28-9ce4-41e1-b743-c3a46721307e-rantaro-ninja-boy1-0x18-1646136232.jpeg"
+        },
+        {
+            "start_time": "20250226095554 +0100",
+            "stop_time": "20250226102513 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Cuenco Desaparecido",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d68402c5-e4ab-4f67-ad40-1075830359d3-rantaro-ninja-boy1-0x19-1646136245.jpeg"
+        },
+        {
+            "start_time": "20250226102514 +0100",
+            "stop_time": "20250226105432 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Hermano Superior",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5c8749ac-2e33-4adb-a1c0-38a87072b4b5-rantaro-ninja-boy1-0x20-1646136258.jpeg"
+        },
+        {
+            "start_time": "20250226105433 +0100",
+            "stop_time": "20250226112353 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Demasiada Diversión en Vacaciones",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0c2bca4c-b85c-407a-b946-a6576ad0ff53-rantaro-ninja-boy1-0x21-1646136271.jpeg"
+        },
+        {
+            "start_time": "20250226112354 +0100",
+            "stop_time": "20250226115313 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los Hermanos Ten y Shu",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/85c4e4a8-890c-4709-b75d-36337c96125a-rantaro-ninja-boy1-0x22-1646136284.jpeg"
+        },
+        {
+            "start_time": "20250226115314 +0100",
+            "stop_time": "20250226122233 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Jun y Junko",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6504feea-d76a-413e-8f86-fc9c4edfc6ba-rantaro-ninja-boy1-0x23-1646136297.jpeg"
+        },
+        {
+            "start_time": "20250226122234 +0100",
+            "stop_time": "20250226125153 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Jarrón del Tesoro",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/2fa61ca4-daab-4d95-a4c9-b8bfdb768e08-rantaro-ninja-boy1-0x24-1646136309.jpeg"
+        },
+        {
+            "start_time": "20250226125154 +0100",
+            "stop_time": "20250226132112 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Ayudando a la venganza",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/e3051ea1-3798-4d32-95e3-e9597dff9325-rantaro-ninja-boy1-0x25-1646136323.jpeg"
+        },
+        {
+            "start_time": "20250226132113 +0100",
+            "stop_time": "20250226135031 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Viaje de Estudios Peligroso",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c0812ca0-2c73-4fad-9644-8c1649a17292-rantaro-ninja-boy1-0x26-1646136340.jpeg"
+        },
+        {
+            "start_time": "20250226135032 +0100",
+            "stop_time": "20250226141952 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Ninja Vergonzoso",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/9b037422-8af7-4798-b46f-87e4570947bf-rantaro-ninja-boy1-0x27-1646136353.jpeg"
+        },
+        {
+            "start_time": "20250226141953 +0100",
+            "stop_time": "20250226144911 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Yo no soy el típico tacaño",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/bdac9074-2012-4c03-913e-524a57662cc0-rantaro-ninja-boy1-0x28-1646136366.jpeg"
+        },
+        {
+            "start_time": "20250226144912 +0100",
+            "stop_time": "20250226151832 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Tenemos que proteger nuestra clase",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/213807ee-7785-4f2f-bbe9-c67daa705d02-rantaro-ninja-boy1-0x29-1646136378.jpeg"
+        },
+        {
+            "start_time": "20250226151833 +0100",
+            "stop_time": "20250226154751 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Cartel de la Puerta Robado",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/30d3597d-583d-440c-a22d-187292179c2c-rantaro-ninja-boy1-0x30-1646136393.jpeg"
+        },
+        {
+            "start_time": "20250226154752 +0100",
+            "stop_time": "20250226161711 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Dónde está la Princesa?",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/7ea59c4f-0d8f-4209-a3a7-431589dd29e5-rantaro-ninja-boy1-0x31-1646136413.jpeg"
+        },
+        {
+            "start_time": "20250226161712 +0100",
+            "stop_time": "20250226164630 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Nuevo Cocinero",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/cf2378c4-4840-43c4-8aaa-2d443e281fdb-rantaro-ninja-boy1-0x32-1646136426.jpeg"
+        },
+        {
+            "start_time": "20250226164631 +0100",
+            "stop_time": "20250226171550 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Mamá Viene a la Escuela",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/22a5ed2d-868c-4e6d-8d71-73f37608e2ac-rantaro-ninja-boy1-0x33-1646136441.jpeg"
+        },
+        {
+            "start_time": "20250226171551 +0100",
+            "stop_time": "20250226174510 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Veneno Bajo el Porche",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b7be5d37-eb78-4631-9dac-8c66c201bbe3-rantaro-ninja-boy1-0x34-1646136454.jpeg"
+        },
+        {
+            "start_time": "20250226174511 +0100",
+            "stop_time": "20250226181431 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Concurso de Shurikens",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/e49ae0e9-f845-411d-bdbb-09ed0ce73e57-rantaro-ninja-boy1-0x35-1646136468.jpeg"
+        },
+        {
+            "start_time": "20250226181432 +0100",
+            "stop_time": "20250226184351 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Rifle Robado",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/13cf6595-3da9-45be-8d88-6080c0819459-rantaro-ninja-boy1-0x36-1646136483.jpeg"
+        },
+        {
+            "start_time": "20250226184352 +0100",
+            "stop_time": "20250226191312 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Examen de Recuperación de los Bellotas",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/2d2c1f16-c5f5-435c-919b-2ed09806da99-rantaro-ninja-boy1-0x37-1646136508.jpeg"
+        },
+        {
+            "start_time": "20250226191313 +0100",
+            "stop_time": "20250226194233 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Alguien ha Ocupado la Cafetería",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/791017b5-42c9-4ac3-a25a-2328c709b3a7-rantaro-ninja-boy1-0x38-1646136521.jpeg"
+        },
+        {
+            "start_time": "20250226194234 +0100",
+            "stop_time": "20250226201153 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Hem Hem ha desaparecido",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/efd34b4b-a702-4c7f-af76-820b6d883e7a-rantaro-ninja-boy1-0x39-1646136538.jpeg"
+        },
+        {
+            "start_time": "20250226201154 +0100",
+            "stop_time": "20250226204114 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Hacia el Templo de la Salchicha",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/21e0ee7d-10b4-4c09-b063-b880cbd3dcf9-rantaro-ninja-boy1-0x40-1646136553.jpeg"
+        },
+        {
+            "start_time": "20250226204115 +0100",
+            "stop_time": "20250226211037 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los Cuatro Magníficos",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/48ce6abc-01fb-4807-ba9f-82df6e49d72a-rantaro-ninja-boy1-0x41-1646136567.jpeg"
+        },
+        {
+            "start_time": "20250226211038 +0100",
+            "stop_time": "20250226213958 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Estoy Demasiado Lleno",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/cbb5c032-5ca1-446d-98e7-f818bde297c9-rantaro-ninja-boy1-0x42-1646136582.jpeg"
+        },
+        {
+            "start_time": "20250226213959 +0100",
+            "stop_time": "20250226220919 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Cocinera Está Resfriada",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/50103cff-9038-4b35-ae17-61e2e9da7805-rantaro-ninja-boy1-0x43-1646136599.jpeg"
+        },
+        {
+            "start_time": "20250226220920 +0100",
+            "stop_time": "20250226223840 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Quiero Ser Profesor",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/e7e32a9e-11c9-4b59-85f9-647082e161b1-rantaro-ninja-boy1-0x44-1646136619.jpeg"
+        },
+        {
+            "start_time": "20250226223841 +0100",
+            "stop_time": "20250226230814 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Ninja del Bebé",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/f12e103c-9a7c-4bd5-9fdd-cd1f7ae3c9e3-rantaro-ninja-boy1-0x45-1646136637.jpeg"
+        },
+        {
+            "start_time": "20250226230815 +0100",
+            "stop_time": "20250226233748 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Gran Delegado de la Clase",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f362d912-9c32-4e6d-abd4-c1fe6dd09ee1-rantaro-ninja-boy1-0x46-1646136651.jpeg"
+        },
+        {
+            "start_time": "20250226233749 +0100",
+            "stop_time": "20250227000722 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Ninja de Élite",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d777ac2f-312a-41af-8307-cb488a9ef029-rantaro-ninja-boy1-0x47-1646136668.jpeg"
+        },
+        {
+            "start_time": "20250227000723 +0100",
+            "stop_time": "20250227003654 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: No Dejaremos que las Kunoichis nos Ganen",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/551b053b-da6f-4917-973c-c334c10afc79-rantaro-ninja-boy1-0x48-1646136683.jpeg"
+        },
+        {
+            "start_time": "20250227003655 +0100",
+            "stop_time": "20250227010628 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Clase Suplementaria",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/bcd24acb-e13f-436c-bfcb-da573c50fc80-rantaro-ninja-boy1-0x49-1646136698.jpeg"
+        },
+        {
+            "start_time": "20250227010629 +0100",
+            "stop_time": "20250227013600 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Ensalada de Hierbas",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/4ae0db15-0605-4fc7-9045-7d4551c7df11-rantaro-ninja-boy1-0x50-1646136714.jpeg"
+        },
+        {
+            "start_time": "20250227013601 +0100",
+            "stop_time": "20250227020534 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Marcha del Director",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/20931fc2-ce0c-4d2e-b048-9783c2cd5c73-rantaro-ninja-boy1-0x51-1646136729.jpeg"
+        },
+        {
+            "start_time": "20250227020535 +0100",
+            "stop_time": "20250227023506 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Aniversario de la Escuela",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/9d60efea-806e-4343-a408-c6cbe3ef6eb7-rantaro-ninja-boy1-0x52-1646136746.jpeg"
+        },
+        {
+            "start_time": "20250227023507 +0100",
+            "stop_time": "20250227030440 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Diario Perdido",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2ceaa254-673e-47ea-b8b5-f9e77fb11c43-rantaro-ninja-boy1-0x53-1646136763.jpeg"
+        },
+        {
+            "start_time": "20250227030441 +0100",
+            "stop_time": "20250227033415 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Túmulo Misterioso",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/df397e8a-7ce6-4cbd-ace8-f5acdddc0bdd-rantaro-ninja-boy1-0x54-1646136777.jpeg"
+        },
+        {
+            "start_time": "20250227033416 +0100",
+            "stop_time": "20250227040349 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Lo que se Olvidaron los Bandidos",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/94fabdbd-69e0-4028-ad80-81749c8db921-rantaro-ninja-boy1-0x55-1646136801.jpeg"
+        },
+        {
+            "start_time": "20250227040350 +0100",
+            "stop_time": "20250227043324 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Sr. Sombra Shadow",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b633950f-fd1b-4ceb-8ddd-afa65dd5112f-rantaro-ninja-boy1-0x56-1646136818.jpeg"
+        },
+        {
+            "start_time": "20250227043325 +0100",
+            "stop_time": "20250227050257 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Prevención de Incendios",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/030c9f86-e270-40c2-9d46-6425fb9646c3-rantaro-ninja-boy1-0x57-1646136829.jpeg"
+        },
+        {
+            "start_time": "20250227050258 +0100",
+            "stop_time": "20250227053230 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Miedo a las Chicas",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/49bb6680-19f8-4608-9222-43cfc343b96d-rantaro-ninja-boy1-0x58-1646136843.jpeg"
+        },
+        {
+            "start_time": "20250227053231 +0100",
+            "stop_time": "20250227060203 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Dónde está Danzo?",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/830dad59-d359-4ec7-a08f-800b1a3ac6b7-rantaro-ninja-boy1-0x59-1646136856.jpeg"
+        },
+        {
+            "start_time": "20250227060204 +0100",
+            "stop_time": "20250227063136 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Odio las Contraseñas",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d11f0b2e-45ca-4c4b-8908-c868ccbfacb1-rantaro-ninja-boy1-0x60-1646136867.jpeg"
+        },
+        {
+            "start_time": "20250227063137 +0100",
+            "stop_time": "20250227070056 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Jun y Junko",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6504feea-d76a-413e-8f86-fc9c4edfc6ba-rantaro-ninja-boy1-0x23-1646136297.jpeg"
+        },
+        {
+            "start_time": "20250227070057 +0100",
+            "stop_time": "20250227073029 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Mejor de la Escuela",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/e8f7530c-191a-4edf-826b-d9f0f9fbf971-rantaro-ninja-boy1-0x61-1646136878.jpeg"
+        },
+        {
+            "start_time": "20250227073030 +0100",
+            "stop_time": "20250227080002 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Hombre que no sabía afeitarse",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bd4c8318-4129-4b38-83cb-b1d90f2b283f-rantaro-ninja-boy1-0x62-1646136890.jpeg"
+        },
+        {
+            "start_time": "20250227080003 +0100",
+            "stop_time": "20250227082937 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Una Pelea Tonta",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/6265d58e-efe5-47f7-98ff-083b38560d3a-rantaro-ninja-boy1-0x63-1646136903.jpeg"
+        },
+        {
+            "start_time": "20250227082938 +0100",
+            "stop_time": "20250227085910 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Cesta de Navidad de Kyoeimaru Tercero",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/e067fa17-c400-481e-92f3-1007746c1783-rantaro-ninja-boy1-0x64-1646136917.jpeg"
+        },
+        {
+            "start_time": "20250227085911 +0100",
+            "stop_time": "20250227092841 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Limpieza General",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d705278c-7381-4c8d-a919-d015e83aed55-rantaro-ninja-boy1-0x65-1646136929.jpeg"
+        },
+        {
+            "start_time": "20250227092842 +0100",
+            "stop_time": "20250227095816 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Pastas de Arroz",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/9ce7ee60-dbe2-4585-959a-2cba7eeacba8-rantaro-ninja-boy1-0x66-1646136941.jpeg"
+        },
+        {
+            "start_time": "20250227095817 +0100",
+            "stop_time": "20250227102748 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Campeonato de Cometas",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/86b92bda-931a-40f9-9292-52641638af84-rantaro-ninja-boy1-0x67-1646136954.jpeg"
+        },
+        {
+            "start_time": "20250227102749 +0100",
+            "stop_time": "20250227105721 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los Días del Año Nuevo",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/3ec70c3f-f4fa-441d-821c-bc2a6178a65f-rantaro-ninja-boy1-0x68-1646136969.jpeg"
+        },
+        {
+            "start_time": "20250227105722 +0100",
+            "stop_time": "20250227112654 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Colección",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/08e26d10-9f3c-40de-8222-c69c3529a123-rantaro-ninja-boy1-0x69-1646136980.jpeg"
+        },
+        {
+            "start_time": "20250227112655 +0100",
+            "stop_time": "20250227115627 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Día de Nieve",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/fc3341b8-3fe3-4cba-b93c-0f99bab2bf60-rantaro-ninja-boy1-0x70-1646136992.jpeg"
+        },
+        {
+            "start_time": "20250227115628 +0100",
+            "stop_time": "20250227122559 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Siempre nos Regañan",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/62807be3-cbc6-4d3f-90eb-056c44cd3b67-rantaro-ninja-boy1-0x71-1646137006.jpeg"
+        },
+        {
+            "start_time": "20250227122600 +0100",
+            "stop_time": "20250227125531 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Me Encantan las Cebolletas",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/ff85370f-415d-44b9-bf5d-5903971f213a-rantaro-ninja-boy1-0x72-1646137022.jpeg"
+        },
+        {
+            "start_time": "20250227125532 +0100",
+            "stop_time": "20250227132504 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Fallo de Hem Hem",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/ef1bcf87-0519-4092-b54d-34b225705db3-rantaro-ninja-boy1-0x73-1646137034.jpeg"
+        },
+        {
+            "start_time": "20250227132505 +0100",
+            "stop_time": "20250227135436 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Aprendiendo con el Cuerpo",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/8199e589-fe50-4801-8d01-ee15e02de432-rantaro-ninja-boy1-0x74-1646137048.jpeg"
+        },
+        {
+            "start_time": "20250227135437 +0100",
+            "stop_time": "20250227142407 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Señorito del Castillo del Pino",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8f8e61c9-cc21-4522-aa0e-7e296c41ad67-rantaro-ninja-boy1-0x75-1646137060.jpeg"
+        },
+        {
+            "start_time": "20250227142408 +0100",
+            "stop_time": "20250227145339 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Duelo Absurdo",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/37c459b9-aee7-4940-a28c-bc2540d08987-rantaro-ninja-boy1-0x76-1646137085.jpeg"
+        },
+        {
+            "start_time": "20250227145340 +0100",
+            "stop_time": "20250227152311 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Kyoeimaru Tercero Vuelve a Dar la Lata",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/b598447b-3caa-41b2-b6b5-914deea53f87-rantaro-ninja-boy1-0x77-1646137099.jpeg"
+        },
+        {
+            "start_time": "20250227152312 +0100",
+            "stop_time": "20250227155242 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Pintada",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/420edfbc-e504-4581-90dd-8088294be72f-rantaro-ninja-boy1-0x78-1646137120.jpeg"
+        },
+        {
+            "start_time": "20250227155243 +0100",
+            "stop_time": "20250227162214 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Una Visita a la Escuela",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/93b9f7ad-058c-4d5d-8a54-d2884c1baa5d-rantaro-ninja-boy1-0x79-1646137133.jpeg"
+        },
+        {
+            "start_time": "20250227162215 +0100",
+            "stop_time": "20250227165146 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Dónde está el Castillo del Hongo?",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/9937536d-1973-452e-8908-2d3734147ed7-rantaro-ninja-boy1-0x80-1646137147.jpeg"
+        },
+        {
+            "start_time": "20250227165147 +0100",
+            "stop_time": "20250227172117 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Técnica de la Luciérnaga",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/632cedee-4ccf-4056-a53a-590bf7cac821-rantaro-ninja-boy1-0x81-1646137160.jpeg"
+        },
+        {
+            "start_time": "20250227172118 +0100",
+            "stop_time": "20250227175048 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Unkokusai el Mago",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/9ac19c1e-2627-4b90-8101-dc3fee1a3ee2-rantaro-ninja-boy1-0x82-1646137174.jpeg"
+        },
+        {
+            "start_time": "20250227175049 +0100",
+            "stop_time": "20250227182020 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Sr. Peroqué",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/09a1b0d0-6cde-4907-9364-55dffe7f4399-rantaro-ninja-boy1-0x83-1646137187.jpeg"
+        },
+        {
+            "start_time": "20250227182021 +0100",
+            "stop_time": "20250227184953 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: A Mitad de Precio",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/bfad4b71-dc54-4097-8fdd-7da9aad447f3-rantaro-ninja-boy1-0x84-1646137199.jpeg"
+        },
+        {
+            "start_time": "20250227184954 +0100",
+            "stop_time": "20250227191924 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: De Compras a la Ciudad",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/a9f65663-bacd-4396-a73a-51fff6a5fbd7-rantaro-ninja-boy1-0x85-1646137213.jpeg"
+        },
+        {
+            "start_time": "20250227191925 +0100",
+            "stop_time": "20250227194856 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Visita a un Enfermo",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4c18328b-e375-4622-9b6d-b448f3867851-rantaro-ninja-boy1-0x86-1646137226.jpeg"
+        },
+        {
+            "start_time": "20250227194857 +0100",
+            "stop_time": "20250227201828 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Concurso de Búsqueda de Tesoros",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/138e8c45-1805-4122-bd49-eee1d56923eb-rantaro-ninja-boy1-0x87-1646137251.jpeg"
+        },
+        {
+            "start_time": "20250227201829 +0100",
+            "stop_time": "20250227204801 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Tamasaburo",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/6f45afa1-81f0-4d4f-8c38-d8c132d3388f-rantaro-ninja-boy1-0x88-1646137264.jpeg"
+        },
+        {
+            "start_time": "20250227204802 +0100",
+            "stop_time": "20250227211732 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Poppo el Bizcochero",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/d0025c95-c275-40a6-b77e-ff89ef4b9877-rantaro-ninja-boy1-0x89-1646137276.jpeg"
+        },
+        {
+            "start_time": "20250227211733 +0100",
+            "stop_time": "20250227214703 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Plano del Castillo de la Seta",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/cc037716-d467-454a-8cf6-97cf59db4696-rantaro-ninja-boy1-0x90-1646137289.jpeg"
+        },
+        {
+            "start_time": "20250227214704 +0100",
+            "stop_time": "20250227221634 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Samurai Estoico",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/2ed36d0c-f6d4-485a-a3b5-a1fa9eef71b6-rantaro-ninja-boy1-0x91-1646137300.jpeg"
+        },
+        {
+            "start_time": "20250227221635 +0100",
+            "stop_time": "20250227224605 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Bella Durmiente",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/7fdfd3e0-7a25-4bab-b250-9bdb8dbb312a-rantaro-ninja-boy1-0x92-1646137312.jpeg"
+        },
+        {
+            "start_time": "20250227224606 +0100",
+            "stop_time": "20250227231536 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Mucho Amor",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/190291ee-240e-4549-8225-752bb7458c87-rantaro-ninja-boy1-0x93-1646137326.jpeg"
+        },
+        {
+            "start_time": "20250227231537 +0100",
+            "stop_time": "20250227234508 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Picnic Divertido",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/ff7a8cb4-f0da-4c76-aa40-0e4953c2777a-rantaro-ninja-boy1-0x94-1646137340.jpeg"
+        },
+        {
+            "start_time": "20250227234509 +0100",
+            "stop_time": "20250228001441 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Llévanos Contigo",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d7da1e1d-3f97-47ce-af0d-6321ed11c186-rantaro-ninja-boy1-0x95-1646137351.jpeg"
+        },
+        {
+            "start_time": "20250228001442 +0100",
+            "stop_time": "20250228004413 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Moneda Encontrada",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/506646e1-0fc5-4f07-bf4e-9fba789c6292-rantaro-ninja-boy1-0x96-1646137364.jpeg"
+        },
+        {
+            "start_time": "20250228004414 +0100",
+            "stop_time": "20250228011344 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¡Kyoeimaru Tercero Capturado!",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/80058f40-22d3-43dc-a328-4767a2c66b48-rantaro-ninja-boy1-0x97-1646137376.jpeg"
+        },
+        {
+            "start_time": "20250228011345 +0100",
+            "stop_time": "20250228014316 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La Pastelería del Bosque",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/94a5f2ef-6774-402d-b0cc-5d795d54f94d-rantaro-ninja-boy1-0x98-1646137387.jpeg"
+        },
+        {
+            "start_time": "20250228014317 +0100",
+            "stop_time": "20250228021248 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¡Viene el Papá de Shinbei!",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/79fdc8ff-9715-4440-ac18-962c59ee1325-rantaro-ninja-boy1-0x99-1646137399.jpeg"
+        },
+        {
+            "start_time": "20250228021249 +0100",
+            "stop_time": "20250228024219 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Dónde está el sacerdote?",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f78c951b-1f0c-410d-bd24-6fc6003c6d3a-rantaro-ninja-boy1-0x100-1646137410.jpeg"
+        },
+        {
+            "start_time": "20250228024220 +0100",
+            "stop_time": "20250228031151 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El regalo de papá",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/edf81b92-d4a5-4399-b304-298d8ea8a8a6.jpeg"
+        },
+        {
+            "start_time": "20250228031152 +0100",
+            "stop_time": "20250228034124 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La cocinera solicitada.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/6c9402c7-37cf-4660-8a81-c38936b764fe.jpeg"
+        },
+        {
+            "start_time": "20250228034125 +0100",
+            "stop_time": "20250228041056 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Las lochas de Kisanta.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0f611f2b-195c-43f2-8491-38ba6caade17.jpeg"
+        },
+        {
+            "start_time": "20250228041057 +0100",
+            "stop_time": "20250228044029 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Nadar en pleno invierno.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fb0ca7a6-e80d-4be6-ab0c-5b0f80ea9175.jpeg"
+        },
+        {
+            "start_time": "20250228044030 +0100",
+            "stop_time": "20250228051001 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La historia de las vacaciones de invierno.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f9053a0d-43d6-4478-af59-d2d07d34c4d9.jpeg"
+        },
+        {
+            "start_time": "20250228051002 +0100",
+            "stop_time": "20250228053934 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El sueño de toda joven.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/9ce1b0e3-5f56-4856-b859-1301b0c62b5b.jpeg"
+        },
+        {
+            "start_time": "20250228053935 +0100",
+            "stop_time": "20250228060905 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La primera visita del año al santuario.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/ce287a1a-6e0c-4922-8103-8fbb9d863563.jpeg"
+        },
+        {
+            "start_time": "20250228060906 +0100",
+            "stop_time": "20250228063837 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El nuevo trimestre de la escuela.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/609d1658-9e95-4549-b431-affd18373d20.jpeg"
+        },
+        {
+            "start_time": "20250228063838 +0100",
+            "stop_time": "20250228070757 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los Hermanos Ten y Shu",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/85c4e4a8-890c-4709-b75d-36337c96125a-rantaro-ninja-boy1-0x22-1646136284.jpeg"
+        },
+        {
+            "start_time": "20250228070758 +0100",
+            "stop_time": "20250228073729 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El señor pato ha desaparecido.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/3af669a2-6c63-44f1-aa4e-808e077dc03f.jpeg"
+        },
+        {
+            "start_time": "20250228073730 +0100",
+            "stop_time": "20250228080701 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La aparición del gran lobo malvado.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/fdf3679e-2d1f-4660-9898-fb6225893b7b.jpeg"
+        },
+        {
+            "start_time": "20250228080702 +0100",
+            "stop_time": "20250228083633 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El examen ninja.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/b77428d1-109e-4610-8667-457ad33c1955.jpeg"
+        },
+        {
+            "start_time": "20250228083634 +0100",
+            "stop_time": "20250228090604 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El día de los padres.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/781d4f58-9c7b-4c11-b525-25eb9906fdd7.jpeg"
+        },
+        {
+            "start_time": "20250228090605 +0100",
+            "stop_time": "20250228093536 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Recogiendo setas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/bf4bda2e-7a09-4287-a2d0-bb6e69b58e5d.jpeg"
+        },
+        {
+            "start_time": "20250228093537 +0100",
+            "stop_time": "20250228100508 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El pergamino codiciado.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/ae51f29b-13db-4ff5-9459-94b55df59ca4.jpeg"
+        },
+        {
+            "start_time": "20250228100509 +0100",
+            "stop_time": "20250228103440 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: No hacer ruido al caminar.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/3d8c727c-ad01-49c7-9e9e-fad92a22fbaf.jpeg"
+        },
+        {
+            "start_time": "20250228103441 +0100",
+            "stop_time": "20250228110412 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La sustitución del señor Tobe.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/9c5b0ded-7495-463f-b4d5-75f6ae86b2fc.jpeg"
+        },
+        {
+            "start_time": "20250228110413 +0100",
+            "stop_time": "20250228113344 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El maratón con cubos.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1fb9e200-1c6f-44f5-8341-990e6ed45d96.jpeg"
+        },
+        {
+            "start_time": "20250228113345 +0100",
+            "stop_time": "20250228120316 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Barba espesa.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/797c32ce-382c-4691-aad3-7ea6eb515fa6.jpeg"
+        },
+        {
+            "start_time": "20250228120317 +0100",
+            "stop_time": "20250228123248 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Quién es mi enemigo?",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/027f86a6-5ace-491a-9b8e-6677a91a04ed.jpeg"
+        },
+        {
+            "start_time": "20250228123249 +0100",
+            "stop_time": "20250228130220 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El escondite de las chicas.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/143f79a2-36ae-4e7d-8bc8-eb1e92a9e158.jpeg"
+        },
+        {
+            "start_time": "20250228130221 +0100",
+            "stop_time": "20250228133150 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El gran regalo de Kyoeimaru tercero.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/7b458153-c06c-4738-95d5-117c0984af2a.jpeg"
+        },
+        {
+            "start_time": "20250228133151 +0100",
+            "stop_time": "20250228140122 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Entrenamiento nocturno.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b4015824-fcc7-42f4-b77d-805ea43903af.jpeg"
+        },
+        {
+            "start_time": "20250228140123 +0100",
+            "stop_time": "20250228143054 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El picnic.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/b0dd2d95-f40a-463d-a48e-15b4ba2de96b.jpeg"
+        },
+        {
+            "start_time": "20250228143055 +0100",
+            "stop_time": "20250228150025 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El director y la acupuntura.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b24661df-5394-47e4-9ff9-fb80b39b07eb.jpeg"
+        },
+        {
+            "start_time": "20250228150026 +0100",
+            "stop_time": "20250228152957 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Es duro ser un ninja de primera clase.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5c72ccea-96ab-4305-b5f3-d504c9e75423.jpeg"
+        },
+        {
+            "start_time": "20250228152958 +0100",
+            "stop_time": "20250228155928 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La cocinera ha desaparecido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/3d5928d4-5cf9-4506-9f10-5dbbbe6593ed.jpeg"
+        },
+        {
+            "start_time": "20250228155929 +0100",
+            "stop_time": "20250228162858 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La babosa gigante.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/5da50e93-2f76-448d-990b-5f17c5071fe5.jpeg"
+        },
+        {
+            "start_time": "20250228162859 +0100",
+            "stop_time": "20250228165829 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La búsqueda del tesoro.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bc4478f6-9759-42b4-9a63-940437a59a69.jpeg"
+        },
+        {
+            "start_time": "20250228165830 +0100",
+            "stop_time": "20250228172800 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los caballos robados.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/e94d7cd0-cc7e-464d-b10a-eccdb54c46d2.jpeg"
+        },
+        {
+            "start_time": "20250228172801 +0100",
+            "stop_time": "20250228175731 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El guerrero de la montaña de bambú.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d9528fa8-9638-479e-a38c-66850db5462d.jpeg"
+        },
+        {
+            "start_time": "20250228175732 +0100",
+            "stop_time": "20250228182702 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El sonido de las monedas.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d1d1ebf4-f601-474f-96a7-d2cb13f5d0f1.jpeg"
+        },
+        {
+            "start_time": "20250228182703 +0100",
+            "stop_time": "20250228185634 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El ejemplo del señor Tobe.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7e19f5c2-f488-436a-bfae-0be2a8a9c6e7.jpeg"
+        },
+        {
+            "start_time": "20250228185635 +0100",
+            "stop_time": "20250228192605 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La misión de Rikichi.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/761b23be-8469-40ef-95b5-3e01780e53db.jpeg"
+        },
+        {
+            "start_time": "20250228192606 +0100",
+            "stop_time": "20250228195536 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El viaje.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/12836aa6-f056-495c-999f-035a61900aa8.jpeg"
+        },
+        {
+            "start_time": "20250228195537 +0100",
+            "stop_time": "20250228202507 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El señor Hansuke está enfermo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/17c9f3c8-0c01-4bb1-80b0-d92b8e1f1bff.jpeg"
+        },
+        {
+            "start_time": "20250228202508 +0100",
+            "stop_time": "20250228205439 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La carta de Kyoeimaru tercero.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/322e413d-6ca5-4644-ad46-51aed016fbec.jpeg"
+        },
+        {
+            "start_time": "20250228205440 +0100",
+            "stop_time": "20250228212410 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Haciendo de niñera.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8374c1a5-c577-464d-b9ed-c68a62124fe8.jpeg"
+        },
+        {
+            "start_time": "20250228212411 +0100",
+            "stop_time": "20250228215341 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Las babosas desaparecidas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/76b8598b-abd8-4d2e-adc4-26e35baa7f2e.jpeg"
+        },
+        {
+            "start_time": "20250228215342 +0100",
+            "stop_time": "20250228222312 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Han capturado a Orin.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/2eae837d-7c24-4d67-8fe2-bb8aa862bbc7.jpeg"
+        },
+        {
+            "start_time": "20250228222313 +0100",
+            "stop_time": "20250228225243 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La entrevista de trabajo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/90d8782d-2d23-49b6-ba62-f3e2e7a5d00e.jpeg"
+        },
+        {
+            "start_time": "20250228225244 +0100",
+            "stop_time": "20250228232214 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Haciendo los deberes.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/defadcfb-d13c-40e1-a4b9-93cc0ff9c5f4.jpeg"
+        },
+        {
+            "start_time": "20250228232215 +0100",
+            "stop_time": "20250228235145 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Vamos tras él.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4c6990bb-f876-488c-867d-757c7b29965e.jpeg"
+        },
+        {
+            "start_time": "20250228235146 +0100",
+            "stop_time": "20250301002116 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Makinosuke preocupado.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/5787cd8b-55cd-47ce-89f5-a4ac76edd2d3.jpeg"
+        },
+        {
+            "start_time": "20250301002117 +0100",
+            "stop_time": "20250301005047 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El misterioso estudiante de intercambio.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/86ab40f2-1a38-4882-9f7b-b6a0891e3d7c.jpeg"
+        },
+        {
+            "start_time": "20250301005048 +0100",
+            "stop_time": "20250301012018 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El enfado.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/ea34fe4e-4de2-462e-a4a5-544244512f47.jpeg"
+        },
+        {
+            "start_time": "20250301012019 +0100",
+            "stop_time": "20250301014949 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La idea repentina del director.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/171234a3-2d81-4ef4-89a1-2919e239b4a3.jpeg"
+        },
+        {
+            "start_time": "20250301014950 +0100",
+            "stop_time": "20250301021920 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿Por qué no se duerme?",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/c70b8757-a570-43e4-a461-7378dc0b3680.jpeg"
+        },
+        {
+            "start_time": "20250301021921 +0100",
+            "stop_time": "20250301024851 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los peces de Kyoemaru tercero.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/8df5cc59-c367-498d-a793-9ac59ed39f1d.jpeg"
+        },
+        {
+            "start_time": "20250301024852 +0100",
+            "stop_time": "20250301031822 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El incienso sagrado.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/80386ad2-5248-45ef-b991-62a3c31556e8.jpeg"
+        },
+        {
+            "start_time": "20250301031823 +0100",
+            "stop_time": "20250301034753 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Pony de Danzo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/4005af27-5d91-4dd9-954e-2f449fe57ac0.jpeg"
+        },
+        {
+            "start_time": "20250301034754 +0100",
+            "stop_time": "20250301041724 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Pepinillos bellotas.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/696a9299-bcdc-4d69-a8c3-13ef1bd5c5d7.jpeg"
+        },
+        {
+            "start_time": "20250301041725 +0100",
+            "stop_time": "20250301044655 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Kalaba Zatsura.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/56508ca9-64eb-4f7c-8e11-84796ace9d61.jpeg"
+        },
+        {
+            "start_time": "20250301044656 +0100",
+            "stop_time": "20250301051626 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El señor Kuenro.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/cb57b8bb-d3ab-4a04-b593-ec6ccb380f0a.jpeg"
+        },
+        {
+            "start_time": "20250301051627 +0100",
+            "stop_time": "20250301054557 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Las vacaciones de verano de un ninja.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/03f467ad-232e-45b4-aec6-687dad7e396a.jpeg"
+        },
+        {
+            "start_time": "20250301054558 +0100",
+            "stop_time": "20250301061528 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El regalo de la escuela de verano.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/bce2b224-e750-48ef-80d5-bcc0b6b0ee88.jpeg"
+        },
+        {
+            "start_time": "20250301061529 +0100",
+            "stop_time": "20250301064501 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El muñeco de Vudú.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/97fb8c0f-fd93-4c20-9a79-e155f94305cb.jpeg"
+        },
+        {
+            "start_time": "20250301064502 +0100",
+            "stop_time": "20250301065959 +0100",
+            "title": "Volvemos pronto con más contenido",
+            "description": "| +12 | Anime |\n\n¡Estamos recuperando el sueño perdido! Permanece atento a la magnífica selección de entretenimiento de Rakuten TV.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070000 +0100",
+            "stop_time": "20250301072931 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El secreto del señor Tobe.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/c0174bf8-2a88-4827-a657-ca2ffb7fa93d.jpeg"
+        },
+        {
+            "start_time": "20250301072932 +0100",
+            "stop_time": "20250301075902 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El pato misterioso.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/995f39f3-0c58-4631-a4a4-59465344a004.jpeg"
+        },
+        {
+            "start_time": "20250301075903 +0100",
+            "stop_time": "20250301082834 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La táctica del pájaro bajo la lluvia.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/459e47a1-4ee2-42f5-a15d-07f4134874a9.jpeg"
+        },
+        {
+            "start_time": "20250301082835 +0100",
+            "stop_time": "20250301085806 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La excursión peligrosa.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/aed590f0-be5b-489e-a2be-000ca6a3dfb2.jpeg"
+        },
+        {
+            "start_time": "20250301085807 +0100",
+            "stop_time": "20250301092737 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El apetito de otoño.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b15f8f86-3fd8-42f2-8f0c-f2218eb2d2da.jpeg"
+        },
+        {
+            "start_time": "20250301092738 +0100",
+            "stop_time": "20250301095709 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El tesoro de Shinbei.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/9b22a352-74d8-4a72-aba5-5a86970c91e0.jpeg"
+        },
+        {
+            "start_time": "20250301095710 +0100",
+            "stop_time": "20250301102639 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La depresión de Rikichi.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/c94e025b-4cf6-4951-b124-9e81a9f1a11c.jpeg"
+        },
+        {
+            "start_time": "20250301102640 +0100",
+            "stop_time": "20250301105609 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Kirimaru feliz.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/4cb9a140-d78d-4ba0-98b7-efa1e3ee5a21.jpeg"
+        },
+        {
+            "start_time": "20250301105610 +0100",
+            "stop_time": "20250301112540 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: A nadie le cae bien Hipo Hieta.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/e30c61a1-03d7-4d8b-baac-cd537210e5ac.jpeg"
+        },
+        {
+            "start_time": "20250301112541 +0100",
+            "stop_time": "20250301115512 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Shinbei se pierde.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/01710877-b2a7-491b-9d9f-9df2544ddab7.jpeg"
+        },
+        {
+            "start_time": "20250301115513 +0100",
+            "stop_time": "20250301122444 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Los piratas en peligro.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b1182691-8a55-421b-b6ee-61445e19ea30.jpeg"
+        },
+        {
+            "start_time": "20250301122445 +0100",
+            "stop_time": "20250301125416 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La carrera de caballos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/46499309-dffc-4512-862b-a025e9db15a2.jpeg"
+        },
+        {
+            "start_time": "20250301125417 +0100",
+            "stop_time": "20250301132347 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: No quiero perder.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/8b953750-6423-43f3-84a0-f7b6b39f9044.jpeg"
+        },
+        {
+            "start_time": "20250301132348 +0100",
+            "stop_time": "20250301135318 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Una idea sorprendente.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4ac8eab0-2053-4f37-9145-8f2450e5b2ff.jpeg"
+        },
+        {
+            "start_time": "20250301135319 +0100",
+            "stop_time": "20250301142249 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Una batalla apestosa.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3afe05ad-c89d-4d54-9806-19f58bfd798d.jpeg"
+        },
+        {
+            "start_time": "20250301142250 +0100",
+            "stop_time": "20250301145219 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La reunión de los grandes samuráis.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/866b0bdc-8a5b-4beb-8f0e-72ce4896d53b.jpeg"
+        },
+        {
+            "start_time": "20250301145220 +0100",
+            "stop_time": "20250301152151 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La competición de artes marciales.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/e8ff6b0f-9795-4efd-9ba9-568518bcd522.jpeg"
+        },
+        {
+            "start_time": "20250301152152 +0100",
+            "stop_time": "20250301155123 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Tafugai Genki.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/573480f8-faf7-4486-96a6-e6a1c1b8724f.jpeg"
+        },
+        {
+            "start_time": "20250301155124 +0100",
+            "stop_time": "20250301162055 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El pistolero.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0b4a5a55-e91e-42d2-b021-affbc5dff1d9.jpeg"
+        },
+        {
+            "start_time": "20250301162056 +0100",
+            "stop_time": "20250301165027 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Volvamos a la escuela ninja.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7d6ea138-c4d0-4112-a917-90fd6fe11b6f.jpeg"
+        },
+        {
+            "start_time": "20250301165028 +0100",
+            "stop_time": "20250301171959 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La petición de Kyoemaru tercero.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/48dd27af-9d42-4882-b076-358351ff6ecc.jpeg"
+        },
+        {
+            "start_time": "20250301172000 +0100",
+            "stop_time": "20250301174931 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Shinbei el magnífico.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/ba87e632-bc52-4a1a-876a-54154c9a392a.jpeg"
+        },
+        {
+            "start_time": "20250301174932 +0100",
+            "stop_time": "20250301181903 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La olla especial de China.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/3aa44c54-2393-447a-8b50-f3df6f6a0fb2.jpeg"
+        },
+        {
+            "start_time": "20250301181904 +0100",
+            "stop_time": "20250301184835 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La clase suplementaria especial.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/72ccfeaa-62d3-4aaa-9eb2-83e3bcb34ffe.jpeg"
+        },
+        {
+            "start_time": "20250301184836 +0100",
+            "stop_time": "20250301191807 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La nueva técnica ninja.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/19db36a1-525e-489d-a52c-59695e4bf3e2.jpeg"
+        },
+        {
+            "start_time": "20250301191808 +0100",
+            "stop_time": "20250301194739 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El escondite ninja.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/05b12df7-36e1-42a7-9268-a8ba962243a9.jpeg"
+        },
+        {
+            "start_time": "20250301194740 +0100",
+            "stop_time": "20250301201711 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: ¿La esposa del señor Hansuke?",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/83401862-6827-44f4-9e2f-7895b207cf2f.jpeg"
+        },
+        {
+            "start_time": "20250301201712 +0100",
+            "stop_time": "20250301204643 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El sueño del padre de Shinbei.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/410c4781-4fe9-4547-9cdc-819292532b1a.jpeg"
+        },
+        {
+            "start_time": "20250301204644 +0100",
+            "stop_time": "20250301211615 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El nuevo año.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/62404735-8c08-42b4-b201-4e0af6f78ece.jpeg"
+        },
+        {
+            "start_time": "20250301211616 +0100",
+            "stop_time": "20250301214547 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: De nuevo en la escuela.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/cd2f209f-4879-4b81-b361-1793a16249e8.jpeg"
+        },
+        {
+            "start_time": "20250301214548 +0100",
+            "stop_time": "20250301221519 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Yo no estoy resfriado.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/7d869ce3-86b9-4ad1-b7d8-c25643316042.jpeg"
+        },
+        {
+            "start_time": "20250301221520 +0100",
+            "stop_time": "20250301224451 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Takiyashamaru el servicial.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d98c6d10-6a11-41d4-8cf9-0e6b5f2eb5af.jpeg"
+        },
+        {
+            "start_time": "20250301224452 +0100",
+            "stop_time": "20250301231423 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El gran error de Kirimaru.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/da0ff8b8-1f15-410c-b4a7-1fbac65b8693.jpeg"
+        },
+        {
+            "start_time": "20250301231424 +0100",
+            "stop_time": "20250301234355 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un barco terrestre.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/6fbd4acb-49e4-4a05-9d31-76b57f47acbe.jpeg"
+        },
+        {
+            "start_time": "20250301234356 +0100",
+            "stop_time": "20250302001327 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El viaje de estudios.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/699b243a-2a5a-44dd-a4c8-2b8cf7174e62.jpeg"
+        },
+        {
+            "start_time": "20250302001328 +0100",
+            "stop_time": "20250302004259 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La escuela ninja de Dokutake.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/22d7d5ea-a2dc-4907-a250-bf29c99d587c.jpeg"
+        },
+        {
+            "start_time": "20250302004300 +0100",
+            "stop_time": "20250302011231 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El tesoro de los bandidos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/10d3d6c8-71a4-4582-9fa4-16980a5dc5f6.jpeg"
+        },
+        {
+            "start_time": "20250302011232 +0100",
+            "stop_time": "20250302014203 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La batalla de las armas ocultas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/a13dbae6-f86c-434c-9c99-06a20b0e822f.jpeg"
+        },
+        {
+            "start_time": "20250302014204 +0100",
+            "stop_time": "20250302021135 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Registrar la escuela ninja.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/3f93afe0-b41b-46a6-b224-34c2afb902a0.jpeg"
+        },
+        {
+            "start_time": "20250302021136 +0100",
+            "stop_time": "20250302024107 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Deprisa, bellotas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/73f20c40-e51f-4ee1-bcd6-705968d5887f.jpeg"
+        },
+        {
+            "start_time": "20250302024108 +0100",
+            "stop_time": "20250302031039 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Mucho dinero.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/4473c51c-8a57-4c7c-a000-577f13a3e2b8.jpeg"
+        },
+        {
+            "start_time": "20250302031040 +0100",
+            "stop_time": "20250302034011 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La lucha contra los doku-bellotas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/be510a44-01b9-4390-b36f-0a7c0a65477b.jpeg"
+        },
+        {
+            "start_time": "20250302034012 +0100",
+            "stop_time": "20250302040943 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Komatsuda y Kyoemaru.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/85c759ad-06d3-49d1-99f6-0033feb9dd04.jpeg"
+        },
+        {
+            "start_time": "20250302040944 +0100",
+            "stop_time": "20250302043915 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Las clases suspendidas.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/0add795c-dd6a-4747-8abe-612b561e3340.jpeg"
+        },
+        {
+            "start_time": "20250302043916 +0100",
+            "stop_time": "20250302050835 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Empieza el Curso en la Escuela Ninja",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/0e5e9f39-2ef6-4401-9d11-b8f2dae01273-rantaro-ninja-boy1-0x1-1646136015.jpeg"
+        },
+        {
+            "start_time": "20250302050836 +0100",
+            "stop_time": "20250302053754 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Un Ninja Extraño",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/49b58170-5364-40af-843f-fb96190b9291-rantaro-ninja-boy1-0x2-1646136026.jpeg"
+        },
+        {
+            "start_time": "20250302053755 +0100",
+            "stop_time": "20250302060713 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Shinbei desaparecido",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/57ee7a31-68bd-4836-88fe-4b522f6f1b10-rantaro-ninja-boy1-0x3-1646136038.jpeg"
+        },
+        {
+            "start_time": "20250302060714 +0100",
+            "stop_time": "20250302063631 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Unas vacaciones emocionantes",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/8b34a5ed-b13d-40f2-818d-5061b5b5f80c-rantaro-ninja-boy1-0x4-1646136051.jpeg"
+        },
+        {
+            "start_time": "20250302063632 +0100",
+            "stop_time": "20250302070551 +0100",
+            "title": "Rantaro, el Ninja Boy",
+            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El Rifle Robado",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/13cf6595-3da9-45be-8d88-6080c0819459-rantaro-ninja-boy1-0x36-1646136483.jpeg"
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/rantaróelninjaboy-rantaro-ninja-boy-rakuten-tv.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

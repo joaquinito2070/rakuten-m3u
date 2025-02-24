@@ -4,10 +4,10 @@
     "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg",
     "group_title": "Películas",
     "original_master_url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=bea2e2cb-cdc0-44d7-95ca-f53c7888f088&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/spanish-cinema-rakuten-tv/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/cc788adf-a464-4123-a887-b4ca8edf8832/0.m3u8",
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/207deda1-fae2-416f-8cdf-d85cdddb9863/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "530487",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/cc788adf-a464-4123-a887-b4ca8edf8832/1.m3u8",
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/207deda1-fae2-416f-8cdf-d85cdddb9863/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "897711",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/cc788adf-a464-4123-a887-b4ca8edf8832/2.m3u8",
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/207deda1-fae2-416f-8cdf-d85cdddb9863/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1450842",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/cc788adf-a464-4123-a887-b4ca8edf8832/3.m3u8",
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/207deda1-fae2-416f-8cdf-d85cdddb9863/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2606309",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/cc788adf-a464-4123-a887-b4ca8edf8832/4.m3u8",
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/207deda1-fae2-416f-8cdf-d85cdddb9863/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4573762",
@@ -62,6 +62,589 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/cineespañol-spanish-cinema-rakuten-tv.json"
+    "epg": [
+        {
+            "start_time": "20250224150148 +0100",
+            "stop_time": "20250224163652 +0100",
+            "title": "La Cima",
+            "description": "| +16 | Películas |\n\nMateo (Javier Rey) se enfrenta por primera vez a la montaña más peligrosa del planeta, el Annapurna, con el reto de llegar hasta la cima y cumplir así una antigua promesa. En su ascenso sufre un accidente que le deja inconsciente y gravemente herido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f22f8bb9-91cc-43bd-9541-a3b1be01eb0f.jpeg"
+        },
+        {
+            "start_time": "20250224163653 +0100",
+            "stop_time": "20250224180816 +0100",
+            "title": "Swing, la vida de un secreto",
+            "description": "| +16 | Películas |\n\nPara animar su vida sexual, una joven opta por ir con su novio a un club de intercambio de parejas. La aventura le llevará a descubrir un sorprendente secreto familiar.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/0edd9ed9-b007-4afb-9cfc-09fdb6db6702.jpeg"
+        },
+        {
+            "start_time": "20250224180817 +0100",
+            "stop_time": "20250224194820 +0100",
+            "title": "Los que tocan el piano",
+            "description": "| +16 | Películas |\n\nCayetana, su novio Paco y Venancio, su hermano de leche, cometen pequeños hurtos y, de vez en cuando, pasan unos días en la cárcel",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8c3a82ba-a7fa-4c45-b0f1-221156876ce0.jpeg"
+        },
+        {
+            "start_time": "20250224194821 +0100",
+            "stop_time": "20250224220723 +0100",
+            "title": "The Way",
+            "description": "| +16 | Películas |\n\nTom Avery (Martín Sheen) es un reputado oftalmólogo de California, viudo, que un día recibe una llamada desde Francia en la que se le comunica que su hijo Daniel ha fallecido en un temporal en los Pirineos.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5c97d86b-dfa8-4f62-8972-1b272a3f6f02.jpeg"
+        },
+        {
+            "start_time": "20250224220724 +0100",
+            "stop_time": "20250224235931 +0100",
+            "title": "Cuanto más grande, mejor",
+            "description": "| +16 | Películas |\n\nColoma y Secundina son dos porteras de dos edificios de la calle Caspe. A través de ellas, conoceremos las virtudes y miserias de diversos personajes del barrio.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d410bdf8-a7c1-4260-a1a8-b3cfbd80be45.jpeg"
+        },
+        {
+            "start_time": "20250224235932 +0100",
+            "stop_time": "20250225015817 +0100",
+            "title": "Nubes De Cartón",
+            "description": "| +16 | Películas |\n\nMiguel es un mendigo aislado de la sociedad, que sobrevive en la calles, tras la muerte de su madre. Su hermana menor Irene es lo único que le queda, pero ella le odia por todos los errores que cometió, en un oscuro pasado envuelto en alcohol y drogas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/2addfb59-3004-4d2d-93ad-06900fd82f28-nubes-de-carton-1649243498.jpeg"
+        },
+        {
+            "start_time": "20250225015818 +0100",
+            "stop_time": "20250225033659 +0100",
+            "title": "Concursante",
+            "description": "| +16 | Películas |\n\nÁcida sátira de la sociedad actual. Martín Circo Martín, el afortunado ganador del mayor concurso de la historia de la televisión, recibe un premio valorado en tres millones de euros. Sin embargo, el golpe de suerte de Martín dará un vuelco a su vida convirtiéndola en una auténtica pesadilla.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0b65ba1c-9599-4e68-9b8c-e8a1d69705de.jpeg"
+        },
+        {
+            "start_time": "20250225033700 +0100",
+            "stop_time": "20250225051337 +0100",
+            "title": "Hijo de Caín",
+            "description": "| +16 | Películas |\n\nNico es un adolescente de  extraño carácter, inteligencia excepcional y una obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán. Descubrir la verdad a tiempo será la única opción para evitar que la esencia del mal acabe dominando sus vidas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fdb46729-b070-4c5c-834e-67be34a2ef04.jpeg"
+        },
+        {
+            "start_time": "20250225051338 +0100",
+            "stop_time": "20250225064451 +0100",
+            "title": "Family Tour",
+            "description": "| +16 | Películas |\n\nUn mes de vacaciones con la familia puede dar mucho de sí; esto es lo que experimenta Lili cuando vuelve a su casa después de varios años fuera del país.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/717b7854-6987-4e30-a6e9-184af93e8014-family-tour-1649253723.jpeg"
+        },
+        {
+            "start_time": "20250225064452 +0100",
+            "stop_time": "20250225081634 +0100",
+            "title": "Las que tienen que servir",
+            "description": "| +16 | Películas |\n\nJuana y Francisca están sirviendo en casa de los Stevens, un matrimonio americano. Las muchachas también tienen dos pretendientes americanos destinados en la base americana de Torrejón, amigos de sus señores",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2ba3cfbc-7ee0-4050-b6e3-5e1a0206183d.jpeg"
+        },
+        {
+            "start_time": "20250225081635 +0100",
+            "stop_time": "20250225095638 +0100",
+            "title": "Los que tocan el piano",
+            "description": "| +16 | Películas |\n\nCayetana, su novio Paco y Venancio, su hermano de leche, cometen pequeños hurtos y, de vez en cuando, pasan unos días en la cárcel",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8c3a82ba-a7fa-4c45-b0f1-221156876ce0.jpeg"
+        },
+        {
+            "start_time": "20250225095639 +0100",
+            "stop_time": "20250225114128 +0100",
+            "title": "María (y los demás)",
+            "description": "| +16 | Películas |\n\nDesde que murió su madre, María ha cuidado de su padre y de sus hermanos. Responsable y controladora, siempre ha sido el pilar de la familia y se siente orgullosa de ello. Por eso, cuando su padre anuncia que se casa con Cachita, su simpática enfermera, María siente que su mundo se desmorona.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5059598c-3d2d-4389-b7d7-c599f4cdf8fd-snapshot-1590660994.jpeg"
+        },
+        {
+            "start_time": "20250225114129 +0100",
+            "stop_time": "20250225130141 +0100",
+            "title": "Las amigas de Àgata",
+            "description": "| +16 | Películas |\n\nEl largometraje Las amigas de Àgata es el retrato de un grupo de chicas de 20 años a través de la mirada de Àgata durante su primer año de carrera, desde su vida en Barcelona hasta un viaje a la Costa Brava, en el que sentirá cómo se transforma su mundo en común con sus amigas: Carla, Ari y Mar.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/97eeecda-64b5-4610-9ec2-b352dd11a9cf-snapshot-1590660948.jpeg"
+        },
+        {
+            "start_time": "20250225130142 +0100",
+            "stop_time": "20250225144939 +0100",
+            "title": "¡Ni te me acerques!",
+            "description": "| +16 | Películas |\n\nÉl solo tenía que cuidar el hotel y teclear su novela, como Jack Nicholson en “El Resplandor”, pero de buen rollo.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/959e9862-7e7b-4f7d-bdc2-c3b30337c8bd.jpeg"
+        },
+        {
+            "start_time": "20250225144940 +0100",
+            "stop_time": "20250225162150 +0100",
+            "title": "Kënu",
+            "description": "| +16 | Películas |\n\nEn un pueblo del sur de Senegal, Mamadou controla el tráfico ilegal de cayucos y de droga con destino a Europa. Dos miembros de una ONG llegan para ayudar al pueblo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/724c8d94-73e0-42a7-958f-f0d9dae51247.jpeg"
+        },
+        {
+            "start_time": "20250225162151 +0100",
+            "stop_time": "20250225181059 +0100",
+            "title": "Los días que vendrán",
+            "description": "| +16 | Películas |\n\nVir (30) y Lluís (32) hace solo un año que salen juntos, cuando descubren que están “embarazados”. Durante 9 meses, seguiremos la aventura de esta joven pareja barcelonesa, el giro enorme que dará su vida, sus miedos, alegrías y las realidades que, durante su embarazo, crecen ante ellos.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/17a74e9c-45f6-4cd9-a378-1ec82ebd276a-snapshot-1590667490.jpeg"
+        },
+        {
+            "start_time": "20250225181100 +0100",
+            "stop_time": "20250225195103 +0100",
+            "title": "Los que tocan el piano",
+            "description": "| +16 | Películas |\n\nCayetana, su novio Paco y Venancio, su hermano de leche, cometen pequeños hurtos y, de vez en cuando, pasan unos días en la cárcel",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8c3a82ba-a7fa-4c45-b0f1-221156876ce0.jpeg"
+        },
+        {
+            "start_time": "20250225195104 +0100",
+            "stop_time": "20250225211559 +0100",
+            "title": "B",
+            "description": "| +16 | Películas |\n\nEl 15 de julio de 2013, el ex-tesorero del Partido Popular, Luis Bárcenas, es trasladado desde la prisión para declarar en la Audiencia Nacional. Hasta este día, había negado toda relación con los llamados papeles de Bárcenas, pero después de 18 días en prisión ha decidido cambiar su declaración.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d9ba1ee1-6861-4e59-909a-b9f5fff3f3c1.jpeg"
+        },
+        {
+            "start_time": "20250225211600 +0100",
+            "stop_time": "20250225230049 +0100",
+            "title": "María (y los demás)",
+            "description": "| +16 | Películas |\n\nDesde que murió su madre, María ha cuidado de su padre y de sus hermanos. Responsable y controladora, siempre ha sido el pilar de la familia y se siente orgullosa de ello. Por eso, cuando su padre anuncia que se casa con Cachita, su simpática enfermera, María siente que su mundo se desmorona.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5059598c-3d2d-4389-b7d7-c599f4cdf8fd-snapshot-1590660994.jpeg"
+        },
+        {
+            "start_time": "20250225230050 +0100",
+            "stop_time": "20250226003554 +0100",
+            "title": "Cobardes",
+            "description": "| +16 | Películas |\n\n\"Cobardes\" es la historia de dos chavales de secundaria, uno la víctima y el otro, el verdugo. Guille es, en apariencia, un chico como muchos: buenas notas, buen deportista y con una buena familia. Descubre que actuar de “chulito” le da cierto respeto, por lo que siempre elige a una víctima .",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/9378db55-0bdb-4c31-8312-893677b9dded-snapshot-1590660543.jpeg"
+        },
+        {
+            "start_time": "20250226003555 +0100",
+            "stop_time": "20250226021232 +0100",
+            "title": "Hijo de Caín",
+            "description": "| +16 | Películas |\n\nNico es un adolescente de  extraño carácter, inteligencia excepcional y una obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán. Descubrir la verdad a tiempo será la única opción para evitar que la esencia del mal acabe dominando sus vidas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fdb46729-b070-4c5c-834e-67be34a2ef04.jpeg"
+        },
+        {
+            "start_time": "20250226021233 +0100",
+            "stop_time": "20250226033912 +0100",
+            "title": "¿Qué hicimos mal?",
+            "description": "| +16 | Películas |\n\nLili ha tenido una relación estable durante algunos años. Aunque todo parece funcionar entre su pareja y ella, hay una infelicidad subyacente en su vida cotidiana que la aleja de ser feliz. Liliana revisará su pasado para preguntarse, \"¿qué hicimos mal?\"",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/6cecb5bb-142a-49ea-be2b-9d435fadc4bc-que-hicimos-mal-1645435947.jpeg"
+        },
+        {
+            "start_time": "20250226033913 +0100",
+            "stop_time": "20250226053724 +0100",
+            "title": "La caja Kovak",
+            "description": "| +16 | Películas |\n\nUn escritor de ciencia-ficción llega con su pareja a una Isla de la cual luego no puede salir. Ocurren cosas inexplicables, parece que alguien o algo incita a la gente a quitarse la vida en contra de su voluntad. ",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/62dba5f5-45fc-4d50-9f81-8ce25aa0b519-snapshot-1590659970.jpeg"
+        },
+        {
+            "start_time": "20250226053725 +0100",
+            "stop_time": "20250226072804 +0100",
+            "title": "Alegría tristeza",
+            "description": "| +16 | Películas |\n\nMarcos, Sandra y su hija Lola forman una familia vital y carismática. Marcos, bombero, acostumbrado a vivir situaciones límite, recibirá un duro golpe que hará que su vida dé un giro. Sufrirá entonces un bloqueo que no le permitirá reconocer las emociones de los demás ni empatizar.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/59d472b7-dcb0-4173-9276-39254c0fbec1-snapshot-1590661127.jpeg"
+        },
+        {
+            "start_time": "20250226072805 +0100",
+            "stop_time": "20250226090616 +0100",
+            "title": "Ali (2012)",
+            "description": "| +16 | Películas |\n\nUna adolescente tiene miedo de abrazar todo lo que la vida le ofrece mientras lidia con una madre enferma mental.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d1d9312e-807c-4612-9d38-c8d7cbcbcdc1.jpeg"
+        },
+        {
+            "start_time": "20250226090617 +0100",
+            "stop_time": "20250226110416 +0100",
+            "title": "Héroes",
+            "description": "| +16 | Películas |\n\nUn joven y exitoso publicista, con una vida personal vacía, se dirige a una importante reunión de negocios. Durante el trayecto conoce a una chica con la que conecta rememorando su infancia, lo que hará que el publicista se replantee su modo de vida.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/672333ba-394a-41da-95b4-7720f3984b07-heroes-forever-young-1647535640.jpeg"
+        },
+        {
+            "start_time": "20250226110417 +0100",
+            "stop_time": "20250226124528 +0100",
+            "title": "El amor no es lo que era",
+            "description": "| +16 | Películas |\n\nEste film narra tres historias de amor urbanas. Álex y Lucía se encuentran, empiezan a conocerse y entre ellos surge un romance. Paz y Jorge ven impotentes cómo su relación se apaga sin saber qué hacer. Finalmente, Albert e Irene vuelven a verse tras varios decenios de separación.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/9185e8c0-0ebc-4955-9644-714f6b53c19c.jpeg"
+        },
+        {
+            "start_time": "20250226124529 +0100",
+            "stop_time": "20250226140541 +0100",
+            "title": "Las amigas de Àgata",
+            "description": "| +16 | Películas |\n\nEl largometraje Las amigas de Àgata es el retrato de un grupo de chicas de 20 años a través de la mirada de Àgata durante su primer año de carrera, desde su vida en Barcelona hasta un viaje a la Costa Brava, en el que sentirá cómo se transforma su mundo en común con sus amigas: Carla, Ari y Mar.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/97eeecda-64b5-4610-9ec2-b352dd11a9cf-snapshot-1590660948.jpeg"
+        },
+        {
+            "start_time": "20250226140542 +0100",
+            "stop_time": "20250226160209 +0100",
+            "title": "Rivales",
+            "description": "| +16 | Películas |\n\nEl Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil, eternos rivales, que se enfrentan en una gran final. Durante el viaje al partido, esta comedia coral muestra sus peculiares relaciones familiares, sentimentales y sociales.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/6f5b2cfd-9e87-4b55-bb25-a3d103d9f6e8-rivales-1647604052.jpeg"
+        },
+        {
+            "start_time": "20250226160210 +0100",
+            "stop_time": "20250226175249 +0100",
+            "title": "Alegría tristeza",
+            "description": "| +16 | Películas |\n\nMarcos, Sandra y su hija Lola forman una familia vital y carismática. Marcos, bombero, acostumbrado a vivir situaciones límite, recibirá un duro golpe que hará que su vida dé un giro. Sufrirá entonces un bloqueo que no le permitirá reconocer las emociones de los demás ni empatizar.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/59d472b7-dcb0-4173-9276-39254c0fbec1-snapshot-1590661127.jpeg"
+        },
+        {
+            "start_time": "20250226175250 +0100",
+            "stop_time": "20250226192754 +0100",
+            "title": "La Cima",
+            "description": "| +16 | Películas |\n\nMateo (Javier Rey) se enfrenta por primera vez a la montaña más peligrosa del planeta, el Annapurna, con el reto de llegar hasta la cima y cumplir así una antigua promesa. En su ascenso sufre un accidente que le deja inconsciente y gravemente herido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f22f8bb9-91cc-43bd-9541-a3b1be01eb0f.jpeg"
+        },
+        {
+            "start_time": "20250226192755 +0100",
+            "stop_time": "20250226205937 +0100",
+            "title": "Las que tienen que servir",
+            "description": "| +16 | Películas |\n\nJuana y Francisca están sirviendo en casa de los Stevens, un matrimonio americano. Las muchachas también tienen dos pretendientes americanos destinados en la base americana de Torrejón, amigos de sus señores",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2ba3cfbc-7ee0-4050-b6e3-5e1a0206183d.jpeg"
+        },
+        {
+            "start_time": "20250226205938 +0100",
+            "stop_time": "20250226222433 +0100",
+            "title": "B",
+            "description": "| +16 | Películas |\n\nEl 15 de julio de 2013, el ex-tesorero del Partido Popular, Luis Bárcenas, es trasladado desde la prisión para declarar en la Audiencia Nacional. Hasta este día, había negado toda relación con los llamados papeles de Bárcenas, pero después de 18 días en prisión ha decidido cambiar su declaración.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d9ba1ee1-6861-4e59-909a-b9f5fff3f3c1.jpeg"
+        },
+        {
+            "start_time": "20250226222434 +0100",
+            "stop_time": "20250226235938 +0100",
+            "title": "Cobardes",
+            "description": "| +16 | Películas |\n\n\"Cobardes\" es la historia de dos chavales de secundaria, uno la víctima y el otro, el verdugo. Guille es, en apariencia, un chico como muchos: buenas notas, buen deportista y con una buena familia. Descubre que actuar de “chulito” le da cierto respeto, por lo que siempre elige a una víctima .",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/9378db55-0bdb-4c31-8312-893677b9dded-snapshot-1590660543.jpeg"
+        },
+        {
+            "start_time": "20250226235939 +0100",
+            "stop_time": "20250227015146 +0100",
+            "title": "Cuanto más grande, mejor",
+            "description": "| +16 | Películas |\n\nColoma y Secundina son dos porteras de dos edificios de la calle Caspe. A través de ellas, conoceremos las virtudes y miserias de diversos personajes del barrio.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d410bdf8-a7c1-4260-a1a8-b3cfbd80be45.jpeg"
+        },
+        {
+            "start_time": "20250227015147 +0100",
+            "stop_time": "20250227033601 +0100",
+            "title": "Eloïse",
+            "description": "| +16 | Películas |\n\nAsia, una chica de 18 años, está en el hospital en estado de coma. Su madre y su novio, Nathaniel, la cuidan. Poco a poco iremos viendo los acontecimientos que llevaron a Asia hasta el hospital y sobretodo su sensual relación con Eloïse.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d1ada32a-0bcf-4227-a785-a26b7d7f3a91.jpeg"
+        },
+        {
+            "start_time": "20250227033602 +0100",
+            "stop_time": "20250227051443 +0100",
+            "title": "Concursante",
+            "description": "| +16 | Películas |\n\nÁcida sátira de la sociedad actual. Martín Circo Martín, el afortunado ganador del mayor concurso de la historia de la televisión, recibe un premio valorado en tres millones de euros. Sin embargo, el golpe de suerte de Martín dará un vuelco a su vida convirtiéndola en una auténtica pesadilla.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0b65ba1c-9599-4e68-9b8c-e8a1d69705de.jpeg"
+        },
+        {
+            "start_time": "20250227051444 +0100",
+            "stop_time": "20250227063856 +0100",
+            "title": "La maniobra de Heimlich",
+            "description": "| +16 | Películas |\n\nA pesar de que Alex escribió un exitazo de libro acerca de técnicas de primeros auxilios su vida atenta constantemente con caer en un ahogo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1d317f2e-ffb4-4f53-b4fa-ef82ada7435c.jpeg"
+        },
+        {
+            "start_time": "20250227063857 +0100",
+            "stop_time": "20250227081525 +0100",
+            "title": "Un soltero con mucha cuerda",
+            "description": "| +16 | Películas |\n\nBrian es un hombre mujeriego y vividor que se ha enamorado de Linda pero no quiere renunciar a su vida de soltero. Linda no está dispuesta a aguantar esta situación, así que un día, con la ayuda de sus dos compañeras de piso, deciden dar un escarmiento a Brian haciéndole prisionero.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/e9c07ff3-e9ed-4e62-88a4-cf88160d2efc.jpeg"
+        },
+        {
+            "start_time": "20250227081526 +0100",
+            "stop_time": "20250227095843 +0100",
+            "title": "A la pálida luz de la luna",
+            "description": "| +16 | Películas |\n\nCarmen abandona a su marido Julio para irse a vivir con un intelectual que ha hecho carrera en Estados Unidos. Julio se marcha a vivir de alquiler a casa de un aristócrata venido a menos. A partir de entonces conocerá toda una serie de pintorescos personajes de la picaresca madrileña",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/7c59ed0d-4a25-4943-b8cb-7cf314e93d11.jpeg"
+        },
+        {
+            "start_time": "20250227095844 +0100",
+            "stop_time": "20250227113955 +0100",
+            "title": "El amor no es lo que era",
+            "description": "| +16 | Películas |\n\nEste film narra tres historias de amor urbanas. Álex y Lucía se encuentran, empiezan a conocerse y entre ellos surge un romance. Paz y Jorge ven impotentes cómo su relación se apaga sin saber qué hacer. Finalmente, Albert e Irene vuelven a verse tras varios decenios de separación.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/9185e8c0-0ebc-4955-9644-714f6b53c19c.jpeg"
+        },
+        {
+            "start_time": "20250227113956 +0100",
+            "stop_time": "20250227132904 +0100",
+            "title": "Los días que vendrán",
+            "description": "| +16 | Películas |\n\nVir (30) y Lluís (32) hace solo un año que salen juntos, cuando descubren que están “embarazados”. Durante 9 meses, seguiremos la aventura de esta joven pareja barcelonesa, el giro enorme que dará su vida, sus miedos, alegrías y las realidades que, durante su embarazo, crecen ante ellos.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/17a74e9c-45f6-4cd9-a378-1ec82ebd276a-snapshot-1590667490.jpeg"
+        },
+        {
+            "start_time": "20250227132905 +0100",
+            "stop_time": "20250227151354 +0100",
+            "title": "María (y los demás)",
+            "description": "| +16 | Películas |\n\nDesde que murió su madre, María ha cuidado de su padre y de sus hermanos. Responsable y controladora, siempre ha sido el pilar de la familia y se siente orgullosa de ello. Por eso, cuando su padre anuncia que se casa con Cachita, su simpática enfermera, María siente que su mundo se desmorona.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5059598c-3d2d-4389-b7d7-c599f4cdf8fd-snapshot-1590660994.jpeg"
+        },
+        {
+            "start_time": "20250227151355 +0100",
+            "stop_time": "20250227164044 +0100",
+            "title": "El apóstata",
+            "description": "| +16 | Películas |\n\nPremio FIPRESCI del Festival de San Sebastián 2015. \"El apóstata\" es una comedia dramática que repasa las cicatrices de un joven que desea emanciparse de aquello que se escapa de su control, a la vez que dispara contra sí mismo y con un afán cínico en algunas cuestiones de fe, de culpa y de deseo.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/2a7705e1-ded9-45c7-bd3f-7c0f57f74ff5.jpeg"
+        },
+        {
+            "start_time": "20250227164045 +0100",
+            "stop_time": "20250227180057 +0100",
+            "title": "Las amigas de Àgata",
+            "description": "| +16 | Películas |\n\nEl largometraje Las amigas de Àgata es el retrato de un grupo de chicas de 20 años a través de la mirada de Àgata durante su primer año de carrera, desde su vida en Barcelona hasta un viaje a la Costa Brava, en el que sentirá cómo se transforma su mundo en común con sus amigas: Carla, Ari y Mar.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/97eeecda-64b5-4610-9ec2-b352dd11a9cf-snapshot-1590660948.jpeg"
+        },
+        {
+            "start_time": "20250227180058 +0100",
+            "stop_time": "20250227194412 +0100",
+            "title": "Amor a la española",
+            "description": "| +16 | Películas |\n\nLa película refleja las peripecias de un grupo de españoles para hacerse con los favores de las numerosas jóvenes extranjeras que veranean en la ciudad de Torremolinos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/b90a6859-ec1e-4803-bca7-df7d725d1fad.jpeg"
+        },
+        {
+            "start_time": "20250227194413 +0100",
+            "stop_time": "20250227211917 +0100",
+            "title": "La Cima",
+            "description": "| +16 | Películas |\n\nMateo (Javier Rey) se enfrenta por primera vez a la montaña más peligrosa del planeta, el Annapurna, con el reto de llegar hasta la cima y cumplir así una antigua promesa. En su ascenso sufre un accidente que le deja inconsciente y gravemente herido.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/f22f8bb9-91cc-43bd-9541-a3b1be01eb0f.jpeg"
+        },
+        {
+            "start_time": "20250227211918 +0100",
+            "stop_time": "20250227225546 +0100",
+            "title": "Un soltero con mucha cuerda",
+            "description": "| +16 | Películas |\n\nBrian es un hombre mujeriego y vividor que se ha enamorado de Linda pero no quiere renunciar a su vida de soltero. Linda no está dispuesta a aguantar esta situación, así que un día, con la ayuda de sus dos compañeras de piso, deciden dar un escarmiento a Brian haciéndole prisionero.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/e9c07ff3-e9ed-4e62-88a4-cf88160d2efc.jpeg"
+        },
+        {
+            "start_time": "20250227225547 +0100",
+            "stop_time": "20250228005358 +0100",
+            "title": "La caja Kovak",
+            "description": "| +16 | Películas |\n\nUn escritor de ciencia-ficción llega con su pareja a una Isla de la cual luego no puede salir. Ocurren cosas inexplicables, parece que alguien o algo incita a la gente a quitarse la vida en contra de su voluntad. ",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/62dba5f5-45fc-4d50-9f81-8ce25aa0b519-snapshot-1590659970.jpeg"
+        },
+        {
+            "start_time": "20250228005359 +0100",
+            "stop_time": "20250228023036 +0100",
+            "title": "Hijo de Caín",
+            "description": "| +16 | Películas |\n\nNico es un adolescente de  extraño carácter, inteligencia excepcional y una obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán. Descubrir la verdad a tiempo será la única opción para evitar que la esencia del mal acabe dominando sus vidas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fdb46729-b070-4c5c-834e-67be34a2ef04.jpeg"
+        },
+        {
+            "start_time": "20250228023037 +0100",
+            "stop_time": "20250228041424 +0100",
+            "title": "Embrión",
+            "description": "| +16 | Películas |\n\nAtormentado por los abusos sexuales que sufrió en el pasado, Carlos, un joven con problemas mentales, secuestra a una chica que trabaja con él. Ambos se enfrentan a una tensión sexual y a una violencia que desafiará su visión de la vida.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/033fbd14-cf74-49ba-bee8-a84e3a0e31d5.jpeg"
+        },
+        {
+            "start_time": "20250228041425 +0100",
+            "stop_time": "20250228055306 +0100",
+            "title": "Concursante",
+            "description": "| +16 | Películas |\n\nÁcida sátira de la sociedad actual. Martín Circo Martín, el afortunado ganador del mayor concurso de la historia de la televisión, recibe un premio valorado en tres millones de euros. Sin embargo, el golpe de suerte de Martín dará un vuelco a su vida convirtiéndola en una auténtica pesadilla.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0b65ba1c-9599-4e68-9b8c-e8a1d69705de.jpeg"
+        },
+        {
+            "start_time": "20250228055307 +0100",
+            "stop_time": "20250228074934 +0100",
+            "title": "Rivales",
+            "description": "| +16 | Películas |\n\nEl Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil, eternos rivales, que se enfrentan en una gran final. Durante el viaje al partido, esta comedia coral muestra sus peculiares relaciones familiares, sentimentales y sociales.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/6f5b2cfd-9e87-4b55-bb25-a3d103d9f6e8-rivales-1647604052.jpeg"
+        },
+        {
+            "start_time": "20250228074935 +0100",
+            "stop_time": "20250228092117 +0100",
+            "title": "Las que tienen que servir",
+            "description": "| +16 | Películas |\n\nJuana y Francisca están sirviendo en casa de los Stevens, un matrimonio americano. Las muchachas también tienen dos pretendientes americanos destinados en la base americana de Torrejón, amigos de sus señores",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2ba3cfbc-7ee0-4050-b6e3-5e1a0206183d.jpeg"
+        },
+        {
+            "start_time": "20250228092118 +0100",
+            "stop_time": "20250228110121 +0100",
+            "title": "Los que tocan el piano",
+            "description": "| +16 | Películas |\n\nCayetana, su novio Paco y Venancio, su hermano de leche, cometen pequeños hurtos y, de vez en cuando, pasan unos días en la cárcel",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8c3a82ba-a7fa-4c45-b0f1-221156876ce0.jpeg"
+        },
+        {
+            "start_time": "20250228110122 +0100",
+            "stop_time": "20250228124611 +0100",
+            "title": "María (y los demás)",
+            "description": "| +16 | Películas |\n\nDesde que murió su madre, María ha cuidado de su padre y de sus hermanos. Responsable y controladora, siempre ha sido el pilar de la familia y se siente orgullosa de ello. Por eso, cuando su padre anuncia que se casa con Cachita, su simpática enfermera, María siente que su mundo se desmorona.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5059598c-3d2d-4389-b7d7-c599f4cdf8fd-snapshot-1590660994.jpeg"
+        },
+        {
+            "start_time": "20250228124612 +0100",
+            "stop_time": "20250228143520 +0100",
+            "title": "Los días que vendrán",
+            "description": "| +16 | Películas |\n\nVir (30) y Lluís (32) hace solo un año que salen juntos, cuando descubren que están “embarazados”. Durante 9 meses, seguiremos la aventura de esta joven pareja barcelonesa, el giro enorme que dará su vida, sus miedos, alegrías y las realidades que, durante su embarazo, crecen ante ellos.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/17a74e9c-45f6-4cd9-a378-1ec82ebd276a-snapshot-1590667490.jpeg"
+        },
+        {
+            "start_time": "20250228143521 +0100",
+            "stop_time": "20250228161332 +0100",
+            "title": "Ali (2012)",
+            "description": "| +16 | Películas |\n\nUna adolescente tiene miedo de abrazar todo lo que la vida le ofrece mientras lidia con una madre enferma mental.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/d1d9312e-807c-4612-9d38-c8d7cbcbcdc1.jpeg"
+        },
+        {
+            "start_time": "20250228161333 +0100",
+            "stop_time": "20250228181000 +0100",
+            "title": "Rivales",
+            "description": "| +16 | Películas |\n\nEl Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil, eternos rivales, que se enfrentan en una gran final. Durante el viaje al partido, esta comedia coral muestra sus peculiares relaciones familiares, sentimentales y sociales.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/6f5b2cfd-9e87-4b55-bb25-a3d103d9f6e8-rivales-1647604052.jpeg"
+        },
+        {
+            "start_time": "20250228181001 +0100",
+            "stop_time": "20250228194629 +0100",
+            "title": "Un soltero con mucha cuerda",
+            "description": "| +16 | Películas |\n\nBrian es un hombre mujeriego y vividor que se ha enamorado de Linda pero no quiere renunciar a su vida de soltero. Linda no está dispuesta a aguantar esta situación, así que un día, con la ayuda de sus dos compañeras de piso, deciden dar un escarmiento a Brian haciéndole prisionero.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/e9c07ff3-e9ed-4e62-88a4-cf88160d2efc.jpeg"
+        },
+        {
+            "start_time": "20250228194630 +0100",
+            "stop_time": "20250228211840 +0100",
+            "title": "Kënu",
+            "description": "| +16 | Películas |\n\nEn un pueblo del sur de Senegal, Mamadou controla el tráfico ilegal de cayucos y de droga con destino a Europa. Dos miembros de una ONG llegan para ayudar al pueblo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/724c8d94-73e0-42a7-958f-f0d9dae51247.jpeg"
+        },
+        {
+            "start_time": "20250228211841 +0100",
+            "stop_time": "20250228223853 +0100",
+            "title": "Las amigas de Àgata",
+            "description": "| +16 | Películas |\n\nEl largometraje Las amigas de Àgata es el retrato de un grupo de chicas de 20 años a través de la mirada de Àgata durante su primer año de carrera, desde su vida en Barcelona hasta un viaje a la Costa Brava, en el que sentirá cómo se transforma su mundo en común con sus amigas: Carla, Ari y Mar.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/97eeecda-64b5-4610-9ec2-b352dd11a9cf-snapshot-1590660948.jpeg"
+        },
+        {
+            "start_time": "20250228223854 +0100",
+            "stop_time": "20250301000306 +0100",
+            "title": "La maniobra de Heimlich",
+            "description": "| +16 | Películas |\n\nA pesar de que Alex escribió un exitazo de libro acerca de técnicas de primeros auxilios su vida atenta constantemente con caer en un ahogo.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1d317f2e-ffb4-4f53-b4fa-ef82ada7435c.jpeg"
+        },
+        {
+            "start_time": "20250301000307 +0100",
+            "stop_time": "20250301013944 +0100",
+            "title": "Hijo de Caín",
+            "description": "| +16 | Películas |\n\nNico es un adolescente de  extraño carácter, inteligencia excepcional y una obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán. Descubrir la verdad a tiempo será la única opción para evitar que la esencia del mal acabe dominando sus vidas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fdb46729-b070-4c5c-834e-67be34a2ef04.jpeg"
+        },
+        {
+            "start_time": "20250301013945 +0100",
+            "stop_time": "20250301032332 +0100",
+            "title": "Embrión",
+            "description": "| +16 | Películas |\n\nAtormentado por los abusos sexuales que sufrió en el pasado, Carlos, un joven con problemas mentales, secuestra a una chica que trabaja con él. Ambos se enfrentan a una tensión sexual y a una violencia que desafiará su visión de la vida.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/033fbd14-cf74-49ba-bee8-a84e3a0e31d5.jpeg"
+        },
+        {
+            "start_time": "20250301032333 +0100",
+            "stop_time": "20250301050839 +0100",
+            "title": "Chuecatown",
+            "description": "| +16 | Películas |\n\nEn el barrio gay de Chueca aparecen asesinadas varias ancianas. El criminal es el dueño de una inmobiliaria que quiere convertir Chueca en un barrio “modelo”. Ancianas, asesinatos y especulación inmobiliaria en una original comedia. ",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/3d5a4fd0-ec10-4548-b59b-30f09ebd9b36-snapshot-1590659971.jpeg"
+        },
+        {
+            "start_time": "20250301050840 +0100",
+            "stop_time": "20250301065154 +0100",
+            "title": "Amor a la española",
+            "description": "| +16 | Películas |\n\nLa película refleja las peripecias de un grupo de españoles para hacerse con los favores de las numerosas jóvenes extranjeras que veranean en la ciudad de Torremolinos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/b90a6859-ec1e-4803-bca7-df7d725d1fad.jpeg"
+        },
+        {
+            "start_time": "20250301065155 +0100",
+            "stop_time": "20250301065959 +0100",
+            "title": "Volvemos pronto con más contenido",
+            "description": "| +16 | Películas |\n\n¡Estamos recuperando el sueño perdido! Permanece atento a la magnífica selección de entretenimiento de Rakuten TV.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070000 +0100",
+            "stop_time": "20250301084506 +0100",
+            "title": "Benidorm mon amour",
+            "description": "| +16 | Películas |\n\nTonet aprovecha un permiso de la mili para ir en coche con sus amigos Sento, Jaume y Tomy a Benidorm. Sueñan con disfrutar unos días del sol, las playas y, sobre todo, de las suecas y sus biquinis.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5178a363-b4ae-4be1-94ce-20252108bb5b.jpeg"
+        },
+        {
+            "start_time": "20250301084507 +0100",
+            "stop_time": "20250301102135 +0100",
+            "title": "Un soltero con mucha cuerda",
+            "description": "| +16 | Películas |\n\nBrian es un hombre mujeriego y vividor que se ha enamorado de Linda pero no quiere renunciar a su vida de soltero. Linda no está dispuesta a aguantar esta situación, así que un día, con la ayuda de sus dos compañeras de piso, deciden dar un escarmiento a Brian haciéndole prisionero.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/e9c07ff3-e9ed-4e62-88a4-cf88160d2efc.jpeg"
+        },
+        {
+            "start_time": "20250301102136 +0100",
+            "stop_time": "20250301114914 +0100",
+            "title": "Amalia en el otoño",
+            "description": "| +16 | Películas |\n\nIsabel está preocupada por su madre Amalia, en una residencia.. Poco después, la COVID-19 aparece en la vida de todos.",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/a01c812a-de49-404e-8d5c-d0deda2b5516.jpeg"
+        },
+        {
+            "start_time": "20250301114915 +0100",
+            "stop_time": "20250301132240 +0100",
+            "title": "Tapas",
+            "description": "| +16 | Películas |\n\nJosé Corbacho y Juan Cruz dirigen su primer largometraje, que ganó dos Premios Goya (Dirección Novel y Actriz de Reparto), basándose en cinco historias que se entrelazan en un barrio de la gran ciudad. Cinco mundos unidos en el día a día, con el bar, los comercios y el mercado como punto neurálgico.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/438e6921-7738-4535-9d8f-5fc397ca53c9-snapshot-1590660136.jpeg"
+        },
+        {
+            "start_time": "20250301132241 +0100",
+            "stop_time": "20250301150151 +0100",
+            "title": "Año de Gracia",
+            "description": "| +16 | Películas |\n\nGràcia es una mujer de sesenta y pico años que vive sola y se siente muy abandonada. La pesada soledad le acerca hasta David, un joven estudiante de veinte años a quien ofrece una habitación en su casa a cambio de algo que no tiene y que le hace mucha falta.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/1d144b93-4ab8-4f14-86bb-42d6bb10a19c.jpeg"
+        },
+        {
+            "start_time": "20250301150152 +0100",
+            "stop_time": "20250301164155 +0100",
+            "title": "Los que tocan el piano",
+            "description": "| +16 | Películas |\n\nCayetana, su novio Paco y Venancio, su hermano de leche, cometen pequeños hurtos y, de vez en cuando, pasan unos días en la cárcel",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8c3a82ba-a7fa-4c45-b0f1-221156876ce0.jpeg"
+        },
+        {
+            "start_time": "20250301164156 +0100",
+            "stop_time": "20250301180651 +0100",
+            "title": "B",
+            "description": "| +16 | Películas |\n\nEl 15 de julio de 2013, el ex-tesorero del Partido Popular, Luis Bárcenas, es trasladado desde la prisión para declarar en la Audiencia Nacional. Hasta este día, había negado toda relación con los llamados papeles de Bárcenas, pero después de 18 días en prisión ha decidido cambiar su declaración.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d9ba1ee1-6861-4e59-909a-b9f5fff3f3c1.jpeg"
+        },
+        {
+            "start_time": "20250301180652 +0100",
+            "stop_time": "20250301195158 +0100",
+            "title": "Benidorm mon amour",
+            "description": "| +16 | Películas |\n\nTonet aprovecha un permiso de la mili para ir en coche con sus amigos Sento, Jaume y Tomy a Benidorm. Sueñan con disfrutar unos días del sol, las playas y, sobre todo, de las suecas y sus biquinis.",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5178a363-b4ae-4be1-94ce-20252108bb5b.jpeg"
+        },
+        {
+            "start_time": "20250301195159 +0100",
+            "stop_time": "20250301212341 +0100",
+            "title": "Las que tienen que servir",
+            "description": "| +16 | Películas |\n\nJuana y Francisca están sirviendo en casa de los Stevens, un matrimonio americano. Las muchachas también tienen dos pretendientes americanos destinados en la base americana de Torrejón, amigos de sus señores",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2ba3cfbc-7ee0-4050-b6e3-5e1a0206183d.jpeg"
+        },
+        {
+            "start_time": "20250301212342 +0100",
+            "stop_time": "20250301225318 +0100",
+            "title": "El sueño de Valentín",
+            "description": "| +16 | Películas |\n\n1960, Buenos Aires. Valentín es un niño de nueve años que vive con su abuela. Su madre desapareció cuando él tenía tres años y su padre es un hombre descontrolado e incapaz de asumir responsabilidades. Valentín es un niño solitario que busca constantemente amor y cariño.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c45dadfe-c072-4897-8c85-074e7d4fefab-snapshot-1590664648.jpeg"
+        },
+        {
+            "start_time": "20250301225319 +0100",
+            "stop_time": "20250302001958 +0100",
+            "title": "¿Qué hicimos mal?",
+            "description": "| +16 | Películas |\n\nLili ha tenido una relación estable durante algunos años. Aunque todo parece funcionar entre su pareja y ella, hay una infelicidad subyacente en su vida cotidiana que la aleja de ser feliz. Liliana revisará su pasado para preguntarse, \"¿qué hicimos mal?\"",
+            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/6cecb5bb-142a-49ea-be2b-9d435fadc4bc-que-hicimos-mal-1645435947.jpeg"
+        },
+        {
+            "start_time": "20250302001959 +0100",
+            "stop_time": "20250302021810 +0100",
+            "title": "La caja Kovak",
+            "description": "| +16 | Películas |\n\nUn escritor de ciencia-ficción llega con su pareja a una Isla de la cual luego no puede salir. Ocurren cosas inexplicables, parece que alguien o algo incita a la gente a quitarse la vida en contra de su voluntad. ",
+            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/62dba5f5-45fc-4d50-9f81-8ce25aa0b519-snapshot-1590659970.jpeg"
+        },
+        {
+            "start_time": "20250302021811 +0100",
+            "stop_time": "20250302034710 +0100",
+            "title": "Iceberg",
+            "description": "| +16 | Películas |\n\nMirada sobre las primeras decisiones que marcan la adolescencia sin adultos de los protagonistas. Entre en \"Kids\" de Larry Clark y en \"Elephant\" de Gus Van Sant, Velázquez nos pone ante tres historias en las que sólo asoma una punta, como en un iceberg.",
+            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/29f70609-b1b3-4501-8a09-42f3a1bc102c.jpeg"
+        },
+        {
+            "start_time": "20250302034711 +0100",
+            "stop_time": "20250302054556 +0100",
+            "title": "Nubes De Cartón",
+            "description": "| +16 | Películas |\n\nMiguel es un mendigo aislado de la sociedad, que sobrevive en la calles, tras la muerte de su madre. Su hermana menor Irene es lo único que le queda, pero ella le odia por todos los errores que cometió, en un oscuro pasado envuelto en alcohol y drogas.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/2addfb59-3004-4d2d-93ad-06900fd82f28-nubes-de-carton-1649243498.jpeg"
+        },
+        {
+            "start_time": "20250302054557 +0100",
+            "stop_time": "20250302073636 +0100",
+            "title": "Alegría tristeza",
+            "description": "| +16 | Películas |\n\nMarcos, Sandra y su hija Lola forman una familia vital y carismática. Marcos, bombero, acostumbrado a vivir situaciones límite, recibirá un duro golpe que hará que su vida dé un giro. Sufrirá entonces un bloqueo que no le permitirá reconocer las emociones de los demás ni empatizar.",
+            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/59d472b7-dcb0-4173-9276-39254c0fbec1-snapshot-1590661127.jpeg"
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/cineespañol-spanish-cinema-rakuten-tv.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

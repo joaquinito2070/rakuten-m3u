@@ -4,10 +4,10 @@
     "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82d122d3-c771-44b5-b15f-0ce7cf6bbd1f.jpeg",
     "group_title": "Crimen y Misterio",
     "original_master_url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6735&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=42e80e7c-138f-4c77-9fbe-c91cacea91dc&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/crimenes-reales/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17de30033f545d7a9d1b8c291cc6df2ffe4c3d75127c87cbb07d8ccc1a08b38b082a79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81669af1814b3c12d9c8a5a99b6ee6fde01d922fb05a7baa1df907fc0c2d70cfa08ec200c56364295817794dc5cb1dfe80c53ff62384744178cd992fa5d0385484d48fdf1df8066f312dd9a2c876934ba1491408a42ee01c858f1bb34cadcbadb517e38a9c55c6818a3eda184f5303fcf0391c1b0852a26e19c7b7943da52dc273d3193f8f4009dd310e4d349e6a36c1f62b2fb2f9a99a1bce2b19f419931b8a39efa385114166e6c8759b1a569de3fd47badf11f2c483f27c7fb049efab32c31665cb9924ac22c18b6d59f86d11a04c364693c82048f0c5639964e0611e429eaa5297f8c3435912c2dfe2a5cea25eab13ffcb3d4f75c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba41e59c8b236f9061d3fb51815c8a5d7336c01381463516d20cb5315bd/168/640x360_1057680/index.m3u8",
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4ddf37036d07097a9d1b8c2a1cc6df2ffe4c3c7f417087c9b47e8acd475ce7df0b2c2cb968247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35466ffb20b8d750cb1938c357a120e0ad9040eb0cf02febbc36e7fe96daba52674c47b0688c21d9dbb58f2c08179ba79a436ad45d4c7b2cb8247d7e9cc3afd15ed3805025717f0817d80f64fa2cc936d4bf41b4e144904bef6caa43456eb46474fc7ead8ba77c007d79920f3095ddc16915c8d248579f071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1de83af72788ac9066c51f66ed72c3f3d9ee9f41d80b173fcd275d2e73c4742aae0449f8e8d82e2b18a43a326c2c6fa96384e3c066e61df05fbc02cb151dc7cbbf101354a7247a29441c188cd613c634181955fd31669dcb1e890cf0f61bb0a7c5bec73e65e0b7abe520618f53ff69e661ee34c0b812602f659278b47e8ca489fc5def65c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d9cfb0abb786371a61d8ee5599ac004e8bebf00323b0f5c8be5321d7/33/640x360_1057680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1057680",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17de30033f545d7a9d1b8c291cc6df2ffe4c3d75127c87cbb07d8ccc1a08b38b082a79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81669af1814b3c12d9c8a5a99b6ee6fde01d922fb05a7baa1df907fc0c2d70cfa08ec200c56364295817794dc5cb1dfe80c53ff62384744178cd992fa5d0385484d48fdf1df8066f312dd9a2c876934ba1491408a42ee01c858f1bb34cadcbadb517e38a9c55c6818a3eda184f5303fcf0391c1b0852a26e19c7b7943da52dc273d3193f8f4009dd310e4d349e6a36c1f62b2fb2f9a99a1bce2b19f419931b8a39efa385114166e6c8759b1a569de3fd47badf11f2c483f27c7fb049efab32c31665cb9924ac22c18b6d59f86d11a04c364693c82048f0c5639964e0611e429eaa5297f8c3435912c2dfe2a5cea25eab13ffcb3d4f75c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba41e59c8b236f9061d3fb51815c8a5d7336c01381463516d20cb5315bd/168/848x480_1686360/index.m3u8",
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4ddf37036d07097a9d1b8c2a1cc6df2ffe4c3c7f417087c9b47e8acd475ce7df0b2c2cb968247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35466ffb20b8d750cb1938c357a120e0ad9040eb0cf02febbc36e7fe96daba52674c47b0688c21d9dbb58f2c08179ba79a436ad45d4c7b2cb8247d7e9cc3afd15ed3805025717f0817d80f64fa2cc936d4bf41b4e144904bef6caa43456eb46474fc7ead8ba77c007d79920f3095ddc16915c8d248579f071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1de83af72788ac9066c51f66ed72c3f3d9ee9f41d80b173fcd275d2e73c4742aae0449f8e8d82e2b18a43a326c2c6fa96384e3c066e61df05fbc02cb151dc7cbbf101354a7247a29441c188cd613c634181955fd31669dcb1e890cf0f61bb0a7c5bec73e65e0b7abe520618f53ff69e661ee34c0b812602f659278b47e8ca489fc5def65c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d9cfb0abb786371a61d8ee5599ac004e8bebf00323b0f5c8be5321d7/33/848x480_1686360/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1686360",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17de30033f545d7a9d1b8c291cc6df2ffe4c3d75127c87cbb07d8ccc1a08b38b082a79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81669af1814b3c12d9c8a5a99b6ee6fde01d922fb05a7baa1df907fc0c2d70cfa08ec200c56364295817794dc5cb1dfe80c53ff62384744178cd992fa5d0385484d48fdf1df8066f312dd9a2c876934ba1491408a42ee01c858f1bb34cadcbadb517e38a9c55c6818a3eda184f5303fcf0391c1b0852a26e19c7b7943da52dc273d3193f8f4009dd310e4d349e6a36c1f62b2fb2f9a99a1bce2b19f419931b8a39efa385114166e6c8759b1a569de3fd47badf11f2c483f27c7fb049efab32c31665cb9924ac22c18b6d59f86d11a04c364693c82048f0c5639964e0611e429eaa5297f8c3435912c2dfe2a5cea25eab13ffcb3d4f75c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba41e59c8b236f9061d3fb51815c8a5d7336c01381463516d20cb5315bd/168/1280x720_3329040/index.m3u8",
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4ddf37036d07097a9d1b8c2a1cc6df2ffe4c3c7f417087c9b47e8acd475ce7df0b2c2cb968247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35466ffb20b8d750cb1938c357a120e0ad9040eb0cf02febbc36e7fe96daba52674c47b0688c21d9dbb58f2c08179ba79a436ad45d4c7b2cb8247d7e9cc3afd15ed3805025717f0817d80f64fa2cc936d4bf41b4e144904bef6caa43456eb46474fc7ead8ba77c007d79920f3095ddc16915c8d248579f071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1de83af72788ac9066c51f66ed72c3f3d9ee9f41d80b173fcd275d2e73c4742aae0449f8e8d82e2b18a43a326c2c6fa96384e3c066e61df05fbc02cb151dc7cbbf101354a7247a29441c188cd613c634181955fd31669dcb1e890cf0f61bb0a7c5bec73e65e0b7abe520618f53ff69e661ee34c0b812602f659278b47e8ca489fc5def65c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d9cfb0abb786371a61d8ee5599ac004e8bebf00323b0f5c8be5321d7/33/1280x720_3329040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3329040",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c17de30033f545d7a9d1b8c291cc6df2ffe4c3d75127c87cbb07d8ccc1a08b38b082a79b96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758188e75868291930dd191bbcf47c9bc5d75f42d964a4b81669af1814b3c12d9c8a5a99b6ee6fde01d922fb05a7baa1df907fc0c2d70cfa08ec200c56364295817794dc5cb1dfe80c53ff62384744178cd992fa5d0385484d48fdf1df8066f312dd9a2c876934ba1491408a42ee01c858f1bb34cadcbadb517e38a9c55c6818a3eda184f5303fcf0391c1b0852a26e19c7b7943da52dc273d3193f8f4009dd310e4d349e6a36c1f62b2fb2f9a99a1bce2b19f419931b8a39efa385114166e6c8759b1a569de3fd47badf11f2c483f27c7fb049efab32c31665cb9924ac22c18b6d59f86d11a04c364693c82048f0c5639964e0611e429eaa5297f8c3435912c2dfe2a5cea25eab13ffcb3d4f75c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba41e59c8b236f9061d3fb51815c8a5d7336c01381463516d20cb5315bd/168/1920x1080_6046040/index.m3u8",
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4ddf37036d07097a9d1b8c2a1cc6df2ffe4c3c7f417087c9b47e8acd475ce7df0b2c2cb968247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35466ffb20b8d750cb1938c357a120e0ad9040eb0cf02febbc36e7fe96daba52674c47b0688c21d9dbb58f2c08179ba79a436ad45d4c7b2cb8247d7e9cc3afd15ed3805025717f0817d80f64fa2cc936d4bf41b4e144904bef6caa43456eb46474fc7ead8ba77c007d79920f3095ddc16915c8d248579f071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1de83af72788ac9066c51f66ed72c3f3d9ee9f41d80b173fcd275d2e73c4742aae0449f8e8d82e2b18a43a326c2c6fa96384e3c066e61df05fbc02cb151dc7cbbf101354a7247a29441c188cd613c634181955fd31669dcb1e890cf0f61bb0a7c5bec73e65e0b7abe520618f53ff69e661ee34c0b812602f659278b47e8ca489fc5def65c61dfaec646ec50fca118d7f70fa0633b660bb7806a3501182fd5b63608677a8e14b78bccac230a57bbba94f8c25675046046510d88e7e629ca8ac31bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d9cfb0abb786371a61d8ee5599ac004e8bebf00323b0f5c8be5321d7/33/1920x1080_6046040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "6046040",
@@ -51,6 +51,1184 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/crímenesreales-crimenes-reales.json"
+    "epg": [
+        {
+            "start_time": "20250224154335 +0100",
+            "stop_time": "20250224163530 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224163531 +0100",
+            "stop_time": "20250224172801 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224172802 +0100",
+            "stop_time": "20250224182314 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224182315 +0100",
+            "stop_time": "20250224191808 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224191809 +0100",
+            "stop_time": "20250224201004 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224201005 +0100",
+            "stop_time": "20250224210235 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210236 +0100",
+            "stop_time": "20250224215706 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224215707 +0100",
+            "stop_time": "20250224225125 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224225126 +0100",
+            "stop_time": "20250224234627 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224234628 +0100",
+            "stop_time": "20250225003911 +0100",
+            "title": "Ted Bundy serial monster Ep 3",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225003912 +0100",
+            "stop_time": "20250225013735 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013736 +0100",
+            "stop_time": "20250225023626 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225023627 +0100",
+            "stop_time": "20250225032921 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225032922 +0100",
+            "stop_time": "20250225042410 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225042411 +0100",
+            "stop_time": "20250225051922 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225051923 +0100",
+            "stop_time": "20250225061416 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225061417 +0100",
+            "stop_time": "20250225070711 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070712 +0100",
+            "stop_time": "20250225080200 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080201 +0100",
+            "stop_time": "20250225090024 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090025 +0100",
+            "stop_time": "20250225095916 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225095917 +0100",
+            "stop_time": "20250225105417 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225105418 +0100",
+            "stop_time": "20250225114701 +0100",
+            "title": "Ted Bundy serial monster Ep 3",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225114702 +0100",
+            "stop_time": "20250225124133 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225124134 +0100",
+            "stop_time": "20250225133552 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225133553 +0100",
+            "stop_time": "20250225142748 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225142749 +0100",
+            "stop_time": "20250225152019 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225152020 +0100",
+            "stop_time": "20250225161531 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225161532 +0100",
+            "stop_time": "20250225171025 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225171026 +0100",
+            "stop_time": "20250225180320 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180321 +0100",
+            "stop_time": "20250225185809 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225185810 +0100",
+            "stop_time": "20250225195321 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225195322 +0100",
+            "stop_time": "20250225204815 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225204816 +0100",
+            "stop_time": "20250225214011 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225214012 +0100",
+            "stop_time": "20250225223242 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223243 +0100",
+            "stop_time": "20250225232714 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225232715 +0100",
+            "stop_time": "20250226002133 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002134 +0100",
+            "stop_time": "20250226011635 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226011636 +0100",
+            "stop_time": "20250226020918 +0100",
+            "title": "Ted Bundy serial monster Ep 3",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020919 +0100",
+            "stop_time": "20250226030743 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030744 +0100",
+            "stop_time": "20250226040634 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040635 +0100",
+            "stop_time": "20250226045928 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226045929 +0100",
+            "stop_time": "20250226060204 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060205 +0100",
+            "stop_time": "20250226070028 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070029 +0100",
+            "stop_time": "20250226075919 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226075920 +0100",
+            "stop_time": "20250226085421 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226085422 +0100",
+            "stop_time": "20250226094705 +0100",
+            "title": "Ted Bundy serial monster Ep 3",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226094706 +0100",
+            "stop_time": "20250226104136 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226104137 +0100",
+            "stop_time": "20250226113556 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226113557 +0100",
+            "stop_time": "20250226122751 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226122752 +0100",
+            "stop_time": "20250226132022 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226132023 +0100",
+            "stop_time": "20250226141535 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226141536 +0100",
+            "stop_time": "20250226151029 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226151030 +0100",
+            "stop_time": "20250226160323 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160324 +0100",
+            "stop_time": "20250226165813 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226165814 +0100",
+            "stop_time": "20250226175637 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226175638 +0100",
+            "stop_time": "20250226185528 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226185529 +0100",
+            "stop_time": "20250226194822 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226194823 +0100",
+            "stop_time": "20250226204312 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226204313 +0100",
+            "stop_time": "20250226213824 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213825 +0100",
+            "stop_time": "20250226223318 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226223319 +0100",
+            "stop_time": "20250226232514 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226232515 +0100",
+            "stop_time": "20250227001745 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227001746 +0100",
+            "stop_time": "20250227011217 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227011218 +0100",
+            "stop_time": "20250227020636 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020637 +0100",
+            "stop_time": "20250227030138 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030139 +0100",
+            "stop_time": "20250227035421 +0100",
+            "title": "Ted Bundy serial monster Ep 3",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227035422 +0100",
+            "stop_time": "20250227045246 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227045247 +0100",
+            "stop_time": "20250227060023 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060024 +0100",
+            "stop_time": "20250227065455 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227065456 +0100",
+            "stop_time": "20250227074914 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227074915 +0100",
+            "stop_time": "20250227084346 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227084347 +0100",
+            "stop_time": "20250227093805 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093806 +0100",
+            "stop_time": "20250227103001 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103002 +0100",
+            "stop_time": "20250227112232 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227112233 +0100",
+            "stop_time": "20250227121744 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227121745 +0100",
+            "stop_time": "20250227131238 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227131239 +0100",
+            "stop_time": "20250227140532 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140533 +0100",
+            "stop_time": "20250227150022 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150023 +0100",
+            "stop_time": "20250227155846 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227155847 +0100",
+            "stop_time": "20250227165737 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227165738 +0100",
+            "stop_time": "20250227175209 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227175210 +0100",
+            "stop_time": "20250227184628 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227184629 +0100",
+            "stop_time": "20250227194452 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227194453 +0100",
+            "stop_time": "20250227204343 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227204344 +0100",
+            "stop_time": "20250227213638 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213639 +0100",
+            "stop_time": "20250227223127 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223128 +0100",
+            "stop_time": "20250227232639 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227232640 +0100",
+            "stop_time": "20250228002134 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228002135 +0100",
+            "stop_time": "20250228011329 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228011330 +0100",
+            "stop_time": "20250228020600 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020601 +0100",
+            "stop_time": "20250228030032 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030033 +0100",
+            "stop_time": "20250228035451 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228035452 +0100",
+            "stop_time": "20250228044953 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228044954 +0100",
+            "stop_time": "20250228054237 +0100",
+            "title": "Ted Bundy serial monster Ep 3",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228054238 +0100",
+            "stop_time": "20250228064101 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228064102 +0100",
+            "stop_time": "20250228073603 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073604 +0100",
+            "stop_time": "20250228083110 +0100",
+            "title": "The New Detectives : Asesinato por números",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083111 +0100",
+            "stop_time": "20250228092306 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228092307 +0100",
+            "stop_time": "20250228101537 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228101538 +0100",
+            "stop_time": "20250228111049 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228111050 +0100",
+            "stop_time": "20250228120543 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120544 +0100",
+            "stop_time": "20250228125838 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228125839 +0100",
+            "stop_time": "20250228135327 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228135328 +0100",
+            "stop_time": "20250228145151 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228145152 +0100",
+            "stop_time": "20250228155042 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228155043 +0100",
+            "stop_time": "20250228164514 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228164515 +0100",
+            "stop_time": "20250228173933 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173934 +0100",
+            "stop_time": "20250228183435 +0100",
+            "title": "The New Detectives : Dinero de sangre",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183436 +0100",
+            "stop_time": "20250228192942 +0100",
+            "title": "The New Detectives : Asesinato por números",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228192943 +0100",
+            "stop_time": "20250228202414 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228202415 +0100",
+            "stop_time": "20250228211833 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228211834 +0100",
+            "stop_time": "20250228221657 +0100",
+            "title": "The FBI Files : Ola de crimen",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221658 +0100",
+            "stop_time": "20250228231548 +0100",
+            "title": "The FBI Files : Secretos de familia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228231549 +0100",
+            "stop_time": "20250301000843 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000844 +0100",
+            "stop_time": "20250301010332 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010333 +0100",
+            "stop_time": "20250301015844 +0100",
+            "title": "The New Detectives : Casos fríos",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301015845 +0100",
+            "stop_time": "20250301025338 +0100",
+            "title": "The New Detectives : Parcelas familiares",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301025339 +0100",
+            "stop_time": "20250301034534 +0100",
+            "title": "Wives with knives : Yekaterina ‘Kat’ Petrov",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301034535 +0100",
+            "stop_time": "20250301043805 +0100",
+            "title": "Wives with knives : Edna Wilson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043806 +0100",
+            "stop_time": "20250301053237 +0100",
+            "title": "See no evil : Ina Clare Richardson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301053238 +0100",
+            "stop_time": "20250301062656 +0100",
+            "title": "See no evil : Carl Starke",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301062657 +0100",
+            "stop_time": "20250301072150 +0100",
+            "title": "See no evil : Hufracio Arteaga",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301072151 +0100",
+            "stop_time": "20250301081635 +0100",
+            "title": "See no evil : Tom y Gill Estes",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301081636 +0100",
+            "stop_time": "20250301090904 +0100",
+            "title": "Wives with knives : Debra Hudson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090905 +0100",
+            "stop_time": "20250301100129 +0100",
+            "title": "Wives with knives : Terri Pearson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100130 +0100",
+            "stop_time": "20250301105652 +0100",
+            "title": "The New Detectives : Una ofensa federal",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301105653 +0100",
+            "stop_time": "20250301115215 +0100",
+            "title": "The New Detectives : Llamas de justicia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301115216 +0100",
+            "stop_time": "20250301124329 +0100",
+            "title": "Jeffrey Dahmer killer cannibal Ep 1",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124330 +0100",
+            "stop_time": "20250301133823 +0100",
+            "title": "See no evil : Hufracio Arteaga",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133824 +0100",
+            "stop_time": "20250301143647 +0100",
+            "title": "The FBI Files : El plan maestro",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301143648 +0100",
+            "stop_time": "20250301153511 +0100",
+            "title": "The FBI Files : Fuego cruzado",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153512 +0100",
+            "stop_time": "20250301163000 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301163001 +0100",
+            "stop_time": "20250301172417 +0100",
+            "title": "See no evil : Jessika Kalaher",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301172418 +0100",
+            "stop_time": "20250301181934 +0100",
+            "title": "The New Detectives : Falso testigo",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301181935 +0100",
+            "stop_time": "20250301191228 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301191229 +0100",
+            "stop_time": "20250301200722 +0100",
+            "title": "See no evil : Hufracio Arteaga",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200723 +0100",
+            "stop_time": "20250301210207 +0100",
+            "title": "See no evil : Tom y Gill Estes",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210208 +0100",
+            "stop_time": "20250301215724 +0100",
+            "title": "The New Detectives : Falso testigo",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301215725 +0100",
+            "stop_time": "20250301225018 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301225019 +0100",
+            "stop_time": "20250301234508 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301234509 +0100",
+            "stop_time": "20250302003925 +0100",
+            "title": "See no evil : Jessika Kalaher",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302003926 +0100",
+            "stop_time": "20250302013749 +0100",
+            "title": "The FBI Files : El plan maestro",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302013750 +0100",
+            "stop_time": "20250302023613 +0100",
+            "title": "The FBI Files : Fuego cruzado",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302023614 +0100",
+            "stop_time": "20250302032727 +0100",
+            "title": "Jeffrey Dahmer killer cannibal Ep 1",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302032728 +0100",
+            "stop_time": "20250302042221 +0100",
+            "title": "See no evil : Hufracio Arteaga",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302042222 +0100",
+            "stop_time": "20250302051743 +0100",
+            "title": "The New Detectives : Una ofensa federal",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302051744 +0100",
+            "stop_time": "20250302061307 +0100",
+            "title": "The New Detectives : Llamas de justicia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302061308 +0100",
+            "stop_time": "20250302070536 +0100",
+            "title": "Wives with knives : Debra Hudson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302070537 +0100",
+            "stop_time": "20250302075801 +0100",
+            "title": "Wives with knives : Terri Pearson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302075802 +0100",
+            "stop_time": "20250302085324 +0100",
+            "title": "The New Detectives : Una ofensa federal",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302085325 +0100",
+            "stop_time": "20250302094847 +0100",
+            "title": "The New Detectives : Llamas de justicia",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302094848 +0100",
+            "stop_time": "20250302104001 +0100",
+            "title": "Jeffrey Dahmer killer cannibal Ep 1",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302104002 +0100",
+            "stop_time": "20250302113454 +0100",
+            "title": "See no evil : Hufracio Arteaga",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302113455 +0100",
+            "stop_time": "20250302123319 +0100",
+            "title": "The FBI Files : El plan maestro",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302123320 +0100",
+            "stop_time": "20250302133143 +0100",
+            "title": "The FBI Files : Fuego cruzado",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302133144 +0100",
+            "stop_time": "20250302142632 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302142633 +0100",
+            "stop_time": "20250302152049 +0100",
+            "title": "See no evil : Jessika Kalaher",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302152050 +0100",
+            "stop_time": "20250302161606 +0100",
+            "title": "The New Detectives : Falso testigo",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302161607 +0100",
+            "stop_time": "20250302170900 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170901 +0100",
+            "stop_time": "20250302180354 +0100",
+            "title": "See no evil : Hufracio Arteaga",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180355 +0100",
+            "stop_time": "20250302185839 +0100",
+            "title": "See no evil : Tom y Gill Estes",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302185840 +0100",
+            "stop_time": "20250302195108 +0100",
+            "title": "Wives with knives : Debra Hudson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302195109 +0100",
+            "stop_time": "20250302204333 +0100",
+            "title": "Wives with knives : Terri Pearson",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302204334 +0100",
+            "stop_time": "20250302213827 +0100",
+            "title": "See no evil : Hufracio Arteaga",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302213828 +0100",
+            "stop_time": "20250302223312 +0100",
+            "title": "See no evil : Tom y Gill Estes",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302223313 +0100",
+            "stop_time": "20250302232828 +0100",
+            "title": "The New Detectives : Falso testigo",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302232829 +0100",
+            "stop_time": "20250303002123 +0100",
+            "title": "Ted Bundy serial monster Ep 4",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303002124 +0100",
+            "stop_time": "20250303011612 +0100",
+            "title": "See no evil : Christopher Duncan",
+            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/crímenesreales-crimenes-reales.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

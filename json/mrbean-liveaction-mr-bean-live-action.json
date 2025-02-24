@@ -4,10 +4,10 @@
     "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg",
     "group_title": "Series",
     "original_master_url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?ads_amagi_channel=975&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6617&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=2c226a06-9f04-4083-b2c6-d0b85d9dde9d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/mr-bean-live-action/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/426x240_511680/index.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1b8a605f3f505e7a9d1b8c2a1cc6df2ffe4c3c7a1526879de72ddbc84458e38b5c2c29b958246baf5a56bf780260d2ec0e7ae157d77c1649a9631657369e821be9303d96df54cf2a77cfc28130672a1f0ec8087fd09a6df6a1b6576fe251f0e55f27d06c10a5ed0680944999b9ee6cd81ac52fb54bdf98e1b1f941d6c5fe30f609f631074c1d7e95816a80c05bbfd99b7d30937f5a257434b6f9e694273d82547c4eece9c2bb179779a8db72d03862e25ac225f4318e78951ab3f34ba1a0b2d1457e30a0b61d0b63f2e6f2d8ad3463eb2ba2a4b9893e28c9ae4735459b6e8e6f2f6892a59e10ddc71193ef27dfcc037239c4827a9f98a48aecb5b25e8535cfb591f25e554b615e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543419d7d704a17975b8df98bcdb0b2dc3631e65e46dcd296606ad65360d8f4af89e2f538c281cf753579f48278f46a6fc4699a6dff6392bbadaf856e67feac77eb88412a56c255c10a3f32b5a7a4174d4fc69013c23b92f95d2cef248080dedf0c4c1c35b390937125e7eee888429ccdbf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb1abb786371461d8ee55c7065b9f348a093b78fc285c910c01e2/122/426x240_511680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "511680",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/640x360_1057680/index.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1b8a605f3f505e7a9d1b8c2a1cc6df2ffe4c3c7a1526879de72ddbc84458e38b5c2c29b958246baf5a56bf780260d2ec0e7ae157d77c1649a9631657369e821be9303d96df54cf2a77cfc28130672a1f0ec8087fd09a6df6a1b6576fe251f0e55f27d06c10a5ed0680944999b9ee6cd81ac52fb54bdf98e1b1f941d6c5fe30f609f631074c1d7e95816a80c05bbfd99b7d30937f5a257434b6f9e694273d82547c4eece9c2bb179779a8db72d03862e25ac225f4318e78951ab3f34ba1a0b2d1457e30a0b61d0b63f2e6f2d8ad3463eb2ba2a4b9893e28c9ae4735459b6e8e6f2f6892a59e10ddc71193ef27dfcc037239c4827a9f98a48aecb5b25e8535cfb591f25e554b615e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543419d7d704a17975b8df98bcdb0b2dc3631e65e46dcd296606ad65360d8f4af89e2f538c281cf753579f48278f46a6fc4699a6dff6392bbadaf856e67feac77eb88412a56c255c10a3f32b5a7a4174d4fc69013c23b92f95d2cef248080dedf0c4c1c35b390937125e7eee888429ccdbf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb1abb786371461d8ee55c7065b9f348a093b78fc285c910c01e2/122/640x360_1057680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1057680",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/848x480_1686360/index.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1b8a605f3f505e7a9d1b8c2a1cc6df2ffe4c3c7a1526879de72ddbc84458e38b5c2c29b958246baf5a56bf780260d2ec0e7ae157d77c1649a9631657369e821be9303d96df54cf2a77cfc28130672a1f0ec8087fd09a6df6a1b6576fe251f0e55f27d06c10a5ed0680944999b9ee6cd81ac52fb54bdf98e1b1f941d6c5fe30f609f631074c1d7e95816a80c05bbfd99b7d30937f5a257434b6f9e694273d82547c4eece9c2bb179779a8db72d03862e25ac225f4318e78951ab3f34ba1a0b2d1457e30a0b61d0b63f2e6f2d8ad3463eb2ba2a4b9893e28c9ae4735459b6e8e6f2f6892a59e10ddc71193ef27dfcc037239c4827a9f98a48aecb5b25e8535cfb591f25e554b615e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543419d7d704a17975b8df98bcdb0b2dc3631e65e46dcd296606ad65360d8f4af89e2f538c281cf753579f48278f46a6fc4699a6dff6392bbadaf856e67feac77eb88412a56c255c10a3f32b5a7a4174d4fc69013c23b92f95d2cef248080dedf0c4c1c35b390937125e7eee888429ccdbf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb1abb786371461d8ee55c7065b9f348a093b78fc285c910c01e2/122/848x480_1686360/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1686360",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/1280x720_3329040/index.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1b8a605f3f505e7a9d1b8c2a1cc6df2ffe4c3c7a1526879de72ddbc84458e38b5c2c29b958246baf5a56bf780260d2ec0e7ae157d77c1649a9631657369e821be9303d96df54cf2a77cfc28130672a1f0ec8087fd09a6df6a1b6576fe251f0e55f27d06c10a5ed0680944999b9ee6cd81ac52fb54bdf98e1b1f941d6c5fe30f609f631074c1d7e95816a80c05bbfd99b7d30937f5a257434b6f9e694273d82547c4eece9c2bb179779a8db72d03862e25ac225f4318e78951ab3f34ba1a0b2d1457e30a0b61d0b63f2e6f2d8ad3463eb2ba2a4b9893e28c9ae4735459b6e8e6f2f6892a59e10ddc71193ef27dfcc037239c4827a9f98a48aecb5b25e8535cfb591f25e554b615e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543419d7d704a17975b8df98bcdb0b2dc3631e65e46dcd296606ad65360d8f4af89e2f538c281cf753579f48278f46a6fc4699a6dff6392bbadaf856e67feac77eb88412a56c255c10a3f32b5a7a4174d4fc69013c23b92f95d2cef248080dedf0c4c1c35b390937125e7eee888429ccdbf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb1abb786371461d8ee55c7065b9f348a093b78fc285c910c01e2/122/1280x720_3329040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3329040",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1e8b330e3f555a7a9d1b8c291cc6df2ffe4c6529107787cae778d19d120de38a5d2b2db952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7c1638f270686ef48cf3946d8f283256c231e30c6097fd39a6aa5f9e05a4ffd569fe0480bfa7b10a1db119cbb40e6c4f668a472877cd42ea4c3a4c8bc52c6c0c8378b6f88525b0f7325ccd923d2a325b7de89562b88671745115bf2a69dea713087494449f9f8cecd009570cb8722db1a5dca019c5cbb31876aad0098e246a1a3b5da4e335ccea7023672fa9fcae7fa31208273e8a7fbe2676589f366112dae7bd131222c9fef9155eeb91492a51c86bb67093dce857a9891b390fcb98b439f24decefb964f2124025458f437c89b69c816d079bac516352e292ecf9f469ef7b33931665cb98550c2617dd3bf9b91d00a618e0a775bec73e64b0a68f320756ce05f8df04e7c85271380272dfa5f30bf4ff5bc3efaabd7bf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b174f2f82b8675d66349a43b48787b5275153a1f59ffd961e3c573b4f0708d2e6e375c28af229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e3901d17f14a36998b050e41d8e763924a976a84cfe0eab12062feac/72/1920x1080_6046040/index.m3u8",
+            "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1b8a605f3f505e7a9d1b8c2a1cc6df2ffe4c3c7a1526879de72ddbc84458e38b5c2c29b958246baf5a56bf780260d2ec0e7ae157d77c1649a9631657369e821be9303d96df54cf2a77cfc28130672a1f0ec8087fd09a6df6a1b6576fe251f0e55f27d06c10a5ed0680944999b9ee6cd81ac52fb54bdf98e1b1f941d6c5fe30f609f631074c1d7e95816a80c05bbfd99b7d30937f5a257434b6f9e694273d82547c4eece9c2bb179779a8db72d03862e25ac225f4318e78951ab3f34ba1a0b2d1457e30a0b61d0b63f2e6f2d8ad3463eb2ba2a4b9893e28c9ae4735459b6e8e6f2f6892a59e10ddc71193ef27dfcc037239c4827a9f98a48aecb5b25e8535cfb591f25e554b615e7eec2fa39e7ee43bc96e97cd1c2f48484ab9a55cc0f4bf34543419d7d704a17975b8df98bcdb0b2dc3631e65e46dcd296606ad65360d8f4af89e2f538c281cf753579f48278f46a6fc4699a6dff6392bbadaf856e67feac77eb88412a56c255c10a3f32b5a7a4174d4fc69013c23b92f95d2cef248080dedf0c4c1c35b390937125e7eee888429ccdbf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beaceb1abb786371461d8ee55c7065b9f348a093b78fc285c910c01e2/122/1920x1080_6046040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "6046040",
@@ -67,6 +67,2157 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mrbean-liveaction-mr-bean-live-action.json"
+    "epg": [
+        {
+            "start_time": "20250224152654 +0100",
+            "stop_time": "20250224155806 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224155807 +0100",
+            "stop_time": "20250224162653 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224162654 +0100",
+            "stop_time": "20250224165501 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224165502 +0100",
+            "stop_time": "20250224172544 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224172545 +0100",
+            "stop_time": "20250224175534 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224175535 +0100",
+            "stop_time": "20250224182701 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224182702 +0100",
+            "stop_time": "20250224185734 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224185735 +0100",
+            "stop_time": "20250224192558 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224192559 +0100",
+            "stop_time": "20250224195702 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224195703 +0100",
+            "stop_time": "20250224202534 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224202535 +0100",
+            "stop_time": "20250224205633 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224205634 +0100",
+            "stop_time": "20250224212642 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224212643 +0100",
+            "stop_time": "20250224215858 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224215859 +0100",
+            "stop_time": "20250224222814 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224222815 +0100",
+            "stop_time": "20250224225928 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224225929 +0100",
+            "stop_time": "20250224232815 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224232816 +0100",
+            "stop_time": "20250224235622 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224235623 +0100",
+            "stop_time": "20250225002706 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225002707 +0100",
+            "stop_time": "20250225010000 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010001 +0100",
+            "stop_time": "20250225012823 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225012824 +0100",
+            "stop_time": "20250225015855 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225015856 +0100",
+            "stop_time": "20250225022719 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225022720 +0100",
+            "stop_time": "20250225025823 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225025824 +0100",
+            "stop_time": "20250225032655 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225032656 +0100",
+            "stop_time": "20250225035755 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225035756 +0100",
+            "stop_time": "20250225042803 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225042804 +0100",
+            "stop_time": "20250225050020 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050021 +0100",
+            "stop_time": "20250225052936 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225052937 +0100",
+            "stop_time": "20250225060049 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060050 +0100",
+            "stop_time": "20250225062936 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225062937 +0100",
+            "stop_time": "20250225065743 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225065744 +0100",
+            "stop_time": "20250225072827 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225072828 +0100",
+            "stop_time": "20250225075816 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225075817 +0100",
+            "stop_time": "20250225082944 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225082945 +0100",
+            "stop_time": "20250225090017 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090018 +0100",
+            "stop_time": "20250225092841 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225092842 +0100",
+            "stop_time": "20250225095945 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225095946 +0100",
+            "stop_time": "20250225102817 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225102818 +0100",
+            "stop_time": "20250225105916 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225105917 +0100",
+            "stop_time": "20250225112925 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225112926 +0100",
+            "stop_time": "20250225120141 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120142 +0100",
+            "stop_time": "20250225123057 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225123058 +0100",
+            "stop_time": "20250225130211 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130212 +0100",
+            "stop_time": "20250225133058 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225133059 +0100",
+            "stop_time": "20250225135905 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225135906 +0100",
+            "stop_time": "20250225142948 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225142949 +0100",
+            "stop_time": "20250225145938 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225145939 +0100",
+            "stop_time": "20250225153106 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225153107 +0100",
+            "stop_time": "20250225160138 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160139 +0100",
+            "stop_time": "20250225163002 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225163003 +0100",
+            "stop_time": "20250225170106 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170107 +0100",
+            "stop_time": "20250225172938 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225172939 +0100",
+            "stop_time": "20250225180038 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180039 +0100",
+            "stop_time": "20250225183046 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225183047 +0100",
+            "stop_time": "20250225190302 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190303 +0100",
+            "stop_time": "20250225193219 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225193220 +0100",
+            "stop_time": "20250225200332 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200333 +0100",
+            "stop_time": "20250225203219 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203220 +0100",
+            "stop_time": "20250225210026 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210027 +0100",
+            "stop_time": "20250225213110 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225213111 +0100",
+            "stop_time": "20250225220059 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220100 +0100",
+            "stop_time": "20250225223227 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223228 +0100",
+            "stop_time": "20250225230300 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230301 +0100",
+            "stop_time": "20250225233124 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233125 +0100",
+            "stop_time": "20250226000228 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000229 +0100",
+            "stop_time": "20250226003100 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226003101 +0100",
+            "stop_time": "20250226005959 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010000 +0100",
+            "stop_time": "20250226013007 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226013008 +0100",
+            "stop_time": "20250226020224 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020225 +0100",
+            "stop_time": "20250226023140 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226023141 +0100",
+            "stop_time": "20250226030253 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030254 +0100",
+            "stop_time": "20250226033141 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033142 +0100",
+            "stop_time": "20250226035948 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226035949 +0100",
+            "stop_time": "20250226043031 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043032 +0100",
+            "stop_time": "20250226050021 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050022 +0100",
+            "stop_time": "20250226053149 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226053150 +0100",
+            "stop_time": "20250226060221 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060222 +0100",
+            "stop_time": "20250226063045 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226063046 +0100",
+            "stop_time": "20250226070149 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070150 +0100",
+            "stop_time": "20250226073021 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073022 +0100",
+            "stop_time": "20250226080121 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080122 +0100",
+            "stop_time": "20250226083129 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226083130 +0100",
+            "stop_time": "20250226090345 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090346 +0100",
+            "stop_time": "20250226093301 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226093302 +0100",
+            "stop_time": "20250226100415 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100416 +0100",
+            "stop_time": "20250226103302 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226103303 +0100",
+            "stop_time": "20250226110109 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110110 +0100",
+            "stop_time": "20250226113153 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226113154 +0100",
+            "stop_time": "20250226120142 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120143 +0100",
+            "stop_time": "20250226123310 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123311 +0100",
+            "stop_time": "20250226130342 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130343 +0100",
+            "stop_time": "20250226133207 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133208 +0100",
+            "stop_time": "20250226140310 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140311 +0100",
+            "stop_time": "20250226143142 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143143 +0100",
+            "stop_time": "20250226150242 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150243 +0100",
+            "stop_time": "20250226153250 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153251 +0100",
+            "stop_time": "20250226160507 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160508 +0100",
+            "stop_time": "20250226163423 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226163424 +0100",
+            "stop_time": "20250226170536 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170537 +0100",
+            "stop_time": "20250226173423 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226173424 +0100",
+            "stop_time": "20250226180231 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180232 +0100",
+            "stop_time": "20250226183314 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226183315 +0100",
+            "stop_time": "20250226190304 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190305 +0100",
+            "stop_time": "20250226193431 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226193432 +0100",
+            "stop_time": "20250226200504 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200505 +0100",
+            "stop_time": "20250226203328 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226203329 +0100",
+            "stop_time": "20250226210432 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210433 +0100",
+            "stop_time": "20250226213304 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213305 +0100",
+            "stop_time": "20250226220403 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220404 +0100",
+            "stop_time": "20250226223412 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226223413 +0100",
+            "stop_time": "20250226230628 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230629 +0100",
+            "stop_time": "20250226233544 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233545 +0100",
+            "stop_time": "20250227000658 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000659 +0100",
+            "stop_time": "20250227003545 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227003546 +0100",
+            "stop_time": "20250227010352 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010353 +0100",
+            "stop_time": "20250227013436 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013437 +0100",
+            "stop_time": "20250227020425 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020426 +0100",
+            "stop_time": "20250227023553 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227023554 +0100",
+            "stop_time": "20250227030625 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030626 +0100",
+            "stop_time": "20250227033449 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227033450 +0100",
+            "stop_time": "20250227040553 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040554 +0100",
+            "stop_time": "20250227043425 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043426 +0100",
+            "stop_time": "20250227050525 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050526 +0100",
+            "stop_time": "20250227053533 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053534 +0100",
+            "stop_time": "20250227060750 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060751 +0100",
+            "stop_time": "20250227063706 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227063707 +0100",
+            "stop_time": "20250227070819 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070820 +0100",
+            "stop_time": "20250227073706 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073707 +0100",
+            "stop_time": "20250227080514 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080515 +0100",
+            "stop_time": "20250227083557 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083558 +0100",
+            "stop_time": "20250227090547 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090548 +0100",
+            "stop_time": "20250227093714 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093715 +0100",
+            "stop_time": "20250227100747 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100748 +0100",
+            "stop_time": "20250227103611 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103612 +0100",
+            "stop_time": "20250227110715 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110716 +0100",
+            "stop_time": "20250227113547 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227113548 +0100",
+            "stop_time": "20250227120646 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120647 +0100",
+            "stop_time": "20250227123655 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123656 +0100",
+            "stop_time": "20250227130911 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130912 +0100",
+            "stop_time": "20250227133827 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133828 +0100",
+            "stop_time": "20250227140941 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140942 +0100",
+            "stop_time": "20250227143828 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143829 +0100",
+            "stop_time": "20250227150635 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150636 +0100",
+            "stop_time": "20250227153719 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153720 +0100",
+            "stop_time": "20250227160708 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160709 +0100",
+            "stop_time": "20250227163836 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163837 +0100",
+            "stop_time": "20250227170908 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170909 +0100",
+            "stop_time": "20250227173732 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173733 +0100",
+            "stop_time": "20250227180836 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180837 +0100",
+            "stop_time": "20250227183708 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227183709 +0100",
+            "stop_time": "20250227190808 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190809 +0100",
+            "stop_time": "20250227193816 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193817 +0100",
+            "stop_time": "20250227201033 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227201034 +0100",
+            "stop_time": "20250227203949 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203950 +0100",
+            "stop_time": "20250227211102 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227211103 +0100",
+            "stop_time": "20250227213949 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213950 +0100",
+            "stop_time": "20250227220756 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220757 +0100",
+            "stop_time": "20250227223840 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223841 +0100",
+            "stop_time": "20250227230829 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230830 +0100",
+            "stop_time": "20250227233957 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233958 +0100",
+            "stop_time": "20250228001030 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228001031 +0100",
+            "stop_time": "20250228003854 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003855 +0100",
+            "stop_time": "20250228010958 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010959 +0100",
+            "stop_time": "20250228013830 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013831 +0100",
+            "stop_time": "20250228020929 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020930 +0100",
+            "stop_time": "20250228023938 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023939 +0100",
+            "stop_time": "20250228031154 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228031155 +0100",
+            "stop_time": "20250228034110 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228034111 +0100",
+            "stop_time": "20250228041224 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228041225 +0100",
+            "stop_time": "20250228044111 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228044112 +0100",
+            "stop_time": "20250228050918 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050919 +0100",
+            "stop_time": "20250228054001 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228054002 +0100",
+            "stop_time": "20250228060951 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060952 +0100",
+            "stop_time": "20250228064119 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228064120 +0100",
+            "stop_time": "20250228071151 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228071152 +0100",
+            "stop_time": "20250228074015 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228074016 +0100",
+            "stop_time": "20250228081119 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228081120 +0100",
+            "stop_time": "20250228083951 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083952 +0100",
+            "stop_time": "20250228091051 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228091052 +0100",
+            "stop_time": "20250228094059 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228094100 +0100",
+            "stop_time": "20250228101315 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228101316 +0100",
+            "stop_time": "20250228104232 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228104233 +0100",
+            "stop_time": "20250228111345 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228111346 +0100",
+            "stop_time": "20250228114232 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228114233 +0100",
+            "stop_time": "20250228121039 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228121040 +0100",
+            "stop_time": "20250228124123 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228124124 +0100",
+            "stop_time": "20250228131112 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228131113 +0100",
+            "stop_time": "20250228134240 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228134241 +0100",
+            "stop_time": "20250228141313 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228141314 +0100",
+            "stop_time": "20250228144137 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228144138 +0100",
+            "stop_time": "20250228151241 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228151242 +0100",
+            "stop_time": "20250228154113 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228154114 +0100",
+            "stop_time": "20250228161212 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228161213 +0100",
+            "stop_time": "20250228164220 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228164221 +0100",
+            "stop_time": "20250228171437 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228171438 +0100",
+            "stop_time": "20250228174353 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228174354 +0100",
+            "stop_time": "20250228181506 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228181507 +0100",
+            "stop_time": "20250228184353 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228184354 +0100",
+            "stop_time": "20250228191201 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228191202 +0100",
+            "stop_time": "20250228194244 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228194245 +0100",
+            "stop_time": "20250228201234 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228201235 +0100",
+            "stop_time": "20250228204402 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228204403 +0100",
+            "stop_time": "20250228211434 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228211435 +0100",
+            "stop_time": "20250228214258 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228214259 +0100",
+            "stop_time": "20250228221402 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228221403 +0100",
+            "stop_time": "20250228224234 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228224235 +0100",
+            "stop_time": "20250228231334 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228231335 +0100",
+            "stop_time": "20250228234342 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228234343 +0100",
+            "stop_time": "20250301001558 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301001559 +0100",
+            "stop_time": "20250301004514 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301004515 +0100",
+            "stop_time": "20250301011628 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301011629 +0100",
+            "stop_time": "20250301014515 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301014516 +0100",
+            "stop_time": "20250301021322 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301021323 +0100",
+            "stop_time": "20250301024406 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301024407 +0100",
+            "stop_time": "20250301031355 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301031356 +0100",
+            "stop_time": "20250301034523 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301034524 +0100",
+            "stop_time": "20250301041555 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301041556 +0100",
+            "stop_time": "20250301044420 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301044421 +0100",
+            "stop_time": "20250301051523 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301051524 +0100",
+            "stop_time": "20250301054355 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301054356 +0100",
+            "stop_time": "20250301061455 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301061456 +0100",
+            "stop_time": "20250301064503 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301064504 +0100",
+            "stop_time": "20250301071720 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301071721 +0100",
+            "stop_time": "20250301074636 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301074637 +0100",
+            "stop_time": "20250301081749 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301081750 +0100",
+            "stop_time": "20250301084636 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301084637 +0100",
+            "stop_time": "20250301091444 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301091445 +0100",
+            "stop_time": "20250301094527 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301094528 +0100",
+            "stop_time": "20250301101517 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301101518 +0100",
+            "stop_time": "20250301104644 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301104645 +0100",
+            "stop_time": "20250301111717 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301111718 +0100",
+            "stop_time": "20250301114541 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301114542 +0100",
+            "stop_time": "20250301121645 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301121646 +0100",
+            "stop_time": "20250301124517 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301124518 +0100",
+            "stop_time": "20250301131616 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301131617 +0100",
+            "stop_time": "20250301134625 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301134626 +0100",
+            "stop_time": "20250301141841 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301141842 +0100",
+            "stop_time": "20250301144757 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301144758 +0100",
+            "stop_time": "20250301151911 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301151912 +0100",
+            "stop_time": "20250301154758 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301154759 +0100",
+            "stop_time": "20250301161605 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301161606 +0100",
+            "stop_time": "20250301164649 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301164650 +0100",
+            "stop_time": "20250301171638 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301171639 +0100",
+            "stop_time": "20250301174806 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301174807 +0100",
+            "stop_time": "20250301181838 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301181839 +0100",
+            "stop_time": "20250301184702 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301184703 +0100",
+            "stop_time": "20250301191806 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301191807 +0100",
+            "stop_time": "20250301194638 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301194639 +0100",
+            "stop_time": "20250301201738 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301201739 +0100",
+            "stop_time": "20250301204746 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301204747 +0100",
+            "stop_time": "20250301212003 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301212004 +0100",
+            "stop_time": "20250301214919 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301214920 +0100",
+            "stop_time": "20250301222032 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301222033 +0100",
+            "stop_time": "20250301224919 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301224920 +0100",
+            "stop_time": "20250301231727 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301231728 +0100",
+            "stop_time": "20250301234810 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301234811 +0100",
+            "stop_time": "20250302001800 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302001801 +0100",
+            "stop_time": "20250302004927 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302004928 +0100",
+            "stop_time": "20250302012000 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302012001 +0100",
+            "stop_time": "20250302014824 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302014825 +0100",
+            "stop_time": "20250302021928 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302021929 +0100",
+            "stop_time": "20250302024800 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302024801 +0100",
+            "stop_time": "20250302031859 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302031900 +0100",
+            "stop_time": "20250302034908 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302034909 +0100",
+            "stop_time": "20250302042124 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302042125 +0100",
+            "stop_time": "20250302045040 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302045041 +0100",
+            "stop_time": "20250302052154 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302052155 +0100",
+            "stop_time": "20250302055041 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302055042 +0100",
+            "stop_time": "20250302061848 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302061849 +0100",
+            "stop_time": "20250302064931 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302064932 +0100",
+            "stop_time": "20250302071921 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302071922 +0100",
+            "stop_time": "20250302075049 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302075050 +0100",
+            "stop_time": "20250302082121 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302082122 +0100",
+            "stop_time": "20250302084945 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302084946 +0100",
+            "stop_time": "20250302092049 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302092050 +0100",
+            "stop_time": "20250302094921 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302094922 +0100",
+            "stop_time": "20250302102021 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302102022 +0100",
+            "stop_time": "20250302105029 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302105030 +0100",
+            "stop_time": "20250302112245 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302112246 +0100",
+            "stop_time": "20250302115202 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302115203 +0100",
+            "stop_time": "20250302122315 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302122316 +0100",
+            "stop_time": "20250302125202 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302125203 +0100",
+            "stop_time": "20250302132009 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302132010 +0100",
+            "stop_time": "20250302135053 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302135054 +0100",
+            "stop_time": "20250302142042 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302142043 +0100",
+            "stop_time": "20250302145210 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302145211 +0100",
+            "stop_time": "20250302152243 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302152244 +0100",
+            "stop_time": "20250302155107 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302155108 +0100",
+            "stop_time": "20250302162211 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302162212 +0100",
+            "stop_time": "20250302165043 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302165044 +0100",
+            "stop_time": "20250302172142 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302172143 +0100",
+            "stop_time": "20250302175150 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302175151 +0100",
+            "stop_time": "20250302182407 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302182408 +0100",
+            "stop_time": "20250302185323 +0100",
+            "title": "Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to his exam only to find out he's studied the wrong subject.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302185324 +0100",
+            "stop_time": "20250302192436 +0100",
+            "title": "The Return of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean wants to give a busker some money until he realises he has no change.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302192437 +0100",
+            "stop_time": "20250302195324 +0100",
+            "title": "The Curse of Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302195325 +0100",
+            "stop_time": "20250302202131 +0100",
+            "title": "Mr Bean goes to Town",
+            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302202132 +0100",
+            "stop_time": "20250302205214 +0100",
+            "title": "The Trouble with Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302205215 +0100",
+            "stop_time": "20250302212204 +0100",
+            "title": "Mr Bean Rides Again",
+            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302212205 +0100",
+            "stop_time": "20250302215332 +0100",
+            "title": "Merry Christmas Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302215333 +0100",
+            "stop_time": "20250302222404 +0100",
+            "title": "Mr Bean in Room 426",
+            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302222405 +0100",
+            "stop_time": "20250302225228 +0100",
+            "title": "Mind the Baby, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302225229 +0100",
+            "stop_time": "20250302232332 +0100",
+            "title": "Do it Yourself Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302232333 +0100",
+            "stop_time": "20250302235204 +0100",
+            "title": "Bakc to School Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302235205 +0100",
+            "stop_time": "20250303002304 +0100",
+            "title": "Tee Off, Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303002305 +0100",
+            "stop_time": "20250303005312 +0100",
+            "title": "Good Night Mr Bean",
+            "description": "| +TP | Series |\n\nMr Bean has a hard time waiting his turn at the hospital.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303005313 +0100",
+            "stop_time": "20250303010000 +0100",
+            "title": "Hair by Mr Bean of London",
+            "description": "| +TP | Series |\n\nMr Bean has a grand day at the hairdresser's.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mrbean-liveaction-mr-bean-live-action.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

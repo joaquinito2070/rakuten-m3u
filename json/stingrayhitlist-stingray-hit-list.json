@@ -4,10 +4,10 @@
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg",
     "group_title": "Música",
     "original_master_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2080&ads.rakuten_streaming_id=81080403-9f20-4e9e-893d-6ff66ec27844&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=StingrayHitlist&ads.xumo_streamId=88883054",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/stingray-hit-list/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c9d8e86c-d6ec-4a87-bd16-173f1e01f917/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c1f7da6f-8bdd-4ed2-acb6-6ad7a0ce415c/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "RESOLUTION": "768x432",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c9d8e86c-d6ec-4a87-bd16-173f1e01f917/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c1f7da6f-8bdd-4ed2-acb6-6ad7a0ce415c/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
@@ -25,6 +25,288 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/stingrayhitlist-stingray-hit-list.json"
+    "epg": [
+        {
+            "start_time": "20250224120001 +0100",
+            "stop_time": "20250224160000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160001 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250225000000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000001 +0100",
+            "stop_time": "20250225040000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040001 +0100",
+            "stop_time": "20250225080000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080001 +0100",
+            "stop_time": "20250225120000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120001 +0100",
+            "stop_time": "20250225160000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160001 +0100",
+            "stop_time": "20250225200000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200001 +0100",
+            "stop_time": "20250226000000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000001 +0100",
+            "stop_time": "20250226040000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040001 +0100",
+            "stop_time": "20250226080000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080001 +0100",
+            "stop_time": "20250226120000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120001 +0100",
+            "stop_time": "20250226160000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160001 +0100",
+            "stop_time": "20250226200000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200001 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000001 +0100",
+            "stop_time": "20250227040000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040001 +0100",
+            "stop_time": "20250227080000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080001 +0100",
+            "stop_time": "20250227120000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120001 +0100",
+            "stop_time": "20250227160000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227200000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200001 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228040000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228080000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080001 +0100",
+            "stop_time": "20250228120000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120001 +0100",
+            "stop_time": "20250228160000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160001 +0100",
+            "stop_time": "20250228200000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200001 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301040000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040001 +0100",
+            "stop_time": "20250301080000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080001 +0100",
+            "stop_time": "20250301120000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120001 +0100",
+            "stop_time": "20250301160000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160001 +0100",
+            "stop_time": "20250301200000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200001 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302040000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302080000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302080001 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302160000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302200000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303040000 +0100",
+            "title": "Stingray Hit List",
+            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/stingrayhitlist-stingray-hit-list.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

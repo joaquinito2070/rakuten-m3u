@@ -4,10 +4,10 @@
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e37664a3-8cb2-4f78-b683-8ed89d108924.jpeg",
     "group_title": "Deportes",
     "original_master_url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d76aae47-1538-4be4-9c2f-f02b77aafb5d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/fifa-plus-es-new/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/187b9ec8-ee9c-427e-b79e-204bdc65955f/0.m3u8",
+            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/641f73d7-a2b6-4eb0-a3ec-c9614383f40b/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "1222701",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/187b9ec8-ee9c-427e-b79e-204bdc65955f/1.m3u8",
+            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/641f73d7-a2b6-4eb0-a3ec-c9614383f40b/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "2035016",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/187b9ec8-ee9c-427e-b79e-204bdc65955f/2.m3u8",
+            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/641f73d7-a2b6-4eb0-a3ec-c9614383f40b/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "3046884",
@@ -43,6 +43,659 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/fifa-fifa-plus-es-new.json"
+    "epg": [
+        {
+            "start_time": "20250224133718 +0100",
+            "stop_time": "20250224160657 +0100",
+            "title": "España v Sudáfrica | Partido por el tercer puesto | FIFA Confederations Cup Sudáfrica 2009™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre España y Sudáfrica jugado en el Royal Bafokeng Sports Palace.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160703 +0100",
+            "stop_time": "20250224162910 +0100",
+            "title": "Red de Creadores, 1",
+            "description": "| +TP | Deportes |\n\nLa Red de Creadores es una serie que ofrece cortometrajes de creadores de contenido de todas partes del mundo, que ayudan a arrojar luz sobre algunas de las historias más insólitas y fascinantes del fútbol mundial.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224162917 +0100",
+            "stop_time": "20250224182601 +0100",
+            "title": "Argentina vs Croacia | Semifinales | Copa Mundial de la FIFA Catar 2022™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina y Croacia jugado en Lusail Stadium, Al Daayen el martes, 13 de diciembre de 2022 a las 22:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224182608 +0100",
+            "stop_time": "20250224201409 +0100",
+            "title": "Brasil vs Noruega | Fase de grupos | Copa Mundial de la FIFA Francia 1998™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Brasil y Noruega jugado en el Stade Vélodrome, Marsella, el martes 23 de junio de 1998.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224201415 +0100",
+            "stop_time": "20250224220347 +0100",
+            "title": "EEUU vs Japón | Final | Copa Mundial Femenina de la FIFA Canadá 2015™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre EEUU y Japón jugado en BC Place Stadium, Vancouver el domingo, 5 de julio de 2015 a las 16:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220353 +0100",
+            "stop_time": "20250224222446 +0100",
+            "title": "Roger Milla | Descubriendo",
+            "description": "| +TP | Deportes |\n\nAntes de Weah, Drogba y Eto’o, Milla se convirtió en una leyenda de las Copas Mundiales y en uno de los mejores delanteros africanos de todos los tiempos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224222453 +0100",
+            "stop_time": "20250225001636 +0100",
+            "title": "Chile vs España | Grupo H | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Chile y España jugado en el Estadio Loftus Versfeld, Tshwane/Pretoria el viernes 25 de junio de 2010.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225001642 +0100",
+            "stop_time": "20250225024621 +0100",
+            "title": "España v Sudáfrica | Partido por el tercer puesto | FIFA Confederations Cup Sudáfrica 2009™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre España y Sudáfrica jugado en el Royal Bafokeng Sports Palace.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225024627 +0100",
+            "stop_time": "20250225043718 +0100",
+            "title": "Argentina vs Inglaterra | Grupo F | Copa Mundial de la FIFA Corea/Japón 2002™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina e Inglaterra jugado en el Sapporo Dome, Sapporo, el viernes 07 de junio de 2002.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043725 +0100",
+            "stop_time": "20250225050909 +0100",
+            "title": "Marta, leyenda de la Copa Mundial Femenina de la FIFA™",
+            "description": "| +TP | Deportes |\n\nDisfruta con las actuaciones de Marta con la camiseta de Brasil frente a Estados Unidos en China 2007™ y contra Italia en Brasil 2019™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050915 +0100",
+            "stop_time": "20250225080719 +0100",
+            "title": "Países Bajos vs Argentina | Cuartos de final | Copa Mundial de la FIFA Catar 2022™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Países Bajos y Argentina jugado en Lusail Stadium, Al Daayen el viernes, 9 de diciembre de 2022 a las 22:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080725 +0100",
+            "stop_time": "20250225083809 +0100",
+            "title": "Definiciones por penales inolvidables 3",
+            "description": "| +TP | Deportes |\n\nSiente la tensión de las definiciones por penales más memorables de la Copa Mundial de la FIFA™",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083816 +0100",
+            "stop_time": "20250225090929 +0100",
+            "title": "Partidos de la Copa Mundial de la FIFA™ que sorprendieron al mundo 6",
+            "description": "| +TP | Deportes |\n\nRevive dos encuentros inolvidables de la Copa Mundial de la FIFA™",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090936 +0100",
+            "stop_time": "20250225105709 +0100",
+            "title": "Argentina vs Serbia y Montenegro | Grupo C | Copa Mundial de la FIFA Alemania 2006™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina y Serbia y Montenegro jugado en el Veltins Arena, Gelsenkirchen, el viernes 16 de junio de 2006.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225105716 +0100",
+            "stop_time": "20250225120004 +0100",
+            "title": "Todos los goles | Copa Mundial Femenina de la FIFA Australia y Nueva Zelanda 2023™",
+            "description": "| +TP | Deportes |\n\nVer todos los goles convertidos hasta el momento en la Copa Mundial femenina Australia y Nueva Zelanda 2023™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120010 +0100",
+            "stop_time": "20250225121711 +0100",
+            "title": "Alegría: Marco Tardelli | Ojos del Mundo",
+            "description": "| +TP | Deportes |\n\nUna celebración que fue imitada en todo el mundo luego de la histórica victoria de Italia en la Copa Mundial de la FIFA España 1982. La cara de alegría absoluta de Marco Tardelli mientras ayudaba a su país a levantar el trofeo por tercera vez en su historia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225121718 +0100",
+            "stop_time": "20250225140336 +0100",
+            "title": "Argentina vs Inglaterra | Cuartos de final | Copa Mundial de la FIFA México 1986™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina e Inglaterra jugado en el Estadio Azteca, Ciudad de México, el domingo 22 de junio de 1986.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140342 +0100",
+            "stop_time": "20250225144321 +0100",
+            "title": "FACTS: Argentina vs. Alemania FR | Mexico 86",
+            "description": "| +TP | Deportes |\n\nLa victoria de la Argentina de Diego Maradona sobre Alemania FR en el Azteca explicada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225144327 +0100",
+            "stop_time": "20250225164611 +0100",
+            "title": "Australia vs Inglaterra | Semifinales | Copa Mundial Femenina de la FIFA Australia & Nueva Zelanda 2023™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Australia y Inglaterra jugado en el Estadio de Australia, Sídney, el miércoles, 16 de agosto de 2023, a las 20:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225164618 +0100",
+            "stop_time": "20250225171439 +0100",
+            "title": "Lucy Bronze | Íconos",
+            "description": "| +TP | Deportes |\n\n\"Más fuerte, más en forma y más rápida\". Ninguna lesión iba a impedir que Lucy Bronze alcance su grandeza.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225171446 +0100",
+            "stop_time": "20250225190537 +0100",
+            "title": "Argentina vs Inglaterra | Grupo F | Copa Mundial de la FIFA Corea/Japón 2002™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina e Inglaterra jugado en el Sapporo Dome, Sapporo, el viernes 07 de junio de 2002.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190543 +0100",
+            "stop_time": "20250225193727 +0100",
+            "title": "Marta, leyenda de la Copa Mundial Femenina de la FIFA™",
+            "description": "| +TP | Deportes |\n\nDisfruta con las actuaciones de Marta con la camiseta de Brasil frente a Estados Unidos en China 2007™ y contra Italia en Brasil 2019™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225193733 +0100",
+            "stop_time": "20250225223537 +0100",
+            "title": "Países Bajos vs Argentina | Cuartos de final | Copa Mundial de la FIFA Catar 2022™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Países Bajos y Argentina jugado en Lusail Stadium, Al Daayen el viernes, 9 de diciembre de 2022 a las 22:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223543 +0100",
+            "stop_time": "20250226002739 +0100",
+            "title": "Paraguay vs España | Cuartos de final | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Paraguay y España jugado en el Estadio Ellis Park, Johannesburgo, el sábado 3 de julio de 2010.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226002746 +0100",
+            "stop_time": "20250226012544 +0100",
+            "title": "Heroínas | El documental de Copa Mundial Femenina de la FIFA™",
+            "description": "| +TP | Deportes |\n\nRevive el crecimiento de la Copa Mundial Femenina de la FIFA. Íconos del juego cuentan la historia del desarrollo del torneo desde el comienzo modesto en 1991 hasta levantar un vuelo altísimo en 2015.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226012551 +0100",
+            "stop_time": "20250226042355 +0100",
+            "title": "Países Bajos vs Argentina | Cuartos de final | Copa Mundial de la FIFA Catar 2022™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Países Bajos y Argentina jugado en Lusail Stadium, Al Daayen el viernes, 9 de diciembre de 2022 a las 22:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226042402 +0100",
+            "stop_time": "20250226045202 +0100",
+            "title": "Bring the Noise",
+            "description": "| +TP | Deportes |\n\nRevive todas las emociones de la Copa Mundial de 2022 desde una perspectiva diferente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226045208 +0100",
+            "stop_time": "20250226073526 +0100",
+            "title": "Italia vs Argentina | Semifinales | Copa Mundial de la FIFA Italia 1990™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Italia y Argentina jugado en el Estadio San Paolo, Nápoles, el martes 3 de julio de 1990.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073532 +0100",
+            "stop_time": "20250226080406 +0100",
+            "title": "Eliminaciones de anfitriones en la Copa Mundial de la FIFA™",
+            "description": "| +TP | Deportes |\n\nVuelve a ver las caídas de Alemania en 2006 y Rusia en 2018.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080413 +0100",
+            "stop_time": "20250226095424 +0100",
+            "title": "México vs Bulgaria | Octavos de final | Copa Mundial de la FIFA México 1986™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre México y Bulgaria jugado en el Estadio Azteca, Ciudad de México, el domingo 15 de junio de 1986.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226095430 +0100",
+            "stop_time": "20250226120749 +0100",
+            "title": "Siete Juegos para la Gloria | La Película Oficial de la Copa Mundial de la FIFA 2002™",
+            "description": "| +TP | Deportes |\n\nDescubre el detrás de escena con Ronaldo y los héroes de Brasil en la Copa Mundial de la FIFA 2002™ y cómo se escribió el cuento de hadas en Asia.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120755 +0100",
+            "stop_time": "20250226123904 +0100",
+            "title": "De la tierra al cielo: Lionel Messi y Diego Maradona campeones del mundo",
+            "description": "| +TP | Deportes |\n\nDisfruta las consagraciones de Argentina en México 1986™ y Catar 2022™, con ambas leyendas como protagonistas.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123911 +0100",
+            "stop_time": "20250226150155 +0100",
+            "title": "Argentina vs Países Bajos | Final | Copa Mundial de la FIFA Argentina 1978™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina y Países Bajos jugado en El Monumental, Buenos Aires, el domingo 25 de junio de 1978.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150201 +0100",
+            "stop_time": "20250226153110 +0100",
+            "title": "Partidos de la Copa Mundial de la FIFA™ que sorprendieron al mundo 7",
+            "description": "| +TP | Deportes |\n\nRevive dos encuentros inolvidables de la Copa Mundial de la FIFA™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153116 +0100",
+            "stop_time": "20250226161044 +0100",
+            "title": "FACTS: Países Bajos vs. España | Sudáfrica 2010",
+            "description": "| +TP | Deportes |\n\nEspaña sorprendiendo a los Oranje en Johannesburgo, analizado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226161051 +0100",
+            "stop_time": "20250226180102 +0100",
+            "title": "Alemania vs España | Semifinales | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Alemania y España jugado en el Estadio de Durban, Durban, el miércoles 7 de julio de 2010.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180108 +0100",
+            "stop_time": "20250226190106 +0100",
+            "title": "Todos los goles | Copa Mundial de la FIFA Catar 2022™",
+            "description": "| +TP | Deportes |\n\nVea todos los goles marcados en la Copa Mundial de la FIFA Catar 2022™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190113 +0100",
+            "stop_time": "20250226192913 +0100",
+            "title": "Bring the Noise",
+            "description": "| +TP | Deportes |\n\nRevive todas las emociones de la Copa Mundial de 2022 desde una perspectiva diferente.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226192919 +0100",
+            "stop_time": "20250226195753 +0100",
+            "title": "Eliminaciones de anfitriones en la Copa Mundial de la FIFA™",
+            "description": "| +TP | Deportes |\n\nVuelve a ver las caídas de Alemania en 2006 y Rusia en 2018.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226195759 +0100",
+            "stop_time": "20250226221447 +0100",
+            "title": "España vs Inglaterra | Final | Copa Mundial Femenina de la FIFA Australia & Nueva Zelanda 2023™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre España y Inglaterra jugado en el Estadio de Australia, Sídney, el domingo, 20 de agosto de 2023, a las 20:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226221454 +0100",
+            "stop_time": "20250226231215 +0100",
+            "title": "Ronaldo | Bota de Oro",
+            "description": "| +TP | Deportes |\n\nLineker se encuentra con Ronaldo en Ibiza, España.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226231221 +0100",
+            "stop_time": "20250227014225 +0100",
+            "title": "Países Bajos vs España | Final | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Países Bajos y España jugado en el Soccer City, Johannesburgo, el domingo 11 de julio de 2010.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227014232 +0100",
+            "stop_time": "20250227033538 +0100",
+            "title": "Noruega vs Inglaterra | Cuartos de final | Copa Mundial Femenina de la FIFA Francia 2019™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Noruega y Inglaterra jugado en Stade Océane, Le Havre el jueves, 27 de junio de 2019 a las 21:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227033544 +0100",
+            "stop_time": "20250227043342 +0100",
+            "title": "Heroínas | El documental de Copa Mundial Femenina de la FIFA™",
+            "description": "| +TP | Deportes |\n\nRevive el crecimiento de la Copa Mundial Femenina de la FIFA. Íconos del juego cuentan la historia del desarrollo del torneo desde el comienzo modesto en 1991 hasta levantar un vuelo altísimo en 2015.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043349 +0100",
+            "stop_time": "20250227062003 +0100",
+            "title": "Argentina vs Bélgica | Semifinales | Copa Mundial de la FIFA México 1986™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina y Bélgica jugado en el Estadio Azteca, Ciudad de México, el miércoles 25 de junio de 1986.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227062009 +0100",
+            "stop_time": "20250227065937 +0100",
+            "title": "FACTS: Países Bajos vs. España | Sudáfrica 2010",
+            "description": "| +TP | Deportes |\n\nEspaña sorprendiendo a los Oranje en Johannesburgo, analizado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227065944 +0100",
+            "stop_time": "20250227084827 +0100",
+            "title": "Bulgaria vs Alemania | Cuartos de final | Copa Mundial de la FIFA Estados Unidos 1994™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Bulgaria y Alemania jugado en el Giants Stadium, New Jersey, el domingo 10 de julio de 1994.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227084834 +0100",
+            "stop_time": "20250227092110 +0100",
+            "title": "Partidos de la Copa Mundial de la FIFA™ que sorprendieron al mundo 8",
+            "description": "| +TP | Deportes |\n\nRevive dos encuentros inolvidables de la Copa Mundial de la FIFA™",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227092117 +0100",
+            "stop_time": "20250227110823 +0100",
+            "title": "Italia vs Camerún | Fase de grupos | Copa Mundial de la FIFA España 1982™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Italia y Camerún jugado en el Estadio Municipal de Balaídos, Vigo, el miércoles 23 de junio de 1982.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110830 +0100",
+            "stop_time": "20250227113724 +0100",
+            "title": "Grandes partidos de la Copa Mundial de la FIFA™",
+            "description": "| +TP | Deportes |\n\nDisfruta de Colombia ante Uruguay en Brasil 2014™ e Inglaterra frente a Camerún en Italia 1990™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227113731 +0100",
+            "stop_time": "20250227132332 +0100",
+            "title": "Polonia vs México | Fase de grupos | Copa Mundial de la FIFA Argentina 1978™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Polonia y México jugado en el Estadio Gigante de Arroyito, Rosario, el sábado 10 de junio de 1978.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227132338 +0100",
+            "stop_time": "20250227135502 +0100",
+            "title": "Francia en las semifinales de la Copa Mundial de la FIFA™",
+            "description": "| +TP | Deportes |\n\nDisfruta de los éxitos de Francia frente a Bélgica en Rusia 2018™ y contra Marruecos en Catar 2022™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227135508 +0100",
+            "stop_time": "20250227144937 +0100",
+            "title": "Todos los goles | Copa Mundial Femenina Sub-20 de la FIFA Colombia 2024™",
+            "description": "| +TP | Deportes |\n\nDisfruta con el espectáculo de todos los tantos anotados hasta ahora, en la mayor Copa Mundial Femenina Sub-20 hasta la fecha.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227144944 +0100",
+            "stop_time": "20250227151055 +0100",
+            "title": "Radja Nainggolan y Kadeisha Buchanan | HD Cutz",
+            "description": "| +TP | Deportes |\n\nHD Cutz viaja por Europa para encontrarse con Radja Nainggolan y con la internacional de Canadá Kadeisha Buchanan.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227151101 +0100",
+            "stop_time": "20250227170407 +0100",
+            "title": "Noruega vs Inglaterra | Cuartos de final | Copa Mundial Femenina de la FIFA Francia 2019™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Noruega y Inglaterra jugado en Stade Océane, Le Havre el jueves, 27 de junio de 2019 a las 21:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170413 +0100",
+            "stop_time": "20250227180211 +0100",
+            "title": "Heroínas | El documental de Copa Mundial Femenina de la FIFA™",
+            "description": "| +TP | Deportes |\n\nRevive el crecimiento de la Copa Mundial Femenina de la FIFA. Íconos del juego cuentan la historia del desarrollo del torneo desde el comienzo modesto en 1991 hasta levantar un vuelo altísimo en 2015.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180218 +0100",
+            "stop_time": "20250227194832 +0100",
+            "title": "Argentina vs Bélgica | Semifinales | Copa Mundial de la FIFA México 1986™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Argentina y Bélgica jugado en el Estadio Azteca, Ciudad de México, el miércoles 25 de junio de 1986.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227194839 +0100",
+            "stop_time": "20250227212249 +0100",
+            "title": "España vs Brasil | Final | Campeonato Mundial de Futsal de la FIFA Guatemala 2000™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre España y Brasil jugado en el Campeonato Mundial de Futsal de la FIFA Guatemala 2000™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227212255 +0100",
+            "stop_time": "20250227222032 +0100",
+            "title": "Del Uno al Once",
+            "description": "| +TP | Deportes |\n\nDiego Maradona, Paolo Rossi, Carles Puyol y otros ganadores de la Copa Mundial de la FIFA™ narran historias inéditas sobre cómo consiguieron el trofeo más preciado de todos.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227222038 +0100",
+            "stop_time": "20250228004315 +0100",
+            "title": "Australia vs Dinamarca | Octavos de final | Copa Mundial Femenina de la FIFA Australia & Nueva Zelanda 2023™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Australia y Dinamarca jugado en el Estadio de Australia, Sídney, el lunes, 7 de agosto de 2023, a las 20:30 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228004322 +0100",
+            "stop_time": "20250228011216 +0100",
+            "title": "Grandes partidos de la Copa Mundial de la FIFA™",
+            "description": "| +TP | Deportes |\n\nDisfruta de Colombia ante Uruguay en Brasil 2014™ e Inglaterra frente a Camerún en Italia 1990™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228011223 +0100",
+            "stop_time": "20250228030629 +0100",
+            "title": "Senegal vs Turquía | Cuartos de final | Copa Mundial de la FIFA Corea/Japón 2002™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Senegal y Turquía jugado en el Nagai Stadium, Osaka, el sábado 22 de junio de 2002.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030635 +0100",
+            "stop_time": "20250228033017 +0100",
+            "title": "Sergio Goycochea | Descubriendo",
+            "description": "| +TP | Deportes |\n\nEntró como suplente y nunca más salió. La importancia de Goycochea en la campaña argentina en el Mundial de 1990 no puede ser subestimada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228033023 +0100",
+            "stop_time": "20250228060612 +0100",
+            "title": "Paraguay vs Japón | Octavos de final | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Paraguay y Japón jugado en el Estadio de Loftus Versfeld, Pretoria, el martes 29 de junio de 2010.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060619 +0100",
+            "stop_time": "20250228063353 +0100",
+            "title": "Partidos de la Copa Mundial de la FIFA™ que sorprendieron al mundo 9",
+            "description": "| +TP | Deportes |\n\nRevive dos encuentros inolvidables de la Copa Mundial de la FIFA™",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063359 +0100",
+            "stop_time": "20250228080726 +0100",
+            "title": "Noruega vs EEUU | Final | Copa Mundial del Fútbol Femenino de la FIFA RP China 1991™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Noruega y EEUU jugado en Tianhe Stadium, Guangzhou el sábado, 30 de noviembre de 1991 a las 19:45 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080732 +0100",
+            "stop_time": "20250228090559 +0100",
+            "title": "Los mejores goles del Mundial Sub 17",
+            "description": "| +TP | Deportes |\n\nMira los mejores goles de la historia de la Copa Mundial Sub 17 de la FIFA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090606 +0100",
+            "stop_time": "20250228093435 +0100",
+            "title": "Grandes victorias de anfitriones en la Copa Mundial Femenina de la FIFA™",
+            "description": "| +TP | Deportes |\n\nRevive el triunfo de Suecia ante Alemania en Suecia 1995™, y el éxito de Francia ante Brasil en Francia 2019™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093441 +0100",
+            "stop_time": "20250228100325 +0100",
+            "title": "Sam Kerr | Íconos",
+            "description": "| +TP | Deportes |\n\nDesde su debut a los 15 años a convertirse en la máxima goleadora histórica de Australia, el viaje de Sam Kerr fue sin dudas uno increíble.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100331 +0100",
+            "stop_time": "20250228113459 +0100",
+            "title": "España vs Italia | Final | Campeonato Mundial de Futsal de la FIFA Chinese Taipei 2004™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre España e Italia jugado en el Campeonato Mundial de Futsal de la FIFA Chinese Taipei 2004™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113506 +0100",
+            "stop_time": "20250228121419 +0100",
+            "title": "FACTS: Francia vs. Croacia | Russia 2018",
+            "description": "| +TP | Deportes |\n\nFrancia ganando su segundo título contra la sorprendente Croacia, desglosado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228121425 +0100",
+            "stop_time": "20250228151710 +0100",
+            "title": "Sudáfrica vs Italia | Grupo G | Copa Mundial Femenina de la FIFA Australia & Nueva Zelanda 2023™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Sudáfrica y Italia jugado en el Estadio Regional de Wellington, Wellington, el miércoles, 2 de agosto de 2023, a las 19:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228151716 +0100",
+            "stop_time": "20250228165236 +0100",
+            "title": "La Copa de la Gloria | La Película Oficial de la Copa Mundial de la FIFA 1998™",
+            "description": "| +TP | Deportes |\n\nDisfrute la fascinante historia de la Copa Mundial 1998, escrita especialmente por y para Ronaldo pero que finalmente perteneció a la Francia de Zinedine Zidane.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228165243 +0100",
+            "stop_time": "20250228184649 +0100",
+            "title": "Senegal vs Turquía | Cuartos de final | Copa Mundial de la FIFA Corea/Japón 2002™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Senegal y Turquía jugado en el Nagai Stadium, Osaka, el sábado 22 de junio de 2002.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228184655 +0100",
+            "stop_time": "20250228191037 +0100",
+            "title": "Sergio Goycochea | Descubriendo",
+            "description": "| +TP | Deportes |\n\nEntró como suplente y nunca más salió. La importancia de Goycochea en la campaña argentina en el Mundial de 1990 no puede ser subestimada.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228191043 +0100",
+            "stop_time": "20250228193817 +0100",
+            "title": "Partidos de la Copa Mundial de la FIFA™ que sorprendieron al mundo 9",
+            "description": "| +TP | Deportes |\n\nRevive dos encuentros inolvidables de la Copa Mundial de la FIFA™",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193823 +0100",
+            "stop_time": "20250228213239 +0100",
+            "title": "Francia vs Alemania | Cuartos de final | Copa Mundial de la FIFA Brasil 2014™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Francia y Alemania jugado en el Maracanã, Rio de Janeiro, el viernes 04 de julio de 2014.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213246 +0100",
+            "stop_time": "20250228220125 +0100",
+            "title": "La Furia Roja: España en Sudáfrica 2010",
+            "description": "| +TP | Deportes |\n\nMira nuevamente los partidos de España ante Chile y frente a Países Bajos en la Copa Mundial de la FIFA 2010™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220131 +0100",
+            "stop_time": "20250301000537 +0100",
+            "title": "Inglaterra vs Francia | Cuartos de final | Copa Mundial de la FIFA Catar 2022™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Inglaterra y Francia jugado en Al Bayt Stadium, Al Khor el sábado, 10 de diciembre de 2022 a las 22:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000543 +0100",
+            "stop_time": "20250301010000 +0100",
+            "title": "España vs Italia | Final | Campeonato Mundial de Futsal de la FIFA Chinese Taipei 2004™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre España e Italia jugado en el Campeonato Mundial de Futsal de la FIFA Chinese Taipei 2004™.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010006 +0100",
+            "stop_time": "20250301024913 +0100",
+            "title": "Italia vs Ucrania | Cuartos de final | Copa Mundial de la FIFA Alemania 2006™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Italia y Ucrania jugado en el Volksparkstadion, Hamburgo, el viernes 30 de junio de 2006.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301024919 +0100",
+            "stop_time": "20250301044126 +0100",
+            "title": "Brasil vs Francia | Cuartos de final | Copa Mundial de la FIFA Alemania 2006™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Brasil y Francia jugado en el Commerzbank Arena, Frankfurt, el sábado 01 de julio de 2006.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301044133 +0100",
+            "stop_time": "20250301063456 +0100",
+            "title": "Mali vs España | Semifinales | Copa Mundial Sub-17 de la FIFA India 2017™ | Partido Completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Mali y España jugado en el Dr. DY Patil Stadium, Navi Mumbai, el miércoles, 25 de octubre de 2017 a las 20:00 (hora local).",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301063503 +0100",
+            "stop_time": "20250301082951 +0100",
+            "title": "Uruguay vs Portugal | Octavos de final | Copa Mundial de la FIFA Rusia 2018™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Uruguay y Portugal jugado en el Estadio Fisht, Sochi, el sábado 30 de junio de 2018.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301082958 +0100",
+            "stop_time": "20250301102350 +0100",
+            "title": "Suecia vs Inglaterra | Cuartos de final | Copa Mundial de la FIFA Rusia 2018™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Suecia e Inglaterra jugado en el Samara Arena, Samara, el sábado 7 de julio de 2018.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301102356 +0100",
+            "stop_time": "20250301121808 +0100",
+            "title": "Francia vs Bélgica | Semifinales | Copa Mundial de la FIFA Rusia 2018™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Francia y Bélgica jugado en el Estadio de San Petersburgo, St. Petersburgo, el martes 10 de julio de 2018.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301121815 +0100",
+            "stop_time": "20250301141149 +0100",
+            "title": "Suecia vs Suiza | Octavos de final | Copa Mundial de la FIFA Rusia 2018™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Suecia y Suiza jugado en el Estadio de San Petersburgo, St. Petersburgo, el martes 3 de julio de 2018.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301141155 +0100",
+            "stop_time": "20250301160615 +0100",
+            "title": "Países Bajos vs Brasil | Cuartos de final | Copa Mundial de la FIFA Estados Unidos 1994™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Países Bajos y Brasil jugado en el Cotton Bowl, Dallas, el sábado 09 de julio de 1994.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160621 +0100",
+            "stop_time": "20250301180059 +0100",
+            "title": "Italia vs España | Cuartos de final | Copa Mundial de la FIFA Estados Unidos 1994™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Italia y España jugado en el Foxboro Stadium, Boston, el sábado 09 de julio de 1994.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180105 +0100",
+            "stop_time": "20250301195138 +0100",
+            "title": "Países Bajos vs Argentina | Cuartos de final | Copa Mundial de la FIFA Francia 1998™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Países Bajos y Argentina jugado en el Stade Vélodrome, Marsella, el sábado 04 de julio de 1998.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301195144 +0100",
+            "stop_time": "20250301214415 +0100",
+            "title": "España vs Nigeria | Fase de grupos | Copa Mundial de la FIFA Francia 1998™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre España y Nigeria jugado en el Stade de la Beaujoire, Nantes, el sábado 13 de junio de 1998.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301214422 +0100",
+            "stop_time": "20250301233223 +0100",
+            "title": "Brasil vs Noruega | Fase de grupos | Copa Mundial de la FIFA Francia 1998™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Brasil y Noruega jugado en el Stade Vélodrome, Marsella, el martes 23 de junio de 1998.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233229 +0100",
+            "stop_time": "20250302012136 +0100",
+            "title": "Italia vs Ucrania | Cuartos de final | Copa Mundial de la FIFA Alemania 2006™ | Partido completo",
+            "description": "| +TP | Deportes |\n\nVídeo del partido completo entre Italia y Ucrania jugado en el Volksparkstadion, Hamburgo, el viernes 30 de junio de 2006.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/fifa-fifa-plus-es-new.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

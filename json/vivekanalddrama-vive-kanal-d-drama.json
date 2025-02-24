@@ -4,10 +4,10 @@
     "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png",
     "group_title": "Series",
     "original_master_url": "https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=41066c12-dd3c-4b26-828e-d9e2dd57bbea&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vive-kanal-d-drama/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/640x360_1057680/index.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bdb300b3851587a9d1b8c2a1cc6df2ffe4c3d7d14228799b02dda98130bb2d00e2c7bb952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7ff6387270686ef59d4216ddef3990e6a210b1cdc040bbcf30fe7a6be0367ec5693b01e42b0157cb6d601a69658fdd98079a679b074f6159597f981f92aa3d7c520c606ef350e511d7e9181779dcc51c4bff00a61ce2872027439e7a780c15e3382785745e8fab9cb0f8d03c2883c847227ba079d7089398e79a505abbb3fcacabadb517e3caad229074dc4f5b285ff6f41d70cfaa6fae27e7d8bfd116c35ad07ba273862ca97bb1580d02a85a23180b5641436c7ae4c9feff4e9abe4dc1aca73c996a6d539461d604956840ff4d7358971d835ac971673584911fa9857c18783245a0f4e829361c1001eabe49f9acf0b49a30a7c4ce173d04f0a7e9648060ee429eaa52e789f19098a3b29fe5621bf4bf8ca4a9fc38fb15e6def9fad3afe6bfc8a18c6e03daa62324d07bde6135344427ac5ef6108421ca926f7c3cbbb02636eedf3dec1c4562e0e3a126d0086f69513f1ef911bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d8cdb7ebce07b68663baa1ee6ff2b30c1c8829ac6673fbe13c733ca89e/148/640x360_1057680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1057680",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/848x480_1686360/index.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bdb300b3851587a9d1b8c2a1cc6df2ffe4c3d7d14228799b02dda98130bb2d00e2c7bb952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7ff6387270686ef59d4216ddef3990e6a210b1cdc040bbcf30fe7a6be0367ec5693b01e42b0157cb6d601a69658fdd98079a679b074f6159597f981f92aa3d7c520c606ef350e511d7e9181779dcc51c4bff00a61ce2872027439e7a780c15e3382785745e8fab9cb0f8d03c2883c847227ba079d7089398e79a505abbb3fcacabadb517e3caad229074dc4f5b285ff6f41d70cfaa6fae27e7d8bfd116c35ad07ba273862ca97bb1580d02a85a23180b5641436c7ae4c9feff4e9abe4dc1aca73c996a6d539461d604956840ff4d7358971d835ac971673584911fa9857c18783245a0f4e829361c1001eabe49f9acf0b49a30a7c4ce173d04f0a7e9648060ee429eaa52e789f19098a3b29fe5621bf4bf8ca4a9fc38fb15e6def9fad3afe6bfc8a18c6e03daa62324d07bde6135344427ac5ef6108421ca926f7c3cbbb02636eedf3dec1c4562e0e3a126d0086f69513f1ef911bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d8cdb7ebce07b68663baa1ee6ff2b30c1c8829ac6673fbe13c733ca89e/148/848x480_1686360/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1686360",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/1280x720_3329040/index.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bdb300b3851587a9d1b8c2a1cc6df2ffe4c3d7d14228799b02dda98130bb2d00e2c7bb952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7ff6387270686ef59d4216ddef3990e6a210b1cdc040bbcf30fe7a6be0367ec5693b01e42b0157cb6d601a69658fdd98079a679b074f6159597f981f92aa3d7c520c606ef350e511d7e9181779dcc51c4bff00a61ce2872027439e7a780c15e3382785745e8fab9cb0f8d03c2883c847227ba079d7089398e79a505abbb3fcacabadb517e3caad229074dc4f5b285ff6f41d70cfaa6fae27e7d8bfd116c35ad07ba273862ca97bb1580d02a85a23180b5641436c7ae4c9feff4e9abe4dc1aca73c996a6d539461d604956840ff4d7358971d835ac971673584911fa9857c18783245a0f4e829361c1001eabe49f9acf0b49a30a7c4ce173d04f0a7e9648060ee429eaa52e789f19098a3b29fe5621bf4bf8ca4a9fc38fb15e6def9fad3afe6bfc8a18c6e03daa62324d07bde6135344427ac5ef6108421ca926f7c3cbbb02636eedf3dec1c4562e0e3a126d0086f69513f1ef911bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d8cdb7ebce07b68663baa1ee6ff2b30c1c8829ac6673fbe13c733ca89e/148/1280x720_3329040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3329040",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1ed8340f6b02557a9d1b8c291cc6df2ffe4c652f412687cab07bd090125fe6dd5e2d79b9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adfe453884c6c94d449e42b7ccdf48e345621071bbd6e67d4a154b2c5c90c119b03e3f55a27c6701ba3d71c8dbb40eade831ecf14d354c42eaed1b0dad93cb8a4c037ea38f0201f67217297947c9ddd62bfdee80f53f8257c1e480fbcc9e3ff4a2fb954574efdfec6b66bf82cc78d57c70a73ef51c819d233db39e70da3b24dedf9b98d140c61f69c5e2c23f9e0f28eff6064bf64fea3b3ac191b98f2074742c77baa44415c80efc410deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fb2ad9b993951716701148f5ea7a579c239d80acda47036594f1edff03fc582ca613d635d8d854aa67771dbde98d99b6457cb640865f86fdd641175dc311e088f5fe9963d758c341a843238c4553c8450f3b420afddb188073fa6e1d251fa7dd0a113c2f370c0075b4f0ba0fb385057163fba9467092346c04aeac7cfef633603e0f6deedc955310438035b038590831af9df921b1d7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49656c0e81f0e5d19a49c8bb81f9c08f4663c49f69c12f6edddd39ca01ef9161b83161152ce6f81e4208557c5976f1e678ce4aea9c13f489cf4dd9ea9e0656ca6eed5242d083ae0c828d8ba51c5c88cbb778d87b41faa3af05b45741fa6b754e9382c83dd2617e/33/1920x1080_6046040/index.m3u8",
+            "url": "https://rakutenaa-thema-vivekanald-rakuten-a9cbv.amagi.tv/playlist/rakutenAA-thema-vivekanald-rakuten/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1bdb300b3851587a9d1b8c2a1cc6df2ffe4c3d7d14228799b02dda98130bb2d00e2c7bb952246eaf5a56bf710664d0ea1f379124a57c7776826a795330d7ff6387270686ef59d4216ddef3990e6a210b1cdc040bbcf30fe7a6be0367ec5693b01e42b0157cb6d601a69658fdd98079a679b074f6159597f981f92aa3d7c520c606ef350e511d7e9181779dcc51c4bff00a61ce2872027439e7a780c15e3382785745e8fab9cb0f8d03c2883c847227ba079d7089398e79a505abbb3fcacabadb517e3caad229074dc4f5b285ff6f41d70cfaa6fae27e7d8bfd116c35ad07ba273862ca97bb1580d02a85a23180b5641436c7ae4c9feff4e9abe4dc1aca73c996a6d539461d604956840ff4d7358971d835ac971673584911fa9857c18783245a0f4e829361c1001eabe49f9acf0b49a30a7c4ce173d04f0a7e9648060ee429eaa52e789f19098a3b29fe5621bf4bf8ca4a9fc38fb15e6def9fad3afe6bfc8a18c6e03daa62324d07bde6135344427ac5ef6108421ca926f7c3cbbb02636eedf3dec1c4562e0e3a126d0086f69513f1ef911bf377ab2b4ee1df8d75ec66e35a9d6d7c0e27dd1bd7ec3a608412243e94df553f744de605351ce5aca76aba6dc7c7bd18223e4b6abe327f4806693c4c3b8f5f6971635994006a01ce6feac077f7bb87afa114a6aa6db83f6b1a6ac4ba702b6c00203a5bccc222bfd685e216438c369effcdad6b25e55cc361e8ad709cbc9ca7f1e6420a82a3541828b9d630fa4a22d51cee57e2a460c1a45d091271524dd39b51ec4baa90c88978c862fe3d63048a72d8cdb7ebce07b68663baa1ee6ff2b30c1c8829ac6673fbe13c733ca89e/148/1920x1080_6046040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "6046040",
@@ -55,6 +55,470 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/vivekanalddrama-vive-kanal-d-drama.json"
+    "epg": [
+        {
+            "start_time": "20250224150002 +0100",
+            "stop_time": "20250224160001 +0100",
+            "title": "S01 E80 MI ÚLTIMO DESEO",
+            "description": "| +12 | Series |\n\nKerim recupera a su hija y busca abogado. Zeynep busca sus cosas con Ege decidida a divorciarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160002 +0100",
+            "stop_time": "20250224170003 +0100",
+            "title": "S01 E138 AMANECER",
+            "description": "| +12 | Series |\n\nKerem provoca a Bora quien termina golpeándolo. Sevim se da cuenta de que Ahmet se esconde en casa de Melda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170004 +0100",
+            "stop_time": "20250224180002 +0100",
+            "title": "S01 E139 AMANECER",
+            "description": "| +12 | Series |\n\nKerem toma un consejo de Zedat y decide llevarse a Zeynep a la fuerza en un intento desesperado de arreglarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180003 +0100",
+            "stop_time": "20250224190005 +0100",
+            "title": "S01 E81 LA DAMA REBELDE",
+            "description": "| +12 | Series |\n\nPara Halide sigue siendo un problema su situación económica, eso genera una profunda decepción en Kemal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190006 +0100",
+            "stop_time": "20250224200001 +0100",
+            "title": "S01 E82 LA DAMA REBELDE",
+            "description": "| +12 | Series |\n\nOrhan desea pasar más tiempo con Güllü y entablar una amistad. Cemsir acepta su realidad: se ha quedado sólo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200002 +0100",
+            "stop_time": "20250224210001 +0100",
+            "title": "S01 E52 GUMUS",
+            "description": "| +12 | Series |\n\nGümüş llega a su taller y encuentra la sorpresa de parte de su esposo. Kader decide reunirse con su madre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210002 +0100",
+            "stop_time": "20250224220004 +0100",
+            "title": "S01 E53 GUMUS",
+            "description": "| +12 | Series |\n\nGümüş y Engin se preparan para lanzar la marca pero Gümüş aún no tiene nada y le pide ayuda a su esposo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220005 +0100",
+            "stop_time": "20250224230004 +0100",
+            "title": "S01 E79 MI ÚLTIMO DESEO",
+            "description": "| +12 | Series |\n\nLale y Ates se casan. Ege se siente desolada. Kerim se reúne con Zeynep triste por la ausencia de su hija.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230005 +0100",
+            "stop_time": "20250225000004 +0100",
+            "title": "S01 E80 MI ÚLTIMO DESEO",
+            "description": "| +12 | Series |\n\nKerim recupera a su hija y busca abogado. Zeynep busca sus cosas con Ege decidida a divorciarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000005 +0100",
+            "stop_time": "20250225010001 +0100",
+            "title": "S01 E138 AMANECER",
+            "description": "| +12 | Series |\n\nKerem provoca a Bora quien termina golpeándolo. Sevim se da cuenta de que Ahmet se esconde en casa de Melda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010002 +0100",
+            "stop_time": "20250225020000 +0100",
+            "title": "S01 E139 AMANECER",
+            "description": "| +12 | Series |\n\nKerem toma un consejo de Zedat y decide llevarse a Zeynep a la fuerza en un intento desesperado de arreglarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020001 +0100",
+            "stop_time": "20250225030003 +0100",
+            "title": "S01 E81 LA DAMA REBELDE",
+            "description": "| +12 | Series |\n\nPara Halide sigue siendo un problema su situación económica, eso genera una profunda decepción en Kemal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030004 +0100",
+            "stop_time": "20250225040004 +0100",
+            "title": "S01 E82 LA DAMA REBELDE",
+            "description": "| +12 | Series |\n\nOrhan desea pasar más tiempo con Güllü y entablar una amistad. Cemsir acepta su realidad: se ha quedado sólo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040005 +0100",
+            "stop_time": "20250225050004 +0100",
+            "title": "S01 E52 GUMUS",
+            "description": "| +12 | Series |\n\nGümüş llega a su taller y encuentra la sorpresa de parte de su esposo. Kader decide reunirse con su madre.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050005 +0100",
+            "stop_time": "20250225060002 +0100",
+            "title": "S01 E53 GUMUS",
+            "description": "| +12 | Series |\n\nGümüş y Engin se preparan para lanzar la marca pero Gümüş aún no tiene nada y le pide ayuda a su esposo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060003 +0100",
+            "stop_time": "20250225070002 +0100",
+            "title": "S01 E79 MI ÚLTIMO DESEO",
+            "description": "| +12 | Series |\n\nLale y Ates se casan. Ege se siente desolada. Kerim se reúne con Zeynep triste por la ausencia de su hija.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070003 +0100",
+            "stop_time": "20250225080002 +0100",
+            "title": "S01 E80 MI ÚLTIMO DESEO",
+            "description": "| +12 | Series |\n\nKerim recupera a su hija y busca abogado. Zeynep busca sus cosas con Ege decidida a divorciarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080003 +0100",
+            "stop_time": "20250225090005 +0100",
+            "title": "S01 E138 AMANECER",
+            "description": "| +12 | Series |\n\nKerem provoca a Bora quien termina golpeándolo. Sevim se da cuenta de que Ahmet se esconde en casa de Melda.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090006 +0100",
+            "stop_time": "20250225100003 +0100",
+            "title": "S01 E139 AMANECER",
+            "description": "| +12 | Series |\n\nKerem toma un consejo de Zedat y decide llevarse a Zeynep a la fuerza en un intento desesperado de arreglarse.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100004 +0100",
+            "stop_time": "20250225110001 +0100",
+            "title": "S01 E81 LA DAMA REBELDE",
+            "description": "| +12 | Series |\n\nPara Halide sigue siendo un problema su situación económica, eso genera una profunda decepción en Kemal.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110002 +0100",
+            "stop_time": "20250225120004 +0100",
+            "title": "S01 E82 LA DAMA REBELDE",
+            "description": "| +12 | Series |\n\nOrhan desea pasar más tiempo con Güllü y entablar una amistad. Cemsir acepta su realidad: se ha quedado sólo.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120005 +0100",
+            "stop_time": "20250225150000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150001 +0100",
+            "stop_time": "20250225180000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180001 +0100",
+            "stop_time": "20250225210000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210001 +0100",
+            "stop_time": "20250226000000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000001 +0100",
+            "stop_time": "20250226030000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030001 +0100",
+            "stop_time": "20250226060000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060001 +0100",
+            "stop_time": "20250226090000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090001 +0100",
+            "stop_time": "20250226120000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120001 +0100",
+            "stop_time": "20250226150000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150001 +0100",
+            "stop_time": "20250226180000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180001 +0100",
+            "stop_time": "20250226210000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210001 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000001 +0100",
+            "stop_time": "20250227030000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030001 +0100",
+            "stop_time": "20250227060000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060001 +0100",
+            "stop_time": "20250227090000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090001 +0100",
+            "stop_time": "20250227120000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120001 +0100",
+            "stop_time": "20250227150000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150001 +0100",
+            "stop_time": "20250227180000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180001 +0100",
+            "stop_time": "20250227210000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210001 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228030000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030001 +0100",
+            "stop_time": "20250228060000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060001 +0100",
+            "stop_time": "20250228090000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090001 +0100",
+            "stop_time": "20250228120000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120001 +0100",
+            "stop_time": "20250228150000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150001 +0100",
+            "stop_time": "20250228180000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180001 +0100",
+            "stop_time": "20250228210000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210001 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301030000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030001 +0100",
+            "stop_time": "20250301060000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060001 +0100",
+            "stop_time": "20250301090000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090001 +0100",
+            "stop_time": "20250301120000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120001 +0100",
+            "stop_time": "20250301150000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150001 +0100",
+            "stop_time": "20250301180000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180001 +0100",
+            "stop_time": "20250301210000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210001 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302030000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030001 +0100",
+            "stop_time": "20250302060000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302060001 +0100",
+            "stop_time": "20250302090000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090001 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302180000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180001 +0100",
+            "stop_time": "20250302210000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303030000 +0100",
+            "title": "To Be Announced",
+            "description": "| +12 | Series |\n\nProgram information is not yet available",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/vivekanalddrama-vive-kanal-d-drama.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

@@ -1,0 +1,993 @@
+{
+    "name": "Red Bull TV",
+    "tvg_id": "red-bull-tv-en",
+    "epg": [
+        {
+            "start_time": "20250224152823 +0100",
+            "stop_time": "20250224155833 +0100",
+            "title": "Jaan Roose: Life on the Line",
+            "description": "| +12 | Deportes |\n\nWorld champion slackliner Jaan Roose makes history as the first person to walk a record-breaking 3.6km slackline across the Strait of Messina, from mainland Italy to Sicily.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224155839 +0100",
+            "stop_time": "20250224173747 +0100",
+            "title": "Wild Waters",
+            "description": "| +12 | Deportes |\n\nThe life of Nouria Newman; the most gifted kayaker of her generation. An Extreme Kayaking World Champion and the first woman to Kayak Salto del Maule in Chile, she's always pushing boundaries.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173753 +0100",
+            "stop_time": "20250224183828 +0100",
+            "title": "Toby Price: Ridin’ Shotgun",
+            "description": "| +12 | Deportes |\n\nSix-time winner on two-wheels, three-time DNF on four: can Toby Price make the start line and finally shake his demons to become the undisputed king of the Australian desert at the Finke Desert Race?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224183834 +0100",
+            "stop_time": "20250224190913 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nWakeskating off a Dubai skyscraper. F1 drivers racing on Floridan waters and in the Nevada desert. Riding a skatepark attached to a hot air balloon. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190919 +0100",
+            "stop_time": "20250224193958 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nBreaking world records – it's all in a day's work for Red Bull athletes! See Felix Baumgartner jump from space, 65 women skydive together and one BMXer conquer the globe's biggest full loop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224194004 +0100",
+            "stop_time": "20250224201556 +0100",
+            "title": "In the Wings",
+            "description": "| +12 | Deportes |\n\nThrust into the Formula One spotlight during a chaotic Dutch GP, driver Liam Lawson fights to prove himself while simultaneously contending for the Super Formula Japan titles.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224201602 +0100",
+            "stop_time": "20250224205156 +0100",
+            "title": "Milestone",
+            "description": "| +12 | Deportes |\n\nFollow professional snowboarder Eero Ettala behind the scenes as he works on a video part while balancing family life. The film reflects on his achievements throughout his career.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224205202 +0100",
+            "stop_time": "20250224224112 +0100",
+            "title": "Born to Fly",
+            "description": "| +12 | Deportes |\n\nFrom child prodigy to a world great, Mondo Duplantis's journey to pole vault legend wasn't without challenges. His intimate story explores the unrelenting drive that propelled him to new heights.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224224118 +0100",
+            "stop_time": "20250224230045 +0100",
+            "title": "Reel Rock",
+            "description": "| +12 | Deportes |\n\nAustralian prodigy Angie Scarth-Johnson joins adventure climber Hazel Findlay to tackle Mallorca’s top deep-water soloing routes, blending skill and thrill in breathtaking settings.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230051 +0100",
+            "stop_time": "20250224232031 +0100",
+            "title": "Reel Rock",
+            "description": "| +12 | Deportes |\n\nAngie Scarth-Johnson discovers that mastering climbing competition Psicobloc is as much mental as physical. To tackle tough moves high above the water, she'll have to face her fears.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224232037 +0100",
+            "stop_time": "20250225010515 +0100",
+            "title": "Au Revoir",
+            "description": "| +12 | Deportes |\n\nA competitive family legacy, a brotherly rivalry that fuelled his rise, and a last act on the water. Au Revoir is the wakeboarding ride of a lifetime as Raph Derome retires from the competitive sport.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010521 +0100",
+            "stop_time": "20250225021638 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nThe action in Erzberg heats up as the 23rd edition sees 500 riders battle each other in Austria's biggest iron mine. Will Graham Jarvis defend his title against a pack of hardened and hungry rivals?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225021644 +0100",
+            "stop_time": "20250225032843 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nCanada's Whistler Mountain Bike Park offers up a thrilling finale to 10 days of mountain biking festivities – Red Bull Joyride continues to be the largest MTB slopestyle competition in the world.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225032849 +0100",
+            "stop_time": "20250225044442 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nRed Bull Rampage is the biggest test of guts, skill and creativity in mountain biking, known around the world as the proving ground for the best, bravest and most well-rounded riders on two wheels.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225044448 +0100",
+            "stop_time": "20250225055708 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nIn this innovative evolution of Supercross a track is 'unwound' – no turns, just a half-mile-long straight rhythm section. The format pitted 32 riders in a head-to-head showdown of pure MX racing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225055714 +0100",
+            "stop_time": "20250225070000 +0100",
+            "title": "The Turner Twins – double or nothing",
+            "description": "| +12 | Deportes |\n\nMeet Hugo and Ross Turner, identical twins and professional adventurers on a mission to reach the world's nine poles of inaccessibility.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070006 +0100",
+            "stop_time": "20250225080830 +0100",
+            "title": "Distance Between Dreams",
+            "description": "| +12 | Deportes |\n\nA crew of top surfers, headed by Ian Walsh, paddle in on one of the world’s biggest waves: Jaws. Already formidable, the Hawaiian break's been sent to new heights by weather phenomenon El Niño.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080836 +0100",
+            "stop_time": "20250225083915 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nSpeed skating into the record books at 93kph. Office skateboarding. BASE jumping on Mount Everest. Diving into crocodile waters. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083921 +0100",
+            "stop_time": "20250225091000 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nFlying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225091006 +0100",
+            "stop_time": "20250225093033 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nDive deep into one of surfing's most historic corners, Honolulu. On the other side of Oahu to the famed North Shore, 'Town' serves up an abundance of pristine waves and Hawaiian heritage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093039 +0100",
+            "stop_time": "20250225095356 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nFrom the Eastern Suburbs to the Central Coast and from The Shire to the Northern Beaches, meet the colourful characters and explore the surfing culture of Australia's biggest city, Sydney.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225095402 +0100",
+            "stop_time": "20250225101449 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nWhile Japan is known for both tradition and technology it's also an archipelago lashed by swell and steeped in surfing culture. Kanoa Igarashi takes you to Tokyo to get a taste of the action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225101455 +0100",
+            "stop_time": "20250225104846 +0100",
+            "title": "Race One",
+            "description": "| +12 | Deportes |\n\nEvery season, the biggest race in Supercross is also the first: A1. Go behind the scenes with Jett and Hunter Lawrence and Chase Sexton as they prepare to kick off a pivotal 2025 season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225104852 +0100",
+            "stop_time": "20250225123457 +0100",
+            "title": "Long Live Chainsaw",
+            "description": "| +12 | Deportes |\n\nFrom underdog to world champ – this is the mountain bike film in memory of legend Stevie 'Chainsaw' Smith.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225123503 +0100",
+            "stop_time": "20250225130542 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nSpeed skating into the record books at 93kph. Office skateboarding. BASE jumping on Mount Everest. Diving into crocodile waters. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130548 +0100",
+            "stop_time": "20250225133627 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nFlying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225133633 +0100",
+            "stop_time": "20250225150035 +0100",
+            "title": "La Liste: Everything or Nothing",
+            "description": "| +12 | Deportes |\n\nBig mountain skiers Jérémie Heitz and Sam Anthamatten tackle the world’s highest peaks, from the Swiss Alps to the Himalayas, in this thrilling freeskiing adventure across 6,000m mountain ranges.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150041 +0100",
+            "stop_time": "20250225165218 +0100",
+            "title": "Valley Uprising",
+            "description": "| +12 | Deportes |\n\nThe unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225165224 +0100",
+            "stop_time": "20250225180811 +0100",
+            "title": "Yamnuska: The Ragged Edge",
+            "description": "| +12 | Deportes |\n\nFollow modern-day adventurers Vikki Weldon and Quentin Roberts as they embark on a climbing journey through time, celebrating the rich history of one of Canada’s most iconic cliffs, Mount Yamnuska.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180817 +0100",
+            "stop_time": "20250225191641 +0100",
+            "title": "Distance Between Dreams",
+            "description": "| +12 | Deportes |\n\nA crew of top surfers, headed by Ian Walsh, paddle in on one of the world’s biggest waves: Jaws. Already formidable, the Hawaiian break's been sent to new heights by weather phenomenon El Niño.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225191647 +0100",
+            "stop_time": "20250225194726 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nSpeed skating into the record books at 93kph. Office skateboarding. BASE jumping on Mount Everest. Diving into crocodile waters. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225194732 +0100",
+            "stop_time": "20250225201811 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nFlying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225201817 +0100",
+            "stop_time": "20250225203844 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nDive deep into one of surfing's most historic corners, Honolulu. On the other side of Oahu to the famed North Shore, 'Town' serves up an abundance of pristine waves and Hawaiian heritage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203850 +0100",
+            "stop_time": "20250225210207 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nFrom the Eastern Suburbs to the Central Coast and from The Shire to the Northern Beaches, meet the colourful characters and explore the surfing culture of Australia's biggest city, Sydney.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210213 +0100",
+            "stop_time": "20250225212300 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nWhile Japan is known for both tradition and technology it's also an archipelago lashed by swell and steeped in surfing culture. Kanoa Igarashi takes you to Tokyo to get a taste of the action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225212306 +0100",
+            "stop_time": "20250225215657 +0100",
+            "title": "Race One",
+            "description": "| +12 | Deportes |\n\nEvery season, the biggest race in Supercross is also the first: A1. Go behind the scenes with Jett and Hunter Lawrence and Chase Sexton as they prepare to kick off a pivotal 2025 season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225215703 +0100",
+            "stop_time": "20250225234308 +0100",
+            "title": "Long Live Chainsaw",
+            "description": "| +12 | Deportes |\n\nFrom underdog to world champ – this is the mountain bike film in memory of legend Stevie 'Chainsaw' Smith.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225234314 +0100",
+            "stop_time": "20250226000624 +0100",
+            "title": "Reel Rock",
+            "description": "| +12 | Deportes |\n\nBlind adventure athlete Erik Weihenmayer ascends a huge rock face in the Sierra Nevada. Using camera work and animation, the film brings to life a concept by adaptive climbing pioneer Timmy ONeill.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000630 +0100",
+            "stop_time": "20250226003257 +0100",
+            "title": "Reel Rock",
+            "description": "| +12 | Deportes |\n\nJapanese climbing legend Sachi Amma journeys from three-time world champ to purist, culminating in a bold and visionary first ascent on Japan's Mt. Mizugaki.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226003303 +0100",
+            "stop_time": "20250226015705 +0100",
+            "title": "La Liste: Everything or Nothing",
+            "description": "| +12 | Deportes |\n\nBig mountain skiers Jérémie Heitz and Sam Anthamatten tackle the world’s highest peaks, from the Swiss Alps to the Himalayas, in this thrilling freeskiing adventure across 6,000m mountain ranges.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226015711 +0100",
+            "stop_time": "20250226022729 +0100",
+            "title": "The Next Centimeter",
+            "description": "| +12 | Deportes |\n\nSheer grit has made Armand ‘Mondo’ Duplantis one of the century’s most extraordinary athletes, becoming an eight-time record breaker by 24. Can he continue to raise the bar, one centimetre at a time?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226022735 +0100",
+            "stop_time": "20250226031825 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nAt nearly 300m long with a vertical drop of 12m and 12 unique obstacles, there's some serious skateboarding action from the athletes at the slopestyle course in the hills of Olympiapark in Munich.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226031831 +0100",
+            "stop_time": "20250226040916 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nMore than 50,000 fans gather in Crandon, Wisconsin, to cheer for their favourite drivers as they race on the longest and the fastest short-course track for Crandon World Championship Off-Road Races.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040922 +0100",
+            "stop_time": "20250226052603 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nThe world’s best surfers return to Oahu, Hawaii, USA, and the world-famous Banzai Pipeline for another year of high-profile, high-stakes contest surfing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226052609 +0100",
+            "stop_time": "20250226061654 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nFor the fourth year in a row, the best athletes battle it out in Travis Pastrana's spectacular competition featuring a series of events that raise the bar in FMX, BMX, skate, scooter and rallycross.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226061700 +0100",
+            "stop_time": "20250226070000 +0100",
+            "title": "Cake",
+            "description": "| +12 | Deportes |\n\nCelebrating the pure joy and creativity of snowboarding, Cake highlights how pros ride for fun while inspiring others to hit the slopes and share unforgettable moments.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070006 +0100",
+            "stop_time": "20250226075044 +0100",
+            "title": "Red Bull Soapbox Race – Iowa",
+            "description": "| +12 | Deportes |\n\nThe judges are ready to be dazzled by creativity and fast descents from the racers and their homemade soapbox racers in Iowa, USA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226075050 +0100",
+            "stop_time": "20250226084048 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nThe hilarious race with no engine and many obstacles. Have the teams done enough to let their homemade soapboxes race to the finish line, or will the course trip them up?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226084054 +0100",
+            "stop_time": "20250226093122 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nFearless teams race through obstacles in their engineless machines for the Red Bull Soapbox Race 2022 in Spa, Belgium.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226093128 +0100",
+            "stop_time": "20250226102124 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nTo win or To(ulouse)? That is the question that will be answered today in this gravity-powered race! May the pink city give strength and courage to the many participants.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226102130 +0100",
+            "stop_time": "20250226120321 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nA churros-powered descent is taking place in the steep road of Madrid! Who will come out on top and who will crash in the haystacks next to the cheering crowd?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120327 +0100",
+            "stop_time": "20250226125407 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nJoin the wild ride at the Red Bull Soapbox Race 2023 in Switzerland as teams race homemade, gravity-powered cars through twists and turns, combining creativity, speed and a few crashes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226125413 +0100",
+            "stop_time": "20250226134424 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nThe Red Bull Soapbox Race 2023 in Jordan gives creative teams and their handmade cars a wild track amid Amman’s hills, facing twists, turns and crashes in a colourful display of speed and fun.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226134430 +0100",
+            "stop_time": "20250226143541 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nThe Red Bull Soapbox Race 2024 in Hyderabad, India, unleashed a wave of chaos as teams navigated a unique, obstacle-filled track. Watch as gravity-powered vehicles race, flip and soar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143547 +0100",
+            "stop_time": "20250226152604 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nHigh-speed antics at the Red Bull Soapbox Race 2022 in Melbourne, Australia as wildly creative teams test their homemade racers, bringing crashes, laughs, and fierce competition down under.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226152610 +0100",
+            "stop_time": "20250226161645 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nTeams bring their inventive, homemade racers to a wild Red Bull Soapbox Race in Norway, facing steep hills and sharp turns in a thrilling showdown of speed, creativity and spills.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226161651 +0100",
+            "stop_time": "20250226170729 +0100",
+            "title": "Red Bull Soapbox Race – Iowa",
+            "description": "| +12 | Deportes |\n\nThe judges are ready to be dazzled by creativity and fast descents from the racers and their homemade soapbox racers in Iowa, USA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170735 +0100",
+            "stop_time": "20250226175733 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nThe hilarious race with no engine and many obstacles. Have the teams done enough to let their homemade soapboxes race to the finish line, or will the course trip them up?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226175739 +0100",
+            "stop_time": "20250226184807 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nFearless teams race through obstacles in their engineless machines for the Red Bull Soapbox Race 2022 in Spa, Belgium.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226184813 +0100",
+            "stop_time": "20250226193809 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nTo win or To(ulouse)? That is the question that will be answered today in this gravity-powered race! May the pink city give strength and courage to the many participants.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226193815 +0100",
+            "stop_time": "20250226212007 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nA churros-powered descent is taking place in the steep road of Madrid! Who will come out on top and who will crash in the haystacks next to the cheering crowd?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226212013 +0100",
+            "stop_time": "20250226221052 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nJoin the wild ride at the Red Bull Soapbox Race 2023 in Switzerland as teams race homemade, gravity-powered cars through twists and turns, combining creativity, speed and a few crashes.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226221058 +0100",
+            "stop_time": "20250226230109 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nThe Red Bull Soapbox Race 2023 in Jordan gives creative teams and their handmade cars a wild track amid Amman’s hills, facing twists, turns and crashes in a colourful display of speed and fun.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230115 +0100",
+            "stop_time": "20250226235227 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nThe Red Bull Soapbox Race 2024 in Hyderabad, India, unleashed a wave of chaos as teams navigated a unique, obstacle-filled track. Watch as gravity-powered vehicles race, flip and soar.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226235233 +0100",
+            "stop_time": "20250227004250 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nHigh-speed antics at the Red Bull Soapbox Race 2022 in Melbourne, Australia as wildly creative teams test their homemade racers, bringing crashes, laughs, and fierce competition down under.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227004256 +0100",
+            "stop_time": "20250227013330 +0100",
+            "title": "Red Bull Soapbox Race",
+            "description": "| +12 | Deportes |\n\nTeams bring their inventive, homemade racers to a wild Red Bull Soapbox Race in Norway, facing steep hills and sharp turns in a thrilling showdown of speed, creativity and spills.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013336 +0100",
+            "stop_time": "20250227022435 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nThe jewel in the crown of the Erzbergrodeo weekend's proceedings is Red Bull Hare Scramble, with 500 riders clawing their way out of the bottom of a quarry to try to conquer the Iron Mountain.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227022441 +0100",
+            "stop_time": "20250227031526 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nThe battle of the bumps sees supercross riders taking on a half-mile 'unwound' rhythm track featuring jumps and doubles in Pomona, California, USA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227031532 +0100",
+            "stop_time": "20250227043153 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nThe red rocks of Virgin, Utah hosts the biggest test of guts, skill and creativity in mountain biking. An elite group of 21 riders bring their best man-made lines to the 13th edition.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043159 +0100",
+            "stop_time": "20250227052152 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nFor snowboarders, the Burton US Open is the contest that really matters as athletes compete for the most prestigious halfpipe and slopestyle titles in the sport.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227052158 +0100",
+            "stop_time": "20250227061255 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nRed Bull Roller Coaster is a unique skateboard slopestyle course with 12 different obstacles in the hills of Olympiapark in Munich, Germany.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227061301 +0100",
+            "stop_time": "20250227070000 +0100",
+            "title": "True to This",
+            "description": "| +12 | Deportes |\n\nThe first to combine surf, skate and snowboarding under one brand, explore Volcom's groundbreaking fusion of this trio of board sports in a cinematic journey celebrating rebellious style and attitude.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070006 +0100",
+            "stop_time": "20250227084444 +0100",
+            "title": "Au Revoir",
+            "description": "| +12 | Deportes |\n\nA competitive family legacy, a brotherly rivalry that fuelled his rise, and a last act on the water. Au Revoir is the wakeboarding ride of a lifetime as Raph Derome retires from the competitive sport.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227084450 +0100",
+            "stop_time": "20250227091529 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nFlying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227091535 +0100",
+            "stop_time": "20250227094614 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nSwamp buggy racing. Sprinting down from the peak of a mountain on a bike. High diving off ancient ruins. Getting the perfect surf shot. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227094620 +0100",
+            "stop_time": "20250227101529 +0100",
+            "title": "Christa Funk: First In, Last Out",
+            "description": "| +12 | Deportes |\n\nWhile in the Coast Guard in Hawaii, Christa Funk discovered surf photography. Inspired by her late father, she’s pushed herself into wild lineups to capture the ocean through her unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227101535 +0100",
+            "stop_time": "20250227112606 +0100",
+            "title": "ANYTIME",
+            "description": "| +12 | Deportes |\n\nThis generational freeride mountain bike film from Red Bull Media House and Anthill Films follows the ambitions of a small group of elite riders as they attempt to redefine the frontiers of the sport.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227112612 +0100",
+            "stop_time": "20250227122646 +0100",
+            "title": "Toby Price: Ridin’ Shotgun",
+            "description": "| +12 | Deportes |\n\nSix-time winner on two-wheels, three-time DNF on four: can Toby Price make the start line and finally shake his demons to become the undisputed king of the Australian desert at the Finke Desert Race?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227122652 +0100",
+            "stop_time": "20250227124719 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nDive deep into one of surfing's most historic corners, Honolulu. On the other side of Oahu to the famed North Shore, 'Town' serves up an abundance of pristine waves and Hawaiian heritage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227124725 +0100",
+            "stop_time": "20250227131042 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nFrom the Eastern Suburbs to the Central Coast and from The Shire to the Northern Beaches, meet the colourful characters and explore the surfing culture of Australia's biggest city, Sydney.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227131048 +0100",
+            "stop_time": "20250227133136 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nWhile Japan is known for both tradition and technology it's also an archipelago lashed by swell and steeped in surfing culture. Kanoa Igarashi takes you to Tokyo to get a taste of the action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133142 +0100",
+            "stop_time": "20250227150626 +0100",
+            "title": "CEB: A Major Comeback",
+            "description": "| +12 | Deportes |\n\nSébastien Debs', a retired French pro Dota 2 player, returns to step in for an ESL One Stockholm Major. Can the legendary player drive his team to esports tournament victory for an incredible comeback?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150632 +0100",
+            "stop_time": "20250227163832 +0100",
+            "title": "T1 Rose Together",
+            "description": "| +12 | Deportes |\n\nFollow T1, the legendary Korean esports team, from their heartbreaking 2022 League of Legends World Championship Finals loss to their triumphant victory the following year.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163838 +0100",
+            "stop_time": "20250227173245 +0100",
+            "title": "La Liste",
+            "description": "| +12 | Deportes |\n\nSkiing phenom Jérémie Heitz challenges himself to ski 15 steepest 4,000m peaks in the Alps in just two ski seasons.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173251 +0100",
+            "stop_time": "20250227191729 +0100",
+            "title": "Au Revoir",
+            "description": "| +12 | Deportes |\n\nA competitive family legacy, a brotherly rivalry that fuelled his rise, and a last act on the water. Au Revoir is the wakeboarding ride of a lifetime as Raph Derome retires from the competitive sport.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227191735 +0100",
+            "stop_time": "20250227194814 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nFlying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227194820 +0100",
+            "stop_time": "20250227201859 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nSwamp buggy racing. Sprinting down from the peak of a mountain on a bike. High diving off ancient ruins. Getting the perfect surf shot. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227201905 +0100",
+            "stop_time": "20250227204815 +0100",
+            "title": "Christa Funk: First In, Last Out",
+            "description": "| +12 | Deportes |\n\nWhile in the Coast Guard in Hawaii, Christa Funk discovered surf photography. Inspired by her late father, she’s pushed herself into wild lineups to capture the ocean through her unique perspective.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227204821 +0100",
+            "stop_time": "20250227215852 +0100",
+            "title": "ANYTIME",
+            "description": "| +12 | Deportes |\n\nThis generational freeride mountain bike film from Red Bull Media House and Anthill Films follows the ambitions of a small group of elite riders as they attempt to redefine the frontiers of the sport.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227215858 +0100",
+            "stop_time": "20250227225932 +0100",
+            "title": "Toby Price: Ridin’ Shotgun",
+            "description": "| +12 | Deportes |\n\nSix-time winner on two-wheels, three-time DNF on four: can Toby Price make the start line and finally shake his demons to become the undisputed king of the Australian desert at the Finke Desert Race?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227225938 +0100",
+            "stop_time": "20250227232005 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nDive deep into one of surfing's most historic corners, Honolulu. On the other side of Oahu to the famed North Shore, 'Town' serves up an abundance of pristine waves and Hawaiian heritage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227232011 +0100",
+            "stop_time": "20250227234328 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nFrom the Eastern Suburbs to the Central Coast and from The Shire to the Northern Beaches, meet the colourful characters and explore the surfing culture of Australia's biggest city, Sydney.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227234334 +0100",
+            "stop_time": "20250228000421 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nWhile Japan is known for both tradition and technology it's also an archipelago lashed by swell and steeped in surfing culture. Kanoa Igarashi takes you to Tokyo to get a taste of the action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000427 +0100",
+            "stop_time": "20250228013912 +0100",
+            "title": "CEB: A Major Comeback",
+            "description": "| +12 | Deportes |\n\nSébastien Debs', a retired French pro Dota 2 player, returns to step in for an ESL One Stockholm Major. Can the legendary player drive his team to esports tournament victory for an incredible comeback?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013918 +0100",
+            "stop_time": "20250228031118 +0100",
+            "title": "T1 Rose Together",
+            "description": "| +12 | Deportes |\n\nFollow T1, the legendary Korean esports team, from their heartbreaking 2022 League of Legends World Championship Finals loss to their triumphant victory the following year.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228031124 +0100",
+            "stop_time": "20250228042801 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nThe world's best surfers converge for the 2019 Volcom Pipe Pro at the iconic Banzai Pipeline in Oahu, Hawaii, for some of the best waves the legendary surfing contest has ever seen.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228042807 +0100",
+            "stop_time": "20250228054428 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nTop motocross riders battle head-to-head at the 2019 Red Bull Straight Rhythm in Pomona, Southern California as they take on a straight supercross track packed with bumps and jumps.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228054434 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "Innersection: Orange",
+            "description": "| +12 | Deportes |\n\nFeaturing 20 short surf films from 20 international directors, Innersection: Orange is unlike anything else in the sport today. They're surfer-created, audience-selected and ocean-inspired.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070006 +0100",
+            "stop_time": "20250228085142 +0100",
+            "title": "Valley Uprising",
+            "description": "| +12 | Deportes |\n\nThe unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228085148 +0100",
+            "stop_time": "20250228100735 +0100",
+            "title": "Yamnuska: The Ragged Edge",
+            "description": "| +12 | Deportes |\n\nFollow modern-day adventurers Vikki Weldon and Quentin Roberts as they embark on a climbing journey through time, celebrating the rich history of one of Canada’s most iconic cliffs, Mount Yamnuska.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100741 +0100",
+            "stop_time": "20250228110825 +0100",
+            "title": "Ice Waterfalls",
+            "description": "| +12 | Deportes |\n\nElite kayaker Aniol Serrasolses shatters boundaries on his Arctic expedition to Norway when he descends a 20m-high ice waterfall - the largest ever recorded kayak drop from a glacial waterfall.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110831 +0100",
+            "stop_time": "20250228113841 +0100",
+            "title": "Jaan Roose: Life on the Line",
+            "description": "| +12 | Deportes |\n\nWorld champion slackliner Jaan Roose makes history as the first person to walk a record-breaking 3.6km slackline across the Strait of Messina, from mainland Italy to Sicily.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113847 +0100",
+            "stop_time": "20250228131755 +0100",
+            "title": "Wild Waters",
+            "description": "| +12 | Deportes |\n\nThe life of Nouria Newman; the most gifted kayaker of her generation. An Extreme Kayaking World Champion and the first woman to Kayak Salto del Maule in Chile, she's always pushing boundaries.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228131801 +0100",
+            "stop_time": "20250228135910 +0100",
+            "title": "Red Bull Dual Ascent",
+            "description": "| +12 | Deportes |\n\nSixteen world-class athletes on eight teams battling to be the fastest up the wall of gruelling six pitches at Red Bull Dual Ascent: two exact routes, side-by-side, 180m high, one winning team.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228135916 +0100",
+            "stop_time": "20250228152302 +0100",
+            "title": "Stoke the Fire",
+            "description": "| +12 | Deportes |\n\nAn epic journey that's all about what makes skiing – and the mountains – so special. This is all-out skiing against jaw-dropping scenery.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228152308 +0100",
+            "stop_time": "20250228165114 +0100",
+            "title": "The Art of Flight",
+            "description": "| +12 | Deportes |\n\nPros Curt Morgan and Travis Rice create the world's most progressive snowboarding film by combining cutting-edge cinematography, stunning locales and the best freestyle snowboarding ever captured.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228165120 +0100",
+            "stop_time": "20250228172511 +0100",
+            "title": "Race One",
+            "description": "| +12 | Deportes |\n\nEvery season, the biggest race in Supercross is also the first: A1. Go behind the scenes with Jett and Hunter Lawrence and Chase Sexton as they prepare to kick off a pivotal 2025 season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228172517 +0100",
+            "stop_time": "20250228175556 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nTouring a town in style on a snowmobile. Freerunning through an airport. Skateboarding out of a flying plane. Ice climbing Niagra Falls. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228175602 +0100",
+            "stop_time": "20250228182641 +0100",
+            "title": "For Reals",
+            "description": "| +12 | Deportes |\n\nWingsuit flying through London’s Tower Bridge at 246kph. Swinging from a hot air balloon. Slacklining the length of two football fields. It's all in a day's work for Red Bull athletes!",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228182647 +0100",
+            "stop_time": "20250228201824 +0100",
+            "title": "Valley Uprising",
+            "description": "| +12 | Deportes |\n\nThe unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228201830 +0100",
+            "stop_time": "20250228213417 +0100",
+            "title": "Yamnuska: The Ragged Edge",
+            "description": "| +12 | Deportes |\n\nFollow modern-day adventurers Vikki Weldon and Quentin Roberts as they embark on a climbing journey through time, celebrating the rich history of one of Canada’s most iconic cliffs, Mount Yamnuska.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213423 +0100",
+            "stop_time": "20250228223507 +0100",
+            "title": "Ice Waterfalls",
+            "description": "| +12 | Deportes |\n\nElite kayaker Aniol Serrasolses shatters boundaries on his Arctic expedition to Norway when he descends a 20m-high ice waterfall - the largest ever recorded kayak drop from a glacial waterfall.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223513 +0100",
+            "stop_time": "20250228230522 +0100",
+            "title": "Jaan Roose: Life on the Line",
+            "description": "| +12 | Deportes |\n\nWorld champion slackliner Jaan Roose makes history as the first person to walk a record-breaking 3.6km slackline across the Strait of Messina, from mainland Italy to Sicily.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230528 +0100",
+            "stop_time": "20250301004437 +0100",
+            "title": "Wild Waters",
+            "description": "| +12 | Deportes |\n\nThe life of Nouria Newman; the most gifted kayaker of her generation. An Extreme Kayaking World Champion and the first woman to Kayak Salto del Maule in Chile, she's always pushing boundaries.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301004443 +0100",
+            "stop_time": "20250301012552 +0100",
+            "title": "Red Bull Dual Ascent",
+            "description": "| +12 | Deportes |\n\nSixteen world-class athletes on eight teams battling to be the fastest up the wall of gruelling six pitches at Red Bull Dual Ascent: two exact routes, side-by-side, 180m high, one winning team.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301012558 +0100",
+            "stop_time": "20250301023701 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nFor a third year with an improved course layout, Ryan Sheckler invites the world’s best skateboarders to a one-of-a-kind street course at Hart Plaza, Detroit, USA.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023707 +0100",
+            "stop_time": "20250301034827 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nFor the 16th year, Plaza de Toros de Las Ventas in Madrid is the scene of spectacular FMX action. The world’s best riders will throw down some crazy tricks, some of which will be world firsts.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301034833 +0100",
+            "stop_time": "20250301052700 +0100",
+            "title": "Red Bull Signature Series",
+            "description": "| +12 | Deportes |\n\nThe world's best surfers gather at the legendary North Shore on Oahu, Hawaii for one of big wave surfing's most revered contests. Rookies and veterans alike throw down on the big barrels.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301052706 +0100",
+            "stop_time": "20250301064913 +0100",
+            "title": "Stranger than Fiction",
+            "description": "| +12 | Deportes |\n\nIs pro surfing a complete lie? Is modern wave-riding being faked for glory and profit? Taylor Steele's genre-defining action flick pulls back the curtain on pro surfing's deepest, darkest secrets.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301064919 +0100",
+            "stop_time": "20250301070000 +0100",
+            "title": "Journey to Dakar",
+            "description": "| +12 | Deportes |\n\nDive behind the scenes and discover the meticulous process of building the ultimate Raptor from CAD designs to making its first tracks in the wild.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070006 +0100",
+            "stop_time": "20250301075413 +0100",
+            "title": "La Liste",
+            "description": "| +12 | Deportes |\n\nSkiing phenom Jérémie Heitz challenges himself to ski 15 steepest 4,000m peaks in the Alps in just two ski seasons.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301075419 +0100",
+            "stop_time": "20250301091821 +0100",
+            "title": "La Liste: Everything or Nothing",
+            "description": "| +12 | Deportes |\n\nBig mountain skiers Jérémie Heitz and Sam Anthamatten tackle the world’s highest peaks, from the Swiss Alps to the Himalayas, in this thrilling freeskiing adventure across 6,000m mountain ranges.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301091827 +0100",
+            "stop_time": "20250301104633 +0100",
+            "title": "The Art of Flight",
+            "description": "| +12 | Deportes |\n\nPros Curt Morgan and Travis Rice create the world's most progressive snowboarding film by combining cutting-edge cinematography, stunning locales and the best freestyle snowboarding ever captured.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301104639 +0100",
+            "stop_time": "20250301120226 +0100",
+            "title": "Yamnuska: The Ragged Edge",
+            "description": "| +12 | Deportes |\n\nFollow modern-day adventurers Vikki Weldon and Quentin Roberts as they embark on a climbing journey through time, celebrating the rich history of one of Canada’s most iconic cliffs, Mount Yamnuska.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120232 +0100",
+            "stop_time": "20250301135409 +0100",
+            "title": "Valley Uprising",
+            "description": "| +12 | Deportes |\n\nThe unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301135415 +0100",
+            "stop_time": "20250301141502 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nWhile Japan is known for both tradition and technology it's also an archipelago lashed by swell and steeped in surfing culture. Kanoa Igarashi takes you to Tokyo to get a taste of the action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301141508 +0100",
+            "stop_time": "20250301143535 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nDive deep into one of surfing's most historic corners, Honolulu. On the other side of Oahu to the famed North Shore, 'Town' serves up an abundance of pristine waves and Hawaiian heritage.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301143541 +0100",
+            "stop_time": "20250301145858 +0100",
+            "title": "No Contest: Off Tour",
+            "description": "| +12 | Deportes |\n\nFrom the Eastern Suburbs to the Central Coast and from The Shire to the Northern Beaches, meet the colourful characters and explore the surfing culture of Australia's biggest city, Sydney.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301145904 +0100",
+            "stop_time": "20250301152943 +0100",
+            "title": "Premier Padel 2025 Riyadh P1 Highlights",
+            "description": "| +12 | Deportes |\n\nWatch the action from the season opener in Saudi Arabia as the world's best padel players tackle the Riyadh Premier Padel P1.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301152949 +0100",
+            "stop_time": "20250301160340 +0100",
+            "title": "Race One",
+            "description": "| +12 | Deportes |\n\nEvery season, the biggest race in Supercross is also the first: A1. Go behind the scenes with Jett and Hunter Lawrence and Chase Sexton as they prepare to kick off a pivotal 2025 season.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160346 +0100",
+            "stop_time": "20250301162748 +0100",
+            "title": "WSL Championship Tour: Channel 51 – Last Call Pipeline",
+            "description": "| +12 | Deportes |\n\nWho’s happy, who has work to do, and who were the big winners at the season opening Lexus Pipe Pro? Let the Stab team fill in the blanks as the WSL Championship Tour leaves Hawaii.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301162754 +0100",
+            "stop_time": "20250301172201 +0100",
+            "title": "La Liste",
+            "description": "| +12 | Deportes |\n\nSkiing phenom Jérémie Heitz challenges himself to ski 15 steepest 4,000m peaks in the Alps in just two ski seasons.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301172207 +0100",
+            "stop_time": "20250301184608 +0100",
+            "title": "La Liste: Everything or Nothing",
+            "description": "| +12 | Deportes |\n\nBig mountain skiers Jérémie Heitz and Sam Anthamatten tackle the world’s highest peaks, from the Swiss Alps to the Himalayas, in this thrilling freeskiing adventure across 6,000m mountain ranges.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301184614 +0100",
+            "stop_time": "20250301201421 +0100",
+            "title": "The Art of Flight",
+            "description": "| +12 | Deportes |\n\nPros Curt Morgan and Travis Rice create the world's most progressive snowboarding film by combining cutting-edge cinematography, stunning locales and the best freestyle snowboarding ever captured.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301201427 +0100",
+            "stop_time": "20250301205318 +0100",
+            "title": "Race Tapes",
+            "description": "| +12 | Deportes |\n\nAn American downhiller fights fate from parking lot to hot seat, but struggles to find the fortune required to reach the top step.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301205324 +0100",
+            "stop_time": "20250301212748 +0100",
+            "title": "Race Tapes",
+            "description": "| +12 | Deportes |\n\nA racer from the 'wrong' continent propels a brand from the 'wrong' store to become part of the only 'in' crowd that matters: the winner's circle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301212754 +0100",
+            "stop_time": "20250301220400 +0100",
+            "title": "Race Tapes",
+            "description": "| +12 | Deportes |\n\nAsa Vermette: a youngster destined for greatness tangles his fate with an upstart team. Can both deliver on their promise?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220406 +0100",
+            "stop_time": "20250301223834 +0100",
+            "title": "Race Tapes",
+            "description": "| +12 | Deportes |\n\nA suave racer goes from winning everything to nothing. With his career on the line, can Martin Vidaurre regain his bravado in time?",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223840 +0100",
+            "stop_time": "20250301231257 +0100",
+            "title": "Race Tapes",
+            "description": "| +12 | Deportes |\n\nBack from career-changing injury, a once-dominant team and their charismatic French sponsor look to regain the 'je ne sais quoi' that made them great.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301231303 +0100",
+            "stop_time": "20250302002850 +0100",
+            "title": "Yamnuska: The Ragged Edge",
+            "description": "| +12 | Deportes |\n\nFollow modern-day adventurers Vikki Weldon and Quentin Roberts as they embark on a climbing journey through time, celebrating the rich history of one of Canada’s most iconic cliffs, Mount Yamnuska.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302002856 +0100",
+            "stop_time": "20250302022033 +0100",
+            "title": "Valley Uprising",
+            "description": "| +12 | Deportes |\n\nThe unforgettable tale of the bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
+            "icon": ""
+        }
+    ]
+}

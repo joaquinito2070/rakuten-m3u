@@ -4,10 +4,10 @@
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f1af70ab-1f78-4af7-97c5-bcf61aa1acf7.jpeg",
     "group_title": "Deportes",
     "original_master_url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?ads_amagi_channel=872&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5458&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=acc6177f-8c27-426b-8b03-f8bfdad1a888&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/mavtv-motorsports-network-new/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1cd9355e65555e7a9d1b8c291cc6df2ffe4c3d7a1122879fb47cd190470cbbdb5d2a2ab96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815713b4fc892256290f19c60e088ae417e3aac3687feb2bf4e31662af0e14b3c12d98894decd9bb08c612d828a448bfa7cab8db17808cbd598b06e627364a366ba683769ddd58b8cea5603dee1742224b01b3fbc98f245b87435063fdf1ddcd039577de9b2a853a4dd16d994b970f9f78af1b98f557b0a8c9b628262fadd7527528b2bfe1e0833437ae59e9b6ffe2707397e2117653f661d92c2c2d91face66e1a97693b824dfee036d39c4827a8889a086eebd84449b1ac3c386de57064f600754d70af59c20832a8f2fe59a41775e001cafca068980815c36664e82d15f8c4b43e39fe1efde0a28f570145ed774c04b001eb85e1e6ce92ce09f2e7c88210fba3834ff4a3a8c4ea6ca469fa6dff63936b4cccc47eb1d8bdf68d7e558dc07555806a0cd3e4b534579a2860c6b622e921db18a90941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296175d88cbb778e47b41faa359ee0bc661eb3c561cfd668715d0afe2/182/640x360_1020588/index.m3u8",
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c19d667086f02547a9d1b8c2a1cc6df2ffe4c657f1e26879be379dc9e465dbad80b787eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adaef53884c6c94d449e42b7ccdf48e345621071bbd6e67d4a15482c5d60c119b03f4ef5a6aa31571a7c01d9dde3681bd850fdd2cc335a456f2d6b9cb8632bbbca625f014eb20064a7839f3ec7897da62a6d59e562d85612d346a3f94b39fff57399457425bfdc0c6b661ed1cc2857ffd0a45ba048b7096249c54a906a9f54baeb984d646335fcea00e3572f8bfd5e0923437ae59e9b6ffd4770ef19c722a1098358d7b7140fa92ca1097fc1193a02a86b1560921d09437fef7d194eab2d70bf65dcbc3e7a72f56585c070d8849a79479e425dc76afdb1226593f21c7f950ca8183045a124e829361c70709bcda868ad10904c364691c8224d858063a9d633b7aa875fac86b21dd745c877865f90866cd44a4ba2af1a6dfb40763ed869d039515eeb119edf50da7793957168cf1205e565f74d6e7650c2470cc4b96b0a080205372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beacbb5abb786371261d8ee55135b5d7f3b26b6e45012b0bf3f1d957f/176/640x360_1020588/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1020588",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1cd9355e65555e7a9d1b8c291cc6df2ffe4c3d7a1122879fb47cd190470cbbdb5d2a2ab96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815713b4fc892256290f19c60e088ae417e3aac3687feb2bf4e31662af0e14b3c12d98894decd9bb08c612d828a448bfa7cab8db17808cbd598b06e627364a366ba683769ddd58b8cea5603dee1742224b01b3fbc98f245b87435063fdf1ddcd039577de9b2a853a4dd16d994b970f9f78af1b98f557b0a8c9b628262fadd7527528b2bfe1e0833437ae59e9b6ffe2707397e2117653f661d92c2c2d91face66e1a97693b824dfee036d39c4827a8889a086eebd84449b1ac3c386de57064f600754d70af59c20832a8f2fe59a41775e001cafca068980815c36664e82d15f8c4b43e39fe1efde0a28f570145ed774c04b001eb85e1e6ce92ce09f2e7c88210fba3834ff4a3a8c4ea6ca469fa6dff63936b4cccc47eb1d8bdf68d7e558dc07555806a0cd3e4b534579a2860c6b622e921db18a90941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296175d88cbb778e47b41faa359ee0bc661eb3c561cfd668715d0afe2/182/854x480_1249336/index.m3u8",
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c19d667086f02547a9d1b8c2a1cc6df2ffe4c657f1e26879be379dc9e465dbad80b787eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adaef53884c6c94d449e42b7ccdf48e345621071bbd6e67d4a15482c5d60c119b03f4ef5a6aa31571a7c01d9dde3681bd850fdd2cc335a456f2d6b9cb8632bbbca625f014eb20064a7839f3ec7897da62a6d59e562d85612d346a3f94b39fff57399457425bfdc0c6b661ed1cc2857ffd0a45ba048b7096249c54a906a9f54baeb984d646335fcea00e3572f8bfd5e0923437ae59e9b6ffd4770ef19c722a1098358d7b7140fa92ca1097fc1193a02a86b1560921d09437fef7d194eab2d70bf65dcbc3e7a72f56585c070d8849a79479e425dc76afdb1226593f21c7f950ca8183045a124e829361c70709bcda868ad10904c364691c8224d858063a9d633b7aa875fac86b21dd745c877865f90866cd44a4ba2af1a6dfb40763ed869d039515eeb119edf50da7793957168cf1205e565f74d6e7650c2470cc4b96b0a080205372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beacbb5abb786371261d8ee55135b5d7f3b26b6e45012b0bf3f1d957f/176/854x480_1249336/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1249336",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1cd9355e65555e7a9d1b8c291cc6df2ffe4c3d7a1122879fb47cd190470cbbdb5d2a2ab96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815713b4fc892256290f19c60e088ae417e3aac3687feb2bf4e31662af0e14b3c12d98894decd9bb08c612d828a448bfa7cab8db17808cbd598b06e627364a366ba683769ddd58b8cea5603dee1742224b01b3fbc98f245b87435063fdf1ddcd039577de9b2a853a4dd16d994b970f9f78af1b98f557b0a8c9b628262fadd7527528b2bfe1e0833437ae59e9b6ffe2707397e2117653f661d92c2c2d91face66e1a97693b824dfee036d39c4827a8889a086eebd84449b1ac3c386de57064f600754d70af59c20832a8f2fe59a41775e001cafca068980815c36664e82d15f8c4b43e39fe1efde0a28f570145ed774c04b001eb85e1e6ce92ce09f2e7c88210fba3834ff4a3a8c4ea6ca469fa6dff63936b4cccc47eb1d8bdf68d7e558dc07555806a0cd3e4b534579a2860c6b622e921db18a90941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296175d88cbb778e47b41faa359ee0bc661eb3c561cfd668715d0afe2/182/1280x720_2657019/index.m3u8",
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c19d667086f02547a9d1b8c2a1cc6df2ffe4c657f1e26879be379dc9e465dbad80b787eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adaef53884c6c94d449e42b7ccdf48e345621071bbd6e67d4a15482c5d60c119b03f4ef5a6aa31571a7c01d9dde3681bd850fdd2cc335a456f2d6b9cb8632bbbca625f014eb20064a7839f3ec7897da62a6d59e562d85612d346a3f94b39fff57399457425bfdc0c6b661ed1cc2857ffd0a45ba048b7096249c54a906a9f54baeb984d646335fcea00e3572f8bfd5e0923437ae59e9b6ffd4770ef19c722a1098358d7b7140fa92ca1097fc1193a02a86b1560921d09437fef7d194eab2d70bf65dcbc3e7a72f56585c070d8849a79479e425dc76afdb1226593f21c7f950ca8183045a124e829361c70709bcda868ad10904c364691c8224d858063a9d633b7aa875fac86b21dd745c877865f90866cd44a4ba2af1a6dfb40763ed869d039515eeb119edf50da7793957168cf1205e565f74d6e7650c2470cc4b96b0a080205372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beacbb5abb786371261d8ee55135b5d7f3b26b6e45012b0bf3f1d957f/176/1280x720_2657019/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "2657019",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c1cd9355e65555e7a9d1b8c291cc6df2ffe4c3d7a1122879fb47cd190470cbbdb5d2a2ab96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10d815713b4fc892256290f19c60e088ae417e3aac3687feb2bf4e31662af0e14b3c12d98894decd9bb08c612d828a448bfa7cab8db17808cbd598b06e627364a366ba683769ddd58b8cea5603dee1742224b01b3fbc98f245b87435063fdf1ddcd039577de9b2a853a4dd16d994b970f9f78af1b98f557b0a8c9b628262fadd7527528b2bfe1e0833437ae59e9b6ffe2707397e2117653f661d92c2c2d91face66e1a97693b824dfee036d39c4827a8889a086eebd84449b1ac3c386de57064f600754d70af59c20832a8f2fe59a41775e001cafca068980815c36664e82d15f8c4b43e39fe1efde0a28f570145ed774c04b001eb85e1e6ce92ce09f2e7c88210fba3834ff4a3a8c4ea6ca469fa6dff63936b4cccc47eb1d8bdf68d7e558dc07555806a0cd3e4b534579a2860c6b622e921db18a90941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296175d88cbb778e47b41faa359ee0bc661eb3c561cfd668715d0afe2/182/1920x1080_4715744/index.m3u8",
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c19d667086f02547a9d1b8c2a1cc6df2ffe4c657f1e26879be379dc9e465dbad80b787eb9502470af5a56bf740e73dee0250b8d3cbb77001f9a6c04356adaef53884c6c94d449e42b7ccdf48e345621071bbd6e67d4a15482c5d60c119b03f4ef5a6aa31571a7c01d9dde3681bd850fdd2cc335a456f2d6b9cb8632bbbca625f014eb20064a7839f3ec7897da62a6d59e562d85612d346a3f94b39fff57399457425bfdc0c6b661ed1cc2857ffd0a45ba048b7096249c54a906a9f54baeb984d646335fcea00e3572f8bfd5e0923437ae59e9b6ffd4770ef19c722a1098358d7b7140fa92ca1097fc1193a02a86b1560921d09437fef7d194eab2d70bf65dcbc3e7a72f56585c070d8849a79479e425dc76afdb1226593f21c7f950ca8183045a124e829361c70709bcda868ad10904c364691c8224d858063a9d633b7aa875fac86b21dd745c877865f90866cd44a4ba2af1a6dfb40763ed869d039515eeb119edf50da7793957168cf1205e565f74d6e7650c2470cc4b96b0a080205372869dccfad36c35062b1c5718f9868d129e9df2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01beacbb5abb786371261d8ee55135b5d7f3b26b6e45012b0bf3f1d957f/176/1920x1080_4715744/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "4715744",
@@ -55,6 +55,876 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mavtvinternational-mavtv-motorsports-network-new.json"
+    "epg": [
+        {
+            "start_time": "20250224153001 +0100",
+            "stop_time": "20250224160000 +0100",
+            "title": "Jeepster Lift and Disc Brakes",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160001 +0100",
+            "stop_time": "20250224163000 +0100",
+            "title": "When Lions Roared",
+            "description": "| +7 | Deportes |\n\nStacey visits the Lions Automobilia Museum to tell the story of the iconic Lions Drag Strip.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224163001 +0100",
+            "stop_time": "20250224170000 +0100",
+            "title": "Lil' Red Wagon Interior (Featuring Carpet Stains and Mouse Pee)",
+            "description": "| +7 | Deportes |\n\nStacey uses his old Lil' Red Wagon Dodge to show how to stop a deterioration cycle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170001 +0100",
+            "stop_time": "20250224173000 +0100",
+            "title": "Hot Rod Chevy",
+            "description": "| +7 | Deportes |\n\nStacey rolls in a 1940 Chevy coupe and puts together a hot small block to go in it.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173001 +0100",
+            "stop_time": "20250224180000 +0100",
+            "title": "Red Wagon Ch-Ch-Ch-Changes",
+            "description": "| +7 | Deportes |\n\nStacey continues upgrading the interior of a well-worn '99 Dodge truck on a reasonable budget.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180001 +0100",
+            "stop_time": "20250224183000 +0100",
+            "title": "Building a Better Hot Rod",
+            "description": "| +7 | Deportes |\n\nWhen laying out a hot rod build, people make the mistake of overlooking the chassis and frame.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224183001 +0100",
+            "stop_time": "20250224190000 +0100",
+            "title": "ARCA Box and Hot Rods",
+            "description": "| +7 | Deportes |\n\nStacey proves that not all toolboxes are created equal with Cornwell's new ARCA series.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190001 +0100",
+            "stop_time": "20250224193000 +0100",
+            "title": "Season 11 Premiere",
+            "description": "| +7 | Deportes |\n\nLokar brings a 14 LS Classic intake for a restored 1978 C10.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224193001 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "Hybrid Recharge",
+            "description": "| +7 | Deportes |\n\nSam helps his daughter change her Kia Optima Hybrid battery.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250224203000 +0100",
+            "title": "Nova Gets a New Camshaft",
+            "description": "| +7 | Deportes |\n\nSam installs a new camshaft from Summit Racing in a 1976 Nova.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224203001 +0100",
+            "stop_time": "20250224210000 +0100",
+            "title": "Gauges Get a New Look",
+            "description": "| +7 | Deportes |\n\nSam installs Dakota Digital gauges on his '49 Chevy hemi pickup.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210001 +0100",
+            "stop_time": "20250224213000 +0100",
+            "title": "PerformaBuilt Perfection",
+            "description": "| +7 | Deportes |\n\nNelson from ACC Performance joins Sam for torque converter 101 and a PerformaBuilt transmission.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213001 +0100",
+            "stop_time": "20250224220000 +0100",
+            "title": "Jammin' With Jeven",
+            "description": "| +7 | Deportes |\n\nSam installs new 3D floor mats in Jeven Reliford's 2020 Camaro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220001 +0100",
+            "stop_time": "20250224223000 +0100",
+            "title": "Take Me Back to 1992 ...",
+            "description": "| +7 | Deportes |\n\nSam digs into a 1992 Camaro RS project from Ed Morse Automotive Group.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223001 +0100",
+            "stop_time": "20250224230000 +0100",
+            "title": "Front End Gets Overhauled",
+            "description": "| +7 | Deportes |\n\nMevotech provides a superior front-end suspension upgrade on a 2010 Silverado.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230001 +0100",
+            "stop_time": "20250224233000 +0100",
+            "title": "New Wires Are Painless!",
+            "description": "| +7 | Deportes |\n\nSam installs a painless performance wiring kit on his right-hand drive Supra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224233001 +0100",
+            "stop_time": "20250225000000 +0100",
+            "title": "Supra Time!",
+            "description": "| +7 | Deportes |\n\nSam finishes his RHD Toyota Supra.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000001 +0100",
+            "stop_time": "20250225003000 +0100",
+            "title": "It's Not Over 'til It's Over",
+            "description": "| +7 | Deportes |\n\nMustang GT350 and Camaro projects continue.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225003001 +0100",
+            "stop_time": "20250225010000 +0100",
+            "title": "Ed Morse Camaro Sleeper",
+            "description": "| +7 | Deportes |\n\nSam does suspension and brake upgrades on the 1992 Camaro.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010001 +0100",
+            "stop_time": "20250225013000 +0100",
+            "title": "Season 11 Finale",
+            "description": "| +7 | Deportes |\n\nSam and Bobby Bueller put together an LS engine for his Supra race car.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013001 +0100",
+            "stop_time": "20250225020000 +0100",
+            "title": "Stacey David's GearZ: Prepping for surgery; the Level 4 project.",
+            "description": "| +7 | Deportes |\n\nStacey shows the challenges of taking a new frame and components and fitting it to a vintage body.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020001 +0100",
+            "stop_time": "20250225023000 +0100",
+            "title": "The Hot Rod Coupe, fitting body and sheet metal. The Might",
+            "description": "| +7 | Deportes |\n\nStacey continues to fit the old '40 Chevy body on the new replacement frame.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225023001 +0100",
+            "stop_time": "20250225030000 +0100",
+            "title": "Stacey David's GearZ: Jeepster: Moving on up to a level 2 Restoration",
+            "description": "| +7 | Deportes |\n\nStacey kicks it up a notch and moves on to a level two restoration on an old Jeepster.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030001 +0100",
+            "stop_time": "20250225033000 +0100",
+            "title": "Stacey David's GearZ: The Shining",
+            "description": "| +7 | Deportes |\n\nStacey shows how to assess the condition of the paint and body on a project.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033001 +0100",
+            "stop_time": "20250225040000 +0100",
+            "title": "Stacey David's GearZ: Sasquatch or Swamp Sprite",
+            "description": "| +7 | Deportes |\n\nStacey manages to find a Thiokol Swamp Spryte, a rare vehicle, and rolls it into the shop.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040001 +0100",
+            "stop_time": "20250225043000 +0100",
+            "title": "Stacey David's GearZ: Swamp Spryte: Making Tracks",
+            "description": "| +7 | Deportes |\n\nThe Thiokol Swamp Spryte is back in the shop for some much needed restoration.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043001 +0100",
+            "stop_time": "20250225050000 +0100",
+            "title": "Stacey David's GearZ: The Painless Wiring Way",
+            "description": "| +7 | Deportes |\n\nPainless Performance, one of the influential companies in the automotive aftermarket.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050001 +0100",
+            "stop_time": "20250225053000 +0100",
+            "title": "The McLaren M6GT Story and Building Your Own Replica",
+            "description": "| +7 | Deportes |\n\nStacey takes a look at the supercar, McLaren M6GT; the originals are collectors' items.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225053001 +0100",
+            "stop_time": "20250225060000 +0100",
+            "title": "Stacey David's GearZ: McLaren Mid-Engine Madness and a Bundle of Snakes",
+            "description": "| +7 | Deportes |\n\nThe M6GT replica is back in the shop and it gets serious as Stacey stuffs a 600+ HP Kaase engine.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060001 +0100",
+            "stop_time": "20250225080000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080001 +0100",
+            "stop_time": "20250225100000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100001 +0100",
+            "stop_time": "20250225120000 +0100",
+            "title": "Speed Freaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120001 +0100",
+            "stop_time": "20250225140000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140001 +0100",
+            "stop_time": "20250225160000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160001 +0100",
+            "stop_time": "20250225180000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180001 +0100",
+            "stop_time": "20250225200000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200001 +0100",
+            "stop_time": "20250225220000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220001 +0100",
+            "stop_time": "20250226000000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000001 +0100",
+            "stop_time": "20250226020000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020001 +0100",
+            "stop_time": "20250226040000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040001 +0100",
+            "stop_time": "20250226060000 +0100",
+            "title": "SpeedFreaks",
+            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060001 +0100",
+            "stop_time": "20250226070000 +0100",
+            "title": "Vicari Auction Show: On the red carpet: Mustangs old and new and a classic olds 442.",
+            "description": "| +7 | Deportes |\n\nOld and new Mustangs and a olds 442.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070001 +0100",
+            "stop_time": "20250226080000 +0100",
+            "title": "Vicari Auction Show: Cars up for Sale Include a Beautiful 1954 Roadmaster and a Rare Buick Gsx Muscle Car.",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080001 +0100",
+            "stop_time": "20250226090000 +0100",
+            "title": "Bidders Compete for a 1976 Chevrolet Disguised as a Rolls Royce, a Vintage Porsche, and a Couple of Ready-To-Race Collector Cars.",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090001 +0100",
+            "stop_time": "20250226100000 +0100",
+            "title": "Vicari Auction Show: The Vicari Auction includes an incredible mix of vehicles up for bids, including a car and a pickup truck bearing the Shelby name",
+            "description": "| +7 | Deportes |\n\nA mix of vehicles up for bids, including a car and a pickup truck bearing the Shelby name.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100001 +0100",
+            "stop_time": "20250226110000 +0100",
+            "title": "Vehicles Include a Trio of Street Rods and a Hard-to-Find Jeep Scrambler",
+            "description": "| +7 | Deportes |\n\nVehicles include three street rods and a rare Jeep Scrambler.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110001 +0100",
+            "stop_time": "20250226120000 +0100",
+            "title": "Vicari Auction Show - See everything from a '67 SS396, a Shelby Cobra replica, and a Military Truck",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120001 +0100",
+            "stop_time": "20250226130000 +0100",
+            "title": "Vicari Auction Show - A Vintage Pickup, a 1957 Cadillac, and a Pontiac",
+            "description": "| +7 | Deportes |\n\nVicari auctioneers vehicles including a vintage pickup that accelerates like a Corvette.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130001 +0100",
+            "stop_time": "20250226140000 +0100",
+            "title": "Vicari Auction Show - A classic 1956 Chevrolet and 60s Firebird",
+            "description": "| +7 | Deportes |\n\nVintage auction cars including a 1956 Chevrolet and a 60s Firebird.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140001 +0100",
+            "stop_time": "20250226150000 +0100",
+            "title": "Vicari Auction Show - A '79 Li'l Red Express Truck, '27 Model A Roadster, an Austin Healey, a Classic Studebaker, and a '66 Nova Super Sport",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150001 +0100",
+            "stop_time": "20250226160000 +0100",
+            "title": "Vicari Auction Show - a Pre-War Firetruck, a Post-War Convertible, a 50s Delivery vVan, and a trio of British Roadsters",
+            "description": "| +7 | Deportes |\n\nCollectors and enthusiasts place their bids on a pre-war firetruck and a post-war convertible.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160001 +0100",
+            "stop_time": "20250226170000 +0100",
+            "title": "Vicari Auction Show - Vintage Muscle Cars, a Three-Wheeled Single-Seater, a 1971 Jaguar.",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170001 +0100",
+            "stop_time": "20250226180000 +0100",
+            "title": "Vicari Auction Show: Auction Goers Put down Their Money on a Rare High-Performance Chevelle, a Gorgeous Studebaker Pickup and Other Collector Classic",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180001 +0100",
+            "stop_time": "20250226190000 +0100",
+            "title": "Vicari Auction Show: See Bidders Take a Shot a Wide Variety of Vehicles, Including Classic Trucks, Replica Cars and New Performers With Low Miles",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190001 +0100",
+            "stop_time": "20250226200000 +0100",
+            "title": "Vicari Auction Show: Classic Chryslers and 50s Truck Are Some of the Highlights of This Edition of the Vicari Collector Car Auction",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200001 +0100",
+            "stop_time": "20250226210000 +0100",
+            "title": "Vicari Auction Show: Vicari Auctioneers Peddle Classic Car and Truck Models That Span Several Decades and Generations",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210001 +0100",
+            "stop_time": "20250226220000 +0100",
+            "title": "Vicari Auction Show: This Week's Auction Vehicles Include Thunderbirds Built 50 Years Apart, a Great RV and a Movie-Inspired Pickup Truck",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220001 +0100",
+            "stop_time": "20250226230000 +0100",
+            "title": "Vicari Auction Show: See Classic Names Like Duster, Cuda, Challenger, Bel Air, Porsche and Jaguar Moving Across the Red Carpet",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230001 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "Bidders Go After Some Eye-Catching Cars, Including a Vintage Olds 88, a Classic Fairlane, and Some Corvettes From the 1960s.",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000001 +0100",
+            "stop_time": "20250227010000 +0100",
+            "title": "Cars up for Bid Cover the Auto Alphabet, Including VW, Gto, Gtx, C10, and GT500",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010001 +0100",
+            "stop_time": "20250227020000 +0100",
+            "title": "Vicari Auctions Boast a Huge Variety of Vehicles, Including Fords From 100-Year Span.",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020001 +0100",
+            "stop_time": "20250227030000 +0100",
+            "title": "Vicari Auction Show",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030001 +0100",
+            "stop_time": "20250227040000 +0100",
+            "title": "Vicari Auction Show",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040001 +0100",
+            "stop_time": "20250227050000 +0100",
+            "title": "Vicari Auction Show",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050001 +0100",
+            "stop_time": "20250227060000 +0100",
+            "title": "Vicari Auction Show",
+            "description": "| +7 | Deportes |\n\nSpecializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060001 +0100",
+            "stop_time": "20250227070000 +0100",
+            "title": "Racers Roundtable with Danny Sullivan & Tony Stewart - Part 1 - A Family Affair",
+            "description": "| +7 | Deportes |\n\nKyle Busch, Al Unser Jr & Todd Holbert share untold stories of their family's motorsports legacies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070001 +0100",
+            "stop_time": "20250227080000 +0100",
+            "title": "Penske Drivers Through the Years",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080001 +0100",
+            "stop_time": "20250227090000 +0100",
+            "title": "A Blaney Reunion",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090001 +0100",
+            "stop_time": "20250227100000 +0100",
+            "title": "Quarter-Mile Masters",
+            "description": "| +7 | Deportes |\n\nDon \"The Snake\" Prudhomme, Antron Brown and Angelle Sampey unlock the secrets of a 300MPH lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100001 +0100",
+            "stop_time": "20250227110000 +0100",
+            "title": "Racers Roundtable With Danny Sullivan & Tony Stewart -- Part 1 -- Do It in the Dirt",
+            "description": "| +7 | Deportes |\n\nDoug Wolfgang, Donny Schatz and Brady Bacon dig into their dirt-slinging roots in racing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110001 +0100",
+            "stop_time": "20250227120000 +0100",
+            "title": "Americans in Paris & Monza",
+            "description": "| +7 | Deportes |\n\nBobby Rahal, Boris Said, and Scott Speed share their experiences.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120001 +0100",
+            "stop_time": "20250227130000 +0100",
+            "title": "The Car Doesn't Know the Difference",
+            "description": "| +7 | Deportes |\n\nWomen who brake barriers at top speed; Lyn St. James, Sarah Fisher, & Linda Vaughn don't hold back.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130001 +0100",
+            "stop_time": "20250227140000 +0100",
+            "title": "Racers Roundtable with Danny Sullivan & Tony Stewart - Part 1 - Mario Andretti - Part 1",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140001 +0100",
+            "stop_time": "20250227150000 +0100",
+            "title": "Racers Roundtable with Danny Sullivan & Tony Stewart - Part 1 - Mario Andretti - Part 2",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150001 +0100",
+            "stop_time": "20250227160000 +0100",
+            "title": "Racers Roundtable with Danny Sullivan & Tony Stewart - Part 1 - A Family Affair",
+            "description": "| +7 | Deportes |\n\nKyle Busch, Al Unser Jr & Todd Holbert share untold stories of their family's motorsports legacies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227170000 +0100",
+            "title": "Penske Drivers Through the Years",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170001 +0100",
+            "stop_time": "20250227180000 +0100",
+            "title": "A Blaney Reunion",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180001 +0100",
+            "stop_time": "20250227190000 +0100",
+            "title": "Quarter-Mile Masters",
+            "description": "| +7 | Deportes |\n\nDon \"The Snake\" Prudhomme, Antron Brown and Angelle Sampey unlock the secrets of a 300MPH lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190001 +0100",
+            "stop_time": "20250227200000 +0100",
+            "title": "Racers Roundtable With Danny Sullivan & Tony Stewart -- Part 1 -- Do It in the Dirt",
+            "description": "| +7 | Deportes |\n\nDoug Wolfgang, Donny Schatz and Brady Bacon dig into their dirt-slinging roots in racing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200001 +0100",
+            "stop_time": "20250227210000 +0100",
+            "title": "Americans in Paris & Monza",
+            "description": "| +7 | Deportes |\n\nBobby Rahal, Boris Said, and Scott Speed share their experiences.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210001 +0100",
+            "stop_time": "20250227220000 +0100",
+            "title": "The Car Doesn't Know the Difference",
+            "description": "| +7 | Deportes |\n\nWomen who brake barriers at top speed; Lyn St. James, Sarah Fisher, & Linda Vaughn don't hold back.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220001 +0100",
+            "stop_time": "20250227230000 +0100",
+            "title": "Racers Roundtable with Danny Sullivan & Tony Stewart - Part 1 - Mario Andretti - Part 1",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230001 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "Racers Roundtable with Danny Sullivan & Tony Stewart - Part 1 - Mario Andretti - Part 2",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228010000 +0100",
+            "title": "Racers Roundtable with Danny Sullivan & Tony Stewart - Part 1 - A Family Affair",
+            "description": "| +7 | Deportes |\n\nKyle Busch, Al Unser Jr & Todd Holbert share untold stories of their family's motorsports legacies.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010001 +0100",
+            "stop_time": "20250228020000 +0100",
+            "title": "Penske Drivers Through the Years",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020001 +0100",
+            "stop_time": "20250228030000 +0100",
+            "title": "A Blaney Reunion",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030001 +0100",
+            "stop_time": "20250228040000 +0100",
+            "title": "Quarter-Mile Masters",
+            "description": "| +7 | Deportes |\n\nDon \"The Snake\" Prudhomme, Antron Brown and Angelle Sampey unlock the secrets of a 300MPH lifestyle.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228050000 +0100",
+            "title": "Racers Roundtable With Danny Sullivan & Tony Stewart -- Part 1 -- Do It in the Dirt",
+            "description": "| +7 | Deportes |\n\nDoug Wolfgang, Donny Schatz and Brady Bacon dig into their dirt-slinging roots in racing.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050001 +0100",
+            "stop_time": "20250228060500 +0100",
+            "title": "Americans in Paris & Monza",
+            "description": "| +7 | Deportes |\n\nBobby Rahal, Boris Said, and Scott Speed share their experiences.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060501 +0100",
+            "stop_time": "20250228083000 +0100",
+            "title": "2024 Australian Supercross - Moreton Bay Double Header - Night 1",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083001 +0100",
+            "stop_time": "20250228110000 +0100",
+            "title": "2024 Australian Supercross - Moreton Bay Double Header - Night 2",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110001 +0100",
+            "stop_time": "20250228133000 +0100",
+            "title": "2024 Australian Supercross - Wollongong Triple Crown",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133001 +0100",
+            "stop_time": "20250228153000 +0100",
+            "title": "2024 Australian Supercross - Adelaide Boost Mobile Supercross Sprint",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153001 +0100",
+            "stop_time": "20250228190000 +0100",
+            "title": "2024 Australian Supercross - AUSX Open Melbourne",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190001 +0100",
+            "stop_time": "20250228213000 +0100",
+            "title": "2024 Australian Supercross - Moreton Bay Double Header - Night 1",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213001 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "2024 Australian Supercross - Moreton Bay Double Header - Night 2",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301023000 +0100",
+            "title": "2024 Australian Supercross - Wollongong Triple Crown",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023001 +0100",
+            "stop_time": "20250301043000 +0100",
+            "title": "2024 Australian Supercross - Adelaide Boost Mobile Supercross Sprint",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043001 +0100",
+            "stop_time": "20250301080000 +0100",
+            "title": "2024 Australian Supercross - AUSX Open Melbourne",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080001 +0100",
+            "stop_time": "20250301120000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgramming to be announced.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120001 +0100",
+            "stop_time": "20250301160000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgramming to be announced.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160001 +0100",
+            "stop_time": "20250301200000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgramming to be announced.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200001 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgramming to be announced.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302040000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgramming to be announced.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302080000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgramming to be announced.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302080001 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "To Be Announced",
+            "description": "| +7 | Deportes |\n\nProgramming to be announced.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302130000 +0100",
+            "title": "Southwest Short Track Racing",
+            "description": "| +7 | Deportes |\n\nSouthwest Short Track Racing features the best Short Track Stock Car racers of the Southwest region.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302130001 +0100",
+            "stop_time": "20250302140000 +0100",
+            "title": "Mid-West Drag Racing Series",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302140001 +0100",
+            "stop_time": "20250302143000 +0100",
+            "title": "Wrench Wars",
+            "description": "| +7 | Deportes |\n\nReal backyard builders compete for cool prizes, bragging rights and cash for their chosen charities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302143001 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "Wrench Wars",
+            "description": "| +7 | Deportes |\n\nReal backyard builders compete for cool prizes, bragging rights and cash for their chosen charities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302153000 +0100",
+            "title": "Stacey David's GearZ",
+            "description": "| +7 | Deportes |\n\nStacey David can design, fabricate and put it together while helping you learn to do it yourself.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302153001 +0100",
+            "stop_time": "20250302160000 +0100",
+            "title": "Sam's Garage",
+            "description": "| +7 | Deportes |\n\nCar enthusiasts learn the do's and don'ts of automobile repair and upgrades.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302170000 +0100",
+            "title": "Mid-West Drag Racing Series",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170001 +0100",
+            "stop_time": "20250302173000 +0100",
+            "title": "Wrench Wars",
+            "description": "| +7 | Deportes |\n\nReal backyard builders compete for cool prizes, bragging rights and cash for their chosen charities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302173001 +0100",
+            "stop_time": "20250302180000 +0100",
+            "title": "Wrench Wars",
+            "description": "| +7 | Deportes |\n\nReal backyard builders compete for cool prizes, bragging rights and cash for their chosen charities.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180001 +0100",
+            "stop_time": "20250302183000 +0100",
+            "title": "Stacey David's GearZ",
+            "description": "| +7 | Deportes |\n\nStacey David can design, fabricate and put it together while helping you learn to do it yourself.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302183001 +0100",
+            "stop_time": "20250302190000 +0100",
+            "title": "Sam's Garage",
+            "description": "| +7 | Deportes |\n\nCar enthusiasts learn the do's and don'ts of automobile repair and upgrades.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190001 +0100",
+            "stop_time": "20250302193000 +0100",
+            "title": "On the Edge",
+            "description": "| +7 | Deportes |\n\nAll the news surrounding the world of motorsports.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302193001 +0100",
+            "stop_time": "20250302200000 +0100",
+            "title": "On the Edge",
+            "description": "| +7 | Deportes |\n\nAll the news surrounding the world of motorsports.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200001 +0100",
+            "stop_time": "20250302210000 +0100",
+            "title": "The Lifted Life",
+            "description": "| +7 | Deportes |\n\nThe crew at Five R Trucks in Golden, Colo., builds custom four-wheel drive vehicles.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210001 +0100",
+            "stop_time": "20250302220000 +0100",
+            "title": "Speed Sport",
+            "description": "| +7 | Deportes |\n\nSeeking out the best of American Real motorsports action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220001 +0100",
+            "stop_time": "20250302230000 +0100",
+            "title": "Speed Sport",
+            "description": "| +7 | Deportes |\n\nSeeking out the best of American Real motorsports action.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302230001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "Mid-West Drag Racing Series",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303010000 +0100",
+            "title": "Mid-West Drag Racing Series",
+            "description": "| +7 | Deportes |\n\nInfo not available",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mavtvinternational-mavtv-motorsports-network-new.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }

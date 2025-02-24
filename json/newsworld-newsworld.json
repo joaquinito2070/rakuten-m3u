@@ -4,10 +4,10 @@
     "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011.jpeg",
     "group_title": "Noticias",
     "original_master_url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8?ads_amagi_channel=867&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5636&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=f53b9643-e789-4e7d-aa0c-eae288af63a3&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/newsworld/master.m3u8",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168b60596f52587a9d1b8c291cc6df2ffe4c3d2a4674879fb07bdecd145ab7d15e787fb9702471af5a56bf661760dce817018b3a8a700161ae632a5067debf50ab7251d8d50d8376348ff8da35242c0b5fcc4008b4f55cabf7b00b43db3da2bb3672a87e11a4ed078a815ed4c49d1bcb61bf4cc652c4d1a9cf8c5288a3ab5df803f10b0d5d34749a85469fc449c4b9f00868c60942291f51f59c97fb583585427c48e1efcecd009570d98c27db1c5dc9019c5cbb229e7d950aa8ef5aa5a3afe04b454bc2ae3f3471f3b3facb914f32b975c4a1e6d3677997e22b7b4bc87ecb2b2d3193fcdf1d8bcd67f5dc42d5ee2d7754c19556a48dbd87d0a4945a9957bead8688314357661612875aa7a560d22dcf77a4c24960363545a9896ad692cf61336d41928550c02c17b8d58c96de093eb8057139ed6ede017406ab35686fda28f78c4e0ae3421a973a39a12a5fea43f8ab13f8a6c9ee032fc7baad20fa7cb5cf60a3f706ba523d5403b4fb135c4d4d73deeb6a7f5513a01db28490941d6001e8e4f2ecd44531034b7f386ad9b5b628ced7f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961b5688cbb778e97b41faa313eb6d6738183f946531c47f02f881f4/149/1920x1080_4716800/index.m3u8",
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4c8a650365550e7a9d1b8c2a1cc6df2ffe4c3c78442587c9b0298a90105fb6d95e782cb958246baf5a56bf780260d2ec0e7ae157d77c16499d630057369e820df8300b96d565d7226da99ee75038777b65a80c09a6cf0bfdb9c36b7fec2ce3ee4842b0157cb6d601a69658fdd98079a679b074f6159597f981c72abed7c520c617ed30364c3b6d9cf20df9bb4dbadb836c2b8c702f432158efa781f14230dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf1b218faecd1a743452a9bd64f7718a3eaae9efe3b27826afaaceec8727b9c84711224cc63df785352fffccf07bbc71080bf20808b7d0428c5e320f1fea586edeaf720ed24ced4cb993043496a3b018e5cac9468d75bb812cb96457606172edd9b51d7b9ca4a22674e8b8950d32c12bda9cde99b086e9962420cbc33945e523495793879b229b49b3d3c8a6b0f84306fa300348614afb97fafe6b19f073fa6e1c44df17beabb1eedf50ea87e2f5004baf12d4b4c4373a28d0c6c6023b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01aeecefbd23607961703975549b9af0240ad191f04ddccdf681dca89/52/1920x1080_4716800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "4716800",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168b60596f52587a9d1b8c291cc6df2ffe4c3d2a4674879fb07bdecd145ab7d15e787fb9702471af5a56bf661760dce817018b3a8a700161ae632a5067debf50ab7251d8d50d8376348ff8da35242c0b5fcc4008b4f55cabf7b00b43db3da2bb3672a87e11a4ed078a815ed4c49d1bcb61bf4cc652c4d1a9cf8c5288a3ab5df803f10b0d5d34749a85469fc449c4b9f00868c60942291f51f59c97fb583585427c48e1efcecd009570d98c27db1c5dc9019c5cbb229e7d950aa8ef5aa5a3afe04b454bc2ae3f3471f3b3facb914f32b975c4a1e6d3677997e22b7b4bc87ecb2b2d3193fcdf1d8bcd67f5dc42d5ee2d7754c19556a48dbd87d0a4945a9957bead8688314357661612875aa7a560d22dcf77a4c24960363545a9896ad692cf61336d41928550c02c17b8d58c96de093eb8057139ed6ede017406ab35686fda28f78c4e0ae3421a973a39a12a5fea43f8ab13f8a6c9ee032fc7baad20fa7cb5cf60a3f706ba523d5403b4fb135c4d4d73deeb6a7f5513a01db28490941d6001e8e4f2ecd44531034b7f386ad9b5b628ced7f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961b5688cbb778e97b41faa313eb6d6738183f946531c47f02f881f4/149/1280x720_2657600/index.m3u8",
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4c8a650365550e7a9d1b8c2a1cc6df2ffe4c3c78442587c9b0298a90105fb6d95e782cb958246baf5a56bf780260d2ec0e7ae157d77c16499d630057369e820df8300b96d565d7226da99ee75038777b65a80c09a6cf0bfdb9c36b7fec2ce3ee4842b0157cb6d601a69658fdd98079a679b074f6159597f981c72abed7c520c617ed30364c3b6d9cf20df9bb4dbadb836c2b8c702f432158efa781f14230dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf1b218faecd1a743452a9bd64f7718a3eaae9efe3b27826afaaceec8727b9c84711224cc63df785352fffccf07bbc71080bf20808b7d0428c5e320f1fea586edeaf720ed24ced4cb993043496a3b018e5cac9468d75bb812cb96457606172edd9b51d7b9ca4a22674e8b8950d32c12bda9cde99b086e9962420cbc33945e523495793879b229b49b3d3c8a6b0f84306fa300348614afb97fafe6b19f073fa6e1c44df17beabb1eedf50ea87e2f5004baf12d4b4c4373a28d0c6c6023b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01aeecefbd23607961703975549b9af0240ad191f04ddccdf681dca89/52/1280x720_2657600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "2657600",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168b60596f52587a9d1b8c291cc6df2ffe4c3d2a4674879fb07bdecd145ab7d15e787fb9702471af5a56bf661760dce817018b3a8a700161ae632a5067debf50ab7251d8d50d8376348ff8da35242c0b5fcc4008b4f55cabf7b00b43db3da2bb3672a87e11a4ed078a815ed4c49d1bcb61bf4cc652c4d1a9cf8c5288a3ab5df803f10b0d5d34749a85469fc449c4b9f00868c60942291f51f59c97fb583585427c48e1efcecd009570d98c27db1c5dc9019c5cbb229e7d950aa8ef5aa5a3afe04b454bc2ae3f3471f3b3facb914f32b975c4a1e6d3677997e22b7b4bc87ecb2b2d3193fcdf1d8bcd67f5dc42d5ee2d7754c19556a48dbd87d0a4945a9957bead8688314357661612875aa7a560d22dcf77a4c24960363545a9896ad692cf61336d41928550c02c17b8d58c96de093eb8057139ed6ede017406ab35686fda28f78c4e0ae3421a973a39a12a5fea43f8ab13f8a6c9ee032fc7baad20fa7cb5cf60a3f706ba523d5403b4fb135c4d4d73deeb6a7f5513a01db28490941d6001e8e4f2ecd44531034b7f386ad9b5b628ced7f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961b5688cbb778e97b41faa313eb6d6738183f946531c47f02f881f4/149/854x480_1821600/index.m3u8",
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4c8a650365550e7a9d1b8c2a1cc6df2ffe4c3c78442587c9b0298a90105fb6d95e782cb958246baf5a56bf780260d2ec0e7ae157d77c16499d630057369e820df8300b96d565d7226da99ee75038777b65a80c09a6cf0bfdb9c36b7fec2ce3ee4842b0157cb6d601a69658fdd98079a679b074f6159597f981c72abed7c520c617ed30364c3b6d9cf20df9bb4dbadb836c2b8c702f432158efa781f14230dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf1b218faecd1a743452a9bd64f7718a3eaae9efe3b27826afaaceec8727b9c84711224cc63df785352fffccf07bbc71080bf20808b7d0428c5e320f1fea586edeaf720ed24ced4cb993043496a3b018e5cac9468d75bb812cb96457606172edd9b51d7b9ca4a22674e8b8950d32c12bda9cde99b086e9962420cbc33945e523495793879b229b49b3d3c8a6b0f84306fa300348614afb97fafe6b19f073fa6e1c44df17beabb1eedf50ea87e2f5004baf12d4b4c4373a28d0c6c6023b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01aeecefbd23607961703975549b9af0240ad191f04ddccdf681dca89/52/854x480_1821600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1821600",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168b60596f52587a9d1b8c291cc6df2ffe4c3d2a4674879fb07bdecd145ab7d15e787fb9702471af5a56bf661760dce817018b3a8a700161ae632a5067debf50ab7251d8d50d8376348ff8da35242c0b5fcc4008b4f55cabf7b00b43db3da2bb3672a87e11a4ed078a815ed4c49d1bcb61bf4cc652c4d1a9cf8c5288a3ab5df803f10b0d5d34749a85469fc449c4b9f00868c60942291f51f59c97fb583585427c48e1efcecd009570d98c27db1c5dc9019c5cbb229e7d950aa8ef5aa5a3afe04b454bc2ae3f3471f3b3facb914f32b975c4a1e6d3677997e22b7b4bc87ecb2b2d3193fcdf1d8bcd67f5dc42d5ee2d7754c19556a48dbd87d0a4945a9957bead8688314357661612875aa7a560d22dcf77a4c24960363545a9896ad692cf61336d41928550c02c17b8d58c96de093eb8057139ed6ede017406ab35686fda28f78c4e0ae3421a973a39a12a5fea43f8ab13f8a6c9ee032fc7baad20fa7cb5cf60a3f706ba523d5403b4fb135c4d4d73deeb6a7f5513a01db28490941d6001e8e4f2ecd44531034b7f386ad9b5b628ced7f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961b5688cbb778e97b41faa313eb6d6738183f946531c47f02f881f4/149/640x360_792000/index.m3u8",
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4c8a650365550e7a9d1b8c2a1cc6df2ffe4c3c78442587c9b0298a90105fb6d95e782cb958246baf5a56bf780260d2ec0e7ae157d77c16499d630057369e820df8300b96d565d7226da99ee75038777b65a80c09a6cf0bfdb9c36b7fec2ce3ee4842b0157cb6d601a69658fdd98079a679b074f6159597f981c72abed7c520c617ed30364c3b6d9cf20df9bb4dbadb836c2b8c702f432158efa781f14230dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf1b218faecd1a743452a9bd64f7718a3eaae9efe3b27826afaaceec8727b9c84711224cc63df785352fffccf07bbc71080bf20808b7d0428c5e320f1fea586edeaf720ed24ced4cb993043496a3b018e5cac9468d75bb812cb96457606172edd9b51d7b9ca4a22674e8b8950d32c12bda9cde99b086e9962420cbc33945e523495793879b229b49b3d3c8a6b0f84306fa300348614afb97fafe6b19f073fa6e1c44df17beabb1eedf50ea87e2f5004baf12d4b4c4373a28d0c6c6023b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01aeecefbd23607961703975549b9af0240ad191f04ddccdf681dca89/52/640x360_792000/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "792000",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573a166573608a84c93e78d1f64282fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c168b60596f52587a9d1b8c291cc6df2ffe4c3d2a4674879fb07bdecd145ab7d15e787fb9702471af5a56bf661760dce817018b3a8a700161ae632a5067debf50ab7251d8d50d8376348ff8da35242c0b5fcc4008b4f55cabf7b00b43db3da2bb3672a87e11a4ed078a815ed4c49d1bcb61bf4cc652c4d1a9cf8c5288a3ab5df803f10b0d5d34749a85469fc449c4b9f00868c60942291f51f59c97fb583585427c48e1efcecd009570d98c27db1c5dc9019c5cbb229e7d950aa8ef5aa5a3afe04b454bc2ae3f3471f3b3facb914f32b975c4a1e6d3677997e22b7b4bc87ecb2b2d3193fcdf1d8bcd67f5dc42d5ee2d7754c19556a48dbd87d0a4945a9957bead8688314357661612875aa7a560d22dcf77a4c24960363545a9896ad692cf61336d41928550c02c17b8d58c96de093eb8057139ed6ede017406ab35686fda28f78c4e0ae3421a973a39a12a5fea43f8ab13f8a6c9ee032fc7baad20fa7cb5cf60a3f706ba523d5403b4fb135c4d4d73deeb6a7f5513a01db28490941d6001e8e4f2ecd44531034b7f386ad9b5b628ced7f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961b5688cbb778e97b41faa313eb6d6738183f946531c47f02f881f4/149/426x240_448800/index.m3u8",
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb573e1e657a64909bcf3678d1f54882fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a489c4c8a650365550e7a9d1b8c2a1cc6df2ffe4c3c78442587c9b0298a90105fb6d95e782cb958246baf5a56bf780260d2ec0e7ae157d77c16499d630057369e820df8300b96d565d7226da99ee75038777b65a80c09a6cf0bfdb9c36b7fec2ce3ee4842b0157cb6d601a69658fdd98079a679b074f6159597f981c72abed7c520c617ed30364c3b6d9cf20df9bb4dbadb836c2b8c702f432158efa781f14230dc3b292ef9fbd88077eb05f18a2a8f7432b514a7468042ec01ce5cf1b218faecd1a743452a9bd64f7718a3eaae9efe3b27826afaaceec8727b9c84711224cc63df785352fffccf07bbc71080bf20808b7d0428c5e320f1fea586edeaf720ed24ced4cb993043496a3b018e5cac9468d75bb812cb96457606172edd9b51d7b9ca4a22674e8b8950d32c12bda9cde99b086e9962420cbc33945e523495793879b229b49b3d3c8a6b0f84306fa300348614afb97fafe6b19f073fa6e1c44df17beabb1eedf50ea87e2f5004baf12d4b4c4373a28d0c6c6023b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf2c77c7cb93ba7cbe9726df431e52bb23547093acc1a939f1d759103325f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc496b4ed45977ef2b9a1a44677e498f012630d5b7d8df88e7abd3b8fa06f89576ad316c1d628f977d245b012a325dc9da005f399398e7ae67086feecff47225e55cc3f9233e900c08b29da0ca4a1d99a956564992c418fc7c3fcc2da841fec269ccb85a08512e4559d78b47eb4cf68dd49479d47fdf2f791ee01aeecefbd23607961703975549b9af0240ad191f04ddccdf681dca89/52/426x240_448800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "448800",
@@ -62,6 +62,2157 @@
             }
         }
     ],
-    "epg": [],
-    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/newsworld-newsworld.json"
+    "epg": [
+        {
+            "start_time": "20250224153001 +0100",
+            "stop_time": "20250224160000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224160001 +0100",
+            "stop_time": "20250224163000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224163001 +0100",
+            "stop_time": "20250224170000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224170001 +0100",
+            "stop_time": "20250224173000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224173001 +0100",
+            "stop_time": "20250224180000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224180001 +0100",
+            "stop_time": "20250224183000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224183001 +0100",
+            "stop_time": "20250224190000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224190001 +0100",
+            "stop_time": "20250224193000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224193001 +0100",
+            "stop_time": "20250224200000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224200001 +0100",
+            "stop_time": "20250224203000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224203001 +0100",
+            "stop_time": "20250224210000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224210001 +0100",
+            "stop_time": "20250224213000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224213001 +0100",
+            "stop_time": "20250224220000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224220001 +0100",
+            "stop_time": "20250224223000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224223001 +0100",
+            "stop_time": "20250224230000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224230001 +0100",
+            "stop_time": "20250224233000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250224233001 +0100",
+            "stop_time": "20250225000000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225000001 +0100",
+            "stop_time": "20250225003000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225003001 +0100",
+            "stop_time": "20250225010000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225010001 +0100",
+            "stop_time": "20250225013000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225013001 +0100",
+            "stop_time": "20250225020000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225020001 +0100",
+            "stop_time": "20250225023000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225023001 +0100",
+            "stop_time": "20250225030000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225030001 +0100",
+            "stop_time": "20250225033000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225033001 +0100",
+            "stop_time": "20250225040000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225040001 +0100",
+            "stop_time": "20250225043000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225043001 +0100",
+            "stop_time": "20250225050000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225050001 +0100",
+            "stop_time": "20250225053000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225053001 +0100",
+            "stop_time": "20250225060000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225060001 +0100",
+            "stop_time": "20250225063000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225063001 +0100",
+            "stop_time": "20250225070000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225070001 +0100",
+            "stop_time": "20250225073000 +0100",
+            "title": "Breakfast with Eamonn & Isabel",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225073001 +0100",
+            "stop_time": "20250225080000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225080001 +0100",
+            "stop_time": "20250225083000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225083001 +0100",
+            "stop_time": "20250225090000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225090001 +0100",
+            "stop_time": "20250225093000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225093001 +0100",
+            "stop_time": "20250225100000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225100001 +0100",
+            "stop_time": "20250225103000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225103001 +0100",
+            "stop_time": "20250225110000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225110001 +0100",
+            "stop_time": "20250225113000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225113001 +0100",
+            "stop_time": "20250225120000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225120001 +0100",
+            "stop_time": "20250225123000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225123001 +0100",
+            "stop_time": "20250225130000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130001 +0100",
+            "stop_time": "20250225133000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225133001 +0100",
+            "stop_time": "20250225140000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140001 +0100",
+            "stop_time": "20250225143000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225143001 +0100",
+            "stop_time": "20250225150000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150001 +0100",
+            "stop_time": "20250225153000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225153001 +0100",
+            "stop_time": "20250225160000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160001 +0100",
+            "stop_time": "20250225163000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225163001 +0100",
+            "stop_time": "20250225170000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170001 +0100",
+            "stop_time": "20250225173000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225173001 +0100",
+            "stop_time": "20250225180000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180001 +0100",
+            "stop_time": "20250225183000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225183001 +0100",
+            "stop_time": "20250225190000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190001 +0100",
+            "stop_time": "20250225193000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225193001 +0100",
+            "stop_time": "20250225200000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200001 +0100",
+            "stop_time": "20250225203000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225203001 +0100",
+            "stop_time": "20250225210000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210001 +0100",
+            "stop_time": "20250225213000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225213001 +0100",
+            "stop_time": "20250225220000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220001 +0100",
+            "stop_time": "20250225223000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225223001 +0100",
+            "stop_time": "20250225230000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230001 +0100",
+            "stop_time": "20250225233000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225233001 +0100",
+            "stop_time": "20250226000000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000001 +0100",
+            "stop_time": "20250226003000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226003001 +0100",
+            "stop_time": "20250226010000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010001 +0100",
+            "stop_time": "20250226013000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226013001 +0100",
+            "stop_time": "20250226020000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020001 +0100",
+            "stop_time": "20250226023000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226023001 +0100",
+            "stop_time": "20250226030000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030001 +0100",
+            "stop_time": "20250226033000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226033001 +0100",
+            "stop_time": "20250226040000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040001 +0100",
+            "stop_time": "20250226043000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226043001 +0100",
+            "stop_time": "20250226050000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050001 +0100",
+            "stop_time": "20250226053000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226053001 +0100",
+            "stop_time": "20250226060000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060001 +0100",
+            "stop_time": "20250226063000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226063001 +0100",
+            "stop_time": "20250226070000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070001 +0100",
+            "stop_time": "20250226073000 +0100",
+            "title": "Breakfast with Eamonn & Isabel",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226073001 +0100",
+            "stop_time": "20250226080000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080001 +0100",
+            "stop_time": "20250226083000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226083001 +0100",
+            "stop_time": "20250226090000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090001 +0100",
+            "stop_time": "20250226093000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226093001 +0100",
+            "stop_time": "20250226100000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100001 +0100",
+            "stop_time": "20250226103000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226103001 +0100",
+            "stop_time": "20250226110000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110001 +0100",
+            "stop_time": "20250226113000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226113001 +0100",
+            "stop_time": "20250226120000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120001 +0100",
+            "stop_time": "20250226123000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226123001 +0100",
+            "stop_time": "20250226130000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130001 +0100",
+            "stop_time": "20250226133000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226133001 +0100",
+            "stop_time": "20250226140000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140001 +0100",
+            "stop_time": "20250226143000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226143001 +0100",
+            "stop_time": "20250226150000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150001 +0100",
+            "stop_time": "20250226153000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226153001 +0100",
+            "stop_time": "20250226160000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160001 +0100",
+            "stop_time": "20250226163000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226163001 +0100",
+            "stop_time": "20250226170000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170001 +0100",
+            "stop_time": "20250226173000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226173001 +0100",
+            "stop_time": "20250226180000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180001 +0100",
+            "stop_time": "20250226183000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226183001 +0100",
+            "stop_time": "20250226190000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190001 +0100",
+            "stop_time": "20250226193000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226193001 +0100",
+            "stop_time": "20250226200000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200001 +0100",
+            "stop_time": "20250226203000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226203001 +0100",
+            "stop_time": "20250226210000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210001 +0100",
+            "stop_time": "20250226213000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226213001 +0100",
+            "stop_time": "20250226220000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220001 +0100",
+            "stop_time": "20250226223000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226223001 +0100",
+            "stop_time": "20250226230000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230001 +0100",
+            "stop_time": "20250226233000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226233001 +0100",
+            "stop_time": "20250227000000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000001 +0100",
+            "stop_time": "20250227003000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227003001 +0100",
+            "stop_time": "20250227010000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010001 +0100",
+            "stop_time": "20250227013000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227013001 +0100",
+            "stop_time": "20250227020000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020001 +0100",
+            "stop_time": "20250227023000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227023001 +0100",
+            "stop_time": "20250227030000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030001 +0100",
+            "stop_time": "20250227033000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227033001 +0100",
+            "stop_time": "20250227040000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040001 +0100",
+            "stop_time": "20250227043000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227043001 +0100",
+            "stop_time": "20250227050000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050001 +0100",
+            "stop_time": "20250227053000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227053001 +0100",
+            "stop_time": "20250227060000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060001 +0100",
+            "stop_time": "20250227063000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227063001 +0100",
+            "stop_time": "20250227070000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070001 +0100",
+            "stop_time": "20250227073000 +0100",
+            "title": "Breakfast with Eamonn & Isabel",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227073001 +0100",
+            "stop_time": "20250227080000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080001 +0100",
+            "stop_time": "20250227083000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227083001 +0100",
+            "stop_time": "20250227090000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090001 +0100",
+            "stop_time": "20250227093000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227093001 +0100",
+            "stop_time": "20250227100000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100001 +0100",
+            "stop_time": "20250227103000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227103001 +0100",
+            "stop_time": "20250227110000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110001 +0100",
+            "stop_time": "20250227113000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227113001 +0100",
+            "stop_time": "20250227120000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120001 +0100",
+            "stop_time": "20250227123000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227123001 +0100",
+            "stop_time": "20250227130000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130001 +0100",
+            "stop_time": "20250227133000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227133001 +0100",
+            "stop_time": "20250227140000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140001 +0100",
+            "stop_time": "20250227143000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227143001 +0100",
+            "stop_time": "20250227150000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150001 +0100",
+            "stop_time": "20250227153000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227153001 +0100",
+            "stop_time": "20250227160000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160001 +0100",
+            "stop_time": "20250227163000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227163001 +0100",
+            "stop_time": "20250227170000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170001 +0100",
+            "stop_time": "20250227173000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227173001 +0100",
+            "stop_time": "20250227180000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180001 +0100",
+            "stop_time": "20250227183000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227183001 +0100",
+            "stop_time": "20250227190000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190001 +0100",
+            "stop_time": "20250227193000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227193001 +0100",
+            "stop_time": "20250227200000 +0100",
+            "title": "The Debate",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200001 +0100",
+            "stop_time": "20250227203000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227203001 +0100",
+            "stop_time": "20250227210000 +0100",
+            "title": "News Breakfast Early",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210001 +0100",
+            "stop_time": "20250227213000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227213001 +0100",
+            "stop_time": "20250227220000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220001 +0100",
+            "stop_time": "20250227223000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227223001 +0100",
+            "stop_time": "20250227230000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230001 +0100",
+            "stop_time": "20250227233000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227233001 +0100",
+            "stop_time": "20250228000000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000001 +0100",
+            "stop_time": "20250228003000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228003001 +0100",
+            "stop_time": "20250228010000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010001 +0100",
+            "stop_time": "20250228013000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228013001 +0100",
+            "stop_time": "20250228020000 +0100",
+            "title": "State Of The Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020001 +0100",
+            "stop_time": "20250228023000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228023001 +0100",
+            "stop_time": "20250228030000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030001 +0100",
+            "stop_time": "20250228033000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228033001 +0100",
+            "stop_time": "20250228040000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040001 +0100",
+            "stop_time": "20250228043000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228043001 +0100",
+            "stop_time": "20250228050000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050001 +0100",
+            "stop_time": "20250228053000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228053001 +0100",
+            "stop_time": "20250228060000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060001 +0100",
+            "stop_time": "20250228063000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228063001 +0100",
+            "stop_time": "20250228070000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070001 +0100",
+            "stop_time": "20250228073000 +0100",
+            "title": "Breakfast with Eamonn & Isabel",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228073001 +0100",
+            "stop_time": "20250228080000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080001 +0100",
+            "stop_time": "20250228083000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228083001 +0100",
+            "stop_time": "20250228090000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090001 +0100",
+            "stop_time": "20250228093000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228093001 +0100",
+            "stop_time": "20250228100000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100001 +0100",
+            "stop_time": "20250228103000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228103001 +0100",
+            "stop_time": "20250228110000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110001 +0100",
+            "stop_time": "20250228113000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228113001 +0100",
+            "stop_time": "20250228120000 +0100",
+            "title": "The World",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120001 +0100",
+            "stop_time": "20250228123000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228123001 +0100",
+            "stop_time": "20250228130000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130001 +0100",
+            "stop_time": "20250228133000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228133001 +0100",
+            "stop_time": "20250228140000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140001 +0100",
+            "stop_time": "20250228143000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228143001 +0100",
+            "stop_time": "20250228150000 +0100",
+            "title": "Good Afternoon Britian",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150001 +0100",
+            "stop_time": "20250228153000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228153001 +0100",
+            "stop_time": "20250228160000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160001 +0100",
+            "stop_time": "20250228163000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228163001 +0100",
+            "stop_time": "20250228170000 +0100",
+            "title": "Martin Daubney",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170001 +0100",
+            "stop_time": "20250228173000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228173001 +0100",
+            "stop_time": "20250228180000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180001 +0100",
+            "stop_time": "20250228183000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228183001 +0100",
+            "stop_time": "20250228190000 +0100",
+            "title": "News Hour",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190001 +0100",
+            "stop_time": "20250228193000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228193001 +0100",
+            "stop_time": "20250228200000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200001 +0100",
+            "stop_time": "20250228203000 +0100",
+            "title": "State Of The Nation",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228203001 +0100",
+            "stop_time": "20250228210000 +0100",
+            "title": "State Of The Nation",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210001 +0100",
+            "stop_time": "20250228213000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228213001 +0100",
+            "stop_time": "20250228220000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220001 +0100",
+            "stop_time": "20250228223000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228223001 +0100",
+            "stop_time": "20250228230000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230001 +0100",
+            "stop_time": "20250228233000 +0100",
+            "title": "Patrick Christys Tonight",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228233001 +0100",
+            "stop_time": "20250301000000 +0100",
+            "title": "Patrick Christys Tonight",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000001 +0100",
+            "stop_time": "20250301003000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301003001 +0100",
+            "stop_time": "20250301010000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010001 +0100",
+            "stop_time": "20250301013000 +0100",
+            "title": "The Saturday Five Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301013001 +0100",
+            "stop_time": "20250301020000 +0100",
+            "title": "The Saturday Five Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020001 +0100",
+            "stop_time": "20250301023000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301023001 +0100",
+            "stop_time": "20250301030000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030001 +0100",
+            "stop_time": "20250301033000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301033001 +0100",
+            "stop_time": "20250301040000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040001 +0100",
+            "stop_time": "20250301043000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301043001 +0100",
+            "stop_time": "20250301050000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050001 +0100",
+            "stop_time": "20250301053000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301053001 +0100",
+            "stop_time": "20250301060000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060001 +0100",
+            "stop_time": "20250301063000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301063001 +0100",
+            "stop_time": "20250301070000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070001 +0100",
+            "stop_time": "20250301073000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301073001 +0100",
+            "stop_time": "20250301080000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080001 +0100",
+            "stop_time": "20250301083000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301083001 +0100",
+            "stop_time": "20250301090000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090001 +0100",
+            "stop_time": "20250301093000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301093001 +0100",
+            "stop_time": "20250301100000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100001 +0100",
+            "stop_time": "20250301103000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301103001 +0100",
+            "stop_time": "20250301110000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110001 +0100",
+            "stop_time": "20250301113000 +0100",
+            "title": "Saturday Morning Live",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301113001 +0100",
+            "stop_time": "20250301120000 +0100",
+            "title": "Saturday Morning Live",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120001 +0100",
+            "stop_time": "20250301123000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301123001 +0100",
+            "stop_time": "20250301130000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130001 +0100",
+            "stop_time": "20250301133000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301133001 +0100",
+            "stop_time": "20250301140000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140001 +0100",
+            "stop_time": "20250301143000 +0100",
+            "title": "GB News Saturday",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301143001 +0100",
+            "stop_time": "20250301150000 +0100",
+            "title": "GB News Saturday",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150001 +0100",
+            "stop_time": "20250301153000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301153001 +0100",
+            "stop_time": "20250301160000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160001 +0100",
+            "stop_time": "20250301163000 +0100",
+            "title": "Nana Akua",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301163001 +0100",
+            "stop_time": "20250301170000 +0100",
+            "title": "Nana Akua",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170001 +0100",
+            "stop_time": "20250301173000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301173001 +0100",
+            "stop_time": "20250301180000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180001 +0100",
+            "stop_time": "20250301183000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301183001 +0100",
+            "stop_time": "20250301190000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190001 +0100",
+            "stop_time": "20250301193000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301193001 +0100",
+            "stop_time": "20250301200000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200001 +0100",
+            "stop_time": "20250301203000 +0100",
+            "title": "The Saturday Night Showdown",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301203001 +0100",
+            "stop_time": "20250301210000 +0100",
+            "title": "The Saturday Night Showdown",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210001 +0100",
+            "stop_time": "20250301213000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301213001 +0100",
+            "stop_time": "20250301220000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220001 +0100",
+            "stop_time": "20250301223000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301223001 +0100",
+            "stop_time": "20250301230000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230001 +0100",
+            "stop_time": "20250301233000 +0100",
+            "title": "Mark Dolan Tonight",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301233001 +0100",
+            "stop_time": "20250302000000 +0100",
+            "title": "Mark Dolan Tonight",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000001 +0100",
+            "stop_time": "20250302003000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302003001 +0100",
+            "stop_time": "20250302010000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302010001 +0100",
+            "stop_time": "20250302013000 +0100",
+            "title": "Sunday - Free Speech Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302013001 +0100",
+            "stop_time": "20250302020000 +0100",
+            "title": "Sunday - Free Speech Nation Replay",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020001 +0100",
+            "stop_time": "20250302023000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302023001 +0100",
+            "stop_time": "20250302030000 +0100",
+            "title": "ABC News At Noon",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030001 +0100",
+            "stop_time": "20250302033000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302033001 +0100",
+            "stop_time": "20250302040000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040001 +0100",
+            "stop_time": "20250302043000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302043001 +0100",
+            "stop_time": "20250302050000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050001 +0100",
+            "stop_time": "20250302053000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302053001 +0100",
+            "stop_time": "20250302060000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302060001 +0100",
+            "stop_time": "20250302063000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302063001 +0100",
+            "stop_time": "20250302070000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302070001 +0100",
+            "stop_time": "20250302073000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302073001 +0100",
+            "stop_time": "20250302080000 +0100",
+            "title": "Breakfast with Stephen & Anne",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302080001 +0100",
+            "stop_time": "20250302083000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302083001 +0100",
+            "stop_time": "20250302090000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090001 +0100",
+            "stop_time": "20250302093000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302093001 +0100",
+            "stop_time": "20250302100000 +0100",
+            "title": "ABC National News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100001 +0100",
+            "stop_time": "20250302103000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302103001 +0100",
+            "stop_time": "20250302110000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302110001 +0100",
+            "stop_time": "20250302113000 +0100",
+            "title": "Sunday with Michael Portillo",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302113001 +0100",
+            "stop_time": "20250302120000 +0100",
+            "title": "Sunday with Michael Portillo",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120001 +0100",
+            "stop_time": "20250302123000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302123001 +0100",
+            "stop_time": "20250302130000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302130001 +0100",
+            "stop_time": "20250302133000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302133001 +0100",
+            "stop_time": "20250302140000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302140001 +0100",
+            "stop_time": "20250302143000 +0100",
+            "title": "GB News Sunday",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302143001 +0100",
+            "stop_time": "20250302150000 +0100",
+            "title": "GB News Sunday",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150001 +0100",
+            "stop_time": "20250302153000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302153001 +0100",
+            "stop_time": "20250302160000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160001 +0100",
+            "stop_time": "20250302163000 +0100",
+            "title": "Nana Akua",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302163001 +0100",
+            "stop_time": "20250302170000 +0100",
+            "title": "Nana Akua",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170001 +0100",
+            "stop_time": "20250302173000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302173001 +0100",
+            "stop_time": "20250302180000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180001 +0100",
+            "stop_time": "20250302183000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302183001 +0100",
+            "stop_time": "20250302190000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190001 +0100",
+            "stop_time": "20250302193000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302193001 +0100",
+            "stop_time": "20250302200000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200001 +0100",
+            "stop_time": "20250302203000 +0100",
+            "title": "News Breakfsat",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302203001 +0100",
+            "stop_time": "20250302210000 +0100",
+            "title": "News Breakfsat",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210001 +0100",
+            "stop_time": "20250302213000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302213001 +0100",
+            "stop_time": "20250302220000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220001 +0100",
+            "stop_time": "20250302223000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302223001 +0100",
+            "stop_time": "20250302230000 +0100",
+            "title": "News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302230001 +0100",
+            "stop_time": "20250302233000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302233001 +0100",
+            "stop_time": "20250303000000 +0100",
+            "title": "ABC News Mornings",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000001 +0100",
+            "stop_time": "20250303003000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303003001 +0100",
+            "stop_time": "20250303010000 +0100",
+            "title": "The News",
+            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
+            "icon": ""
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/newsworld-newsworld.json",
+    "epg_url": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 }
