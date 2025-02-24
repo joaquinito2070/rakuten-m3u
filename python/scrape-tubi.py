@@ -101,7 +101,6 @@ def fetch_m3u8_qualities(master_url):
         print(f"Error fetching M3U8 playlist from {master_url}: {e}")
     return qualities
 
-
 def fetch_epg_xml_data(url):
     try:
         response = requests.get(url, stream=True, timeout=10) # stream=True for large gzip files
@@ -220,6 +219,7 @@ def save_file(content, filename):
     script_directory = os.path.dirname(os.path.abspath(__file__))
     parent_directory = os.path.dirname(script_directory)
     file_path = os.path.join(parent_directory, filename)
+    os.makedirs(os.path.dirname(file_path), exist_ok=True) # Ensure directory exists
 
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
@@ -229,6 +229,8 @@ def save_epg_to_file(tree, filename):
     script_directory = os.path.dirname(os.path.abspath(__file__))
     parent_directory = os.path.dirname(script_directory)
     file_path = os.path.join(parent_directory, filename)
+    os.makedirs(os.path.dirname(file_path), exist_ok=True) # Ensure directory exists
+
 
     tree.write(file_path, encoding='utf-8', xml_declaration=True)
     print(f"EPG XML file saved: {file_path}")
@@ -237,10 +239,21 @@ def save_json_output(data, filename):
     script_directory = os.path.dirname(os.path.abspath(__file__))
     parent_directory = os.path.dirname(script_directory)
     file_path = os.path.join(parent_directory, filename)
+    os.makedirs(os.path.dirname(file_path), exist_ok=True) # Ensure directory exists
 
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
     print(f"JSON file saved: {file_path}")
+
+def generate_master_m3u8_content(qualities):
+    content = "#EXTM3U\n"
+    for quality in qualities:
+        attributes_str = ""
+        for key, value in quality['attributes'].items():
+            attributes_str += f"{key}={value},"
+        attributes_str = attributes_str.rstrip(',') # Remove trailing comma
+        content += f"#EXT-X-STREAM-INF:{attributes_str}\n{quality['url']}\n"
+    return content
 
 
 def main():
@@ -249,6 +262,7 @@ def main():
     output_filename_m3u = "rakuten_playlist.m3u"
     output_filename_epg = "rakuten_epg.xml"
     output_filename_json = "rakuten_channels.json"
+    github_base_url = "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/"
 
 
     print(f"Fetching W3U playlist from: {w3u_url}")
@@ -261,9 +275,28 @@ def main():
 
     for channel_info in channels_data:
         master_url = channel_info['stream_url']
+        tvg_id = channel_info['tvg_id']
         if master_url and master_url != "# no_url":
             print(f"Fetching qualities for channel: {channel_info['name']} from {master_url}")
             channel_info['qualities'] = fetch_m3u8_qualities(master_url)
+
+            # Generate master.m3u8 content
+            master_m3u8_content = generate_master_m3u8_content(channel_info['qualities'])
+            master_m3u8_filename = os.path.join("..", "master", tvg_id, "master.m3u8")
+            save_file(master_m3u8_content, master_m3u8_filename)
+
+            # Prepare JSON data
+            channel_json_data = {
+                "name": channel_info['name'],
+                "tvg_id": tvg_id,
+                "logo_url": channel_info['logo_url'],
+                "group_title": channel_info['group_title'],
+                "original_master_url": master_url,
+                "backup_master_url": urljoin(github_base_url, f"master/{tvg_id}/master.m3u8"), # Construct backup URL
+                "qualities": channel_info['qualities'],
+                "epg": [] # EPG data will be added later
+            }
+            channel_info['json_data'] = channel_json_data # Store json_data in channel_info for later use
 
     print(f"Fetching EPG data from: {epg_url}")
     epg_data_map = fetch_epg_xml_data(epg_url)
@@ -274,6 +307,7 @@ def main():
     # Integrate EPG data into channels_data for JSON output
     current_time_utc_main = datetime.now(timezone.utc) # Get current time in UTC for main function
 
+    final_channels_json_data = []
     for channel_info in channels_data:
         channel_epg_id = channel_info['tvg_id']
         channel_epg = epg_data_map.get(channel_epg_id, [])
@@ -287,10 +321,10 @@ def main():
             except ValueError:
                 print(f"Error parsing time for program '{program.get('title', 'No Title')}' in main function. Skipping program for JSON.")
 
-        channel_info['epg'] = future_epg_programs # Assign filtered list back
-        for program in channel_info['epg']: # Ensure icon key is present in JSON output for future programs
+        channel_info['json_data']['epg'] = future_epg_programs # Assign filtered EPG to JSON data
+        for program in channel_info['json_data']['epg']: # Ensure icon key is present in JSON output for future programs
             program['icon'] = program.get('icon')
-
+        final_channels_json_data.append(channel_info['json_data']) # Collect json data for final JSON file
 
     # Create M3U playlist and EPG files
     m3u_playlist = create_m3u_playlist(channels_data)
@@ -299,7 +333,12 @@ def main():
     # Save files
     save_file(m3u_playlist, output_filename_m3u)
     save_epg_to_file(epg_tree, output_filename_epg)
-    save_json_output({"channels": channels_data}, output_filename_json)
+    save_json_output({"channels": final_channels_json_data}, output_filename_json) # Save all channels JSON data to one file
+
+    # Save individual JSON files for each channel
+    for channel_json_data in final_channels_json_data:
+        json_filename = os.path.join("..", "json", channel_json_data['tvg_id'] + ".json")
+        save_json_output(channel_json_data, json_filename)
 
 
 if __name__ == "__main__":
