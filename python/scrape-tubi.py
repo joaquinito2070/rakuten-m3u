@@ -260,7 +260,7 @@ def create_channel_json_data(channel_info, backup_master_url):
         "original_master_url": channel_info['stream_url'],
         "backup_master_url": backup_master_url,
         "qualities": channel_info['qualities'],
-        "epg": channel_info['epg']
+        "epg": channel_info.get('epg', []) # Use .get to avoid KeyError if 'epg' is missing
     }
     return channel_json
 
@@ -294,12 +294,6 @@ def main():
             master_m3u8_filename = f"master/{tvg_id}/master.m3u8"
             save_file(channel_master_m3u8_content, master_m3u8_filename)
 
-            # Generate channel JSON
-            backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
-            channel_json_data = create_channel_json_data(channel_info, backup_master_url)
-            channel_json_filename = f"json/{tvg_id}.json"
-            save_json_output(channel_json_data, channel_json_filename)
-
 
     print(f"Fetching EPG data from: {epg_url}")
     epg_data_map = fetch_epg_xml_data(epg_url)
@@ -326,6 +320,12 @@ def main():
         channel_info['epg'] = future_epg_programs  # Assign filtered list back
         for program in channel_info['epg']:  # Ensure icon key is present in JSON output for future programs
             program['icon'] = program.get('icon')
+
+        # Generate channel JSON  (moved here after EPG data is integrated)
+        backup_master_url = f"{github_base_url}master/{tvg_id}/master.m3u8"
+        channel_json_data = create_channel_json_data(channel_info, backup_master_url)
+        channel_json_filename = f"json/{tvg_id}.json"
+        save_json_output(channel_json_data, channel_json_filename)
 
 
     # Create M3U playlist and EPG files (original playlist with master urls)
