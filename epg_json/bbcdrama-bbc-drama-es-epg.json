@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250224184821 +0100",
-            "stop_time": "20250224194103 +0100",
-            "title": "Episodio 1",
-            "description": "| +13 | Series |\n\nCutter se enfrenta a la desaparición de Claudia después de que se borrara su existencia.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224194104 +0100",
             "stop_time": "20250224203305 +0100",
             "title": "Episodio 2",

@@ -3,13 +3,6 @@
     "tvg_id": "revry-news",
     "epg": [
         {
-            "start_time": "20250224180506 +0100",
-            "stop_time": "20250224200500 +0100",
-            "title": "Raid Of The Rainbow Lounge",
-            "description": "| +TP | LGBTQ+ |\n\nA riveting recount of a violent 2009 raid of a Texas gay bar and its aftermath.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200506 +0100",
             "stop_time": "20250224210000 +0100",
             "title": "Survival Of The Fabulous",

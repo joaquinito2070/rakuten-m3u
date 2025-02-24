@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224172726 +0100",
-            "stop_time": "20250224192454 +0100",
-            "title": "Emperador",
-            "description": "| +16 | Películas |\n\nTras la rendición japonesa a finales de la Segunda Guerra Mundial, el prestigioso general Douglas MacArthur (Tommy Lee Jones) y su colega, el general Fellers (Matthew Fox, 'Perdidos'), deben decidir si el emperador Hirohito será ahorcado o no como criminal de guerra.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1510e229-7108-4679-828e-1d0812831da1-snapshot-1590663472.jpeg"
-        },
-        {
             "start_time": "20250224192455 +0100",
             "stop_time": "20250224210622 +0100",
             "title": "Atraco en Belfast",

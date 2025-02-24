@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224180638 +0100",
-            "stop_time": "20250224194730 +0100",
-            "title": "Despertando a Ned",
-            "description": "| +16 | Películas |\n\nTullymore es un pequeño e idílico pueblo irlandés cuya tranquilidad se rompe cuando a uno de sus cincuenta y dos habitantes le toca el primer premio de la lotería. Pronto Jackie y su mejor amigo Michael descubren quién es el ganador: su vecino Ned.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/201ee673-d1a2-4226-b44a-eb915756b1e4.jpeg"
-        },
-        {
             "start_time": "20250224194731 +0100",
             "stop_time": "20250224212952 +0100",
             "title": "Atrapado en un Pirado",

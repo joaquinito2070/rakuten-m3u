@@ -3,13 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250224190001 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "Live DJ Set",
-            "description": "| +12 | Música |\n\nEvery Thursday & Friday, Clubbing TV welcome an artist in its studios for one hour of LIVE DJ Set. In this weekly show, viewers will be able to discover new talents and to re-discover world-renowned Dj's. \n",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250224210000 +0100",
             "title": "Clubbing Experience",

@@ -3,27 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250224191501 +0100",
-            "stop_time": "20250224193000 +0100",
-            "title": "Business",
-            "description": "| +7 | Noticias |\n\nA daily update on the latest business and economic news.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193001 +0100",
-            "stop_time": "20250224194500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224194501 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "Truth Or Fake",
-            "description": "| +7 | Noticias |\n\nTruth or Fake is a fact-checking rendez-vous in association with the FRANCE 24 Observers. Our content focuses on false images circulating online and how to identify them.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250224201500 +0100",
             "title": "News",

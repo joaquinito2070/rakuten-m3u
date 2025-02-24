@@ -3,13 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250224191738 +0100",
-            "stop_time": "20250224194932 +0100",
-            "title": "Best Fails of the Month",
-            "description": "| +TP | Entretenimiento |\n\nThe best of the worst for February '20.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224194938 +0100",
             "stop_time": "20250224202032 +0100",
             "title": "FailArmy Now",

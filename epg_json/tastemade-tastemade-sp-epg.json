@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250224185602 +0100",
-            "stop_time": "20250224192201 +0100",
-            "title": "Vino y fiestas",
-            "description": "| +7 | Cocina y comida |\n\nLas fiestas de fin de año son el pretexto perfecto para tener una copa de vino en la mano.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224192202 +0100",
-            "stop_time": "20250224194801 +0100",
-            "title": "Cocina del Mar",
-            "description": "| +7 | Cocina y comida |\n\nEl chef Omar Hernández hace un homenaje a la cocina del mar.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224194802 +0100",
             "stop_time": "20250224201401 +0100",
             "title": "Venezuela a la plancha",

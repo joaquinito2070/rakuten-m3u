@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224175349 +0100",
-            "stop_time": "20250224194804 +0100",
-            "title": "El libro del amor",
-            "description": "| +16 | Películas |\n\nHenry y Penny viven en Nueva Orleans y son una pareja muy cariñosa, hasta que ocurre una tragedia. Luego, Henry se ve obligado a reconstruirse.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/f9ca4e0c-7e04-483b-8668-10302c065c82-snapshot-1590665356.jpeg"
-        },
-        {
             "start_time": "20250224194805 +0100",
             "stop_time": "20250224213631 +0100",
             "title": "Una buena receta",

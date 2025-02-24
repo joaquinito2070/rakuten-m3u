@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250224190001 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "Top Éxitos España",
-            "description": "| +16 | Música |\n\n¡Los mayores éxitos del momento! Canciones que lo rompen en la radio, en las discotecas y ahora, también, en el salón de tu casa.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250224210000 +0100",
             "title": "Éxitos de siempre",

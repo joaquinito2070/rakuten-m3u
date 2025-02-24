@@ -3,13 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250224191354 +0100",
-            "stop_time": "20250224200548 +0100",
-            "title": "Dalek",
-            "description": "| +7 | Series |\n\nEl Doctor está destrozado y la tierra está en peligro cuando él y Rose descubren al enemigo a muerte del Señor de los Tiempos bajo Utah.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200549 +0100",
             "stop_time": "20250224205647 +0100",
             "title": "El juego largo",

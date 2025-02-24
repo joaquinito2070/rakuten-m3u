@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250224190001 +0100",
-            "stop_time": "20250224193000 +0100",
-            "title": "Camp Woodward - Season 1 - Temper, Temper",
-            "description": "| +7 | Deportes |\n\nAs Tony's temper gets the best of him, Miles loses his money, and Tyler is still without his bags.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193001 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "Camp Woodward - Season 1 - School is in Session",
-            "description": "| +7 | Deportes |\n\nMiles learns how to drop into vert, Tyler places 2nd in a contest, and Tony is in danger of being kicked ou...",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250224210000 +0100",
             "title": "Vans Get-N Classic - Vol 3",

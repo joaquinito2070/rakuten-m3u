@@ -3,20 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250224190001 +0100",
-            "stop_time": "20250224193000 +0100",
-            "title": "Season 11 Premiere",
-            "description": "| +7 | Deportes |\n\nLokar brings a 14 LS Classic intake for a restored 1978 C10.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193001 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "Hybrid Recharge",
-            "description": "| +7 | Deportes |\n\nSam helps his daughter change her Kia Optima Hybrid battery.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250224203000 +0100",
             "title": "Nova Gets a New Camshaft",

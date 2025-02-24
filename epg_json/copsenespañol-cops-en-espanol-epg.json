@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250224191522 +0100",
-            "stop_time": "20250224193947 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre que decide disparar balazos al aire pone de nervios a sus vecinos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193954 +0100",
-            "stop_time": "20250224200403 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nCuando una madre prefiere a la violencia, la abuela llama a la policía.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200409 +0100",
             "stop_time": "20250224202748 +0100",
             "title": "Cops en Español",

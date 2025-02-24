@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250224190001 +0100",
-            "stop_time": "20250224193000 +0100",
-            "title": "DOCUMENTAL",
-            "description": "| +7 | Asian |\n\nPresentapersonajes y acontecimientos típicos, avances y descubrimientos tecnológicos y científicos,  y la civilización social de China.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193001 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "ASÍ ES CHINA",
-            "description": "| +7 | Asian |\n\nDescubre para el televidente el gran legado cultural e histórico de las distintas regiones y etnias de China. También le acerca a la vida y las costumbres de la gente común y le muestra la evolución del país en aspectos como educación, sociedad y protección del medio ambiente y del patrimonio histórico y natural.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250224203000 +0100",
             "title": "CGTN NOTICIAS",

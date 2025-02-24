@@ -3,13 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250224191838 +0100",
-            "stop_time": "20250224194832 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Paraglider vs. Dust Devil or Off Roaders Taking on a Mud Pit?",
-            "icon": ""
-        },
-        {
             "start_time": "20250224194838 +0100",
             "stop_time": "20250224201832 +0100",
             "title": "Extreme Weather Countdown",

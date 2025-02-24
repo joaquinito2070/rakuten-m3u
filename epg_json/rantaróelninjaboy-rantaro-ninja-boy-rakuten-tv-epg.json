@@ -3,13 +3,6 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224191802 +0100",
-            "stop_time": "20250224194732 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: Vamos tras él.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4c6990bb-f876-488c-867d-757c7b29965e.jpeg"
-        },
-        {
             "start_time": "20250224194733 +0100",
             "stop_time": "20250224201703 +0100",
             "title": "Rantaro, el Ninja Boy",

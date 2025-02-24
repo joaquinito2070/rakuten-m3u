@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224183811 +0100",
-            "stop_time": "20250224194039 +0100",
-            "title": "Miss Fisher's Murder Mysteries",
-            "description": "| +16 | Crime |\n\nBurdeles suntuosos y mansiones respetables. Cuando el exsuegro de Jack, el subcomisario George Sanderson, se ve implicado en el brutal asesinato de una prostituta, Jack está decidido a limpiar su nombre.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/f80df749-1c24-4351-bb0e-5e048304c32a.jpeg"
-        },
-        {
             "start_time": "20250224194040 +0100",
             "stop_time": "20250224204315 +0100",
             "title": "Miss Fisher's Murder Mysteries",

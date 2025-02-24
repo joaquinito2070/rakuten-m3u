@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/africanews-eng/master.m3u8",
     "qualities": [
         {
-            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/6e12d393-b3ce-4d34-a0b8-576babf83ed2/0.m3u8",
+            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/ab0ffc75-fa46-4ec8-bd09-3fd6f5dc2037/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "409632",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/6e12d393-b3ce-4d34-a0b8-576babf83ed2/1.m3u8",
+            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/ab0ffc75-fa46-4ec8-bd09-3fd6f5dc2037/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "526231",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/6e12d393-b3ce-4d34-a0b8-576babf83ed2/2.m3u8",
+            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/ab0ffc75-fa46-4ec8-bd09-3fd6f5dc2037/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "653431",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/6e12d393-b3ce-4d34-a0b8-576babf83ed2/3.m3u8",
+            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/ab0ffc75-fa46-4ec8-bd09-3fd6f5dc2037/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1098631",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/6e12d393-b3ce-4d34-a0b8-576babf83ed2/4.m3u8",
+            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/ab0ffc75-fa46-4ec8-bd09-3fd6f5dc2037/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "2264632",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/6e12d393-b3ce-4d34-a0b8-576babf83ed2/5.m3u8",
+            "url": "https://africanews-eng-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/ab0ffc75-fa46-4ec8-bd09-3fd6f5dc2037/5.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "3642631",

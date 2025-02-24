@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250224184747 +0100",
-            "stop_time": "20250224194418 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nAbrumado por la responsabilidad de entrenar a un nuevo rampie y luchando por salir de la caseta del perro de Joe.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224194419 +0100",
             "stop_time": "20250224203843 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250224191404 +0100",
-            "stop_time": "20250224192716 +0100",
-            "title": "Padre matóns",
-            "description": "| +TP | Infantil |\n\nMr. Bean busca una vida tranquila",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224192717 +0100",
-            "stop_time": "20250224194016 +0100",
-            "title": "Casa móvil",
-            "description": "| +TP | Infantil |\n\nLa señorita Wince se lleva de vacaciones a la señora Wicket en su nueva y elegante caravana; y Bean se queda atrás.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224194017 +0100",
-            "stop_time": "20250224195317 +0100",
-            "title": "La gran peste",
-            "description": "| +TP | Infantil |\n\nMr Bean termina en un pozo de purín de una granja después de correr con un tractor.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224195318 +0100",
-            "stop_time": "20250224200617 +0100",
-            "title": "En venta",
-            "description": "| +TP | Infantil |\n\nUn alegre agente inmobiliario convence a la señora Wicket para que ponga su casa en venta.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200618 +0100",
             "stop_time": "20250224201929 +0100",
             "title": "Niño artilugios",

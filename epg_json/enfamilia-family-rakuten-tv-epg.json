@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224181009 +0100",
-            "stop_time": "20250224194113 +0100",
-            "title": "Mi mascota es un dinosaurio",
-            "description": "| +12 | Infantil |\n\nUn adolescente aventurero reúne el coraje para ayudar a un amigable dinosaurio a escapar de las garras de un científico loco que quiere usarlo para experimentos. Así nace la más bella historia de amistad jamás contada.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d02c4ba4-7207-4b22-a66c-43bb9dd648d4-the-adventures-of-jurassic-pet-1634552700.jpeg"
-        },
-        {
             "start_time": "20250224194114 +0100",
             "stop_time": "20250224211338 +0100",
             "title": "Pequeños Invasores",

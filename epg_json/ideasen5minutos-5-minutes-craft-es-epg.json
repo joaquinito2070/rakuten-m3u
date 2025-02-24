@@ -3,20 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250224190923 +0100",
-            "stop_time": "20250224193553 +0100",
-            "title": "Trucos para padres",
-            "description": "| +TP | Entretenimiento |\n\n¡Hola, padres astutos! ¡Aquí tenemos una nueva lista de consejos y juegos divertidos!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193554 +0100",
-            "stop_time": "20250224200305 +0100",
-            "title": "¡Simplifica tu día como padre con estos trucos útiles!",
-            "description": "| +TP | Entretenimiento |\n\nQueremos compartir contigo unos trucos de crianza que sin duda te ayudarán a resolver diferentes problemas cotidianos y que harán que la vida con tu hijo sea más fácil.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200306 +0100",
             "stop_time": "20250224202942 +0100",
             "title": "Trucos que a todos los dueños de mascotas les encantará",

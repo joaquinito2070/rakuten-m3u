@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250224190001 +0100",
-            "stop_time": "20250224193000 +0100",
-            "title": "Bel Air Palatial Properties",
-            "description": "| +TP | Estilo de vida |\n\nMatthew visits exclusive Bel Air, home to some of the biggest stars with the deepest pockets.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193001 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "San Marino & Pasadena Pedigreed Estates",
-            "description": "| +TP | Estilo de vida |\n\nMatthew tours pedigreed estates in San Marino and Pasadena, California.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250224203000 +0100",
             "title": "Architectural Masterpieces",

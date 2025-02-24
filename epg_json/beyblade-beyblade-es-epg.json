@@ -3,20 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250224185506 +0100",
-            "stop_time": "20250224192227 +0100",
-            "title": "Tsubasa vuela hacia la oscuridad",
-            "description": "| +TP | Anime |\n\nDoji y Yu están buscando talentos para llevar a los Battle Bladers para que Ryuga pueda absorber su poder. Para su sorpresa, Tsubasa derrota a su espada en un torneo pero no pueden encontrar ninguna información sobre quién es este Tsubasa. Sorprendentemente, Tsubasa más tarde aparece en la sede de Dark Nebula con ganas de vender sus habilidades.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224192228 +0100",
-            "stop_time": "20250224194949 +0100",
-            "title": "Intrusos en la competición",
-            "description": "| +TP | Anime |\n\nLa competencia para llegar a Battle Bladers se calienta cuando Blader DJ anuncia dos ubicaciones para torneos: una en el bosque y la otra junto al río. Kenta domina la competencia forestal mientras Hyoma lidera la etapa del río. Ambas batallas dan grandes vueltas cuando los no invitados espadachines Tsubasa y Yu rompen las fiestas.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224194950 +0100",
             "stop_time": "20250224201711 +0100",
             "title": "La gran operación crustácea de Dark Gasher",

@@ -3,13 +3,6 @@
     "tvg_id": "stingray-hit-list",
     "epg": [
         {
-            "start_time": "20250224160001 +0100",
-            "stop_time": "20250224200000 +0100",
-            "title": "Stingray Hit List",
-            "description": "| +TP | Música |\n\nTune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
-            "icon": ""
-        },
-        {
             "start_time": "20250224200001 +0100",
             "stop_time": "20250225000000 +0100",
             "title": "Stingray Hit List",

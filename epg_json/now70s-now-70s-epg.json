@@ -3,20 +3,6 @@
     "tvg_id": "now-70s",
     "epg": [
         {
-            "start_time": "20250224191501 +0100",
-            "stop_time": "20250224193000 +0100",
-            "title": "1979 Unleashed!",
-            "description": "| +TP | Música |\n\nClassic hits from just 1 year - 1979!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250224193001 +0100",
-            "stop_time": "20250224195500 +0100",
-            "title": "Simon Bates' Rock Ballads! 1970-79",
-            "description": "| +TP | Música |\n\nWe didn't yet call them Power Ballads, but some masters of the genre - Boston, Toto & Whitesnake - were already at it! Simes has 25 power pop love songs & ballads - in order.",
-            "icon": ""
-        },
-        {
             "start_time": "20250224195501 +0100",
             "stop_time": "20250224203000 +0100",
             "title": "Ultimate Love Songs! 1970-1979",
