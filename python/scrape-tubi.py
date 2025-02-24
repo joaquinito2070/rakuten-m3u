@@ -347,7 +347,7 @@ def main():
             channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
             channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json"  # Unique filename
             channel_json_url = f"{github_base_url}{channel_json_filename}"  # Construct JSON URL
-            channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, "") # epg_url will be set later, pass empty string for now
+            channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, channel_epg_json_url) # DEBE USAR channel_epg_json_url - Pasar epg_json_url (URL del EPG JSON)
             save_json_output(channel_json_data, channel_json_filename)
 
             channel_json_urls.append(channel_json_url)  # Añadir la URL del JSON del canal a la lista
@@ -384,7 +384,7 @@ def main():
         channel_name_sanitized = "".join(c for c in channel_info['name'] if c.isalnum() or c == '_' or c == '-').lower()
         channel_json_filename = f"json/{channel_name_sanitized}-{channel_info['tvg_id']}.json"  # Unique filename
         channel_json_url = f"{github_base_url}{channel_json_filename}"  # Construct JSON URL
-        channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, epg_json_url) # Pasar epg_json_url (URL del EPG JSON)
+        channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, channel_epg_json_url) # DEBE USAR channel_epg_json_url - Pasar epg_json_url (URL del EPG JSON)
         save_json_output(channel_json_data, channel_json_filename)
 
         # Generate channel EPG JSON (individual channel EPG JSON - keep as is)
