@@ -342,7 +342,6 @@ def main():
         channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}"  # URL para el archivo EPG JSON de canal
         channel_epg_json_urls.append(channel_epg_json_url)  # Añadir la URL del JSON de EPG del canal a la lista
 
-
         if master_url and master_url != "# no_url":
             print(f"**DEBUG - Channel Name: {channel_info['name']}, tvg_id: {channel_info['tvg_id']}**") # DEBUG PRINT using channel_info['tvg_id']
             print(f"Fetching qualities for channel: {channel_info['name']} from {master_url}")
@@ -356,10 +355,6 @@ def main():
             # Corrected line to use channel_info['tvg_id']
             backup_master_url = f"{github_base_url}master/{channel_info['tvg_id']}/master.m3u8"
             channel_info['backup_master_url'] = backup_master_url
-
-
-            channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, channel_epg_json_url) # DEBE USAR channel_epg_json_url - Pasar epg_json_url (URL del EPG JSON)
-            save_json_output(channel_json_data, channel_json_filename)
 
 
     print(f"Fetching EPG data from: {epg_url_value}")  # Usar epg_url_value
@@ -379,6 +374,7 @@ def main():
     for channel_info in channels_data:
         channel_epg_id = channel_info['tvg_id']
         channel_epg = epg_data_map.get(channel_epg_id, [])
+        channel_info['epg'] = channel_epg # POPULATE channel_info['epg'] HERE!
 
         future_epg_programs = []  # List to hold future programs
 
