@@ -3,13 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250225033001 +0100",
-            "stop_time": "20250225040000 +0100",
-            "title": "Montauk-Inspired Calibu Vineyard",
-            "description": "| +TP | Estilo de vida |\n\nDesigner Jennifer Farrell invites you to experience Calibu Vineyard, her home nestled in the Califronia hills.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040001 +0100",
             "stop_time": "20250225043000 +0100",
             "title": "The Laws of Lighting & Color",

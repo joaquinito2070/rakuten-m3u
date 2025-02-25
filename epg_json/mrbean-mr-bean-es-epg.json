@@ -3,27 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225034240 +0100",
-            "stop_time": "20250225035540 +0100",
-            "title": "Bean bailarín",
-            "description": "| +TP | Infantil |\n\nMr. Bean debe aprender a bailar para poder impresionar a su novia Irma.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225035541 +0100",
-            "stop_time": "20250225040840 +0100",
-            "title": "Casa encantada",
-            "description": "| +TP | Infantil |\n\nBean está tratando de impresionar a algunos niños en el parque con sus habilidades futbolísticas.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225040841 +0100",
-            "stop_time": "20250225042152 +0100",
-            "title": "La visita",
-            "description": "| +TP | Infantil |\n\nMr. Bean aprende que la generosidad puede ser buena para recuperar su mando a distancia",
-            "icon": ""
-        },
-        {
             "start_time": "20250225042153 +0100",
             "stop_time": "20250225043452 +0100",
             "title": "Lord Bean",

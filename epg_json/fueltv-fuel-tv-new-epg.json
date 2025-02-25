@@ -3,13 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225033001 +0100",
-            "stop_time": "20250225040000 +0100",
-            "title": "M80 - Season 1 - Doug Parsons",
-            "description": "| +7 | Deportes |\n\nDoug Parsons tears up Reche Canyon, while Travis Pastrana debuts double backflips at home.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040001 +0100",
             "stop_time": "20250225043000 +0100",
             "title": "Built to Shred - Season 2 - Shred Mountain",

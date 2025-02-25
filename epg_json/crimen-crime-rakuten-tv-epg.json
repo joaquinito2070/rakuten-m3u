@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225031532 +0100",
-            "stop_time": "20250225042031 +0100",
-            "title": "Crash",
-            "description": "| +16 | Crime |\n\nBen y Anthony fuerzan a Roxanne a desintoxicarse con la esperanza de que revele más información sobre la muerte de Cassie. Seth organiza un evento en el ayuntamiento para conseguir apoyos para su proyecto para los indigentes.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/353835ce-1d47-4ba7-b928-c1da0087083d.jpeg"
-        },
-        {
             "start_time": "20250225042032 +0100",
             "stop_time": "20250225052104 +0100",
             "title": "Crash",

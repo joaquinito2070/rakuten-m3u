@@ -3,20 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250225034501 +0100",
-            "stop_time": "20250225040000 +0100",
-            "title": "Reporters",
-            "description": "| +7 | Noticias |\n\nAn in-depth report by our senior reporters and team of correspondents from around the world.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225040001 +0100",
-            "stop_time": "20250225041500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225041501 +0100",
             "stop_time": "20250225043000 +0100",
             "title": "Revisited",

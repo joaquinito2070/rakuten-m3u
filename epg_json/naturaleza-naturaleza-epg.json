@@ -3,13 +3,6 @@
     "tvg_id": "naturaleza",
     "epg": [
         {
-            "start_time": "20250225030424 +0100",
-            "stop_time": "20250225035855 +0100",
-            "title": "Las Tortugas del Mar de las Célebes",
-            "description": "| +7 | Documental |\n\nDescubrimos las tortugas del mar de las Célebes.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225035856 +0100",
             "stop_time": "20250225043112 +0100",
             "title": "Siyaya - Bienvenidos a la Naturaleza",

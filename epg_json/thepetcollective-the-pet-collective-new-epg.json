@@ -3,13 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250225034929 +0100",
-            "stop_time": "20250225042023 +0100",
-            "title": "TPC That's My Pet",
-            "description": "| +7 | Entretenimiento |\n\nDid you know that Beagles were bred for hunting?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225042029 +0100",
             "stop_time": "20250225045123 +0100",
             "title": "Countdown: The Funniest Pets",

@@ -3,13 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225034508 +0100",
-            "stop_time": "20250225041624 +0100",
-            "title": "El armario de...",
-            "description": "| +16 | Estilo de vida |\n\nPríncipes clásicos con toques de modernidad. Guillermo y Harry apuestan sobre seguro a la hora de elegir su ropa. Ni colores estridentes ni complementos llamativos.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/8b087c06-40d4-41ea-8860-724ed57fab81-guillermo-y-harry-1614353521.jpeg"
-        },
-        {
             "start_time": "20250225041625 +0100",
             "stop_time": "20250225051430 +0100",
             "title": "El armario de...",

@@ -3,13 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250225034531 +0100",
-            "stop_time": "20250225035854 +0100",
-            "title": "Trucos aleatorios para niños",
-            "description": "| +TP | Entretenimiento |\n\n¡Consejos útiles y trucos efectivos!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225035855 +0100",
             "stop_time": "20250225043040 +0100",
             "title": "¡Trucos y manualidades para divertirte en la escuela!",

@@ -3,13 +3,6 @@
     "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
     "epg": [
         {
-            "start_time": "20250225034156 +0100",
-            "stop_time": "20250225041238 +0100",
-            "title": "Black Sheep",
-            "description": "| +16 | Noticias |\n\nBlack Sheep tells the story of Cornelius Walker, whose life changed on 27 November 2000 - the day Damilola Taylor was killed. Damilola was 10, the same age as Cornelius.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/093a9b6f-3fb8-4d51-823d-dc268612e9a0-black-sheep-1641819500.jpeg"
-        },
-        {
             "start_time": "20250225041239 +0100",
             "stop_time": "20250225043050 +0100",
             "title": "The Native American kids who get $200k for graduating",

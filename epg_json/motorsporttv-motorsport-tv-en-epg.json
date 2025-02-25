@@ -3,13 +3,6 @@
     "tvg_id": "motorsport-tv-en",
     "epg": [
         {
-            "start_time": "20250225023318 +0100",
-            "stop_time": "20250225040512 +0100",
-            "title": "Porsche Carrera Cup Middle East",
-            "description": "| +TP | Deportes |\n\nWatch the 2023-2024 Porsche Carrera Cup Middle East round 3 second race at Dubai Autodrome.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040518 +0100",
             "stop_time": "20250225050047 +0100",
             "title": "Castrol Toyota Formula Regional Oceania Championship",

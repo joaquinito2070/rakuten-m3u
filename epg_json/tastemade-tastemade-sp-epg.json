@@ -3,13 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225033503 +0100",
-            "stop_time": "20250225040002 +0100",
-            "title": "Cocina francesa con Gaetan Kuchta",
-            "description": "| +7 | Cocina y comida |\n\nBienvenido a lo mejor de la cocina francesa, vamos a preparar Bœuf bourguignon, o sea res con vino tinto.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040003 +0100",
             "stop_time": "20250225042602 +0100",
             "title": "Camarones al coco y Pulpo al ajillo",

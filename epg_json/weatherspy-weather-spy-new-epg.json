@@ -3,13 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225034838 +0100",
-            "stop_time": "20250225041832 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Ice Cave Collapses and Bathing Suit Snow Dives?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225041838 +0100",
             "stop_time": "20250225044832 +0100",
             "title": "Humans VS Weather",

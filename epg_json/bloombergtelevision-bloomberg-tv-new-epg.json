@@ -3,13 +3,6 @@
     "tvg_id": "bloomberg-tv-new",
     "epg": [
         {
-            "start_time": "20250225030005 +0100",
-            "stop_time": "20250225035958 +0100",
-            "title": "Bloomberg TV+",
-            "description": "| +12 | Noticias |\n\nBloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040005 +0100",
             "stop_time": "20250225045958 +0100",
             "title": "Bloomberg TV+",

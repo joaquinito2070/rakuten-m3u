@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225023539 +0100",
-            "stop_time": "20250225035143 +0100",
-            "title": "The Party",
-            "description": "| +16 | Películas |\n\nJanet acaba de ser nombrada ministra del Gobierno y por ello varios amigos se reúnen en una fiesta para celebrar su nombramiento.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/64e618df-a736-4f27-b01f-ac6ab0e6b75f.jpeg"
-        },
-        {
             "start_time": "20250225035144 +0100",
             "stop_time": "20250225053538 +0100",
             "title": "Mi mejor verano",

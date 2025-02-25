@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID="0",BANDWIDTH="1020800",AVERAGE-BANDWIDTH="985600",CODECS="avc1.77.30",RESOLUTION="640x360",CLOSED-CAPTIONS="NONE",FRAME-RATE="25.000"
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/1b43b8fb-f323-11ef-bd2b-fafe22275f10/45/640x360_1020800/index.m3u8
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/a195bc59-f327-11ef-a802-aa21055b23de/123/640x360_1020800/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID="0",BANDWIDTH="1249600",AVERAGE-BANDWIDTH="1205600",CODECS="avc1.77.30",RESOLUTION="848x480",CLOSED-CAPTIONS="NONE",FRAME-RATE="25.000"
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/1b43b8fb-f323-11ef-bd2b-fafe22275f10/45/848x480_1249600/index.m3u8
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/a195bc59-f327-11ef-a802-aa21055b23de/123/848x480_1249600/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID="0",BANDWIDTH="3801600",AVERAGE-BANDWIDTH="3660800",CODECS="avc1.64001f",RESOLUTION="1280x720",CLOSED-CAPTIONS="NONE",FRAME-RATE="25.000"
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/1b43b8fb-f323-11ef-bd2b-fafe22275f10/45/1280x720_3801600/index.m3u8
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/a195bc59-f327-11ef-a802-aa21055b23de/123/1280x720_3801600/index.m3u8

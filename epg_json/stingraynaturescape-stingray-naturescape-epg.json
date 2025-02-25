@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250225025901 +0100",
-            "stop_time": "20250225035800 +0100",
-            "title": "A Day in San Diego",
-            "description": "| +TP | Estilo de vida |\n\nA Day in San Diego",
-            "icon": ""
-        },
-        {
             "start_time": "20250225035801 +0100",
             "stop_time": "20250225045800 +0100",
             "title": "Bryce Canyon Relaxation",

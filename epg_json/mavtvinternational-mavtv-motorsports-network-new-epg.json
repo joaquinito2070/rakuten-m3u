@@ -3,13 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250225033001 +0100",
-            "stop_time": "20250225040000 +0100",
-            "title": "Stacey David's GearZ: Sasquatch or Swamp Sprite",
-            "description": "| +7 | Deportes |\n\nStacey manages to find a Thiokol Swamp Spryte, a rare vehicle, and rolls it into the shop.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040001 +0100",
             "stop_time": "20250225043000 +0100",
             "title": "Stacey David's GearZ: Swamp Spryte: Making Tracks",

@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225033017 +0100",
-            "stop_time": "20250225035426 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLos oficiales descubren objetos interesantes en el vehículo de un padre de familia cuando hacen un registro.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225035433 +0100",
-            "stop_time": "20250225041842 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre con un pasado delictivo jura mejorar por su hijo pequeño.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225041848 +0100",
             "stop_time": "20250225044313 +0100",
             "title": "Cops en Español",

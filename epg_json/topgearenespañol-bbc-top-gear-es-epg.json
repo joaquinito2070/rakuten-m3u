@@ -3,13 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250225030740 +0100",
-            "stop_time": "20250225040704 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nEl equipo de Top Gear regresa en una nueva serie con la búsqueda de la mejor carretera de Europa.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040710 +0100",
             "stop_time": "20250225050534 +0100",
             "title": "Top Gear UK",

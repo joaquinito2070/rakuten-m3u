@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225022612 +0100",
-            "stop_time": "20250225042020 +0100",
-            "title": "Nora",
-            "description": "| +16 | Películas |\n\nDublín, 1904, James Joyce conversa con Nora Barnacle, una empleada de hotel recién llegada de Galway. Ella lo encanta con su manera franca y desinhibida y, en poco tiempo, él la convence para que lo acompañe a Trieste.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b97e3980-8055-444e-aef3-6c8f9c86dba7.jpeg"
-        },
-        {
             "start_time": "20250225042021 +0100",
             "stop_time": "20250225054819 +0100",
             "title": "Yo Quiero a Eva",

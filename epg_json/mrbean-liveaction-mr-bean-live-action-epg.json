@@ -3,13 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250225032656 +0100",
-            "stop_time": "20250225035755 +0100",
-            "title": "Tee Off, Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean goes to the laundrette where he loses his trousers once more.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225035756 +0100",
             "stop_time": "20250225042803 +0100",
             "title": "Good Night Mr Bean",

@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250225030351 +0100",
-            "stop_time": "20250225040210 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nEl copiloto novato Scott se enfrenta a su peor pesadilla cuando un motor Curtiss C-46 Commando y una baja niebla obligan a un aterrizaje aterrador. El joven y ambicioso volador Alex debe demostrar su valía cuando el piloto principal de Buffalo le da el control del Douglas DC-4 de 20 toneladas por primera vez.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225040211 +0100",
             "stop_time": "20250225050030 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

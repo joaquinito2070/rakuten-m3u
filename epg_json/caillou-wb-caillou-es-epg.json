@@ -3,13 +3,6 @@
     "tvg_id": "wb-caillou-es",
     "epg": [
         {
-            "start_time": "20250225032943 +0100",
-            "stop_time": "20250225035937 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nLeo va a jugar a casa de Caillou.// Papá tiene una lista de cosas que hacer en casa.// Caillou quiere jugar con sus cromos de animales, pero han desaparecido.// Jonas, un amigo de papá que es todo un vaquero, ha invitado a la familia a visitar su rancho.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225035944 +0100",
             "stop_time": "20250225042914 +0100",
             "title": "Caillou",
