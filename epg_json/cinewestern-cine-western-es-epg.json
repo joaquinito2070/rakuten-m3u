@@ -3,13 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250225095952 +0100",
-            "stop_time": "20250225120850 +0100",
-            "title": "TU CABEZA VALE MAS DE 1000 DOLARES",
-            "description": "| +7 | Películas |\n\nPara cumplir el último deseo de su madre, un cazarrecompensas intenta encontrar a su hermanastro, un desertor confederado convertido en delincuente, y entregarlo a la ley.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120851 +0100",
             "stop_time": "20250225141532 +0100",
             "title": "El Valor de un Corbade",

@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225110001 +0100",
-            "stop_time": "20250225113000 +0100",
-            "title": "Drive Thru - Europe - France",
-            "description": "| +7 | Deportes |\n\nA 10 hour drive to France to perfect beachbreaks and pick up Rizal.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113001 +0100",
-            "stop_time": "20250225120000 +0100",
-            "title": "Drive Thru - Europe - France cont'd",
-            "description": "| +7 | Deportes |\n\nThe crew get a chance to see just how good France gets.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120001 +0100",
             "stop_time": "20250225124000 +0100",
             "title": "Riding Portugal - Season 1 - A Ride through my City",

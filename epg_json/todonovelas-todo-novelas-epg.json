@@ -3,13 +3,6 @@
     "tvg_id": "todo-novelas",
     "epg": [
         {
-            "start_time": "20250225103053 +0100",
-            "stop_time": "20250225112257 +0100",
-            "title": "Teresa EP101",
-            "description": "| +7 | Series |\n\nTeresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225112258 +0100",
             "stop_time": "20250225121443 +0100",
             "title": "Amor Sin Limites EP110",

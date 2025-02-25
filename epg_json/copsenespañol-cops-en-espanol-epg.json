@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225110641 +0100",
-            "stop_time": "20250225112936 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre casado no parece estar muy preocupado cuando se llevan a su esposa a la cárcel.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225112942 +0100",
-            "stop_time": "20250225115206 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre furioso le ruega a la policía que le dispare.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115213 +0100",
             "stop_time": "20250225121552 +0100",
             "title": "Cops en Español",

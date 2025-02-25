@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250225110001 +0100",
-            "stop_time": "20250225120000 +0100",
-            "title": "DSCVR New Music Latino",
-            "description": "| +16 | Música |\n\nTu canal para descubrir nuevo talento.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120001 +0100",
             "stop_time": "20250225130000 +0100",
             "title": "Latino Esencial",

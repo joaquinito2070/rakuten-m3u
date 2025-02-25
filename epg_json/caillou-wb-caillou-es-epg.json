@@ -3,20 +3,6 @@
     "tvg_id": "wb-caillou-es",
     "epg": [
         {
-            "start_time": "20250225105859 +0100",
-            "stop_time": "20250225112853 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nCaillou acompaña a mamá al supermercado.// Caillou ve animales salvajes cuando papá y el abuelo van de excursión en canoa.// Un día de otoño, Caillou y su madre dan un paseo y pasan por unas obras.// Cuando papá quema las tostadas y activa la alarma de incendios, decide que es la ocasión perfecta para poner en práctica un simulacro de incendio.// Caillou y su mamá acaban de preparar un pícnic.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225112859 +0100",
-            "stop_time": "20250225115853 +0100",
-            "title": "Caillou",
-            "description": "| +TP | Infantil |\n\nLeo va a jugar a casa de Caillou.// Papá tiene una lista de cosas que hacer en casa.// Caillou quiere jugar con sus cromos de animales, pero han desaparecido.// Jonas, un amigo de papá que es todo un vaquero, ha invitado a la familia a visitar su rancho.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115900 +0100",
             "stop_time": "20250225122830 +0100",
             "title": "Caillou",

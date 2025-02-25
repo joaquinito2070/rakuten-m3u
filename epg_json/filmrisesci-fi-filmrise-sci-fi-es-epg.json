@@ -3,13 +3,6 @@
     "tvg_id": "filmrise-sci-fi-es",
     "epg": [
         {
-            "start_time": "20250225103941 +0100",
-            "stop_time": "20250225113340 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nDespués de quedar varado cerca de un agujero negro, el capitán Dylan Hunt es descubierto por un barco de salvamento mercenario y descubre que ha estado congelado en el tiempo durante 300 años.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225113341 +0100",
             "stop_time": "20250225122741 +0100",
             "title": "Andromeda",

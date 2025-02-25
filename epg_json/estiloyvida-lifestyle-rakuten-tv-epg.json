@@ -3,20 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225111302 +0100",
-            "stop_time": "20250225113917 +0100",
-            "title": "Royals",
-            "description": "| +16 | Estilo de vida |\n\nRetrato del príncipe Guillermo, duque de Cambridge, hijo mayor de Carlos y Diana. Es el segundo en la línea de sucesión al trono de Inglaterra. Casado con Kate Middleton, duquesa de Cambridge, forman una de las parejas de la Realeza más atractivas y mediáticas del mundo.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/599725a0-a699-483c-aa92-cfd0f86f5042-royals-episodio-3-1620308919.jpeg"
-        },
-        {
-            "start_time": "20250225113918 +0100",
-            "stop_time": "20250225120602 +0100",
-            "title": "Royals",
-            "description": "| +16 | Estilo de vida |\n\nDocumental sobre Carlos de Inglaterra, príncipe de Gales, primogénito de la Reina Isabel y heredero a la Corona. Bautizado por muchos como el ‘eterno heredero’, Carlos tiene un gran sentido del humor y trabaja con perseverancia para representar con honor a la Monarquía británica.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/a7c621a5-2dd9-49eb-9518-ebd69e8f67bb-royals-episodio-4-1620308927.jpeg"
-        },
-        {
             "start_time": "20250225120603 +0100",
             "stop_time": "20250225123156 +0100",
             "title": "Royals",

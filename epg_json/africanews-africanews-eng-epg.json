@@ -3,20 +3,6 @@
     "tvg_id": "africanews-eng",
     "epg": [
         {
-            "start_time": "20250225110000 +0100",
-            "stop_time": "20250225112959 +0100",
-            "title": "Africanews",
-            "description": "| +12 | Noticias |\n\nAfricanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113000 +0100",
-            "stop_time": "20250225115959 +0100",
-            "title": "Africanews",
-            "description": "| +12 | Noticias |\n\nAfricanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120000 +0100",
             "stop_time": "20250225122959 +0100",
             "title": "Africanews",

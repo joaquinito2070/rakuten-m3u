@@ -3,13 +3,6 @@
     "tvg_id": "revry-news",
     "epg": [
         {
-            "start_time": "20250225101506 +0100",
-            "stop_time": "20250225120000 +0100",
-            "title": "Florent: Queen Of The Meat Market",
-            "description": "| +TP | LGBTQ+ |\n\nA chronicle of the history and final days of New York City's legendary Florent diner.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120006 +0100",
             "stop_time": "20250225130000 +0100",
             "title": "Queer News Weekly",

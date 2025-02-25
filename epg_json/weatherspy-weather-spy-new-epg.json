@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225105108 +0100",
-            "stop_time": "20250225112102 +0100",
-            "title": "WeatherSpy Shorts",
-            "description": "| +TP | Estilo de vida |\n\nTraveling during a storm makes for some interesting results.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225112108 +0100",
-            "stop_time": "20250225115332 +0100",
-            "title": "WeatherSpy Shorts",
-            "description": "| +TP | Estilo de vida |\n\nThere are no rainbows behind these storm clouds.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115338 +0100",
             "stop_time": "20250225122332 +0100",
             "title": "Viral Wild",

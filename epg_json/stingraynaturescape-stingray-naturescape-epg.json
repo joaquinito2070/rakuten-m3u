@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250225105901 +0100",
-            "stop_time": "20250225115900 +0100",
-            "title": "Hawaii Beaches: Oahu 1",
-            "description": "| +TP | Estilo de vida |\n\nEscaping to the sandy solitudes of Hawaii's tropical beaches.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115901 +0100",
             "stop_time": "20250225130000 +0100",
             "title": "Islands of Paradise",

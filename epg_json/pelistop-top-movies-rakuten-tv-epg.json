@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225092643 +0100",
-            "stop_time": "20250225120406 +0100",
-            "title": "La Directora de orquesta",
-            "description": "| +16 | Películas |\n\nBasada en hechos reales. Cuenta la historia de Antonia Brico, una joven que sueña en convertirse en directora de orquesta, pero nadie la toma en serio por ser una mujer.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/56ce9e21-4027-4e53-b50e-a9f09c78ef3b-snapshot-1590666806.jpeg"
-        },
-        {
             "start_time": "20250225120407 +0100",
             "stop_time": "20250225135243 +0100",
             "title": "La mujer de la montaña",

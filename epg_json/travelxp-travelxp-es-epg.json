@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250225110508 +0100",
-            "stop_time": "20250225113502 +0100",
-            "title": "World Heritage",
-            "description": "| +7 | Estilo de vida |\n\nHojee las páginas de la historia mientras se propone explorar y comprender la arquitectura de los monumentos islámicos construidos a partir del siglo XI en Delhi.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113508 +0100",
-            "stop_time": "20250225120502 +0100",
-            "title": "Viajar Mexico",
-            "description": "| +7 | Estilo de vida |\n\nLugares secretos para bucear, lagunas ocultas, antiguas ruinas mayas: hay mucho más en la península de Yucatán que Cancún y Playa del Carmen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120509 +0100",
             "stop_time": "20250225123503 +0100",
             "title": "World Spas",

@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225110813 +0100",
-            "stop_time": "20250225112124 +0100",
-            "title": "Bean real",
-            "description": "| +TP | Infantil |\n\nDurante una visita al Buckingham Palace conoce a la Reina",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225112125 +0100",
-            "stop_time": "20250225113437 +0100",
-            "title": "La carrera",
-            "description": "| +TP | Infantil |\n\nMr. Bean anda por la ciudad",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113438 +0100",
-            "stop_time": "20250225114749 +0100",
-            "title": "Teclado con truco",
-            "description": "| +TP | Infantil |\n\nMr. Bean quiere tocar el piano pero no se le da nada bien",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225114750 +0100",
-            "stop_time": "20250225120049 +0100",
-            "title": "Montelo usted mismo",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120050 +0100",
             "stop_time": "20250225121401 +0100",
             "title": "Osito desaparecido",

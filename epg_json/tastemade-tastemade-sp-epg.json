@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225111004 +0100",
-            "stop_time": "20250225113503 +0100",
-            "title": "El episodio del pollo",
-            "description": "| +7 | Cocina y comida |\n\nSi vas a asar pollo, querrás hacerlo bien",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113504 +0100",
-            "stop_time": "20250225120000 +0100",
-            "title": "Pescado asado estilo restaurante",
-            "description": "| +7 | Cocina y comida |\n\nAsar a la parrilla no se trata solo de cenas rápidas e informales",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120001 +0100",
             "stop_time": "20250225122600 +0100",
             "title": "Brunch a la parrilla",

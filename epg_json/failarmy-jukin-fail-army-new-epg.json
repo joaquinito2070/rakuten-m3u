@@ -3,13 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250225111040 +0100",
-            "stop_time": "20250225114234 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nWhy do the easiest tasks end up being the hardest?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225114240 +0100",
             "stop_time": "20250225121434 +0100",
             "title": "FailFactory",

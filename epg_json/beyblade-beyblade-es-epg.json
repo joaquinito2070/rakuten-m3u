@@ -3,20 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250225105630 +0100",
-            "stop_time": "20250225112415 +0100",
-            "title": "La isla sin regreso",
-            "description": "| +TP | Anime |\n\nLos BladeBreakers están atrapados en una isla misteriosa y deciden separarse. Unos van hacia el faro para intentar comunicarse con el mundo exterior y pedir ayuda y otros, Tyson, Ray y Max, llegan accidentalmente al escenario de su próximo combate, donde tienen que enfrentarse a Bat, un Blader que ve en la oscuridad. Es Ray el que lucha con él y acaba ganando.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225112416 +0100",
-            "stop_time": "20250225115200 +0100",
-            "title": "La isla diabólica del Dr. B",
-            "description": "| +TP | Anime |\n\nNuestros héroes siguen atrapados en la isla, pero el doctor B les dice que si vencen a todos los miembros del equipo Psykick podrán salir. Faltan Tyson y Kai por luchar. Kai se enfrenta a Figel y gana. Después de eso, llega al faro con Kenny y Hilary y piden ayuda. Entretanto, Tyson lucha con Daryl y también vence. El laboratorio del doctor B explota debido a una sobrecarga de ordenador y el señor Dickenson y el abuelo aparecen en helicóptero y rescatan a los chicos en el último momento.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115201 +0100",
             "stop_time": "20250225121945 +0100",
             "title": "¡Traedme a Dranzer!",

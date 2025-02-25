@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225095639 +0100",
-            "stop_time": "20250225114128 +0100",
-            "title": "María (y los demás)",
-            "description": "| +16 | Películas |\n\nDesde que murió su madre, María ha cuidado de su padre y de sus hermanos. Responsable y controladora, siempre ha sido el pilar de la familia y se siente orgullosa de ello. Por eso, cuando su padre anuncia que se casa con Cachita, su simpática enfermera, María siente que su mundo se desmorona.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5059598c-3d2d-4389-b7d7-c599f4cdf8fd-snapshot-1590660994.jpeg"
-        },
-        {
             "start_time": "20250225114129 +0100",
             "stop_time": "20250225130141 +0100",
             "title": "Las amigas de Àgata",

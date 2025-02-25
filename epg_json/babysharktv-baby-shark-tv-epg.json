@@ -3,20 +3,6 @@
     "tvg_id": "baby-shark-tv",
     "epg": [
         {
-            "start_time": "20250225104037 +0100",
-            "stop_time": "20250225114710 +0100",
-            "title": "Pinkfong and Hogi Dance Dance",
-            "description": "| +7 | Infantil |\n\n3D Pinkfong and Hogi loves to sing and dance with best kids' songs.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225114717 +0100",
-            "stop_time": "20250225121051 +0100",
-            "title": "Baby Shark Brooklyn",
-            "description": "| +7 | Infantil |\n\nBaby Shark Brooklyn's adventure under the sea! 9. To Catch a Thief! 10. Welcome to the Sardine Show!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225121058 +0100",
             "stop_time": "20250225123434 +0100",
             "title": "Baby Shark Brooklyn",

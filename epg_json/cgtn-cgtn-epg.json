@@ -3,20 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225110001 +0100",
-            "stop_time": "20250225113000 +0100",
-            "title": "The Vibe",
-            "description": "| +7 | Asian |\n\nThe Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113001 +0100",
-            "stop_time": "20250225114500 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225114501 +0100",
             "stop_time": "20250225123000 +0100",
             "title": "Africa Live",

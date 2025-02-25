@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225102654 +0100",
-            "stop_time": "20250225112717 +0100",
-            "title": "Episodio 8",
-            "description": "| +13 | Series |\n\nEl Dr. Turner tiene la determinación de eliminar la amenaza de la tuberculosis en la comunidad de Poplar.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225112718 +0100",
             "stop_time": "20250225122738 +0100",
             "title": "Episodio 9",

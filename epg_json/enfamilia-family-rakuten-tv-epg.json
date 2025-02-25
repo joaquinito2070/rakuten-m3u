@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225100602 +0100",
-            "stop_time": "20250225113553 +0100",
-            "title": "P3K: Pinocho 3000",
-            "description": "| +12 | Infantil |\n\nAño 3000. Gepetto es un genial inventor de la ciudad de Scamboville que crea a Pinocho: un pequeño robot con la personalidad de un niño de carne y hueso.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/726192b7-4104-444a-bf4b-1066ff39e77a-snapshot-1590660131.jpeg"
-        },
-        {
             "start_time": "20250225113554 +0100",
             "stop_time": "20250225131044 +0100",
             "title": "Marmaduke",

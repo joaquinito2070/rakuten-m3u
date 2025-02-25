@@ -3,20 +3,6 @@
     "tvg_id": "filmrise-archivos-forenses",
     "epg": [
         {
-            "start_time": "20250225105209 +0100",
-            "stop_time": "20250225112349 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nCuando se encuentra a Joann Katrinak muerta en un campo con su hijo, el sospechoso más obvio es el esposo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225112350 +0100",
-            "stop_time": "20250225115530 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nCuando se encuentra un cuerpo descompuesto metido en un barril, es fácil suponer un asesinato.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115531 +0100",
             "stop_time": "20250225122710 +0100",
             "title": "Forensic Files",

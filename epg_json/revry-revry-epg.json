@@ -3,20 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250225110006 +0100",
-            "stop_time": "20250225113000 +0100",
-            "title": "Flunk",
-            "description": "| +TP | Entretenimiento |\n\nTabby and Heidi’s relationship is strained when some money mysteriously goes missing.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113006 +0100",
-            "stop_time": "20250225120000 +0100",
-            "title": "Flunk",
-            "description": "| +TP | Entretenimiento |\n\nHeidi hides drugs in Tabby’s school bag, and Freya goes to desperate lengths.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120006 +0100",
             "stop_time": "20250225123000 +0100",
             "title": "Flunk",

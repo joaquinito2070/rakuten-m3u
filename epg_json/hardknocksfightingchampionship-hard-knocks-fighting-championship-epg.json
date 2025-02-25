@@ -3,27 +3,6 @@
     "tvg_id": "hard-knocks-fighting-championship",
     "epg": [
         {
-            "start_time": "20250225105603 +0100",
-            "stop_time": "20250225112428 +0100",
-            "title": "DAY IN THE LIFE OF A COACH",
-            "description": "| +12 | Deportes |\n\nTransitioning from a professional ballet dancer to an MMA fighter and coach bring some interesting insights and tricks other athletes might not be aware of. Anthony Ford has a \"\"method to his madness\"\" when he trains other fighters.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225112429 +0100",
-            "stop_time": "20250225114350 +0100",
-            "title": "UCMMA 47 - Alex Lohore v. Tom Wincott",
-            "description": "| +12 | Deportes |\n\nAlex Lohore v. Tom Wincott",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225114351 +0100",
-            "stop_time": "20250225120313 +0100",
-            "title": "M-1 Challenge 93 - Alexey Makhno v. Rogerio Matias da Conceicao",
-            "description": "| +12 | Deportes |\n\nAlexey Makhno v. Rogerio Matias da Conceicao",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120314 +0100",
             "stop_time": "20250225122437 +0100",
             "title": "M-1 Challenge 81 - Kleber Raimundo Silva v. Konstantin Gluhov",

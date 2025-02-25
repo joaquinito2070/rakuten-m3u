@@ -3,13 +3,6 @@
     "tvg_id": "pfl-mma",
     "epg": [
         {
-            "start_time": "20250225084239 +0100",
-            "stop_time": "20250225115322 +0100",
-            "title": "World Series of Fighting",
-            "description": "| +16 | Deportes |\n\nPalomino vs. Gonzalez",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115328 +0100",
             "stop_time": "20250225135524 +0100",
             "title": "Best Of: Michael Venom Page",

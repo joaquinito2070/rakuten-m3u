@@ -3,13 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250225105617 +0100",
-            "stop_time": "20250225115421 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nJeremy, James y Richard llevan el nuevo BMW M3, el Mercedes C63 AMG y el Audi RS4 a España.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225115428 +0100",
             "stop_time": "20250225125330 +0100",
             "title": "Top Gear UK",

@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225085405 +0100",
-            "stop_time": "20250225112051 +0100",
-            "title": "Madame Marguerite",
-            "description": "| +16 | Películas |\n\nParís, 1921. Marguerite es una mujer rica, apasionada de la música y la ópera. Durante años ha cantado frente a su\ncírculo más cercano en fiestas y galas benéficas. Canta terriblemente mal y es incapaz de afinar, pero nadie quiere decírselo y su familia disimula para mantener su ilusión.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d6367d19-43db-4c83-bc1e-3e622933f578.jpeg"
-        },
-        {
             "start_time": "20250225112052 +0100",
             "stop_time": "20250225125705 +0100",
             "title": "Un hombre solitario",

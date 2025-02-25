@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225092652 +0100",
-            "stop_time": "20250225114014 +0100",
-            "title": "Dinero fácil",
-            "description": "| +16 | Películas |\n\nMartin Scorsese apadrinó este eléctrico thriller con Joel Kinnaman ('Escuadrón Suicida') que mezcla el clasicismo de 'El padrino' con la vertiginosidad de Scorsese. La enigmática desaparición de una mujer será el nexo de unión de 3 criminales con un objetivo común: vengarse del gran capo Radovan.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/28deeb41-b47c-4cf7-8add-6dc526091902.jpeg"
-        },
-        {
             "start_time": "20250225114015 +0100",
             "stop_time": "20250225132602 +0100",
             "title": "Criminal Activities",

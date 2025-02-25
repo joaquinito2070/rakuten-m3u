@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225103332 +0100",
-            "stop_time": "20250225112321 +0100",
-            "title": "Esposas asesinas",
-            "description": "| +16 | Crime |\n\nUna joven hermosa pero desorientada empieza a trabajar como estríper y termina manchando públicamente su reputación. El incidente lleva a una sucesión de relaciones nocivas hasta que una noche apuñala a su amante durante una pelea violenta y termina en la cárcel.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/fcd75219-23f1-457c-af60-ee4e4fa7fc28.jpeg"
-        },
-        {
             "start_time": "20250225112322 +0100",
             "stop_time": "20250225121310 +0100",
             "title": "Esposas asesinas",

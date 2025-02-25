@@ -3,27 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250225111501 +0100",
-            "stop_time": "20250225113000 +0100",
-            "title": "Encore",
-            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225113001 +0100",
-            "stop_time": "20250225114500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225114501 +0100",
-            "stop_time": "20250225120000 +0100",
-            "title": "Fashion",
-            "description": "| +7 | Noticias |\n\nAll the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225120001 +0100",
             "stop_time": "20250225121500 +0100",
             "title": "News",
