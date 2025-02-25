@@ -3,20 +3,6 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225040924 +0100",
-            "stop_time": "20250225043855 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La excursión peligrosa.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/aed590f0-be5b-489e-a2be-000ca6a3dfb2.jpeg"
-        },
-        {
-            "start_time": "20250225043856 +0100",
-            "stop_time": "20250225050826 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El apetito de otoño.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b15f8f86-3fd8-42f2-8f0c-f2218eb2d2da.jpeg"
-        },
-        {
             "start_time": "20250225050827 +0100",
             "stop_time": "20250225053758 +0100",
             "title": "Rantaro, el Ninja Boy",

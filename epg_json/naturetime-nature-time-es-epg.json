@@ -3,13 +3,6 @@
     "tvg_id": "nature-time-es",
     "epg": [
         {
-            "start_time": "20250225033942 +0100",
-            "stop_time": "20250225043637 +0100",
-            "title": "Finding A Family",
-            "description": "| +TP | Documental |\n\nJoin Mona, a tamarin monkey, braving the jungle’s dangers to find a family.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225043638 +0100",
             "stop_time": "20250225053332 +0100",
             "title": "Romeo and Julieta",

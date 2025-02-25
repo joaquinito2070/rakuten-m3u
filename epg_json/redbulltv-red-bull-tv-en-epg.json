@@ -3,13 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250225032849 +0100",
-            "stop_time": "20250225044442 +0100",
-            "title": "Red Bull Signature Series",
-            "description": "| +12 | Deportes |\n\nRed Bull Rampage is the biggest test of guts, skill and creativity in mountain biking, known around the world as the proving ground for the best, bravest and most well-rounded riders on two wheels.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225044448 +0100",
             "stop_time": "20250225055708 +0100",
             "title": "Red Bull Signature Series",

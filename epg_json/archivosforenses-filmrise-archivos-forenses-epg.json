@@ -3,20 +3,6 @@
     "tvg_id": "filmrise-archivos-forenses",
     "epg": [
         {
-            "start_time": "20250225040206 +0100",
-            "stop_time": "20250225043344 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nDespués de un día de pesca en un tranquilo pueblo de Suiza, un adolescente no regresa a casa como se planeó.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043345 +0100",
-            "stop_time": "20250225050523 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nDespués de ser admitido en el hospital con una hemorragia, Chad Shelton de 11 meses llega a fallecer.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225050524 +0100",
             "stop_time": "20250225053703 +0100",
             "title": "Forensic Files",

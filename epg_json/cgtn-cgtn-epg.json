@@ -3,27 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225040001 +0100",
-            "stop_time": "20250225043000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043001 +0100",
-            "stop_time": "20250225050000 +0100",
-            "title": "Travelogue",
-            "description": "| +7 | Asian |\n\nTravelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225050001 +0100",
-            "stop_time": "20250225051500 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225051501 +0100",
             "stop_time": "20250225053000 +0100",
             "title": "Sports Scene",

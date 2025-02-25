@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225033251 +0100",
-            "stop_time": "20250225050936 +0100",
-            "title": "Robo-Dog",
-            "description": "| +12 | Infantil |\n\nRobodog es una película de fantasía en el mundo real para toda la familia. Cuando el mejor amigo peludo de Tyler muere trágicamente, su padre, que es inventor, crea un nuevo proyecto para reemplazar su lugar.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/7186458e-2e77-46cb-bc83-d7ee5142db22-snapshot-1590658746.jpeg"
-        },
-        {
             "start_time": "20250225050937 +0100",
             "stop_time": "20250225064035 +0100",
             "title": "Khumba",

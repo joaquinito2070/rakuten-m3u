@@ -3,34 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250225041501 +0100",
-            "stop_time": "20250225043000 +0100",
-            "title": "Revisited",
-            "description": "| +7 | Noticias |\n\nWe return to places which have been in the news often a long time ago, sometimes recently to see how local people are rebuilding their lives.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043001 +0100",
-            "stop_time": "20250225044500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225044501 +0100",
-            "stop_time": "20250225050000 +0100",
-            "title": "Encore",
-            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225050001 +0100",
-            "stop_time": "20250225051500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225051501 +0100",
             "stop_time": "20250225053000 +0100",
             "title": "Down To Earth",

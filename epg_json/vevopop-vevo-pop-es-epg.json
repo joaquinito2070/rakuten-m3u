@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250225040001 +0100",
-            "stop_time": "20250225050000 +0100",
-            "title": "Éxitos Flamencos ",
-            "description": "| +16 | Música |\n\nDos horas de la música española que más te gusta: lo mejor del flamenco puro, la rumba y el flamenco flow.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225050001 +0100",
             "stop_time": "20250225060000 +0100",
             "title": "Momento Chill",

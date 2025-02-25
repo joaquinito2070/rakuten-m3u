@@ -3,13 +3,6 @@
     "tvg_id": "dark-matter-es-new",
     "epg": [
         {
-            "start_time": "20250225024026 +0100",
-            "stop_time": "20250225043322 +0100",
-            "title": "The Turnpike Killer",
-            "description": "| +12 | Películas |\n\nA hulking, vicious homicidal maniac is preying on victims along The New Jersey Turnpike, dumping bodies, keeping people locked indoors and baffling the police. He does all of this at the command of the god-like voices inside his head, telling him to strike night after night. It's up to a troubled NYPD Homicide Detective to put a stop to this reign of terror.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225043323 +0100",
             "stop_time": "20250225061845 +0100",
             "title": "Vampire Circus",

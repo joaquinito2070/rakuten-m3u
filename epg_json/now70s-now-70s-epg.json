@@ -3,13 +3,6 @@
     "tvg_id": "now-70s",
     "epg": [
         {
-            "start_time": "20250225032501 +0100",
-            "stop_time": "20250225042500 +0100",
-            "title": "Abba v Bee Gees: Love Songs",
-            "description": "| +TP | Música |\n\n60 minutes of love songs from 2 of the biggest acts of the 70s - Abba & The Bee Gees.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225042501 +0100",
             "stop_time": "20250225065500 +0100",
             "title": "Unforgettable! Top 30",

@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250225040001 +0100",
-            "stop_time": "20250225043000 +0100",
-            "title": "CAFÉ DE CGTN",
-            "description": "| +7 | Asian |\n\nEn este espacio, los compañeros de la familia de CGTN en español,\nintercambian opiniones y debaten de forma casual los temas económicos,\nsociales y culturales de mayor actualidad en China.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043001 +0100",
-            "stop_time": "20250225051500 +0100",
-            "title": "EL PROYECTOR",
-            "description": "| +7 | Asian |\n\nAcérquese a la vida de la China antigua y moderna a través de las producciones dramáticas de CGTN-Español. La combinación perfecta de historia y ficción chinas en la pantalla de su televisor.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225051501 +0100",
             "stop_time": "20250225060000 +0100",
             "title": "EL PROYECTOR",

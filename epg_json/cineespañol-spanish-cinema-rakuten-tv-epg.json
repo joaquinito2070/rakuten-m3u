@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225033700 +0100",
-            "stop_time": "20250225051337 +0100",
-            "title": "Hijo de Caín",
-            "description": "| +16 | Películas |\n\nNico es un adolescente de  extraño carácter, inteligencia excepcional y una obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán. Descubrir la verdad a tiempo será la única opción para evitar que la esencia del mal acabe dominando sus vidas.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fdb46729-b070-4c5c-834e-67be34a2ef04.jpeg"
-        },
-        {
             "start_time": "20250225051338 +0100",
             "stop_time": "20250225064451 +0100",
             "title": "Family Tour",

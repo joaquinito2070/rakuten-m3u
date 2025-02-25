@@ -3,20 +3,6 @@
     "tvg_id": "jade-fever-es",
     "epg": [
         {
-            "start_time": "20250225040359 +0100",
-            "stop_time": "20250225043148 +0100",
-            "title": "La Fiebre del Jade",
-            "description": "| +16 | Entretenimiento |\n\nClaudia y su equipo están decididos a seguir minando a pesar de los incendios forestales que arden alrededor de su reclamo, hasta que las cosas empeoran y tienen que correr para salir.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043149 +0100",
-            "stop_time": "20250225045938 +0100",
-            "title": "La Fiebre del Jade",
-            "description": "| +16 | Entretenimiento |\n\nDespués de perder dos semanas de minería en los incendios forestales, Claudia y Robin corren el riesgo de regresar a Two Mile y apostar por la apertura de un nuevo pozo.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225045939 +0100",
             "stop_time": "20250225052728 +0100",
             "title": "La Fiebre del Jade",

@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225042153 +0100",
-            "stop_time": "20250225043452 +0100",
-            "title": "Lord Bean",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043453 +0100",
-            "stop_time": "20250225044752 +0100",
-            "title": "Todo lo que pueda comer",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225044753 +0100",
-            "stop_time": "20250225050052 +0100",
-            "title": "Un coche para Irma",
-            "description": "| +TP | Infantil |\n\nBean descubre a Declan llevando a Irma en su elegante y nuevo SUV.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225050053 +0100",
-            "stop_time": "20250225051404 +0100",
-            "title": "Problemas con el coche",
-            "description": "| +TP | Infantil |\n\nMr. Bean coge aire después de dar una vuelta",
-            "icon": ""
-        },
-        {
             "start_time": "20250225051405 +0100",
             "stop_time": "20250225052704 +0100",
             "title": "Trampa para ratas",

@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225040003 +0100",
-            "stop_time": "20250225042602 +0100",
-            "title": "Camarones al coco y Pulpo al ajillo",
-            "description": "| +7 | Cocina y comida |\n\nVamos a darnos gusto con los frutos del mar: Camarones al coco y Pulpo al ajillo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225042603 +0100",
-            "stop_time": "20250225045202 +0100",
-            "title": "Pollo con Marco Garcés y Huachinango a la Veracruzana",
-            "description": "| +7 | Cocina y comida |\n\nMarco Garcés nos demuestra que cocina tan bien como juega fútbol, ¿estás listo para ver esta deliciosa receta?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225045203 +0100",
             "stop_time": "20250225051802 +0100",
             "title": "Bacalao a la vizcaína y Budín navideño",

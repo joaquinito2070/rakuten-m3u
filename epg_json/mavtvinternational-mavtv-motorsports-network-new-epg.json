@@ -3,20 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250225040001 +0100",
-            "stop_time": "20250225043000 +0100",
-            "title": "Stacey David's GearZ: Swamp Spryte: Making Tracks",
-            "description": "| +7 | Deportes |\n\nThe Thiokol Swamp Spryte is back in the shop for some much needed restoration.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043001 +0100",
-            "stop_time": "20250225050000 +0100",
-            "title": "Stacey David's GearZ: The Painless Wiring Way",
-            "description": "| +7 | Deportes |\n\nPainless Performance, one of the influential companies in the automotive aftermarket.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225050001 +0100",
             "stop_time": "20250225053000 +0100",
             "title": "The McLaren M6GT Story and Building Your Own Replica",

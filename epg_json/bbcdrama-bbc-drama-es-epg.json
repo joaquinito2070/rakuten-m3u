@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225032351 +0100",
-            "stop_time": "20250225042413 +0100",
-            "title": "Episodio 3",
-            "description": "| +13 | Series |\n\n¿Quién es el habitante esquelético de un coche abandonado en un garage sin uso y qué lo vincula con el asesinato de un ministro de gobiero 25 años atrás?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225042414 +0100",
             "stop_time": "20250225052439 +0100",
             "title": "Episodio 4",

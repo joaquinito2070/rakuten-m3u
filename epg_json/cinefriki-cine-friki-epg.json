@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250225022045 +0100",
-            "stop_time": "20250225043305 +0100",
-            "title": "El bosque de los Sueños",
-            "description": "| +12 | Películas |\n\nEl amor y la pérdida llevan a Arthur Brennan a cruzar el mundo para poner fin a sus días en Aokigahara, un denso bosque a los pies del Monte Fuji en Japón. Allí rememora los momentos más importantes de su historia de amor y restaura así su voluntad de vivir.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225043306 +0100",
             "stop_time": "20250225062759 +0100",
             "title": "Asesino a Sueldo",

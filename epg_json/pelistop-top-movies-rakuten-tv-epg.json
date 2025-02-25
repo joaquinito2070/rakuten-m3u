@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225025325 +0100",
-            "stop_time": "20250225051625 +0100",
-            "title": "Los amos de Brooklyn",
-            "description": "| +16 | Películas |\n\nTres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/09e6c5b9-86d7-4e90-b010-d3911ffc2861-snapshot-1590665714.jpeg"
-        },
-        {
             "start_time": "20250225051626 +0100",
             "stop_time": "20250225072858 +0100",
             "title": "Uno tras otro",

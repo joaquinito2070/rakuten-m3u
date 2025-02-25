@@ -3,13 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250225032506 +0100",
-            "stop_time": "20250225043000 +0100",
-            "title": "Boss Up",
-            "description": "| +TP | Entretenimiento |\n\nA musical about a sartorially complicated woman on a wild mission to discover her true purpose.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225043006 +0100",
             "stop_time": "20250225061500 +0100",
             "title": "The 10 Year Plan",

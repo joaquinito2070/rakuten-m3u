@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250225040211 +0100",
-            "stop_time": "20250225050030 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nLa Navidad está a la vuelta de la esquina, pero la comida y el correo cruciales de Buffalo se detienen. Una incautación del motor deja a Scott, AJ y el avión C-46, creando una reacción en cadena caótica. El crujiente mecánico Chuck debe intentar un cambio de motor con las manos desnudas en menos 30, y la presión de los clientes y compañeros de trabajo empuja al gerente de carga Kelly.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225050031 +0100",
             "stop_time": "20250225055850 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

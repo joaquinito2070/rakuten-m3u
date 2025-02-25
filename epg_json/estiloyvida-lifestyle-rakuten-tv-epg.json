@@ -3,13 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225041625 +0100",
-            "stop_time": "20250225051430 +0100",
-            "title": "El armario de...",
-            "description": "| +16 | Estilo de vida |\n\nAmante de la moda sueca, la Princesa Victoria de Suecia destaca los valores de sostenibilidad y respeto al medio ambiente en la confección de las marcas de su país.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/fb8eb56c-dced-4e1c-ab18-06725b2f675b-victoria-de-suecia-1614353511.jpeg"
-        },
-        {
             "start_time": "20250225051431 +0100",
             "stop_time": "20250225065537 +0100",
             "title": "Gipsy Kings",

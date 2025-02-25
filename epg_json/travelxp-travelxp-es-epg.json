@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250225040458 +0100",
-            "stop_time": "20250225043452 +0100",
-            "title": "Xplore Spain",
-            "description": "| +7 | Estilo de vida |\n\nAlex encuentra un pedazo de África llamado Bioparc en la tercera ciudad más grande de España, Valencia.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225043459 +0100",
-            "stop_time": "20250225050453 +0100",
-            "title": "Costa Rica Calling",
-            "description": "| +7 | Estilo de vida |\n\nEn la región de Manuel Antonio en Costa Rica, la búsqueda de vida silvestre de Genevieve la lleva desde la selva tropical hasta el océano.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225050459 +0100",
             "stop_time": "20250225053453 +0100",
             "title": "Viajar Mexico",
