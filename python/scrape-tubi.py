@@ -143,6 +143,7 @@ def fetch_epg_xml_data(url):
                     })
             except ValueError:
                 print(f"Error parsing time for program '{title_text}'. Skipping program.")
+            print(f"**DEBUG EPG - Channel ID in XML: {channel_epg_id}, Program Title: {title_text}**") # DEBUG PRINT for EPG Channel ID and Program Title
 
 
         return epg_data
