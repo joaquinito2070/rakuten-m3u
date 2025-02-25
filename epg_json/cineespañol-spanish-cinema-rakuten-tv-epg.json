@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225051338 +0100",
-            "stop_time": "20250225064451 +0100",
-            "title": "Family Tour",
-            "description": "| +16 | Películas |\n\nUn mes de vacaciones con la familia puede dar mucho de sí; esto es lo que experimenta Lili cuando vuelve a su casa después de varios años fuera del país.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/717b7854-6987-4e30-a6e9-184af93e8014-family-tour-1649253723.jpeg"
-        },
-        {
             "start_time": "20250225064452 +0100",
             "stop_time": "20250225081634 +0100",
             "title": "Las que tienen que servir",

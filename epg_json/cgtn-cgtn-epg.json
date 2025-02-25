@@ -3,20 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225060001 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "Global Watch",
-            "description": "| +7 | Asian |\n\nGLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225070001 +0100",
-            "stop_time": "20250225071500 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225071501 +0100",
             "stop_time": "20250225073000 +0100",
             "title": "Sports Scene",

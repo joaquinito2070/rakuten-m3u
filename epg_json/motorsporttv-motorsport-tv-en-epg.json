@@ -3,20 +3,6 @@
     "tvg_id": "motorsport-tv-en",
     "epg": [
         {
-            "start_time": "20250225061318 +0100",
-            "stop_time": "20250225065048 +0100",
-            "title": "SUPER GT",
-            "description": "| +TP | Deportes |\n\nThe SARD Toyota team ended a four-year winless streak in the sixth round of the SUPER GT season at Autopolis on Sunday, with Yuhi Sekiguchi and Yuichi Nakayama securing their first victory together in the No. 39 Toyota GR Supra.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225065055 +0100",
-            "stop_time": "20250225070001 +0100",
-            "title": "The 5 worst title defences in F1 history",
-            "description": "| +TP | Deportes |\n\nWhile managing to successfully defend a Formula 1 world title is an incredibly difficult task, there have been several occasions in F1’s history where a failed title defence has been surprisingly poor. Autosport’s Technical Editor Jake Boxall-Legge has five such examples of drivers who not only failed to hit the heights of the championship year, but plummeted down the pecking order.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070008 +0100",
             "stop_time": "20250225080301 +0100",
             "title": "Adventure Bike",

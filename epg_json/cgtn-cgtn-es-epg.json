@@ -3,27 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250225060001 +0100",
-            "stop_time": "20250225063000 +0100",
-            "title": "CGTN NOTICIAS",
-            "description": "| +7 | Asian |\n\nEs el informativo estelar del canal, con las últimas noticias del acontecer político, social, deportivo y cultural de China y el resto del mundo. Los hechos que constituyen titulares están aquí, en CGTN Noticias.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063001 +0100",
-            "stop_time": "20250225064500 +0100",
-            "title": "SABOREANDO CHINA",
-            "description": "| +7 | Asian |\n\nAprenda a preparar las recetas más populares de China. Nuestro chef le revelará de forma práctica los secretos del arte culinario de esta nación asiática. Conozca los ingredientes más utilizados en la variada cocina regional, los orígenes de los platos e incluso sus beneficios para la salud. En De China a tu cocina, el espectador podrá experimentar a la vez la riqueza tradicional y la variedad gastronómica de China.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225064501 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "NIHAO CHINA",
-            "description": "| +7 | Asian |\n\nEs la clase de chino de CGTN-Español. Las series “Aprendamos juntos pinyin”, “Comunícate en chino” y “Viajando y aprendiendo chino”, abordan diferentes niveles de aprendizaje de la nueva lengua de moda en el mundo, brindando así a los televidentes la posibilidad de ampliar su vocabulario, mejorar su gramática y dominar las frases y expresiones más usuales del idioma con más hablantes en el planeta.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070001 +0100",
             "stop_time": "20250225073000 +0100",
             "title": "DOCUMENTAL",

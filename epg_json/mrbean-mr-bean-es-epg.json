@@ -3,41 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225060631 +0100",
-            "stop_time": "20250225061929 +0100",
-            "title": "Hotel Bean",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225061930 +0100",
-            "stop_time": "20250225063229 +0100",
-            "title": "Bean hipnotizado",
-            "description": "| +TP | Infantil |\n\nMr. Bean está en trance: ladra como un perrito y se pone a bailar.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063230 +0100",
-            "stop_time": "20250225064541 +0100",
-            "title": "Ladrón de arte",
-            "description": "| +TP | Infantil |\n\nMr. Bean intenta ser un vendedor de arte",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225064542 +0100",
-            "stop_time": "20250225065854 +0100",
-            "title": "Un televisor grande",
-            "description": "| +TP | Infantil |\n\nMr. Bean quiere comprar la televisión más grande del mundo pero, el precio es proporcional",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225065855 +0100",
-            "stop_time": "20250225071206 +0100",
-            "title": "El cumpleaños del oso",
-            "description": "| +TP | Infantil |\n\nMr. Bean olvida su osito de cumpleaños y regala algo inolvidable",
-            "icon": ""
-        },
-        {
             "start_time": "20250225071207 +0100",
             "stop_time": "20250225072519 +0100",
             "title": "El sofá",

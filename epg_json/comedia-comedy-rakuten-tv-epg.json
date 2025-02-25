@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225053539 +0100",
-            "stop_time": "20250225070911 +0100",
-            "title": "Se nos fue de las manos",
-            "description": "| +16 | Películas |\n\nUn empleado se queda a cargo del hijo de su jefe durante un fin de semana, pero una fiesta sorpresa se descontrola y ambos desaparecen.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/18f9c56b-30e9-4fe6-a7df-e3233055d526-snapshot-1590664294.jpeg"
-        },
-        {
             "start_time": "20250225070912 +0100",
             "stop_time": "20250225085404 +0100",
             "title": "El hombre mas enfadado de Brooklyn",

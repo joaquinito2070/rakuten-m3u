@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225061003 +0100",
-            "stop_time": "20250225063503 +0100",
-            "title": "Garnachas de Chilangos para Chilangos",
-            "description": "| +7 | Cocina y comida |\n\nVamos conocer lugares de comida que alimentan a los chilangos en busca de antojitos de otros estados del país",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063504 +0100",
-            "stop_time": "20250225070003 +0100",
-            "title": "Cocina francesa con Gaetan Kuchta",
-            "description": "| +7 | Cocina y comida |\n\nBienvenido a lo mejor de la cocina francesa, vamos a preparar Bœuf bourguignon, o sea res con vino tinto.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070004 +0100",
             "stop_time": "20250225072503 +0100",
             "title": "Cadereyta en Querétaro",

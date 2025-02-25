@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225050937 +0100",
-            "stop_time": "20250225064035 +0100",
-            "title": "Khumba",
-            "description": "| +12 | Infantil |\n\nSimpática cinta de animación que sigue la línea de 'Madagascar'. A Khumba, una cebra que sólo tiene rayas en la mitad de su cuerpo, todos la acusan de ser la responsable de una sequía y decide emprender una misión para encontrar el pozo de agua en el que las cebras consiguieron sus preciadas líneas.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/a47729e8-c2de-43d8-9af8-ea6de5e33d64-snapshot-1590658225.jpeg"
-        },
-        {
             "start_time": "20250225064036 +0100",
             "stop_time": "20250225082054 +0100",
             "title": "George y el Dragón",

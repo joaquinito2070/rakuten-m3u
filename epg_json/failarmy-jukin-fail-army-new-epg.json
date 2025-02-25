@@ -3,20 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250225055240 +0100",
-            "stop_time": "20250225062334 +0100",
-            "title": "Humans VS. Everything",
-            "description": "| +TP | Entretenimiento |\n\nIt’s all fun and games until the pranks begin. Humans are pitted against each other in this mischief showdown.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225062340 +0100",
-            "stop_time": "20250225065534 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nWhy do the easiest tasks end up being the hardest?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225065540 +0100",
             "stop_time": "20250225072734 +0100",
             "title": "FailFactory",

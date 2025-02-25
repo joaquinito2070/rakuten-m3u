@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225055108 +0100",
-            "stop_time": "20250225062102 +0100",
-            "title": "Viral Wild",
-            "description": "| +TP | Estilo de vida |\n\nTake a look at the beautiful little Aquatic creatures that add cuteness to the vast marine life",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225062108 +0100",
-            "stop_time": "20250225065102 +0100",
-            "title": "Viral Wild",
-            "description": "| +TP | Estilo de vida |\n\nWelcome to Zootopia! We have a line-up of wild Friends ready to entertain you.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225065108 +0100",
             "stop_time": "20250225072102 +0100",
             "title": "Storm Hunters",

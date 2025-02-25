@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250225060501 +0100",
-            "stop_time": "20250225063455 +0100",
-            "title": "Viajar Mexico",
-            "description": "| +7 | Estilo de vida |\n\nLa gente acude en masa a Cabo para disfrutar de unas vacaciones perfectas en la playa. Sin embargo, Charlie conoce otro lado del objetivo: el lado lleno de acción.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063501 +0100",
-            "stop_time": "20250225070455 +0100",
-            "title": "Xplore Spain",
-            "description": "| +7 | Estilo de vida |\n\nBarcelona fue el lienzo del arquitecto de renombre mundial Antoni Gaudí, quien marcó la ciudad con sus fantásticas creaciones.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070502 +0100",
             "stop_time": "20250225073456 +0100",
             "title": "Backpack",

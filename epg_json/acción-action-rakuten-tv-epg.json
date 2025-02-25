@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225050941 +0100",
-            "stop_time": "20250225064837 +0100",
-            "title": "Mentiras e ilusiones",
-            "description": "| +16 | Películas |\n\nUn novelista de éxito en el género policiaco y de espionaje es perseguido por un espía que, basándose en sus novelas, cree que tiene escondidos millones de dólares en diamantes, robados por su difunta prometida.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/00372144-e488-4755-b48f-e945d8decaed-lies-illusions-1594041427.jpeg"
-        },
-        {
             "start_time": "20250225064838 +0100",
             "stop_time": "20250225082211 +0100",
             "title": "Perfect weapon (Arma Perfecta)",

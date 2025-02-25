@@ -3,20 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225052105 +0100",
-            "stop_time": "20250225062550 +0100",
-            "title": "Boss",
-            "description": "| +16 | Crime |\n\nKane retoma el control del ayuntamiento a unos días de las elecciones.  Tiene un plan para descubrir a sus adversarios, pero ¿podrá limpiar su imagen a tiempo?",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/d3ed1c70-eae4-469b-8a79-333ea157f63d-stasis-1623767018.jpeg"
-        },
-        {
-            "start_time": "20250225062551 +0100",
-            "stop_time": "20250225071634 +0100",
-            "title": "Pacific Blue",
-            "description": "| +16 | Crime |\n\nLos mundos de la magia blanca y negra chocan después de que una niña desaparece del malecón. Russ y Jamie ingresan al mundo de lo oculto y tienen sexo después de caer bajo el hechizo del lado oscuro.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/e1e7e1c6-d172-403c-95d0-35303c709dc3.jpeg"
-        },
-        {
             "start_time": "20250225071635 +0100",
             "stop_time": "20250225085407 +0100",
             "title": "Crimes of Passion",

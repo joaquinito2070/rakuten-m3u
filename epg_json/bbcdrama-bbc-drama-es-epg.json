@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225052440 +0100",
-            "stop_time": "20250225062512 +0100",
-            "title": "Episodio 3",
-            "description": "| +13 | Series |\n\nEs 1958, y Jenny celebra su cumpleaños con Chummy y las chicas.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225062513 +0100",
             "stop_time": "20250225072533 +0100",
             "title": "Episodio 4",

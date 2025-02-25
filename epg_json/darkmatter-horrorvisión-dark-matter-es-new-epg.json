@@ -3,13 +3,6 @@
     "tvg_id": "dark-matter-es-new",
     "epg": [
         {
-            "start_time": "20250225043323 +0100",
-            "stop_time": "20250225061845 +0100",
-            "title": "Vampire Circus",
-            "description": "| +12 | Películas |\n\nAs the plague sweeps the countryside, a quarantined village is visited by a mysterious traveling circus. Soon, young children begin to disappear, and the locals suspect the circus troupe might be hiding a horrifying secret.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225061846 +0100",
             "stop_time": "20250225080742 +0100",
             "title": "Spider Baby",

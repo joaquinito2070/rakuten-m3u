@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250225060001 +0100",
-            "stop_time": "20250225063000 +0100",
-            "title": "Historical Modern Heirloom Estate",
-            "description": "| +TP | Estilo de vida |\n\nAnne-Marie Barton invites you through the gate to this stately, traditional yet modern home.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063001 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "Modern & Minimal South End Makeover",
-            "description": "| +TP | Estilo de vida |\n\nLeia T. Ward transforms a traditional home into a modern, open floorplan with elevated style.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070001 +0100",
             "stop_time": "20250225073000 +0100",
             "title": "Artful & Eclectic Designer Dwelling",

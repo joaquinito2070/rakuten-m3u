@@ -3,27 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250225060001 +0100",
-            "stop_time": "20250225061919 +0100",
-            "title": "El feroz combate final",
-            "description": "| +TP | Anime |\n\nLa pandilla todavía se está recuperando de la feroz victoria de Ryuga sobre Kyoya que dejó a su amigo débil e inconsciente. Ryuga le dice a Gingka que es culpa de Gingka que todos sus amigos sufren cuando luchan contra Ryuga, ya que solo los estaba usando para reunir más poder para llegar a Gingka. Gingka se da cuenta de que debe luchar duro contra Ryuga, por el bien de sus amigos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225061920 +0100",
-            "stop_time": "20250225064641 +0100",
-            "title": "Espíritu blader",
-            "description": "| +TP | Anime |\n\nGingka se encuentra en una batalla, no con Ryuga, sino con una versión mutada de él, una criatura horrible. Gingka se niega a retroceder, y él y Pegasus luchan duro contra Dark Ryuga y su bey L-Drago. Sin embargo, el poder de L-Drago parece ser demasiado para Pegasus, hasta que Gingka se da cuenta de que ganar por la fuerza no es la respuesta.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225064642 +0100",
-            "stop_time": "20250225071427 +0100",
-            "title": "Espectáculo en llamas",
-            "description": "| +TP | Anime |\n\nTyson vuelve a casa después de ganar el campeonato mundial de BeyBlade y se cree muy importante. Pero llega tarde a la escuela y lo castigan, lo que hace que llegue también tarde a un torneo local. Cuando al fin se presenta, tiene que pelear con un chico misteriorso, míster X,  que llega hasta la final para enfrentarse a Tyson",
-            "icon": ""
-        },
-        {
             "start_time": "20250225071428 +0100",
             "stop_time": "20250225074212 +0100",
             "title": "Buscando a Míster X",

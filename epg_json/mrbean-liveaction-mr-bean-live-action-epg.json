@@ -3,20 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250225060050 +0100",
-            "stop_time": "20250225062936 +0100",
-            "title": "The Curse of Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean goes to a swimming pool but finds himself terrified of the high diving board.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225062937 +0100",
-            "stop_time": "20250225065743 +0100",
-            "title": "Mr Bean goes to Town",
-            "description": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225065744 +0100",
             "stop_time": "20250225072827 +0100",
             "title": "The Trouble with Mr Bean",

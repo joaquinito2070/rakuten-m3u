@@ -3,20 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225044126 +0100",
-            "stop_time": "20250225064918 +0100",
-            "title": "Langosta",
-            "description": "| +16 | Películas |\n\nUna historia de amor ambientada en un futuro cercano, en un lugar donde los solteros, de acuerdo con las reglas, son detenidos y trasladados a El Hotel. Allí les obligan a encontrar pareja en cuarenta y cinco días. Si no lo consiguen, son transformados en un animal y soltados en El Bosque.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/c4d13f91-2cc4-4a7d-a672-07e85daf5428.jpeg"
-        },
-        {
-            "start_time": "20250225064919 +0100",
-            "stop_time": "20250225065959 +0100",
-            "title": "Volvemos pronto con más contenido",
-            "description": "| +16 | Películas |\n\n¡Estamos recuperando el sueño perdido! Permanece atento a la magnífica selección de entretenimiento de Rakuten TV.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070000 +0100",
             "stop_time": "20250225084053 +0100",
             "title": "Libertad",

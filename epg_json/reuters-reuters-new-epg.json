@@ -3,13 +3,6 @@
     "tvg_id": "reuters-new",
     "epg": [
         {
-            "start_time": "20250225050001 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "Reuters Evening News",
-            "description": "| +12 | Noticias |\n\nReuters delivers fast, accurate, unbiased and trusted news around the globe.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070001 +0100",
             "stop_time": "20250225090000 +0100",
             "title": "Reuters Evening News",

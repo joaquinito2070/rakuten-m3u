@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225060001 +0100",
-            "stop_time": "20250225063000 +0100",
-            "title": "The Gypsea Tour",
-            "description": "| +7 | Deportes |\n\nThe Cliché team embarks on Gypsy adventure with a top notch US pro as a guest.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063001 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "Moments",
-            "description": "| +7 | Deportes |\n\n\"Moments\" showcases the personalities of  surfers Dane Reynolds, Clay Marzo, Craig Anderson and Kelly Slate...",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070001 +0100",
             "stop_time": "20250225073000 +0100",
             "title": "Camp Woodward - Season 1 - Life Lessons",

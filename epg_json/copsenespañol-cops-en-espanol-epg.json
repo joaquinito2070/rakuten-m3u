@@ -3,27 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225055605 +0100",
-            "stop_time": "20250225062014 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn sospechoso deja su helado sin comenzar a comerlo cuando le encuentran más que golosinas en su bolsillo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225062021 +0100",
-            "stop_time": "20250225064430 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre angustiado no puede soportar más a su relación volátil con su novia.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225064436 +0100",
-            "stop_time": "20250225070845 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre muy bien vestido maneja su carro a través de barricadas, y los testigos llaman a la policía.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070851 +0100",
             "stop_time": "20250225073300 +0100",
             "title": "Cops en Español",

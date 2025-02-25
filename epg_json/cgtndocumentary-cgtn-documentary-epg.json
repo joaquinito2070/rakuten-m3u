@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-documentary",
     "epg": [
         {
-            "start_time": "20250225060001 +0100",
-            "stop_time": "20250225063000 +0100",
-            "title": "Journeys and Discoveries",
-            "description": "| +7 | Asian |\n\nA documentary series showcasing the history of China and its people.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063001 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "History in the Frame",
-            "description": "| +7 | Asian |\n\nA documentary series featuring historical and archaeological exploration.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070001 +0100",
             "stop_time": "20250225080000 +0100",
             "title": "Best Eats",

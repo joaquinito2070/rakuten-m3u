@@ -3,13 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250225060416 +0100",
-            "stop_time": "20250225070225 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nLos presentadores de Top Gear compiten en una carrera épica por Londres.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070232 +0100",
             "stop_time": "20250225075941 +0100",
             "title": "Top Gear UK",

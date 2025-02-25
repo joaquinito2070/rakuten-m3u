@@ -3,13 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250225055714 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "The Turner Twins – double or nothing",
-            "description": "| +12 | Deportes |\n\nMeet Hugo and Ross Turner, identical twins and professional adventurers on a mission to reach the world's nine poles of inaccessibility.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070006 +0100",
             "stop_time": "20250225080830 +0100",
             "title": "Distance Between Dreams",

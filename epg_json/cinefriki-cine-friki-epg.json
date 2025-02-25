@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250225043306 +0100",
-            "stop_time": "20250225062759 +0100",
-            "title": "Asesino a Sueldo",
-            "description": "| +12 | Películas |\n\nViktor creció en los suburbios de Rumanía y conoce el valor de la vida, lo que lo convierte en el asesino perfecto. Después de ser traicionado por aquellos que consideraba sus amigos, debe fingir su propia muerte y huir a Londres, donde se une a una nueva familia de gánsteres. Viktor es ahora más letal que nunca, un sicario de élite. Los secretos de su pasado se niegan a desaparecer, pero un encuentro con una belleza oscura le ofrece la oportunidad de una nueva vida.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225062800 +0100",
             "stop_time": "20250225080755 +0100",
             "title": "The Tracker",

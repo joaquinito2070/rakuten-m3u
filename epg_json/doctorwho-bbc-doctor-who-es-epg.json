@@ -3,13 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250225060824 +0100",
-            "stop_time": "20250225065751 +0100",
-            "title": "El doctor baila",
-            "description": "| +7 | Series |\n\n«¿Eres mi mamá?». La plaga de El niño se propaga en Londres durante todo el tiempo que duró la guerra y parece que el capitán Jack está sentenciado.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225065752 +0100",
             "stop_time": "20250225074834 +0100",
             "title": "Rosa",

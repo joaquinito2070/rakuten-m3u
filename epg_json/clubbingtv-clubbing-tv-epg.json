@@ -3,27 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250225061201 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "Going Deep ",
-            "description": "| +12 | Música |\n\nClubbing TV's selection of Deep House Music Videos ",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225070001 +0100",
-            "stop_time": "20250225070700 +0100",
-            "title": "Put Your Hands Up ",
-            "description": "| +12 | Música |\n\nOur reports and aftermovies from electronic music festivals all over the world. Our Clubbing TV teams are travelling all over the world to guide you through those amazing party spots ! Interviews with DJs, clubbers and event organizers, there is no escape from our cameras !",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225070701 +0100",
-            "stop_time": "20250225071200 +0100",
-            "title": "Weekly Clip Selection",
-            "description": "| +12 | Música |\n\nClubbing TV specially curated weekly clip selection!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225071201 +0100",
             "stop_time": "20250225080000 +0100",
             "title": "Going Deep ",

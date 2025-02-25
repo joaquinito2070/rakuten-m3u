@@ -3,13 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250225054429 +0100",
-            "stop_time": "20250225065439 +0100",
-            "title": "Sagebrush Trail",
-            "description": "| +7 | Películas |\n\nUn hombre inculpado de asesinato escapa de la cárcel y se dirige al Oeste, donde se une a una banda en la que está implicado el verdadero asesino.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225065440 +0100",
             "stop_time": "20250225085401 +0100",
             "title": "The Colt",

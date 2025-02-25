@@ -3,13 +3,6 @@
     "tvg_id": "nature-time-es",
     "epg": [
         {
-            "start_time": "20250225060001 +0100",
-            "stop_time": "20250225065752 +0100",
-            "title": "Youngsters of the Desert",
-            "description": "| +TP | Documental |\n\nWitness a lion cub, an adolescent leopard, and a teenage blackbuck come of age.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225065753 +0100",
             "stop_time": "20250225075740 +0100",
             "title": "Thailand: The River Basin",

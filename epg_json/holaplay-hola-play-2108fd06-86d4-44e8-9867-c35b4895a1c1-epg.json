@@ -3,20 +3,6 @@
     "tvg_id": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
     "epg": [
         {
-            "start_time": "20250225061154 +0100",
-            "stop_time": "20250225064126 +0100",
-            "title": "Universo Starlite",
-            "description": "| +13 | Estilo de vida |\n\nLa cantera marbellí se llena de arte flamenco con el poderío de la gran Estrella Morente, Israel Fernández y Sara Baras. Además, dos grandes maestros de la música como Raphael y Andres Bocelli no dejarán indiferente a nadie.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/cccb313a-a72a-41c8-b1aa-fc5c1403623b.jpeg"
-        },
-        {
-            "start_time": "20250225064127 +0100",
-            "stop_time": "20250225070755 +0100",
-            "title": "Royals",
-            "description": "| +13 | Estilo de vida |\n\nSemblanza de Juan Carlos I, un Rey muy querido y que ha dedicado toda su vida a España.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/1cf7ba22-7dc5-4e4a-9687-47d7571a370b-episodio-1-rey-juan-carlos-1621525925.jpeg"
-        },
-        {
             "start_time": "20250225070756 +0100",
             "stop_time": "20250225075953 +0100",
             "title": "El armario de...",

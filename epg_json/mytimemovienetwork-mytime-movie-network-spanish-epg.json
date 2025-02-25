@@ -3,13 +3,6 @@
     "tvg_id": "mytime-movie-network-spanish",
     "epg": [
         {
-            "start_time": "20250225053050 +0100",
-            "stop_time": "20250225071501 +0100",
-            "title": "Cámara Oculta",
-            "description": "| +TP | Películas |\n\nCuando un reportero ganador de un Premio Pulitzer es asesinado en un hotel en Barcelona, su hermano Dan Kovacks comienza su propia investigación, descubriendo pruebas de que su hermano estaba a punto de hacer pública la existencia de un complot internacional bajo el nombre de \"Mega-Bill\". Una falsificación casi perfecta del billete de 100 dólares estadounidense. Pero los orígenes de la conspiración van más allá de la falsificación de divisas y podría provocar una guerra nuclear entre varios países de gran poder. ¿Quién trabaja para quién? ¿En quién puede confiar Dan?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225071502 +0100",
             "stop_time": "20250225090037 +0100",
             "title": "La Impostora",

@@ -3,20 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225051431 +0100",
-            "stop_time": "20250225065537 +0100",
-            "title": "Gipsy Kings",
-            "description": "| +16 | Estilo de vida |\n\nLos Fernández siguen intentando convencer a ‘La Gordita’ para que vuelva a los brazos de Kiki, mientras que La Rebe inicia su particular camino de perfección, asistiendo a unas clases preparatorias con tres famosos expertos.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/93bc5317-5163-4f3c-9fec-3f82ac3bda24.jpeg"
-        },
-        {
-            "start_time": "20250225065538 +0100",
-            "stop_time": "20250225065959 +0100",
-            "title": "Volvemos pronto con más contenido",
-            "description": "| +16 | Estilo de vida |\n\n¡Estamos recuperando el sueño perdido! Permanece atento a la magnífica selección de entretenimiento de Rakuten TV.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070000 +0100",
             "stop_time": "20250225074924 +0100",
             "title": "Cops on the Rock",

@@ -3,20 +3,6 @@
     "tvg_id": "qwest-tv",
     "epg": [
         {
-            "start_time": "20250225051901 +0100",
-            "stop_time": "20250225063400 +0100",
-            "title": "Asa - Live at Art Rock Festival",
-            "description": "| +TP | Música |\n\nMulti-genre singer Asa transcends cultural boundaries with her performance.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225063401 +0100",
-            "stop_time": "20250225070000 +0100",
-            "title": "Late Night Sounds by Qwest TV",
-            "description": "| +TP | Música |\n\n\"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music\" - Quincy Jones",
-            "icon": ""
-        },
-        {
             "start_time": "20250225070001 +0100",
             "stop_time": "20250225100300 +0100",
             "title": "Chillin’ with Qwest TV",
