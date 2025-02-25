@@ -314,6 +314,7 @@ def main():
     output_filename_epg_json = "rakuten_epg.json" # Nuevo archivo JSON EPG
     output_filename_rakuten_json = "rakuten_json.json" # Archivo JSON con URLs de canales JSON
     output_filename_rakuten_epg_json_list = "rakuten_epg_json.json" # NUEVO archivo JSON con URLs de EPG JSON de canales
+    output_filename_rakuten_config_json = "rakuten_config.json" # NUEVO archivo JSON config con URLs de JSONs principales
     github_base_url = "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/"
 
     channel_json_urls = []  # Inicializar la lista para guardar las URLs de los JSON de canal
@@ -407,6 +408,13 @@ def main():
     # Crear el archivo rakuten_epg_json.json con la lista de URLs de los JSON de EPG de canal
     rakuten_epg_json_list_content = {"channel_epg_json_urls": channel_epg_json_urls}  # Crear el contenido JSON con la lista de URLs de EPG JSON de canal
     save_json_output(rakuten_epg_json_list_content, output_filename_rakuten_epg_json_list)  # Guardar rakuten_epg_json.json
+
+    # Crear el archivo rakuten_config.json con las URLs de rakuten_json.json y rakuten_epg_json.json
+    rakuten_config_data = {
+        "rakuten_json_url": f"{github_base_url}{output_filename_rakuten_json}",
+        "rakuten_epg_json_url": f"{github_base_url}{output_filename_rakuten_epg_json_list}"
+    }
+    save_json_output(rakuten_config_data, output_filename_rakuten_config_json) # Guardar rakuten_config.json
 
 
     # Create M3U playlist and EPG files (original playlist files - XML and now also JSON EPG)
