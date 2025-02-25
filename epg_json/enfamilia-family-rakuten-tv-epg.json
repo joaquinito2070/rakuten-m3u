@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225014741 +0100",
-            "stop_time": "20250225033250 +0100",
-            "title": "Jóvenes extraordinarios",
-            "description": "| +12 | Infantil |\n\nTres niños especiales con carencias en sus habilidades mágicas -un vampiro que no puede ver sangre, un hada con miedo a volar y un hombre lobo alérgico al pelo de los animales-, se enfrentan a un oponente infernal y ganan la mayor de todas las victorias posibles: aceptarse a sí mismos como son.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/f81cdb79-f91a-4940-ac44-a64f9f8cd295-die-wolf-gang-1591629093.jpeg"
-        },
-        {
             "start_time": "20250225033251 +0100",
             "stop_time": "20250225050936 +0100",
             "title": "Robo-Dog",

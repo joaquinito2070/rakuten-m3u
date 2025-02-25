@@ -3,20 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250225015824 +0100",
-            "stop_time": "20250225024739 +0100",
-            "title": "La tercera guerra mundial",
-            "description": "| +7 | Series |\n\nEl tiempo se acaba para el Doctor mientras Downing Street anuncia la primera guerra interplanetaria de la humanidad.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225024740 +0100",
-            "stop_time": "20250225033934 +0100",
-            "title": "Dalek",
-            "description": "| +7 | Series |\n\nEl Doctor está destrozado y la tierra está en peligro cuando él y Rose descubren al enemigo a muerte del Señor de los Tiempos bajo Utah.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033935 +0100",
             "stop_time": "20250225043033 +0100",
             "title": "El juego largo",

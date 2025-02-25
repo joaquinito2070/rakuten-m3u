@@ -3,20 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250225011548 +0100",
-            "stop_time": "20250225022238 +0100",
-            "title": "RANDY CABALGA ALONE",
-            "description": "| +7 | Películas |\n\nEncarcelado por unos asesinatos que no cometió, Randy escapa sólo para tropezar con la guarida de los verdaderos asesinos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225022239 +0100",
-            "stop_time": "20250225032845 +0100",
-            "title": "Bonanza - S1 EP22 - Pradera sangrienta",
-            "description": "| +7 | Películas |\n\nJeb Drummond es un pastor de ovejas asesino que ha tomado a Adam como rehén para intentar obligar a Ben a cederle una gran parte de las tierras de Ponderosa.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225032846 +0100",
             "stop_time": "20250225043844 +0100",
             "title": "West of the divide",

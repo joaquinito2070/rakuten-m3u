@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225015818 +0100",
-            "stop_time": "20250225033659 +0100",
-            "title": "Concursante",
-            "description": "| +16 | Películas |\n\nÁcida sátira de la sociedad actual. Martín Circo Martín, el afortunado ganador del mayor concurso de la historia de la televisión, recibe un premio valorado en tres millones de euros. Sin embargo, el golpe de suerte de Martín dará un vuelco a su vida convirtiéndola en una auténtica pesadilla.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/0b65ba1c-9599-4e68-9b8c-e8a1d69705de.jpeg"
-        },
-        {
             "start_time": "20250225033700 +0100",
             "stop_time": "20250225051337 +0100",
             "title": "Hijo de Caín",

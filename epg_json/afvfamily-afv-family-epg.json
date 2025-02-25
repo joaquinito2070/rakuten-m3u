@@ -3,27 +3,6 @@
     "tvg_id": "afv-family",
     "epg": [
         {
-            "start_time": "20250225014623 +0100",
-            "stop_time": "20250225021624 +0100",
-            "title": "Family LOL Remix",
-            "description": "| +TP | Entretenimiento |\n\nFamily LOL Remix features your favorite home videos and mini-shows featuring social influencers, comedians, funny moms, and more! Each episode has some of AFV's most successful shows - including the Life Unfiltered Countdown, BatDad's Clip Show, La Guardia Talks To Toddlers, Mom Unfiltered, AFV..",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021631 +0100",
-            "stop_time": "20250225024627 +0100",
-            "title": "Funny Runs In The Family",
-            "description": "| +TP | Entretenimiento |\n\nAFV Family presents the funniest videos from its family of comedy brands AFV, What The Family, Peachy, and Kyoot. Episode 4",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225024633 +0100",
-            "stop_time": "20250225031634 +0100",
-            "title": "Funny Videos Now Countdown",
-            "description": "| +TP | Entretenimiento |\n\nFunny Videos Now Countdown does exactly that - we're counting down the funniest home videos from the America's Funniest Home Videos library. With hilarious themed countdown compilations and specialty compilations like \"AFV Extreme\" and \"AFV's How To\" - you'll be laughing all day! Hosted by Henry..",
-            "icon": ""
-        },
-        {
             "start_time": "20250225031640 +0100",
             "stop_time": "20250225041427 +0100",
             "title": "Funny Videos Power Hour",

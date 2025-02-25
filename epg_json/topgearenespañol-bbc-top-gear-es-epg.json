@@ -3,20 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250225010634 +0100",
-            "stop_time": "20250225020713 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nLos chicos se ponen en plan rural y aprovechan un grupo de tractores de alta tecnología.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225020720 +0100",
-            "stop_time": "20250225030734 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nLos presentadores construyen sus propias limusinas a partir de los autos más inverosímiles.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225030740 +0100",
             "stop_time": "20250225040704 +0100",
             "title": "Top Gear UK",

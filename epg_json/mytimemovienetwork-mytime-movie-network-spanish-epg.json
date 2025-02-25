@@ -3,13 +3,6 @@
     "tvg_id": "mytime-movie-network-spanish",
     "epg": [
         {
-            "start_time": "20250225020526 +0100",
-            "stop_time": "20250225034501 +0100",
-            "title": "La bahía del miedo",
-            "description": "| +TP | Películas |\n\nUna mujer acosada contrata y se enamora de un detective privado que se convierte en su ángel vengador.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225034502 +0100",
             "stop_time": "20250225053049 +0100",
             "title": "Inconcebible",

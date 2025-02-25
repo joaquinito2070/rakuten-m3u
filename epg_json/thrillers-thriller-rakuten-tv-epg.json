@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225012733 +0100",
-            "stop_time": "20250225033700 +0100",
-            "title": "Valkiria",
-            "description": "| +16 | Películas |\n\nHerido, el coronel von Stauffenberg vuelve de África para organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/a7cdd3d4-5358-45a1-8d19-045a7411f0c1.jpeg"
-        },
-        {
             "start_time": "20250225033701 +0100",
             "stop_time": "20250225054635 +0100",
             "title": "Cliff Walkers",

@@ -3,34 +3,6 @@
     "tvg_id": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
     "epg": [
         {
-            "start_time": "20250225014430 +0100",
-            "stop_time": "20250225021412 +0100",
-            "title": "Universo Starlite",
-            "description": "| +13 | Estilo de vida |\n\nEn este primer programa de ‘Universo Starlite’ podremos ver cómo se prepara la mítica cartera de Marbella para recibir a artistas como Sebastián Yatra o Jason Derulo.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/5fa88c71-382e-403e-9b17-49c2b0fe2274.jpeg"
-        },
-        {
-            "start_time": "20250225021413 +0100",
-            "stop_time": "20250225024257 +0100",
-            "title": "Universo Starlite",
-            "description": "| +13 | Estilo de vida |\n\nUn repaso a los grandes momentos musicales que marcaron Starlite en el verano de 2021.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/71143b49-f6c1-4b01-a985-724fa97be8d4.jpeg"
-        },
-        {
-            "start_time": "20250225024258 +0100",
-            "stop_time": "20250225030920 +0100",
-            "title": "Royals",
-            "description": "| +13 | Estilo de vida |\n\nEste documental nos acerca a la figura de Sophie, condesa de Wessex y esposa del Príncipe Eduardo, hijo menor de la reina Isabel II. Sophie Rhys-Jones y el príncipe Eduardo se casaron en la Capilla de San Jorge, en el Castillo de Windsor.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/f8905acc-b765-49c3-8172-9ffc22ac5f88-episodio-6-sophie-de-wessex-1620308881.jpeg"
-        },
-        {
-            "start_time": "20250225030921 +0100",
-            "stop_time": "20250225033901 +0100",
-            "title": "Universo Starlite",
-            "description": "| +13 | Estilo de vida |\n\nEn un nuevo programa de 'Universo Starlite', podrás disfrutar del directo de una de las grandes leyendas vivas de la música: Nile Rodgers.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/1c77fdc7-ceb0-4dc4-985b-06003dd92e13.jpeg"
-        },
-        {
             "start_time": "20250225033902 +0100",
             "stop_time": "20250225035608 +0100",
             "title": "Ana María, mi verdad",

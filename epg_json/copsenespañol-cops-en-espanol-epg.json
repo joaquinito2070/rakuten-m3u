@@ -3,34 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225015515 +0100",
-            "stop_time": "20250225021924 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLos oficiales encuentran una sorprendente variedad de objetos en el vehículo de un sospechoso.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021931 +0100",
-            "stop_time": "20250225024340 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna persecución a pie muy precaria termina con el sospechoso en una situación muy vergonzosa.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225024347 +0100",
-            "stop_time": "20250225030556 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre corre a través de una ducha para no ser rastreado por la policía.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225030602 +0100",
-            "stop_time": "20250225033011 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn pollero tiene una explicación poco clara de los objetos descubiertos en su carro.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033017 +0100",
             "stop_time": "20250225035426 +0100",
             "title": "Cops en Español",

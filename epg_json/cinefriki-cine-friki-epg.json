@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250225005139 +0100",
-            "stop_time": "20250225022044 +0100",
-            "title": "Blood Lake",
-            "description": "| +12 | Películas |\n\nDespués de devorar a la población de peces, miles de lampreas hambrientas comienzan a atacar a los ciudadanos de una tranquila ciudad lacustre, y la comunidad lucha por mantenerse con vida.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225022045 +0100",
             "stop_time": "20250225043305 +0100",
             "title": "El bosque de los Sueños",

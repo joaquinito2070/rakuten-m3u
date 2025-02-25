@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225004157 +0100",
-            "stop_time": "20250225022611 +0100",
-            "title": "Eloïse",
-            "description": "| +16 | Películas |\n\nAsia, una chica de 18 años, está en el hospital en estado de coma. Su madre y su novio, Nathaniel, la cuidan. Poco a poco iremos viendo los acontecimientos que llevaron a Asia hasta el hospital y sobretodo su sensual relación con Eloïse.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/d1ada32a-0bcf-4227-a785-a26b7d7f3a91.jpeg"
-        },
-        {
             "start_time": "20250225022612 +0100",
             "stop_time": "20250225042020 +0100",
             "title": "Nora",

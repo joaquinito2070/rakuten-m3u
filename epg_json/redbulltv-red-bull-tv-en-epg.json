@@ -3,20 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250225010521 +0100",
-            "stop_time": "20250225021638 +0100",
-            "title": "Red Bull Signature Series",
-            "description": "| +12 | Deportes |\n\nThe action in Erzberg heats up as the 23rd edition sees 500 riders battle each other in Austria's biggest iron mine. Will Graham Jarvis defend his title against a pack of hardened and hungry rivals?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021644 +0100",
-            "stop_time": "20250225032843 +0100",
-            "title": "Red Bull Signature Series",
-            "description": "| +12 | Deportes |\n\nCanada's Whistler Mountain Bike Park offers up a thrilling finale to 10 days of mountain biking festivities – Red Bull Joyride continues to be the largest MTB slopestyle competition in the world.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225032849 +0100",
             "stop_time": "20250225044442 +0100",
             "title": "Red Bull Signature Series",

@@ -3,27 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250225020455 +0100",
-            "stop_time": "20250225023449 +0100",
-            "title": "Backpack",
-            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225023456 +0100",
-            "stop_time": "20250225030450 +0100",
-            "title": "Great World Hotels",
-            "description": "| +7 | Estilo de vida |\n\nFrieshia siente la magia de Mauricio a través de la combinación única de modernidad y tradición que ofrece el resort de lujo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225030456 +0100",
-            "stop_time": "20250225033450 +0100",
-            "title": "Xplore Spain",
-            "description": "| +7 | Estilo de vida |\n\nMientras recorre la escena artística de Madrid y disfruta de la animación de un mercado local, Alex se siente envuelto por la energía de esta joven ciudad europea.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033457 +0100",
             "stop_time": "20250225040451 +0100",
             "title": "Viajar Mexico",

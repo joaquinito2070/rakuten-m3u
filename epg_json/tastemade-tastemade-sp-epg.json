@@ -3,34 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225015203 +0100",
-            "stop_time": "20250225021802 +0100",
-            "title": "Bacalao a la vizcaína y Budín navideño",
-            "description": "| +7 | Cocina y comida |\n\n¡Ya huele a navidad! No te quedes sin aprender a preparar Bacalao a la vizcaína y Budín navideño.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021803 +0100",
-            "stop_time": "20250225024402 +0100",
-            "title": "Garnachas Veganas",
-            "description": "| +7 | Cocina y comida |\n\nJunto con Andrés, saldremos buscando unas buenas garnachas callejeras, pero esta vez diferentes: veganas.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225024403 +0100",
-            "stop_time": "20250225031002 +0100",
-            "title": "Garnachas Golosas",
-            "description": "| +7 | Cocina y comida |\n\nLa capital chilanga, gigante y con hambre a todas horas. y los mexicanos buscamos algo grande, y muy golozo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225031003 +0100",
-            "stop_time": "20250225033502 +0100",
-            "title": "Garnachas de Chilangos para Chilangos",
-            "description": "| +7 | Cocina y comida |\n\nVamos conocer lugares de comida que alimentan a los chilangos en busca de antojitos de otros estados del país",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033503 +0100",
             "stop_time": "20250225040002 +0100",
             "title": "Cocina francesa con Gaetan Kuchta",

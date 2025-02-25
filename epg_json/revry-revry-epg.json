@@ -3,27 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250225003506 +0100",
-            "stop_time": "20250225021500 +0100",
-            "title": "Addicted To Fresno",
-            "description": "| +TP | Entretenimiento |\n\nTwo sisters are forced to confront their relationship when they accidentally kill a man.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021506 +0100",
-            "stop_time": "20250225025000 +0100",
-            "title": "Unconventional",
-            "description": "| +TP | Entretenimiento |\n\nNOAH agrees to be the donor to his sister’s girlfriend, but his husband wants a baby of their own.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225025006 +0100",
-            "stop_time": "20250225032500 +0100",
-            "title": "Unconventional",
-            "description": "| +TP | Entretenimiento |\n\nEliza's pregnant and everyone's on the verge of a nervous breakdown.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225032506 +0100",
             "stop_time": "20250225043000 +0100",
             "title": "Boss Up",

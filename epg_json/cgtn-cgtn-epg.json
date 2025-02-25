@@ -3,27 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225020001 +0100",
-            "stop_time": "20250225023000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225023001 +0100",
-            "stop_time": "20250225030000 +0100",
-            "title": "Inheritors",
-            "description": "| +7 | Asian |\n\nInheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225030001 +0100",
-            "stop_time": "20250225033000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033001 +0100",
             "stop_time": "20250225040000 +0100",
             "title": "Razor",

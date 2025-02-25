@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225003756 +0100",
-            "stop_time": "20250225025324 +0100",
-            "title": "Asesinato en Yellowstone",
-            "description": "| +16 | Películas |\n\nUn antiguo esclavo llega a Yellowston en busca de un hogar. Cuando un hombre descubre oro en el pueblo y es asesinado, el sheriff arresta a un recién llegado, pero los asesinatos continúan. ",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/b2ff626c-4373-4b29-9a58-3b56254a16cc.jpeg"
-        },
-        {
             "start_time": "20250225025325 +0100",
             "stop_time": "20250225051625 +0100",
             "title": "Los amos de Brooklyn",

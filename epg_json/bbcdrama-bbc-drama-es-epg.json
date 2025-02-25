@@ -3,20 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225012315 +0100",
-            "stop_time": "20250225022322 +0100",
-            "title": "Episodio 1",
-            "description": "| +13 | Series |\n\nEl caso de un exsoldado asesinado en 1948 se reabre, debido a la atención mediática y a la presión familiar pero el asesino ataca de nuevo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225022323 +0100",
-            "stop_time": "20250225032350 +0100",
-            "title": "Episodio 2",
-            "description": "| +13 | Series |\n\nEl equipo sabe lo que relaciona a las víctimas pero siguen buscando la causa de los asesinatos.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225032351 +0100",
             "stop_time": "20250225042413 +0100",
             "title": "Episodio 3",

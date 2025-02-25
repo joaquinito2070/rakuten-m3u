@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225010540 +0100",
-            "stop_time": "20250225025248 +0100",
-            "title": "1911",
-            "description": "| +16 | Películas |\n\nTras estudiar el arte de la guerra moderna en Japón, Huang Xing regresa a China para convertirse en uno de los líderes de la revolución en su país contra la dinastía Qing.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/7e1e8438-3cba-4d7a-a39d-aac6a9026632-snapshot-1590668942.jpeg"
-        },
-        {
             "start_time": "20250225025249 +0100",
             "stop_time": "20250225044125 +0100",
             "title": "La cornisa (The Ledge)",

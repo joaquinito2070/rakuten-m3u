@@ -3,20 +3,6 @@
     "tvg_id": "filmrise-sci-fi-es",
     "epg": [
         {
-            "start_time": "20250225013945 +0100",
-            "stop_time": "20250225023343 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nBeka se entera de que el ex socio de negocios de su padre se ocupa de una droga altamente adictiva llamada Flash.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225023344 +0100",
-            "stop_time": "20250225032742 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nLa Andrómeda descubre su nave hermana, la Pax Magellanic. La tripulación a bordo del Pax tiene 300 años.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225032743 +0100",
             "stop_time": "20250225042142 +0100",
             "title": "Andromeda",

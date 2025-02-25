@@ -3,27 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225012610 +0100",
-            "stop_time": "20250225021152 +0100",
-            "title": "Project Runway",
-            "description": "| +16 | Estilo de vida |\n\nEl momento que los diseñadores han estado esperando y deseando desde el principio, la oportunidad de desfilar en la Semana de la moda de Nueva York, por fin ha llegado.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/fb977f38-3bd2-4200-842e-c6f2689106a4.jpeg"
-        },
-        {
-            "start_time": "20250225021153 +0100",
-            "stop_time": "20250225025826 +0100",
-            "title": "Project Runway",
-            "description": "| +16 | Estilo de vida |\n\nSe presentan 16 nuevos diseñadores echando un vistazo entre bastidores a sus audiciones en el casting, con las visitas a sus casas, sus presentaciones al casting y las entrevistas.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/0ac558b1-bd87-405d-bd52-d4c296960470.jpeg"
-        },
-        {
-            "start_time": "20250225025827 +0100",
-            "stop_time": "20250225034507 +0100",
-            "title": "Project Runway",
-            "description": "| +16 | Estilo de vida |\n\nLos 16 nuevos diseñadores conocen a Tim y Heidi en el Madison Square Garden, donde pelean por reunir tejidos para su primer reto. En el taller, revelan sus fortalezas y debilidades mientras crean looks para mostrar quiénes son como diseñadores.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/82f86996-f605-452c-ac1e-5c62a581d57c.jpeg"
-        },
-        {
             "start_time": "20250225034508 +0100",
             "stop_time": "20250225041624 +0100",
             "title": "El armario de...",

@@ -3,27 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250225015856 +0100",
-            "stop_time": "20250225022719 +0100",
-            "title": "Mind the Baby, Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean goes to the funfair.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225022720 +0100",
-            "stop_time": "20250225025823 +0100",
-            "title": "Do it Yourself Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean hosts a New Year's Eve party.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225025824 +0100",
-            "stop_time": "20250225032655 +0100",
-            "title": "Bakc to School Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean goes back to school.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225032656 +0100",
             "stop_time": "20250225035755 +0100",
             "title": "Tee Off, Mr Bean",

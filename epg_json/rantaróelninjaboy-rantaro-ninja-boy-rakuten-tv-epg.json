@@ -3,34 +3,6 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225014145 +0100",
-            "stop_time": "20250225021115 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El regalo de la escuela de verano.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/bce2b224-e750-48ef-80d5-bcc0b6b0ee88.jpeg"
-        },
-        {
-            "start_time": "20250225021116 +0100",
-            "stop_time": "20250225024048 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El muñeco de Vudú.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/97fb8c0f-fd93-4c20-9a79-e155f94305cb.jpeg"
-        },
-        {
-            "start_time": "20250225024049 +0100",
-            "stop_time": "20250225031020 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El secreto del señor Tobe.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/c0174bf8-2a88-4827-a657-ca2ffb7fa93d.jpeg"
-        },
-        {
-            "start_time": "20250225031021 +0100",
-            "stop_time": "20250225033951 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El pato misterioso.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/995f39f3-0c58-4631-a4a4-59465344a004.jpeg"
-        },
-        {
             "start_time": "20250225033952 +0100",
             "stop_time": "20250225040923 +0100",
             "title": "Rantaro, el Ninja Boy",

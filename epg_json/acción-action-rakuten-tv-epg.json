@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225004041 +0100",
-            "stop_time": "20250225030012 +0100",
-            "title": "El soldado de Dios",
-            "description": "| +16 | Películas |\n\nHistoria de redención repleta de acción. Tras tocar fondo, Sam Childers decide redimirse y construir en Ruanda un refugio para niños. La complicada situación del país hará que tenga que combatir contra una de las facciones en guerra en el país africano, con tal de proteger a los más indefensos.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/3f52b7b6-8ef8-4a66-8846-b1a72f59035d-snapshot-1590662422.jpeg"
-        },
-        {
             "start_time": "20250225030013 +0100",
             "stop_time": "20250225050940 +0100",
             "title": "Valkiria",

@@ -3,41 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250225014333 +0100",
-            "stop_time": "20250225020826 +0100",
-            "title": "Trucos cotidianos para tu ropa",
-            "description": "| +TP | Entretenimiento |\n\n¡Maneras divertidas de actualizar tus atuendos y crear algo fuera de lo ordinario!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225020827 +0100",
-            "stop_time": "20250225023212 +0100",
-            "title": "¡dispositivos y herramientas caseras para un hogar inteligente!",
-            "description": "| +TP | Entretenimiento |\n\n¡Dispositivos caseros y funcionales que transformarán tu hogar en uno inteligente!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225023213 +0100",
-            "stop_time": "20250225025712 +0100",
-            "title": "¡trucos elegantes para ropa que le queda bien a todo el mundo!",
-            "description": "| +TP | Entretenimiento |\n\n¡Maneras interesantes de transformar tu ropa!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225025713 +0100",
-            "stop_time": "20250225032534 +0100",
-            "title": "Los trucos más simples pero originales con ropa",
-            "description": "| +TP | Entretenimiento |\n\n¡Vuélvete tendencia de moda! ¡Trucos de ropa que debes conocer ahora mismo!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225032535 +0100",
-            "stop_time": "20250225034530 +0100",
-            "title": "Ideas simples y geniales para niños",
-            "description": "| +TP | Entretenimiento |\n\n¡Manualidades y trucos que a los niños les encantarán!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225034531 +0100",
             "stop_time": "20250225035854 +0100",
             "title": "Trucos aleatorios para niños",

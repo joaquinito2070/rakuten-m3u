@@ -3,27 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225020001 +0100",
-            "stop_time": "20250225023000 +0100",
-            "title": "The Captain and Casey Show - Season 5 - Super Heroes",
-            "description": "| +7 | Deportes |\n\nThe Captain and Casey use their powers to blast into the 21st century.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225023001 +0100",
-            "stop_time": "20250225030000 +0100",
-            "title": "The Captain and Casey Show - Season 5 - Roller Derby",
-            "description": "| +7 | Deportes |\n\nIn a star-studded episode, friends from Hazzard County and Dirty South Construction build a bowl on the set...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225030001 +0100",
-            "stop_time": "20250225033000 +0100",
-            "title": "M80 - Season 5 - Best of",
-            "description": "| +7 | Deportes |\n\nWatch The Best of Seasons 4 &amp; 5 with an extended \"Road Trip\" to Europe and Australia.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033001 +0100",
             "stop_time": "20250225040000 +0100",
             "title": "M80 - Season 1 - Doug Parsons",

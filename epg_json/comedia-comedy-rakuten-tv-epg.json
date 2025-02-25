@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225005622 +0100",
-            "stop_time": "20250225023538 +0100",
-            "title": "El estudiante de intercambio",
-            "description": "| +16 | Películas |\n\nTim es un adolescente inadaptado que busca un amigo en una web de estudiantes de intercambio. Pero Stéphane resulta ser lo opuesto a lo que Tim quería y se convierte en el chico popular.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/4ad1ef52-9b69-44e0-bdba-ac4460aa69c8-the-exchange-1642584326.jpeg"
-        },
-        {
             "start_time": "20250225023539 +0100",
             "stop_time": "20250225035143 +0100",
             "title": "The Party",

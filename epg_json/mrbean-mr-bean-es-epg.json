@@ -3,62 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225015828 +0100",
-            "stop_time": "20250225021127 +0100",
-            "title": "periódico El",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021128 +0100",
-            "stop_time": "20250225022427 +0100",
-            "title": "Game Over",
-            "description": "| +TP | Infantil |\n\nBean se obsesiona con los juegos después de ser presentado por el sobrino de la Sra. Wicket.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225022428 +0100",
-            "stop_time": "20250225023727 +0100",
-            "title": "Pizzería Bean",
-            "description": "| +TP | Infantil |\n\nLas pizzas de Mr. Bean gustan a todo el mundo... bueno, casi.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225023728 +0100",
-            "stop_time": "20250225025039 +0100",
-            "title": "Astuto bean",
-            "description": "| +TP | Infantil |\n\nMr. Bean tiene muchas ganas de pintar",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225025040 +0100",
-            "stop_time": "20250225030340 +0100",
-            "title": "Jumping Bean",
-            "description": "| +TP | Infantil |\n\nBean quiere aprender a andar en patineta, pero se lastima en el primer intento.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225030341 +0100",
-            "stop_time": "20250225031639 +0100",
-            "title": "Bean Taxista",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225031640 +0100",
-            "stop_time": "20250225032940 +0100",
-            "title": "Bean En el museo",
-            "description": "| +TP | Infantil |\n\nBean cree que acaba de desenterrar una moneda valiosa en el jardín trasero.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225032941 +0100",
-            "stop_time": "20250225034239 +0100",
-            "title": "Luchador Bean",
-            "description": "| +TP | Infantil |\n\nMr. Bean se ha convertido en campeón accidental de lucha, con un poquito de ayuda de dos ancianitas.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225034240 +0100",
             "stop_time": "20250225035540 +0100",
             "title": "Bean bailarín",

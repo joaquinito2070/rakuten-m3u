@@ -3,27 +3,6 @@
     "tvg_id": "filmrise-archivos-forenses",
     "epg": [
         {
-            "start_time": "20250225015528 +0100",
-            "stop_time": "20250225022706 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nEn un tranquilo pueblo de Gran Bretaña, un granjero se encuentra con una apariencia escalofriante.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225022707 +0100",
-            "stop_time": "20250225025846 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nUn bebé es trasladado urgentemente a la sala de emergencias con problemas respiratorios graves.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225025847 +0100",
-            "stop_time": "20250225033025 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nPoco después del amanecer, se inicia un incendio en un contenedor de basura en Vancouver.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033026 +0100",
             "stop_time": "20250225040205 +0100",
             "title": "Forensic Files",

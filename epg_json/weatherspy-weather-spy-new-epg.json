@@ -3,34 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225014838 +0100",
-            "stop_time": "20250225021832 +0100",
-            "title": "Extreme Weather Countdown",
-            "description": "| +TP | Estilo de vida |\n\nThunderstorms come out to play with powerful booms, brilliant flashes, and enough force to take down trees!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021838 +0100",
-            "stop_time": "20250225024832 +0100",
-            "title": "Extreme Weather Countdown",
-            "description": "| +TP | Estilo de vida |\n\nRain. Snow. Lightning. Hurricanes. Dust devils. When these weather phenomena combine, it's usually a recipe for disaster. But on this show, it's just another normal day in the books. It's time for Extreme Weather Countdown!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225024838 +0100",
-            "stop_time": "20250225031832 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Kayaker over a Waterfall and Car Avoiding Falling Tree?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225031838 +0100",
-            "stop_time": "20250225034832 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Flash Flood Steals Car and a Tornado Tearing Through a Cafe?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225034838 +0100",
             "stop_time": "20250225041832 +0100",
             "title": "Humans VS Weather",

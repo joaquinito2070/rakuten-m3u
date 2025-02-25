@@ -3,55 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250225020001 +0100",
-            "stop_time": "20250225021500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225021501 +0100",
-            "stop_time": "20250225023000 +0100",
-            "title": "People And Profit",
-            "description": "| +7 | Noticias |\n\nThe business show that goes beyond the numbers and the corporate jargon! Kate Moody breaks down major business stories and looks at how they affect our lives.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225023001 +0100",
-            "stop_time": "20250225024500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225024501 +0100",
-            "stop_time": "20250225030000 +0100",
-            "title": "The 51 Percent",
-            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225030001 +0100",
-            "stop_time": "20250225031500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225031501 +0100",
-            "stop_time": "20250225033000 +0100",
-            "title": "Down To Earth",
-            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225033001 +0100",
-            "stop_time": "20250225034500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225034501 +0100",
             "stop_time": "20250225040000 +0100",
             "title": "Reporters",

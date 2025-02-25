@@ -3,20 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225013621 +0100",
-            "stop_time": "20250225022506 +0100",
-            "title": "Kill Point",
-            "description": "| +16 | Crime |\n\nTras un fallido intento de atraco bancario, el capitán Horst Cali y su equipo negocian una situación de secuestro.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4d6c7ab3-02e9-4dae-be3b-6ced2a97a9ac-snapshot-1590685033.jpeg"
-        },
-        {
-            "start_time": "20250225022507 +0100",
-            "stop_time": "20250225031531 +0100",
-            "title": "Ted Bundy: Serial Monster",
-            "description": "| +16 | Crime |\n\nJusto antes del amanecer, un agente de la patrulla de carreteras de Utah observa a Bundy merodeando por un barrio residencial. Huye a toda velocidad, pero al final el agente lo detiene.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/2678a1d0-8405-47f1-a014-d84bb12e8c2e.jpeg"
-        },
-        {
             "start_time": "20250225031532 +0100",
             "stop_time": "20250225042031 +0100",
             "title": "Crash",

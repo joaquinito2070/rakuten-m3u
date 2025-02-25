@@ -7,58 +7,58 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/thriller-rakuten-tv/master.m3u8",
     "qualities": [
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/a499495a-20ae-41dc-a7fa-68d9d23a4f45/0.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/598de79c-73f5-4a23-b915-74af6b5a4ccf/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "532064",
+                "AVERAGE-BANDWIDTH": "532898",
                 "RESOLUTION": "448x252",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "584476"
+                "BANDWIDTH": "585297"
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/a499495a-20ae-41dc-a7fa-68d9d23a4f45/1.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/598de79c-73f5-4a23-b915-74af6b5a4ccf/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "908615",
+                "AVERAGE-BANDWIDTH": "912450",
                 "RESOLUTION": "768x432",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "997859"
+                "BANDWIDTH": "1000256"
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/a499495a-20ae-41dc-a7fa-68d9d23a4f45/2.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/598de79c-73f5-4a23-b915-74af6b5a4ccf/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1460678",
+                "AVERAGE-BANDWIDTH": "1455214",
                 "RESOLUTION": "768x432",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1601540"
+                "BANDWIDTH": "1595797"
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/a499495a-20ae-41dc-a7fa-68d9d23a4f45/3.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/598de79c-73f5-4a23-b915-74af6b5a4ccf/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2608732",
+                "AVERAGE-BANDWIDTH": "2610944",
                 "RESOLUTION": "1280x720",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2859085"
+                "BANDWIDTH": "2861974"
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/a499495a-20ae-41dc-a7fa-68d9d23a4f45/4.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/598de79c-73f5-4a23-b915-74af6b5a4ccf/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4576941",
+                "AVERAGE-BANDWIDTH": "4544686",
                 "RESOLUTION": "1920x1080",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "5006647"
+                "BANDWIDTH": "4981826"
             }
         }
     ],

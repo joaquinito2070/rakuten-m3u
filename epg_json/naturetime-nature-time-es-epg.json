@@ -3,20 +3,6 @@
     "tvg_id": "nature-time-es",
     "epg": [
         {
-            "start_time": "20250225014550 +0100",
-            "stop_time": "20250225024245 +0100",
-            "title": "The Hummingbird’s Quest",
-            "description": "| +TP | Documental |\n\nSee tenacious hummingbird moms raising their young in diverse climates.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225024246 +0100",
-            "stop_time": "20250225033941 +0100",
-            "title": "Warriors of the Llanos",
-            "description": "| +TP | Documental |\n\nMeet hardy animals specialized in surviving extreme weather.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225033942 +0100",
             "stop_time": "20250225043637 +0100",
             "title": "Finding A Family",

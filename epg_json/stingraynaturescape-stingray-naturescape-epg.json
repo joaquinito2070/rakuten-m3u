@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250225015901 +0100",
-            "stop_time": "20250225025900 +0100",
-            "title": "Bulog Dos Island",
-            "description": "| +TP | Estilo de vida |\n\nShowcasing a small tropical island encircled by crystal-clear turquoise waters called Bulog Dos Island in the Philippines.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225025901 +0100",
             "stop_time": "20250225035800 +0100",
             "title": "A Day in San Diego",
