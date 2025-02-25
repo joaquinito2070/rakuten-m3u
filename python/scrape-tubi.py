@@ -277,7 +277,7 @@ def create_channel_json_data(channel_info, backup_master_url, json_url, epg_url)
         "backup_master_url": backup_master_url,
         "qualities": channel_info['qualities'],
         "json_url": json_url, # Added json_url here
-        "epg_url": epg_url # Añadido epg_url aquí - now for JSON EPG URL
+        "epg_url": epg_url # Usar directamente epg_url (URL del EPG JSON global) - **MODIFICADO AQUÍ**
     }
     return channel_json
 
@@ -400,13 +400,13 @@ def main():
 
         # Generate channel EPG JSON filename and URL - SE GENERA DE NUEVO AQUI PARA ASEGURAR URL INDIVIDUAL CORRECTA
         channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json"  # Unique filename for EPG JSON
-        channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}"  # URL para el archivo EPG JSON de canal - REUTILIZANDO VARIABLE PARA URL
+        channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}"  # URL para el archivo EPG JSON de canal - REUTILIZANDO VARIABLE PARA URL #REDUNDANT
 
 
-        channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, channel_epg_json_url) # DEBE USAR channel_epg_json_url - Pasar epg_json_url (URL del EPG JSON)
+        channel_json_data = create_channel_json_data(channel_info, backup_master_url, channel_json_url, epg_json_url) # MODIFICADO: Usar epg_json_url (URL del EPG JSON global)
         save_json_output(channel_json_data, channel_json_filename)
 
-        # Generate channel EPG JSON (individual channel EPG JSON - keep as is)
+        # Generate channel EPG JSON (individual channel EPG JSON - keep as is) - ESTO YA NO ES NECESARIO, PERO LO DEJAMOS PARA NO ROMPER NADA
         channel_epg_json_data = create_channel_epg_json_data(channel_info)
         # channel_epg_json_filename = f"epg_json/{channel_name_sanitized}-{channel_info['tvg_id']}-epg.json"  # Unique filename for EPG JSON #REDUNDANT
         # channel_epg_json_url = f"{github_base_url}{channel_epg_json_filename}"  # URL para el archivo EPG JSON de canal - REUTILIZANDO VARIABLE PARA URL #REDUNDANT
