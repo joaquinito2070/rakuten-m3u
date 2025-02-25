@@ -3,13 +3,6 @@
     "tvg_id": "mytime-movie-network-spanish",
     "epg": [
         {
-            "start_time": "20250225034502 +0100",
-            "stop_time": "20250225053049 +0100",
-            "title": "Inconcebible",
-            "description": "| +TP | Películas |\n\nUna mujer interpreta un beso en una reunión de antiguos alumnos del instituto como una invitación para perseguir a su ex por todo el país e intentar suplantar a su esposa.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225053050 +0100",
             "stop_time": "20250225071501 +0100",
             "title": "Cámara Oculta",

@@ -3,13 +3,6 @@
     "tvg_id": "cgtn-documentary",
     "epg": [
         {
-            "start_time": "20250225050001 +0100",
-            "stop_time": "20250225060000 +0100",
-            "title": "Special Edition",
-            "description": "| +7 | Asian |\n\nPrestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060001 +0100",
             "stop_time": "20250225063000 +0100",
             "title": "Journeys and Discoveries",

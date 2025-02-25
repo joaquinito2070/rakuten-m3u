@@ -3,13 +3,6 @@
     "tvg_id": "pfl-mma",
     "epg": [
         {
-            "start_time": "20250225045853 +0100",
-            "stop_time": "20250225055759 +0100",
-            "title": "PFL 2 2024 - CutDown",
-            "description": "| +16 | Deportes |\n\nThe most action-packed rounds of PFL 2 2024",
-            "icon": ""
-        },
-        {
             "start_time": "20250225055806 +0100",
             "stop_time": "20250225084233 +0100",
             "title": "Best Playoff Fights In PFL History",

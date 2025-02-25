@@ -3,27 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225045203 +0100",
-            "stop_time": "20250225051802 +0100",
-            "title": "Bacalao a la vizcaína y Budín navideño",
-            "description": "| +7 | Cocina y comida |\n\n¡Ya huele a navidad! No te quedes sin aprender a preparar Bacalao a la vizcaína y Budín navideño.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225051803 +0100",
-            "stop_time": "20250225054402 +0100",
-            "title": "Garnachas Veganas",
-            "description": "| +7 | Cocina y comida |\n\nJunto con Andrés, saldremos buscando unas buenas garnachas callejeras, pero esta vez diferentes: veganas.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225054403 +0100",
-            "stop_time": "20250225061002 +0100",
-            "title": "Garnachas Golosas",
-            "description": "| +7 | Cocina y comida |\n\nLa capital chilanga, gigante y con hambre a todas horas. y los mexicanos buscamos algo grande, y muy golozo.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225061003 +0100",
             "stop_time": "20250225063503 +0100",
             "title": "Garnachas de Chilangos para Chilangos",

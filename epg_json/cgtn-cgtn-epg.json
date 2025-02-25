@@ -3,20 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225051501 +0100",
-            "stop_time": "20250225053000 +0100",
-            "title": "Sports Scene",
-            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225053001 +0100",
-            "stop_time": "20250225060000 +0100",
-            "title": "The Point with Liu Xin",
-            "description": "| +7 | Asian |\n\nThe Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060001 +0100",
             "stop_time": "20250225070000 +0100",
             "title": "Global Watch",

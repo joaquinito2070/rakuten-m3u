@@ -3,13 +3,6 @@
     "tvg_id": "naturaleza",
     "epg": [
         {
-            "start_time": "20250225050329 +0100",
-            "stop_time": "20250225060828 +0100",
-            "title": "Las Islas Canarias",
-            "description": "| +7 | Documental |\n\nAisladas en el Atlántico cerca de la costa noroeste de África, cada isla es única y ofrece una variedad de paisajes y climas. Las islas Canarias son uno de los territorios más ricos en diversidad del planeta.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060829 +0100",
             "stop_time": "20250225064044 +0100",
             "title": "Siyaya - Bienvenidos a la Naturaleza",

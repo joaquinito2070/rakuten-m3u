@@ -3,13 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250225044448 +0100",
-            "stop_time": "20250225055708 +0100",
-            "title": "Red Bull Signature Series",
-            "description": "| +12 | Deportes |\n\nIn this innovative evolution of Supercross a track is 'unwound' – no turns, just a half-mile-long straight rhythm section. The format pitted 32 riders in a head-to-head showdown of pure MX racing.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225055714 +0100",
             "stop_time": "20250225070000 +0100",
             "title": "The Turner Twins – double or nothing",

@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225042414 +0100",
-            "stop_time": "20250225052439 +0100",
-            "title": "Episodio 4",
-            "description": "| +13 | Series |\n\nUn exoficial que sirvió en los problemas con Irlanda del Norte señala las sospechas  de Boyd a los servicios de seguridad, lo que complica mucho el caso.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225052440 +0100",
             "stop_time": "20250225062512 +0100",
             "title": "Episodio 3",

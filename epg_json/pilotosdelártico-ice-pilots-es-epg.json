@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250225050031 +0100",
-            "stop_time": "20250225055850 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nUna racha de mala suerte hace que el 66 grados cumpleaños del piloto en jefe Arnie huya del infierno y amenaza con estropear su sorpresa de cumpleaños traviesa. El ayudante de rampa Jeremy está desesperado por ascender en los rangos, pero una novata podría arrojar una llave en sus planes, después de que la tripulación trabaja toda la noche para convertir el DC-4 en un tanque de gas volador.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225055851 +0100",
             "stop_time": "20250225065710 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

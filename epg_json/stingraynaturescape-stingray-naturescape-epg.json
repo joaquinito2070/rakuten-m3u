@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250225045801 +0100",
-            "stop_time": "20250225055800 +0100",
-            "title": "Lost in Paradise",
-            "description": "| +TP | Estilo de vida |\n\nA tropical island paradise to relax in. A one hour long high definition nature experience of two different remote islands hidden in the south Pacific.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225055801 +0100",
             "stop_time": "20250225065800 +0100",
             "title": "Awe Of Nature",

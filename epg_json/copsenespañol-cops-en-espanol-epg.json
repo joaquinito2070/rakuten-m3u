@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225050734 +0100",
-            "stop_time": "20250225053143 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLos oficiales se asombran cuando encuentran en el asiento trasero al hijo del conductor que chocó y se fugó.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225053150 +0100",
-            "stop_time": "20250225055559 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nDos jóvenes reaccionan muy tarde para detener a un ladrón de bicicletas y llaman a la policía pidiendo ayuda.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225055605 +0100",
             "stop_time": "20250225062014 +0100",
             "title": "Cops en Español",

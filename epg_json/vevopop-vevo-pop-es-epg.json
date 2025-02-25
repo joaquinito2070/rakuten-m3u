@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250225050001 +0100",
-            "stop_time": "20250225060000 +0100",
-            "title": "Momento Chill",
-            "description": "| +16 | Música |\n\nLos videoclips perfectos para ayudarte a relajar y comenzar el día con tranquilidad.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060001 +0100",
             "stop_time": "20250225070000 +0100",
             "title": "Live From Vevo Studios",

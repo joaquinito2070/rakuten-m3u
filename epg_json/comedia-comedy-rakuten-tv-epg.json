@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225035144 +0100",
-            "stop_time": "20250225053538 +0100",
-            "title": "Mi mejor verano",
-            "description": "| +16 | Películas |\n\nEl genial coming of age de la guionista de Community. Jamie es una chica de 16 años que ve como su vida se tambalean cuando su calculadora abuela desvela una serie de secretos en su lecho de muerte.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2256866d-7653-42d9-ada3-c664a30a58a9-snapshot-1590668873.jpeg"
-        },
-        {
             "start_time": "20250225053539 +0100",
             "stop_time": "20250225070911 +0100",
             "title": "Se nos fue de las manos",

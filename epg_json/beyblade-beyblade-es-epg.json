@@ -3,27 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250225045714 +0100",
-            "stop_time": "20250225052435 +0100",
-            "title": "La verdad sobre la luz y la oscuridad",
-            "description": "| +TP | Anime |\n\nGingka y la pandilla se sorprenden al saber que el enmascarado Phoenix es en realidad el padre de Gingka, Ryo. Ryo se disculpa con un molesto Gingka por no revelar que todavía estaba vivo. Explica que tuvo que esconderse para luchar contra la Nebulosa Oscura. Ryo le dice a Gingka y a sus amigos que son los únicos que ahora pueden derrotar a Ryuga y Lightning L-Drago.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225052436 +0100",
-            "stop_time": "20250225055157 +0100",
-            "title": "Un combate feroz: Lion contra Dragon",
-            "description": "| +TP | Anime |\n\nKyoya debe enfrentar a Ryuga en las semifinales de vida o muerte en Battle Bladers, el ganador para enfrentar a Gingka en el combate final. Kyoya se burla de Ryuga alegando que no puede enfrentarse solo a sus oponentes: primero debe robar el poder y la fuerza de otros espadachines. Ryuga acepta un desafío de Kyoya para hacer una batalla bey-to bey, sin restricciones.\nOpen",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225055158 +0100",
-            "stop_time": "20250225060000 +0100",
-            "title": "El feroz combate final",
-            "description": "| +TP | Anime |\n\nLa pandilla todavía se está recuperando de la feroz victoria de Ryuga sobre Kyoya que dejó a su amigo débil e inconsciente. Ryuga le dice a Gingka que es culpa de Gingka que todos sus amigos sufren cuando luchan contra Ryuga, ya que solo los estaba usando para reunir más poder para llegar a Gingka. Gingka se da cuenta de que debe luchar duro contra Ryuga, por el bien de sus amigos.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060001 +0100",
             "stop_time": "20250225061919 +0100",
             "title": "El feroz combate final",

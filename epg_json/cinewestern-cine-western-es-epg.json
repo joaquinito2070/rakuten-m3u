@@ -3,13 +3,6 @@
     "tvg_id": "cine-western-es",
     "epg": [
         {
-            "start_time": "20250225043845 +0100",
-            "stop_time": "20250225054428 +0100",
-            "title": "Bonanza - S1 EP20 - Los chinos",
-            "description": "| +7 | Películas |\n\nLos Cartwright acuden en ayuda de un mozo de cuadra chino-americano acusado de asesinato. Enfrente tienen a un manipulador candidato a alcalde que quiere que todos los «extranjeros» abandonen Virginia City.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225054429 +0100",
             "stop_time": "20250225065439 +0100",
             "title": "Sagebrush Trail",

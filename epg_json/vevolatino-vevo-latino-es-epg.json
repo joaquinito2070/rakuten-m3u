@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250225050001 +0100",
-            "stop_time": "20250225060000 +0100",
-            "title": "Música Chingona",
-            "description": "| +16 | Música |\n\n¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060001 +0100",
             "stop_time": "20250225070000 +0100",
             "title": "Conexión España-Latam",

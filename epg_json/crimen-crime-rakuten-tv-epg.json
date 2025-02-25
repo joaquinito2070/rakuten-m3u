@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225042032 +0100",
-            "stop_time": "20250225052104 +0100",
-            "title": "Crash",
-            "description": "| +16 | Crime |\n\nSeth cada vez está más convencido de que Dios se manifiesta a través de él, aunque Kenny tiene dudas sobre estas alucinaciones. Inez conoce a un director de Hollywood que le promete una nueva carrera.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/a202862d-c7b6-4a23-875a-34f80c039c51.jpeg"
-        },
-        {
             "start_time": "20250225052105 +0100",
             "stop_time": "20250225062550 +0100",
             "title": "Boss",

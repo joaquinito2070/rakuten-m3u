@@ -3,20 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250225050105 +0100",
-            "stop_time": "20250225052734 +0100",
-            "title": "Trucos ingeniosos y variados para uso cotidiano",
-            "description": "| +TP | Entretenimiento |\n\n¡Probamos trucos que hacen la vida más simple y resultarán beneficiosos para todo el mundo!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225052735 +0100",
-            "stop_time": "20250225055706 +0100",
-            "title": "Trucos de belleza cotidianos para acelerar tu rutina",
-            "description": "| +TP | Entretenimiento |\n\n¡Trucos de belleza que siempre serán tendencia!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225055707 +0100",
             "stop_time": "20250225063006 +0100",
             "title": "Trucos fáciles y útiles para situaciones variadas",

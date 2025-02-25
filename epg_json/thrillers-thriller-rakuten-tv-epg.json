@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225033701 +0100",
-            "stop_time": "20250225054635 +0100",
-            "title": "Cliff Walkers",
-            "description": "| +16 | Películas |\n\nCuatro agentes especiales regresan a China después de recibir entrenamiento en la Unión Soviética. En plena misión secreta, son traicionados y serán puestos al límite con múltiples amenazas.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/50ba7d31-b2a6-4c47-83a6-6045586ae2fc-xuan-ya-zhi-shang-cliff-walkers-1647865372.jpeg"
-        },
-        {
             "start_time": "20250225054636 +0100",
             "stop_time": "20250225074229 +0100",
             "title": "Mobius",

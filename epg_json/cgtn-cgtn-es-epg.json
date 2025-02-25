@@ -3,13 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250225051501 +0100",
-            "stop_time": "20250225060000 +0100",
-            "title": "EL PROYECTOR",
-            "description": "| +7 | Asian |\n\nAcérquese a la vida de la China antigua y moderna a través de las producciones dramáticas de CGTN-Español. La combinación perfecta de historia y ficción chinas en la pantalla de su televisor.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060001 +0100",
             "stop_time": "20250225063000 +0100",
             "title": "CGTN NOTICIAS",

@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225042021 +0100",
-            "stop_time": "20250225054819 +0100",
-            "title": "Yo Quiero a Eva",
-            "description": "| +16 | Películas |\n\nEva es invitada a una cena para festejar el cumpleaños de su vecino, sin sospechar que se trata de una trampa de su familia porque quieren que sean novios, pero el plan se tambalea porque son muy metiches y se meten demasiado.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/91a2bf90-ddf3-4069-ab80-cb2772733e09-yo-quiero-a-eva-1649320635.jpeg"
-        },
-        {
             "start_time": "20250225054820 +0100",
             "stop_time": "20250225072054 +0100",
             "title": "Y Apareciste Tú",

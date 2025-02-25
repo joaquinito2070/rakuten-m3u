@@ -3,13 +3,6 @@
     "tvg_id": "filmrise-sci-fi-es",
     "epg": [
         {
-            "start_time": "20250225051542 +0100",
-            "stop_time": "20250225060941 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nAndrómeda está embarcada por un dron del Consenso de Partes, una sociedad mecánica mítica. Mientras que amistoso al principio, el dron intenta forzar a la nave a unirse al Consenso.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060942 +0100",
             "stop_time": "20250225070342 +0100",
             "title": "Andromeda",

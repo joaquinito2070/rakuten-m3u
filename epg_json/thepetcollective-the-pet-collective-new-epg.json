@@ -3,20 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250225045129 +0100",
-            "stop_time": "20250225052223 +0100",
-            "title": "Countdown: The Funniest Pets",
-            "description": "| +7 | Entretenimiento |\n\nWe’ve got dogs facing their fears, cats playing with their tails, and a bonus batch of raccoon rascals!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225052229 +0100",
-            "stop_time": "20250225055423 +0100",
-            "title": "We Heart Animals",
-            "description": "| +7 | Entretenimiento |\n\nCheck out some dog's you definitely wanna roll with.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225055429 +0100",
             "stop_time": "20250225062623 +0100",
             "title": "We Heart Animals",

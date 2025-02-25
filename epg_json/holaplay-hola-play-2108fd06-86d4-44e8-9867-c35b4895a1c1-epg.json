@@ -3,20 +3,6 @@
     "tvg_id": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
     "epg": [
         {
-            "start_time": "20250225051658 +0100",
-            "stop_time": "20250225054147 +0100",
-            "title": "Royals",
-            "description": "| +13 | Estilo de vida |\n\nNieta del Archiduque Maximiliano de Austria, la bella Sofía de Habsburgo ha tenido una apasionante vida llena de luces y sombras. Interna hasta los 18 años en un convento, sus padres le dejaron ir a una fiesta en Marbella por sus buenas notas.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/563c6ef5-a446-49e4-8f19-4c7a3e12a4f0-sofia-de-habsburgo-1639642216.jpeg"
-        },
-        {
-            "start_time": "20250225054148 +0100",
-            "stop_time": "20250225061153 +0100",
-            "title": "Universo Starlite",
-            "description": "| +13 | Estilo de vida |\n\nEn este capítulo el gran Raphael se sube al escenario del Starlite Occidente para presentar su nuevo disco, Victoria, escrito y producido por el músico y compositor Pablo López.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/5a15602f-c3fb-4803-9165-03d1834f7c96.jpeg"
-        },
-        {
             "start_time": "20250225061154 +0100",
             "stop_time": "20250225064126 +0100",
             "title": "Universo Starlite",

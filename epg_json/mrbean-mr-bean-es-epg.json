@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225051405 +0100",
-            "stop_time": "20250225052704 +0100",
-            "title": "Trampa para ratas",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225052705 +0100",
-            "stop_time": "20250225054017 +0100",
-            "title": "El topo",
-            "description": "| +TP | Infantil |\n\nMr. Bean pierde el control por una plaga",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225054018 +0100",
-            "stop_time": "20250225055317 +0100",
-            "title": "En el jardín",
-            "description": "| +TP | Infantil |\n\nMr. Bean necesita una pala nueva para el jardín, pero ¿por qué comprarla si puede ganársela?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225055318 +0100",
-            "stop_time": "20250225060630 +0100",
-            "title": "Camping",
-            "description": "| +TP | Infantil |\n\nMr. Bean descubre que el mundo exterior no siempre es tan bueno",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060631 +0100",
             "stop_time": "20250225061929 +0100",
             "title": "Hotel Bean",

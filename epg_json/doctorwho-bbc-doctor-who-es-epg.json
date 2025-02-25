@@ -3,20 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250225043034 +0100",
-            "stop_time": "20250225052008 +0100",
-            "title": "Dia del padre",
-            "description": "| +7 | Series |\n\nRose es testigo del día que murió su padre pero interferir lleva a consecuencias terribles…¡y criaturas siniestras!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225052009 +0100",
-            "stop_time": "20250225060823 +0100",
-            "title": "El niño vacío",
-            "description": "| +7 | Series |\n\nLos niños huérfanos en tiempo de guerra en Londres están aterrorizados por un niño sobrenatural. Además, conocemos a cierto Capitán Jack…",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060824 +0100",
             "stop_time": "20250225065751 +0100",
             "title": "El doctor baila",

@@ -3,20 +3,6 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225050827 +0100",
-            "stop_time": "20250225053758 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El tesoro de Shinbei.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/9b22a352-74d8-4a72-aba5-5a86970c91e0.jpeg"
-        },
-        {
-            "start_time": "20250225053759 +0100",
-            "stop_time": "20250225060728 +0100",
-            "title": "Rantaro, el Ninja Boy",
-            "description": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La depresión de Rikichi.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/c94e025b-4cf6-4951-b124-9e81a9f1a11c.jpeg"
-        },
-        {
             "start_time": "20250225060729 +0100",
             "stop_time": "20250225063658 +0100",
             "title": "Rantaro, el Ninja Boy",

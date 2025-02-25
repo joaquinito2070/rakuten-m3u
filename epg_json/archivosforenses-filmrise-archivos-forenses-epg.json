@@ -3,20 +3,6 @@
     "tvg_id": "filmrise-archivos-forenses",
     "epg": [
         {
-            "start_time": "20250225050524 +0100",
-            "stop_time": "20250225053703 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nLos cuerpos de varias mujeres se encuentran en una colina distante en California.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225053704 +0100",
-            "stop_time": "20250225060712 +0100",
-            "title": "Forensic Files",
-            "description": "| +12 | Series |\n\nEn el estreno de la serie \"Archivos Forenses\" (Forensic Files), una asistente de vuelo desaparece.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060713 +0100",
             "stop_time": "20250225063850 +0100",
             "title": "Forensic Files",

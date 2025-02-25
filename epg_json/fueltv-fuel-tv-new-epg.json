@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225050001 +0100",
-            "stop_time": "20250225053000 +0100",
-            "title": "The Adventures of Danny and the Dingo - Season 4 - Dingo vs. Wild",
-            "description": "| +7 | Deportes |\n\nDanny &amp; The Dingo head to the Grenade Games and stop in Canada for a dog sled race.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225053001 +0100",
-            "stop_time": "20250225060000 +0100",
-            "title": "The Adventures of Danny and the Dingo - Season 4 - The Games",
-            "description": "| +7 | Deportes |\n\nThe Grenade Games stakes are high with lots of cash, a new Chevy Camaro up for grabs and a piñata in the mi...",
-            "icon": ""
-        },
-        {
             "start_time": "20250225060001 +0100",
             "stop_time": "20250225063000 +0100",
             "title": "The Gypsea Tour",

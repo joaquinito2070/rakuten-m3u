@@ -3,13 +3,6 @@
     "tvg_id": "qwest-tv",
     "epg": [
         {
-            "start_time": "20250225034901 +0100",
-            "stop_time": "20250225051900 +0100",
-            "title": "Derya Yıldırım & Grup Şimşek",
-            "description": "| +TP | Música |\n\nThe multi-instrumentist singer pays tribute to her Turkish roots combined with jazz and pop influences.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225051901 +0100",
             "stop_time": "20250225063400 +0100",
             "title": "Asa - Live at Art Rock Festival",
