@@ -3,41 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250225004501 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Encore",
-            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225011500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225011501 +0100",
-            "stop_time": "20250225013000 +0100",
-            "title": "Talking Europe",
-            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013001 +0100",
-            "stop_time": "20250225014500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225014501 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "Talking Europe",
-            "description": "| +7 | Noticias |\n\nPoliticians, activists and researchers debate the issues facing the EU and a 'guest of the week' offers their insight in a long-format interview that gets to the heart of the matter.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225021500 +0100",
             "title": "News",

@@ -3,20 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250225004959 +0100",
-            "stop_time": "20250225011445 +0100",
-            "title": "Dispositivos para el hogar que necesitas en tu vida",
-            "description": "| +TP | Entretenimiento |\n\n¡Mira estos dispositivos que harán tu rutina cotidiana mucho más fácil!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225011446 +0100",
-            "stop_time": "20250225014332 +0100",
-            "title": "¡dispositivos caseros y originales!",
-            "description": "| +TP | Entretenimiento |\n\n¡Dispositivos originales y caseros VS. dispositivos de verdad!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225014333 +0100",
             "stop_time": "20250225020826 +0100",
             "title": "Trucos cotidianos para tu ropa",

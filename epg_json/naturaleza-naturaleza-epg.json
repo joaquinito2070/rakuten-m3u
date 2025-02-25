@@ -3,20 +3,6 @@
     "tvg_id": "naturaleza",
     "epg": [
         {
-            "start_time": "20250225001426 +0100",
-            "stop_time": "20250225011922 +0100",
-            "title": "Chile: Un Viaje Salvaje",
-            "description": "| +7 | Documental |\n\nPelear en el reino animal es mucho más que una demostración de quién es el más fuerte.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225011923 +0100",
-            "stop_time": "20250225015344 +0100",
-            "title": "Arkeo (esp)",
-            "description": "| +7 | Documental |\n\nEn el corazón de los Andes, Perú y Bolivia comparten uno de los lugares más sagrados de América Latina: el Lago Titicaca.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225015345 +0100",
             "stop_time": "20250225022559 +0100",
             "title": "Arkeo (esp)",

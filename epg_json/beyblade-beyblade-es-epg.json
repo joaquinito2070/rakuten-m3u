@@ -3,20 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250225005054 +0100",
-            "stop_time": "20250225011815 +0100",
-            "title": "La pugna entre Fireblaze y Pegasus",
-            "description": "| +TP | Anime |\n\nPhoenix lucha contra Tsubasa diciendo que si puede vencer a Phoenix, puede luchar contra Gingka. Phoenix supera a Tsubasa en una intensa batalla y luego desafía a Gingka. Cuando Gingka se encuentra contra la pared, Phoenix le recuerda el voto que hizo de que si pierde una batalla, dejará de ser beyblading para siempre.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225011816 +0100",
-            "stop_time": "20250225014537 +0100",
-            "title": "¡Al Combate de los Bladers!",
-            "description": "| +TP | Anime |\n\n¡Comienza Battle Bladers! Gingka y sus amigos llegan a la gran competencia de Battle Bladers, donde descubren que Doji está a cargo y los emparejamientos de batalla parecen un poco a su favor. No importa, Benkei derriba al Capitán Capri, Kenta vence a Tetsuya y en un impresionante combate final, Gingka elimina a Yu.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225014538 +0100",
             "stop_time": "20250225021259 +0100",
             "title": "El terror de la serpiente",

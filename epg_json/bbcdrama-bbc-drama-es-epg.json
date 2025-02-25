@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225002237 +0100",
-            "stop_time": "20250225012314 +0100",
-            "title": "Episodio 8",
-            "description": "| +13 | Series |\n\nEl gángster responsable de los cuerpo detrás de las paredes de la casa de Notting Hill sigue activo hoy y los eventos pasados provocan más asesinatos y una guerra de poder internacional.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225012315 +0100",
             "stop_time": "20250225022322 +0100",
             "title": "Episodio 1",

@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225002117 +0100",
-            "stop_time": "20250225014740 +0100",
-            "title": "Misión Katmandú",
-            "description": "| +12 | Infantil |\n\nUn detective novato, un asistente de investigación en la universidad, y un filántropo desorganizado se embarcan en una loca aventura para encontrar al Abominable Hombre de las Nieves en los Himalayas.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/db435440-80a3-4c09-abbc-14ef1cd359a3.jpeg"
-        },
-        {
             "start_time": "20250225014741 +0100",
             "stop_time": "20250225033250 +0100",
             "title": "Jóvenes extraordinarios",

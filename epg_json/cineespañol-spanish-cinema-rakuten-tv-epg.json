@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224235932 +0100",
-            "stop_time": "20250225015817 +0100",
-            "title": "Nubes De Cartón",
-            "description": "| +16 | Películas |\n\nMiguel es un mendigo aislado de la sociedad, que sobrevive en la calles, tras la muerte de su madre. Su hermana menor Irene es lo único que le queda, pero ella le odia por todos los errores que cometió, en un oscuro pasado envuelto en alcohol y drogas.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/2addfb59-3004-4d2d-93ad-06900fd82f28-nubes-de-carton-1649243498.jpeg"
-        },
-        {
             "start_time": "20250225015818 +0100",
             "stop_time": "20250225033659 +0100",
             "title": "Concursante",

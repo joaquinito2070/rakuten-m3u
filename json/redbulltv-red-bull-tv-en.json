@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/red-bull-tv-en/master.m3u8",
     "qualities": [
         {
-            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/12c83b46-82ec-4421-8313-1f31a6492f32/0.m3u8",
+            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/6099c716-1dde-44a2-8b07-c42ed2af5ffb/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "3075600",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/12c83b46-82ec-4421-8313-1f31a6492f32/1.m3u8",
+            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/6099c716-1dde-44a2-8b07-c42ed2af5ffb/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64002a",
                 "AVERAGE-BANDWIDTH": "6318400",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/12c83b46-82ec-4421-8313-1f31a6492f32/2.m3u8",
+            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/6099c716-1dde-44a2-8b07-c42ed2af5ffb/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1315600",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/12c83b46-82ec-4421-8313-1f31a6492f32/3.m3u8",
+            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/6099c716-1dde-44a2-8b07-c42ed2af5ffb/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "AVERAGE-BANDWIDTH": "765600",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/12c83b46-82ec-4421-8313-1f31a6492f32/4.m3u8",
+            "url": "https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/6099c716-1dde-44a2-8b07-c42ed2af5ffb/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64000d",
                 "AVERAGE-BANDWIDTH": "435600",

@@ -3,20 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250225000001 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Made In Spain",
-            "description": "| +16 | Música |\n\n¡La mejor música hecha en España! Disfruta de las mejores voces del país de la mano de decenas de artistas nacionales. ",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "Éxitos de siempre",
-            "description": "| +16 | Música |\n\nLos grandes éxitos de los 2000 y 2010 para viajar en el tiempo a través de la música!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225030000 +0100",
             "title": "Vevo en Vivo",

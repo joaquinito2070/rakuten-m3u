@@ -3,27 +3,6 @@
     "tvg_id": "newsworld",
     "epg": [
         {
-            "start_time": "20250225003001 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "The News",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225013000 +0100",
-            "title": "State Of The Nation Replay",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013001 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "State Of The Nation Replay",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225023000 +0100",
             "title": "ABC News At Noon",

@@ -3,13 +3,6 @@
     "tvg_id": "filmrise-sci-fi-es",
     "epg": [
         {
-            "start_time": "20250225004545 +0100",
-            "stop_time": "20250225013944 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nLos Castalians abordan el Andrómeda para finalizar la carta de la Nueva Mancomunidad. Cuando el líder es descubierto muerto, Tyr es el principal sospechoso.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225013945 +0100",
             "stop_time": "20250225023343 +0100",
             "title": "Andromeda",

@@ -3,13 +3,6 @@
     "tvg_id": "qwest-tv",
     "epg": [
         {
-            "start_time": "20250225003401 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "Chillin’ with Qwest TV",
-            "description": "| +TP | Música |\n\nEnjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225034900 +0100",
             "title": "Ethiopiques Magnetic Suite",

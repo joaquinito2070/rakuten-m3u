@@ -3,27 +3,6 @@
     "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
     "epg": [
         {
-            "start_time": "20250225004915 +0100",
-            "stop_time": "20250225011441 +0100",
-            "title": "My Brother's Keeper",
-            "description": "| +16 | Noticias |\n\nMohamedou Ould Salahi and one of his former guards, Steve Wood, reunite in Mauritania 13 years after last seeing each other, rekindling an unlikely relationship that profoundly changed their lives.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/e8336df5-1f9d-4b26-819c-2bde28633b02-my-brother-s-keeper-1642071904.jpeg"
-        },
-        {
-            "start_time": "20250225011442 +0100",
-            "stop_time": "20250225013333 +0100",
-            "title": "Italian mafia’s cocaine trafficking leaves trail of drug devastation among poor of Brazil",
-            "description": "| +16 | Noticias |\n\nThe all-powerful Calabrian crime syndicate 'Ndrangheta has forged a deadly network of drug trafficking routes through Brazil – 80% of all cocaine arriving in Europe comes through the country's Santos port.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013334 +0100",
-            "stop_time": "20250225015113 +0100",
-            "title": "From California gang to Mexican vigilante | The final interview with a legendary journalist",
-            "description": "| +16 | Noticias |\n\nFrom California gang to Mexican vigilante: the family man fighting the drug cartels in Mexico | Murdered in Mexico: the final interview with a legendary journalist",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/66808304-b063-414d-b82a-7e11554b97cf.jpeg"
-        },
-        {
             "start_time": "20250225015114 +0100",
             "stop_time": "20250225021523 +0100",
             "title": "RIP SENI: racism, graffiti and the UK's mental health crisis",

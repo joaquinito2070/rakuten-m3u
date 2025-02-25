@@ -3,27 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250225003001 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Eduardo & Gabriela’s Guest Retreat",
-            "description": "| +TP | Estilo de vida |\n\nEduardo and Gabriela's ‘little’ home projects have piled up and they’re ready for Drew’s help.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225013000 +0100",
-            "title": "Prismatic & Patterned LA Bungalow",
-            "description": "| +TP | Estilo de vida |\n\nPeek inside Los Angeles-based designer Dani Dazey’s pink bungalow in Highland Park, California.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013001 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "Moody & Masculine Mid-Century Style",
-            "description": "| +TP | Estilo de vida |\n\nLos Angeles-based designer, Eddie Mickenberg welcomes you into this Encino, California home.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225023000 +0100",
             "title": "Historical Modern Heirloom Estate",

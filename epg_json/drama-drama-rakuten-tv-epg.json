@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224231323 +0100",
-            "stop_time": "20250225010539 +0100",
-            "title": "Hermanos",
-            "description": "| +16 | Películas |\n\nUn joven consuela a la esposa y a los hijos de su hermano mayor tras su desaparición en Afganistán.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/bf547df3-6e95-4057-9c38-9840cc85511d-brothers-2009-1649246172.jpeg"
-        },
-        {
             "start_time": "20250225010540 +0100",
             "stop_time": "20250225025248 +0100",
             "title": "1911",

@@ -3,20 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250225000001 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Lo Más Pegao",
-            "description": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "Sonido Urbano",
-            "description": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225030000 +0100",
             "title": "DSCVR New Music Latino",

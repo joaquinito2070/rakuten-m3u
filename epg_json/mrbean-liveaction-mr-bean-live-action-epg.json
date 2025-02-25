@@ -3,27 +3,6 @@
     "tvg_id": "mr-bean-live-action",
     "epg": [
         {
-            "start_time": "20250225002707 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Mr Bean Rides Again",
-            "description": "| +TP | Series |\n\nMr Bean resuscitates a heart attack victim at the bus stop.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225012823 +0100",
-            "title": "Merry Christmas Mr Bean",
-            "description": "| +TP | Series |\n\nMr Bean goes Christmas shopping, conducts a Salvation Army band.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225012824 +0100",
-            "stop_time": "20250225015855 +0100",
-            "title": "Mr Bean in Room 426",
-            "description": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225015856 +0100",
             "stop_time": "20250225022719 +0100",
             "title": "Mind the Baby, Mr Bean",

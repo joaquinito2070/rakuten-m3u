@@ -3,27 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250225004501 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "NIHAO CHINA",
-            "description": "| +7 | Asian |\n\nEs la clase de chino de CGTN-Español. Las series “Aprendamos juntos pinyin”, “Comunícate en chino” y “Viajando y aprendiendo chino”, abordan diferentes niveles de aprendizaje de la nueva lengua de moda en el mundo, brindando así a los televidentes la posibilidad de ampliar su vocabulario, mejorar su gramática y dominar las frases y expresiones más usuales del idioma con más hablantes en el planeta.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225013000 +0100",
-            "title": "DOCUMENTAL",
-            "description": "| +7 | Asian |\n\nPresentapersonajes y acontecimientos típicos, avances y descubrimientos tecnológicos y científicos,  y la civilización social de China.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013001 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "ASÍ ES CHINA",
-            "description": "| +7 | Asian |\n\nDescubre para el televidente el gran legado cultural e histórico de las distintas regiones y etnias de China. También le acerca a la vida y las costumbres de la gente común y le muestra la evolución del país en aspectos como educación, sociedad y protección del medio ambiente y del patrimonio histórico y natural.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225023000 +0100",
             "title": "CGTN NOTICIAS",

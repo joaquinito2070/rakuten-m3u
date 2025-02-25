@@ -3,27 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225000001 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Americas Now",
-            "description": "| +7 | Asian |\n\nAmericas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225013000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013001 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "Faces of Africa",
-            "description": "| +7 | Asian |\n\nFaces of Africa is a topical magazine that showcases the diversity of the continent.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225023000 +0100",
             "title": "The World Today",

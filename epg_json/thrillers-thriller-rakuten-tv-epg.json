@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250224232622 +0100",
-            "stop_time": "20250225012732 +0100",
-            "title": "Rememory",
-            "description": "| +16 | Películas |\n\nGordon Dunn, un pionero y afamado científico, es encontrado muerto justo después de revelar su nuevo trabajo: una máquina capaz de extraer, grabar y reproducir las emociones de las personas.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/6bda4e89-cf22-44af-a8b9-99df552f367b-snapshot-1590659170.jpeg"
-        },
-        {
             "start_time": "20250225012733 +0100",
             "stop_time": "20250225033700 +0100",
             "title": "Valkiria",

@@ -3,48 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225005305 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Corte de pelo",
-            "description": "| +TP | Infantil |\n\nMr. Bean tiene un mal día con su pelo",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225010616 +0100",
-            "title": "Corte de pelo",
-            "description": "| +TP | Infantil |\n\nMr. Bean tiene un mal día con su pelo",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010617 +0100",
-            "stop_time": "20250225011916 +0100",
-            "title": "Super Espia",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225011917 +0100",
-            "stop_time": "20250225013228 +0100",
-            "title": "Limpieza de primavera",
-            "description": "| +TP | Infantil |\n\nMr. Bean se da cuenta de que la limpieza puede ser un trabajo muy sucio",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013229 +0100",
-            "stop_time": "20250225014528 +0100",
-            "title": "Guerra de coches",
-            "description": "| +TP | Infantil |\n\nMr. Bean construye una máquina lavacoches que atrae a todo tipo de clientes.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225014529 +0100",
-            "stop_time": "20250225015827 +0100",
-            "title": "Cajero automático",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
             "start_time": "20250225015828 +0100",
             "stop_time": "20250225021127 +0100",
             "title": "periódico El",

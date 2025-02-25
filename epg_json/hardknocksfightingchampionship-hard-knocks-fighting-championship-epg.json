@@ -3,27 +3,6 @@
     "tvg_id": "hard-knocks-fighting-championship",
     "epg": [
         {
-            "start_time": "20250225005559 +0100",
-            "stop_time": "20250225011518 +0100",
-            "title": "M-1 Challenge 83 - Raul Tutarauli v. Vladimir Kanunnikov",
-            "description": "| +12 | Deportes |\n\nRaul Tutarauli v. Vladimir Kanunnikov",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225011519 +0100",
-            "stop_time": "20250225013316 +0100",
-            "title": "M-1 Challenge 88 - Movsar Evloev v. Sergey Morozov",
-            "description": "| +12 | Deportes |\n\nMovsar Evloev v. Sergey Morozov",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013317 +0100",
-            "stop_time": "20250225015348 +0100",
-            "title": "M-1 Challenge 76 - Sergey Morozov v. Fabricio Viegas Sarraff",
-            "description": "| +12 | Deportes |\n\nSergey Morozov v. Fabricio Viegas Sarraff",
-            "icon": ""
-        },
-        {
             "start_time": "20250225015349 +0100",
             "stop_time": "20250225021430 +0100",
             "title": "Shock n Awe 13 - Callum Jones v. Rikki Fortuna",

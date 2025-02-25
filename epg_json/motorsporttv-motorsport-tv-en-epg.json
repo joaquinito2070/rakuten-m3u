@@ -3,20 +3,6 @@
     "tvg_id": "motorsport-tv-en",
     "epg": [
         {
-            "start_time": "20250225002924 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Fusion, Motorsport meets Sim Racing",
-            "description": "| +TP | Deportes |\n\nBMW Motorsport merges reality and simulation. BMW Group Motorsport team collaborates with Fanatec to develop the new BMW M4 GT3 steering wheel.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010006 +0100",
-            "stop_time": "20250225020259 +0100",
-            "title": "Adventure Bike",
-            "description": "| +TP | Deportes |\n\nThe team get 3 of the big hitters, the BMW 1250 GSA, the KTM 1290 Adventure S and the Ducati Multistrada Enduro, and test them head to head. In part 4 of Tales from the Trails, Graham and Sam gang up of Tom and Graham Rides the roads in Scotland.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020305 +0100",
             "stop_time": "20250225023312 +0100",
             "title": "Banned F1 Tech",

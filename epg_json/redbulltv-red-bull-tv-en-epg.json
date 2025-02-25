@@ -3,13 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250224232037 +0100",
-            "stop_time": "20250225010515 +0100",
-            "title": "Au Revoir",
-            "description": "| +12 | Deportes |\n\nA competitive family legacy, a brotherly rivalry that fuelled his rise, and a last act on the water. Au Revoir is the wakeboarding ride of a lifetime as Raph Derome retires from the competitive sport.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225010521 +0100",
             "stop_time": "20250225021638 +0100",
             "title": "Red Bull Signature Series",

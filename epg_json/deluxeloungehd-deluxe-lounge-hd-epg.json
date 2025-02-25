@@ -3,13 +3,6 @@
     "tvg_id": "deluxe-lounge-hd",
     "epg": [
         {
-            "start_time": "20250224235001 +0100",
-            "stop_time": "20250225015000 +0100",
-            "title": "Dusk Dawn Lounge",
-            "description": "| +7 | Música |\n\nDeluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225015001 +0100",
             "stop_time": "20250225025500 +0100",
             "title": "Beach Lounge",

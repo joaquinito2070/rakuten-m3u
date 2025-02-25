@@ -3,27 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225003001 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Moments",
-            "description": "| +7 | Deportes |\n\n\"Moments\" showcases the personalities of  surfers Dane Reynolds, Clay Marzo, Craig Anderson and Kelly Slate...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225013000 +0100",
-            "title": "Behind the Gate - 2023 - FIM MXoN",
-            "description": "| +7 | Deportes |\n\nEverything reunited for some tough and fierce motocross battles.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013001 +0100",
-            "stop_time": "20250225020000 +0100",
-            "title": "Behind the Gate - 2024 - Time for Redemption",
-            "description": "| +7 | Deportes |\n\nJorge Prado defends his title in 2024 MXGP, as rivals Herlings, Gajser, and Febvre seek redemption.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020001 +0100",
             "stop_time": "20250225023000 +0100",
             "title": "The Captain and Casey Show - Season 5 - Super Heroes",

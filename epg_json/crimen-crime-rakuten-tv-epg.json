@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225004345 +0100",
-            "stop_time": "20250225013620 +0100",
-            "title": "See no evil",
-            "description": "| +16 | Crime |\n\nLa noche de San Valentín de 2015, James Enright, de 27 años, es apuñalado hasta la muerte fuera de una concurrida estación de tren en Burnaby, Canadá. A pesar de las grabaciones del ataque en teléfonos móviles, la policía tiene dificultades para identificar a su asesino.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/91cdcbf1-3bb3-4e0e-88cf-a6bd5380ed68.jpeg"
-        },
-        {
             "start_time": "20250225013621 +0100",
             "stop_time": "20250225022506 +0100",
             "title": "Kill Point",

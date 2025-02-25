@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250225005901 +0100",
-            "stop_time": "20250225015900 +0100",
-            "title": "Dolphin Voyage Relaxation",
-            "description": "| +TP | Estilo de vida |\n\nUnderwater cinematography, a synergistic blend of audio including underwater nature sounds, and calming ambient music combine to induce relaxtion in the deep blue calming ocean with a pod of friendly dolphins.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225015901 +0100",
             "stop_time": "20250225025900 +0100",
             "title": "Bulog Dos Island",

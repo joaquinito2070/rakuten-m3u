@@ -3,41 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250225000001 +0100",
-            "stop_time": "20250225010000 +0100",
-            "title": "Live DJ Set",
-            "description": "| +12 | Música |\n\nEvery Thursday & Friday, Clubbing TV welcome an artist in its studios for one hour of LIVE DJ Set. In this weekly show, viewers will be able to discover new talents and to re-discover world-renowned Dj's. \n",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010001 +0100",
-            "stop_time": "20250225010800 +0100",
-            "title": "Put Your Hands Up ",
-            "description": "| +12 | Música |\n\nOur reports and aftermovies from electronic music festivals all over the world. Our Clubbing TV teams are travelling all over the world to guide you through those amazing party spots ! Interviews with DJs, clubbers and event organizers, there is no escape from our cameras !",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010801 +0100",
-            "stop_time": "20250225011600 +0100",
-            "title": "Rendez-vous",
-            "description": "| +12 | Música |\n\nInterviews with the world's famous DJs and producers. Clubbing TV meets with talents of all genres: Big Room stars or underground heroes, legendary or upcoming artist, we got them all on Clubbing TV !",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225011601 +0100",
-            "stop_time": "20250225012000 +0100",
-            "title": "Weekly Clip Selection",
-            "description": "| +12 | Música |\n\nClubbing TV specially curated weekly clip selection!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225012001 +0100",
-            "stop_time": "20250225020200 +0100",
-            "title": "Music Video Hits",
-            "description": "| +12 | Música |\n\nWhere mainstream and underground meet. Let's cross over the genres and let yourself be surprised. Because some electronic music tracks cannot be labeled.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225020201 +0100",
             "stop_time": "20250225020800 +0100",
             "title": "Weekly Clip Selection",

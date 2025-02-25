@@ -3,27 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225004500 +0100",
-            "stop_time": "20250225010839 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna pelea entre papá y mamá se convierte violenta, y los niños llaman a la policía.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225010845 +0100",
-            "stop_time": "20250225013109 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLes divierte a los oficiales un sospechoso usual con dinero en su zapato.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225013115 +0100",
-            "stop_time": "20250225015509 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLa policía toma medidas desesperadas con un sospechoso combativo que no para de pelear.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225015515 +0100",
             "stop_time": "20250225021924 +0100",
             "title": "Cops en Español",
