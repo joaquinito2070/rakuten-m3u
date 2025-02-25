@@ -3,34 +3,6 @@
     "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
     "epg": [
         {
-            "start_time": "20250225090133 +0100",
-            "stop_time": "20250225092607 +0100",
-            "title": "On the Ground",
-            "description": "| +16 | Noticias |\n\n'I'm a Windrush baby': rebuilding a lost legacy through music | Inside the NHS at 75: ‘Used and abused, overworked and underpaid’",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/6955ae7d-6cad-4691-a936-7a687d0e18be.jpg"
-        },
-        {
-            "start_time": "20250225092608 +0100",
-            "stop_time": "20250225094701 +0100",
-            "title": "The new arrivals",
-            "description": "| +16 | Noticias |\n\nAn examination of the lives refugees are leading as they settle in the UK and other big European nations.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/5d717c3b-bc0b-44ea-98c4-9fe58f9424ec.jpg"
-        },
-        {
-            "start_time": "20250225094702 +0100",
-            "stop_time": "20250225100334 +0100",
-            "title": "Why?",
-            "description": "| +16 | Noticias |\n\nWhy Christmas was once illegal | Why 'stronger borders' don't work",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/e16a8234-1cab-4b8d-a33b-91b3c54ece83.jpg"
-        },
-        {
-            "start_time": "20250225100335 +0100",
-            "stop_time": "20250225101446 +0100",
-            "title": "The Pegasus project",
-            "description": "| +16 | Noticias |\n\nA special investigation into NSO Group, which sells hacking spyware to governments.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4d780368-edeb-4c20-be24-10796568a293.jpg"
-        },
-        {
             "start_time": "20250225101447 +0100",
             "stop_time": "20250225103208 +0100",
             "title": "America's soccer migrants: the US footballers crossing Mexico's border",

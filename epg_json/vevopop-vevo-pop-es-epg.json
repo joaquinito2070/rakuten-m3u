@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250225090001 +0100",
-            "stop_time": "20250225100000 +0100",
-            "title": "Café & Relax",
-            "description": "| +16 | Música |\n\nCanciones para despertarse con tranquilidad y empezar en día con buen pie y buen humor.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100001 +0100",
             "stop_time": "20250225110000 +0100",
             "title": "De Buena Mañana",

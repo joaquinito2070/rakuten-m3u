@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225091010 +0100",
-            "stop_time": "20250225092321 +0100",
-            "title": "En rosa",
-            "description": "| +TP | Infantil |\n\nMr. Bean es importunado por un animal rosa",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225092322 +0100",
-            "stop_time": "20250225093622 +0100",
-            "title": "Bean Bug",
-            "description": "| +TP | Infantil |\n\nScrapper le da pulgas a Bean, y Bean se ve obligado a llamar a la persona encargada del control de plagas.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093623 +0100",
-            "stop_time": "20250225094922 +0100",
-            "title": "Running On Empty",
-            "description": "| +TP | Infantil |\n\nMr Bean se dirige a la playa cuando el mini se queda sin gasolina.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225094923 +0100",
-            "stop_time": "20250225100234 +0100",
-            "title": "¡Fuera calzos!",
-            "description": "| +TP | Infantil |\n\nEl hobby de Mr. Bean no va tan bien como esperaba",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100235 +0100",
             "stop_time": "20250225101547 +0100",
             "title": "Rayo de sol",

@@ -3,20 +3,6 @@
     "tvg_id": "naturaleza",
     "epg": [
         {
-            "start_time": "20250225085052 +0100",
-            "stop_time": "20250225092529 +0100",
-            "title": "Arkeo (esp)",
-            "description": "| +7 | Documental |\n\nTodo el mundo ha oído hablar de los griegos, los romanos y los celtas. Estas brillantes y prósperas civilizaciones han marcado la historia de Europa y de la cuenca mediterránea.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225092530 +0100",
-            "stop_time": "20250225100111 +0100",
-            "title": "Planeta Selva",
-            "description": "| +7 | Documental |\n\nLa península de Florida acapara una inmensa riqueza forestal adaptada a los humedales y pantanales.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100112 +0100",
             "stop_time": "20250225110124 +0100",
             "title": "Tecnología Natural",

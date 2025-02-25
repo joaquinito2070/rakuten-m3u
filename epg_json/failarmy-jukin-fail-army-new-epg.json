@@ -3,20 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250225090340 +0100",
-            "stop_time": "20250225093534 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nWear a helmet, watch your step, and don't do what these people did. You'll hurt yourself!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093540 +0100",
-            "stop_time": "20250225100734 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nOops!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100740 +0100",
             "stop_time": "20250225103934 +0100",
             "title": "FailFactory",

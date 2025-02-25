@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225072859 +0100",
-            "stop_time": "20250225092642 +0100",
-            "title": "Un hombre de familia",
-            "description": "| +16 | Películas |\n\nÉsta es la emotiva historia de un hombre en busca de la redención. Un empresario de alto nivel (Gerard Butler) recibe la oportunidad de controlar su compañía de trabajo, pero para lograrlo tendrá que poner a su familia de por medio.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/07769ef1-ed42-47b3-b20b-748aeaa7094e.jpeg"
-        },
-        {
             "start_time": "20250225092643 +0100",
             "stop_time": "20250225120406 +0100",
             "title": "La Directora de orquesta",

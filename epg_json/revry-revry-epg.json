@@ -3,20 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250225075506 +0100",
-            "stop_time": "20250225093000 +0100",
-            "title": "The Sleepover",
-            "description": "| +TP | Entretenimiento |\n\nEx-girlfriends Tabby and Heidi spend the night together at a friend’s sleepover.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093006 +0100",
-            "stop_time": "20250225100000 +0100",
-            "title": "Flunk",
-            "description": "| +TP | Entretenimiento |\n\nBrayden fears for Ingrid – no one’s seen her since Ed’s party.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100006 +0100",
             "stop_time": "20250225103000 +0100",
             "title": "Flunk",

@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250225090001 +0100",
-            "stop_time": "20250225100000 +0100",
-            "title": "Latino Chill",
-            "description": "| +16 | Música |\n\nBaladas y música latina tranquilita, para empezar la mañana con calma.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100001 +0100",
             "stop_time": "20250225110000 +0100",
             "title": "Sabor Tropical",

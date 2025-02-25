@@ -3,13 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250225083954 +0100",
-            "stop_time": "20250225093113 +0100",
-            "title": "Los muertos inquietos",
-            "description": "| +7 | Series |\n\nCharles Dickens y el Doctor se unen cuando los cadáveres acechan las calles de Cardiff.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225093114 +0100",
             "stop_time": "20250225102302 +0100",
             "title": "Extranjeros de Londres",

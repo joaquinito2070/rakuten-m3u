@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225081635 +0100",
-            "stop_time": "20250225095638 +0100",
-            "title": "Los que tocan el piano",
-            "description": "| +16 | Películas |\n\nCayetana, su novio Paco y Venancio, su hermano de leche, cometen pequeños hurtos y, de vez en cuando, pasan unos días en la cárcel",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/8c3a82ba-a7fa-4c45-b0f1-221156876ce0.jpeg"
-        },
-        {
             "start_time": "20250225095639 +0100",
             "stop_time": "20250225114128 +0100",
             "title": "María (y los demás)",

@@ -3,20 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225090939 +0100",
-            "stop_time": "20250225093318 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna mujer excéntrica acusa a un hombre de querer robarle el pelo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093325 +0100",
-            "stop_time": "20250225095549 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn hombre puede ignorar y no pagar la pensión alimenticia, pero no puede escapar de la policía.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225095555 +0100",
             "stop_time": "20250225102004 +0100",
             "title": "Cops en Español",

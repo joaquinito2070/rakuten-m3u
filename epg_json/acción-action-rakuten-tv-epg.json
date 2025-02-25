@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225082212 +0100",
-            "stop_time": "20250225095456 +0100",
-            "title": "Rescate en Afganistán",
-            "description": "| +16 | Películas |\n\nUn comando de las operaciones especiales, liderado por el experto francotirador Jake Chandler, es enviado a un poblado de Afganistan para rescatar a un congresista capturado por los talibanes. La misión es un éxito, pero Jake, se queda en el campo de batalla para salvar a un soldado herido.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/52c69e4c-e70a-4459-86da-ba7af42828d0.jpeg"
-        },
-        {
             "start_time": "20250225095457 +0100",
             "stop_time": "20250225121450 +0100",
             "title": "The Unthinkable",

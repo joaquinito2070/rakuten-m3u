@@ -3,13 +3,6 @@
     "tvg_id": "mavtv-motorsports-network-new",
     "epg": [
         {
-            "start_time": "20250225080001 +0100",
-            "stop_time": "20250225100000 +0100",
-            "title": "SpeedFreaks",
-            "description": "| +7 | Deportes |\n\nCombining motorsports commentary, entertainment and lifestyle.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100001 +0100",
             "stop_time": "20250225120000 +0100",
             "title": "Speed Freaks",

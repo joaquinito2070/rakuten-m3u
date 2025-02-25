@@ -3,27 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225090001 +0100",
-            "stop_time": "20250225093000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093001 +0100",
-            "stop_time": "20250225100000 +0100",
-            "title": "Sports Scene",
-            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225101500 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225101501 +0100",
             "stop_time": "20250225103000 +0100",
             "title": "Global Business",

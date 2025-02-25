@@ -3,20 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250225090529 +0100",
-            "stop_time": "20250225093723 +0100",
-            "title": "Best Pets of the Month",
-            "description": "| +7 | Entretenimiento |\n\nThese pets won January '20. But after watching these clips, the real winner is you.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093729 +0100",
-            "stop_time": "20250225100923 +0100",
-            "title": "TPC That's My Pet",
-            "description": "| +7 | Entretenimiento |\n\nDid you know that a group of young rabbits are called kittens?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100929 +0100",
             "stop_time": "20250225104123 +0100",
             "title": "TPC That's My Pet",

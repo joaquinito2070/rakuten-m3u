@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250225085350 +0100",
-            "stop_time": "20250225095002 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nAJ y Candace se casan en el Castillo de Hielo. Un frustrado Chuck intenta que la Electra le pague. Mikey, desconcertado, intenta hornear un pastel para el cumpleaños de Joe. Y en Terranova, una fuga de combustible, un curso de supervivencia aleccionador y un trágico choque sacudieron a la tripulación de Turquía. Cuando los fuertes vientos brinden la ventana meteorológica tan esperada.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225095003 +0100",
             "stop_time": "20250225104614 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225082055 +0100",
-            "stop_time": "20250225100601 +0100",
-            "title": "Mi Amigo Raffi",
-            "description": "| +12 | Infantil |\n\nRaffi es un hamster dorado cuyo dueño es Sammy, un niño de ocho años. El pequeño roedor no es un hamster cualquiera: no sólo puede marcar goles con un balón de fútbol sino que también puede oler y detectar materiales de contrabando, mejor que un perro policía. Un día Raffi desaparece.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/5f6ee939-23e9-44f2-92fa-f00db5633603.jpeg"
-        },
-        {
             "start_time": "20250225100602 +0100",
             "stop_time": "20250225113553 +0100",
             "title": "P3K: Pinocho 3000",

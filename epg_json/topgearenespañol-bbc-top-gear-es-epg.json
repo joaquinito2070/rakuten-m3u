@@ -3,13 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250225085827 +0100",
-            "stop_time": "20250225095701 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nLa estrella de la Fórmula 1 Lewis Hamilton y el cantante James Blunt son los invitados en el estudio.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225095707 +0100",
             "stop_time": "20250225105611 +0100",
             "title": "Top Gear UK",

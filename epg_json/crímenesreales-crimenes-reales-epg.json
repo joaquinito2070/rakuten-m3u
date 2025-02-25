@@ -3,13 +3,6 @@
     "tvg_id": "crimenes-reales",
     "epg": [
         {
-            "start_time": "20250225090025 +0100",
-            "stop_time": "20250225095916 +0100",
-            "title": "The FBI Files : Secretos de familia",
-            "description": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225095917 +0100",
             "stop_time": "20250225105417 +0100",
             "title": "The New Detectives : Dinero de sangre",

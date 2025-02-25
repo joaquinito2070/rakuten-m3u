@@ -3,13 +3,6 @@
     "tvg_id": "oficios-perdidos",
     "epg": [
         {
-            "start_time": "20250225090000 +0100",
-            "stop_time": "20250225095959 +0100",
-            "title": "Oficios Perdidos",
-            "description": "| +TP | Documental |\n\n",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100000 +0100",
             "stop_time": "20250225105959 +0100",
             "title": "Oficios Perdidos",

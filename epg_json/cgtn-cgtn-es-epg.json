@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250225090001 +0100",
-            "stop_time": "20250225093000 +0100",
-            "title": "CGTN NOTICIAS",
-            "description": "| +7 | Asian |\n\nEs el informativo estelar del canal, con las últimas noticias del acontecer político, social, deportivo y cultural de China y el resto del mundo. Los hechos que constituyen titulares están aquí, en CGTN Noticias.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093001 +0100",
-            "stop_time": "20250225100000 +0100",
-            "title": "CAFÉ DE CGTN",
-            "description": "| +7 | Asian |\n\nEn este espacio, los compañeros de la familia de CGTN en español,\nintercambian opiniones y debaten de forma casual los temas económicos,\nsociales y culturales de mayor actualidad en China.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100001 +0100",
             "stop_time": "20250225103000 +0100",
             "title": "CGTN NOTICIAS",

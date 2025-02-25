@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225074230 +0100",
-            "stop_time": "20250225092651 +0100",
-            "title": "McCanick - Búsqueda obsesiva",
-            "description": "| +16 | Películas |\n\nEugene \"Mack\" McCanick es un detective de narcóticos que resuelve los casos junto a su socio Floyd Intrator.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/680271aa-44cb-4ae2-bd79-64a660f9f892-mccanick-1596549154.jpeg"
-        },
-        {
             "start_time": "20250225092652 +0100",
             "stop_time": "20250225114014 +0100",
             "title": "Dinero fácil",

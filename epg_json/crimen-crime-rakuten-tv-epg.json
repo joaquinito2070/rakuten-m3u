@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225085408 +0100",
-            "stop_time": "20250225094344 +0100",
-            "title": "Esposas asesinas",
-            "description": "| +16 | Crime |\n\nUna madre de Nueva York con cuatro hijos cree haber conocido al hombre de sus sueños hasta que este empieza a consumir drogas y a maltratarla una y otra vez.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/aeb41a9b-e1fd-4750-8627-cfed6b008657.jpeg"
-        },
-        {
             "start_time": "20250225094345 +0100",
             "stop_time": "20250225103331 +0100",
             "title": "Esposas asesinas",

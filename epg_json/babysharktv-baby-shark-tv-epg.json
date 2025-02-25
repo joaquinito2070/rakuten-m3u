@@ -3,27 +3,6 @@
     "tvg_id": "baby-shark-tv",
     "epg": [
         {
-            "start_time": "20250225084843 +0100",
-            "stop_time": "20250225091928 +0100",
-            "title": "Shark Family Goes to Baby Shark Hospital",
-            "description": "| +7 | Infantil |\n\nIf you’re sick, we’ll make you strong again! This is the Baby Shark hospital! Pinkfong, Mommy Shark and Daddy Shark came to the hospital! Let's treat them with Dr. Baby Shark and Nurse William!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225091935 +0100",
-            "stop_time": "20250225093834 +0100",
-            "title": "Pinkfong Car Mechanic",
-            "description": "| +7 | Infantil |\n\nWelcome to the Pinkfong Repair Shop. Feel free to drop by!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093840 +0100",
-            "stop_time": "20250225095904 +0100",
-            "title": "Pinkfong Super Rescue Team",
-            "description": "| +7 | Infantil |\n\nHoi Poi Pinkfong! Pinkfong joins the Super Rescue Team! Join Pinkfong and the Super Rescue Team to solve all the cases happening in the city and learn essential safety tips along the way.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225095910 +0100",
             "stop_time": "20250225102246 +0100",
             "title": "Pinkfong Playfong",

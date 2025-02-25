@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225085108 +0100",
-            "stop_time": "20250225092102 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Kayaker over a Waterfall and Car Avoiding Falling Tree?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225092108 +0100",
-            "stop_time": "20250225095102 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Flash Flood Steals Car and a Tornado Tearing Through a Cafe?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225095108 +0100",
             "stop_time": "20250225102102 +0100",
             "title": "Humans VS Weather",

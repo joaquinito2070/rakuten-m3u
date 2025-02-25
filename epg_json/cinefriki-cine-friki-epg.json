@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250225080756 +0100",
-            "stop_time": "20250225095117 +0100",
-            "title": "El Hombre del Presidente",
-            "description": "| +12 | Películas |\n\nUn agente secreto altamente clasificado del presidente de Estados Unidos debe encontrar un intrépido sustituto que se haga cargo de sus peligrosísimas misiones militares.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225095118 +0100",
             "stop_time": "20250225120424 +0100",
             "title": "Yatterman",

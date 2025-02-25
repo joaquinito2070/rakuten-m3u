@@ -3,13 +3,6 @@
     "tvg_id": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
     "epg": [
         {
-            "start_time": "20250225090511 +0100",
-            "stop_time": "20250225094705 +0100",
-            "title": "Stars",
-            "description": "| +13 | Estilo de vida |\n\nSerie de biografías de personajes icónicos del mundo de la música, el cine y la moda dentro y fuera de España.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/c0901d54-d790-42cc-b5bf-ec700d0f90bc-episodio-13-cayetana-de-alba-la-aristocrata-que-se-puso-el-mundo-por-montera-1623417922.jpeg"
-        },
-        {
             "start_time": "20250225094706 +0100",
             "stop_time": "20250225102655 +0100",
             "title": "Stars",

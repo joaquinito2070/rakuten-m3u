@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250225090001 +0100",
-            "stop_time": "20250225093000 +0100",
-            "title": "The Formula for Small Spaces & Outdoor Living",
-            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch transforms everything from small rooms to outdoor spaces.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093001 +0100",
-            "stop_time": "20250225100000 +0100",
-            "title": "Living It Up in Los Cabos",
-            "description": "| +TP | Estilo de vida |\n\nAndrea and her sister Sabrina head to spectacular Los Cabos for the adventure of a lifetime.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225100001 +0100",
             "stop_time": "20250225103000 +0100",
             "title": "Going Off the Grid",

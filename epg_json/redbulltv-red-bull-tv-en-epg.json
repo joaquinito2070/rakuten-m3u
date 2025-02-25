@@ -3,27 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250225091006 +0100",
-            "stop_time": "20250225093033 +0100",
-            "title": "No Contest: Off Tour",
-            "description": "| +12 | Deportes |\n\nDive deep into one of surfing's most historic corners, Honolulu. On the other side of Oahu to the famed North Shore, 'Town' serves up an abundance of pristine waves and Hawaiian heritage.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225093039 +0100",
-            "stop_time": "20250225095356 +0100",
-            "title": "No Contest: Off Tour",
-            "description": "| +12 | Deportes |\n\nFrom the Eastern Suburbs to the Central Coast and from The Shire to the Northern Beaches, meet the colourful characters and explore the surfing culture of Australia's biggest city, Sydney.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225095402 +0100",
-            "stop_time": "20250225101449 +0100",
-            "title": "No Contest: Off Tour",
-            "description": "| +12 | Deportes |\n\nWhile Japan is known for both tradition and technology it's also an archipelago lashed by swell and steeped in surfing culture. Kanoa Igarashi takes you to Tokyo to get a taste of the action.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225101455 +0100",
             "stop_time": "20250225104846 +0100",
             "title": "Race One",
