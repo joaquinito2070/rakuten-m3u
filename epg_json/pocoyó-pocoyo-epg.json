@@ -3,13 +3,6 @@
     "tvg_id": "pocoyo",
     "epg": [
         {
-            "start_time": "20250225080000 +0100",
-            "stop_time": "20250225085959 +0100",
-            "title": "Pocoyó",
-            "description": "| +TP | Infantil |\n\n",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090000 +0100",
             "stop_time": "20250225095959 +0100",
             "title": "Pocoyó",

@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225075108 +0100",
-            "stop_time": "20250225082102 +0100",
-            "title": "Extreme Weather Countdown",
-            "description": "| +TP | Estilo de vida |\n\nThunderstorms come out to play with powerful booms, brilliant flashes, and enough force to take down trees!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225082108 +0100",
-            "stop_time": "20250225085102 +0100",
-            "title": "Extreme Weather Countdown",
-            "description": "| +TP | Estilo de vida |\n\nRain. Snow. Lightning. Hurricanes. Dust devils. When these weather phenomena combine, it's usually a recipe for disaster. But on this show, it's just another normal day in the books. It's time for Extreme Weather Countdown!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225085108 +0100",
             "stop_time": "20250225092102 +0100",
             "title": "Humans VS Weather",

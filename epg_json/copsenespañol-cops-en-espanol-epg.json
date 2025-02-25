@@ -3,27 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225075737 +0100",
-            "stop_time": "20250225082146 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn delincuente principiante inmediatamente lamenta sus decisiones destructivas.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225082153 +0100",
-            "stop_time": "20250225084548 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nDe mala suerte una familia despierta abruptamente cuando un conductor ebrio se estrella en su casa.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225084554 +0100",
-            "stop_time": "20250225090933 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUn sospechoso de robo encuentra paz confesando sus acciones.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090939 +0100",
             "stop_time": "20250225093318 +0100",
             "title": "Cops en Español",

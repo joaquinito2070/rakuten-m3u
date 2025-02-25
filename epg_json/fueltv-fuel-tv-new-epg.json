@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225080001 +0100",
-            "stop_time": "20250225083000 +0100",
-            "title": "On Surfari - Season 2 - Nicaragua",
-            "description": "| +7 | Deportes |\n\nS&amp;S explore Nicaragua to discover the beauty and tragedy of a nation trying to rebuild itself from its ...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225083001 +0100",
-            "stop_time": "20250225090000 +0100",
-            "title": "Shorebreak: The Series - The Crew",
-            "description": "| +7 | Deportes |\n\nClark Little enjoys the waves with his friends TedFord Mahiko, Andre Botha, Jerret Lau and Seabass Pereze.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090001 +0100",
             "stop_time": "20250225093000 +0100",
             "title": "Built to Shred - Season 2 - Shred Mountain",

@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250225080001 +0100",
-            "stop_time": "20250225083000 +0100",
-            "title": "The Laws of Lighting & Color",
-            "description": "| +TP | Estilo de vida |\n\nJulie Couch breaks down the basic equations for taking the stress out of design.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225083001 +0100",
-            "stop_time": "20250225090000 +0100",
-            "title": "The Science Behind Kitchens & Bedrooms",
-            "description": "| +TP | Estilo de vida |\n\nDesigner Julie Couch takes on the science of transforming spaces.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090001 +0100",
             "stop_time": "20250225093000 +0100",
             "title": "The Formula for Small Spaces & Outdoor Living",

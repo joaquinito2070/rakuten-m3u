@@ -3,13 +3,6 @@
     "tvg_id": "nature-time-es",
     "epg": [
         {
-            "start_time": "20250225075741 +0100",
-            "stop_time": "20250225085614 +0100",
-            "title": "Ngorongoro",
-            "description": "| +TP | Documental |\n\nSearch for a legendary, tusked bull elephant in the lush Ngorongoro highlands.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225085615 +0100",
             "stop_time": "20250225095410 +0100",
             "title": "Snows of Kilimanjaro",

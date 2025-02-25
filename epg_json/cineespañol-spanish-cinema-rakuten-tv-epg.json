@@ -3,13 +3,6 @@
     "tvg_id": "spanish-cinema-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225064452 +0100",
-            "stop_time": "20250225081634 +0100",
-            "title": "Las que tienen que servir",
-            "description": "| +16 | Películas |\n\nJuana y Francisca están sirviendo en casa de los Stevens, un matrimonio americano. Las muchachas también tienen dos pretendientes americanos destinados en la base americana de Torrejón, amigos de sus señores",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/2ba3cfbc-7ee0-4050-b6e3-5e1a0206183d.jpeg"
-        },
-        {
             "start_time": "20250225081635 +0100",
             "stop_time": "20250225095638 +0100",
             "title": "Los que tocan el piano",

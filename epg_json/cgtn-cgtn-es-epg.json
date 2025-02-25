@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250225080001 +0100",
-            "stop_time": "20250225083000 +0100",
-            "title": "PRISMA",
-            "description": "| +7 | Asian |\n\nPrisma es un programa cultural producido por CGTN en español en colaboración con el multimedio de comunicación latinoamericano teleSUR. Su objetivo es mostrar a los televidentes la riqueza cultural de China y el mundo hispanohablante, elevar el conocimiento de la cultura china en los países de habla hispana y establecer una plataforma de diálogo entre ambas partes. Se trata de un programa mensual de 30 minutos de duración que comenzó a emitirse en agosto de 2016. Está compuesto de tres segmentos que destacan por su diversidad temática. Primero, un espacio de noticias culturales; después, una semblanza de alguna personalidad del ámbito cultural latinoamericano; y finalmente un documental...",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225083001 +0100",
-            "stop_time": "20250225090000 +0100",
-            "title": "RONDA ARTÍSTICA",
-            "description": "| +7 | Asian |\n\nSe exhibe la diversidad de cantos y danzas, óperas locales tradicionales, música y artes folklóricas de China.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090001 +0100",
             "stop_time": "20250225093000 +0100",
             "title": "CGTN NOTICIAS",

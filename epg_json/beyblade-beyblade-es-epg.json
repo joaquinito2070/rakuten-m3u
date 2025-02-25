@@ -3,20 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250225080958 +0100",
-            "stop_time": "20250225083743 +0100",
-            "title": "Buscando a  Dragoon",
-            "description": "| +TP | Anime |\n\nLos hombres de negro secuestran a Kenny y Hilary y Tison se ve obligado a hacer lo que le piden los captores para intentar liberarlos. Termina en un barco viejo, donde tiene que enfrentarse a un robot para que los secuestradores suelten a sus amigos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225083744 +0100",
-            "stop_time": "20250225090528 +0100",
-            "title": "¿Adivinas quién ha vuelto a la ciudad?",
-            "description": "| +TP | Anime |\n\nTyson y Kenny están otra vez sanos y salvos en tierra firme y acaban deduciendo que hay gente que quiere robar los Bit Beasts de todos los miembros de los BladeBreakers. Etretanto, en la escuela de Kai hay un chico, Wyatt, que quiere que le enseñe técnicas de juego. Kai no le hace caso hasta que un tal Dunga reta a Wyatt y éste roba a Dranzer para la batalla.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090529 +0100",
             "stop_time": "20250225093313 +0100",
             "title": "La amenaza Magtram",

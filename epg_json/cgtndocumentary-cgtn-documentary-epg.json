@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-documentary",
     "epg": [
         {
-            "start_time": "20250225080001 +0100",
-            "stop_time": "20250225083000 +0100",
-            "title": "Youthful China",
-            "description": "| +7 | Asian |\n\nThe youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225083001 +0100",
-            "stop_time": "20250225090000 +0100",
-            "title": "Pixel Collage",
-            "description": "| +7 | Asian |\n\nA well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090001 +0100",
             "stop_time": "20250225100000 +0100",
             "title": "Today’s Top Pick",

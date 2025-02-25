@@ -3,13 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250225080801 +0100",
-            "stop_time": "20250225090000 +0100",
-            "title": "Time to Chill",
-            "description": "| +12 | Música |\n\nClubbing TV's selection of Chill Out Music Videos",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090001 +0100",
             "stop_time": "20250225100000 +0100",
             "title": "Live DJ Set",

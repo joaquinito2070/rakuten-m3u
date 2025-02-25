@@ -3,41 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225080431 +0100",
-            "stop_time": "20250225081730 +0100",
-            "title": "Charity Bean",
-            "description": "| +TP | Infantil |\n\nBean es a la vez engatusado por Irma y estimulado por sus propios celos hacia la superestrella Declan, que recauda fondos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225081731 +0100",
-            "stop_time": "20250225083043 +0100",
-            "title": "Huevos con bean",
-            "description": "| +TP | Infantil |\n\nMr. Bean es sorprendio por un visitante que no es bien recibido.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225083044 +0100",
-            "stop_time": "20250225084356 +0100",
-            "title": "El pececito dorado",
-            "description": "| +TP | Infantil |\n\nMr. Bean casi sirve de alimento para el pez",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225084357 +0100",
-            "stop_time": "20250225085709 +0100",
-            "title": "La botella",
-            "description": "| +TP | Infantil |\n\nMr. Bean pierde su botella.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225085710 +0100",
-            "stop_time": "20250225091009 +0100",
-            "title": "Scrapper Limpia",
-            "description": "| +TP | Infantil |\n\nIrma quiere una escapada romántica; Bean no. Es muy caro.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225091010 +0100",
             "stop_time": "20250225092321 +0100",
             "title": "En rosa",

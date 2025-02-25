@@ -3,13 +3,6 @@
     "tvg_id": "comedy-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225070912 +0100",
-            "stop_time": "20250225085404 +0100",
-            "title": "El hombre mas enfadado de Brooklyn",
-            "description": "| +16 | Películas |\n\nUna doctora le comunica a un paciente impertinente (Robin Williams) que le quedan 90 minutos de vida, pero pronto se da cuenta que ha sido un error. A partir de entonces, la doctora trata de localizar a este hombre que se ha lanzado en una absurda aventura por la ciudad.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/7112cb1e-77e9-4c9b-92b7-4110f232993f-snapshot-1590665938.jpeg"
-        },
-        {
             "start_time": "20250225085405 +0100",
             "stop_time": "20250225112051 +0100",
             "title": "Madame Marguerite",

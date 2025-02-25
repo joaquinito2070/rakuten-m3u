@@ -3,27 +3,6 @@
     "tvg_id": "the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a",
     "epg": [
         {
-            "start_time": "20250225080030 +0100",
-            "stop_time": "20250225082059 +0100",
-            "title": "Europeans",
-            "description": "| +16 | Noticias |\n\nIreland: The world needs to get more Irish | Poland: 'Borders bring fear and distrust' | Spain: Europe's one big scam",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/22256bb4-ac60-43ee-a8c2-b79d454b9276.jpg"
-        },
-        {
-            "start_time": "20250225082100 +0100",
-            "stop_time": "20250225084112 +0100",
-            "title": "Death land",
-            "description": "| +16 | Noticias |\n\nHello, I have death anxiety | he death doula: helping you prepare for the day you die",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/b7b153d3-ec70-4114-9768-de3577c32229.jpeg"
-        },
-        {
-            "start_time": "20250225084113 +0100",
-            "stop_time": "20250225090132 +0100",
-            "title": "On the Ground",
-            "description": "| +16 | Noticias |\n\nInside a frontline Ukrainian field hospital | Don't cry, I'm here now': free after eight years in an Israeli prison",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/33c8dd54-e167-406e-9eb3-cb97e07aeb49.jpg"
-        },
-        {
             "start_time": "20250225090133 +0100",
             "stop_time": "20250225092607 +0100",
             "title": "On the Ground",

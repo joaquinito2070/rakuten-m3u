@@ -3,13 +3,6 @@
     "tvg_id": "pfl-mma",
     "epg": [
         {
-            "start_time": "20250225055806 +0100",
-            "stop_time": "20250225084233 +0100",
-            "title": "Best Playoff Fights In PFL History",
-            "description": "| +16 | Deportes |\n\nBest playoff performances in PFL history",
-            "icon": ""
-        },
-        {
             "start_time": "20250225084239 +0100",
             "stop_time": "20250225115322 +0100",
             "title": "World Series of Fighting",

@@ -3,13 +3,6 @@
     "tvg_id": "top-barca-es",
     "epg": [
         {
-            "start_time": "20250225075529 +0100",
-            "stop_time": "20250225081815 +0100",
-            "title": "La película de la Supercopa de España",
-            "description": "| +TP | Deportes |\n\nNo te pierdas las mejores imágenes del triunfo azulgrana en la Supercopa 2025",
-            "icon": ""
-        },
-        {
             "start_time": "20250225081816 +0100",
             "stop_time": "20250225100003 +0100",
             "title": "2a part Barça - Atlètic de Madrid (5-0) J06 1a Divisió 2011/2012",

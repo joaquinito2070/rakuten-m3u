@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250225080001 +0100",
-            "stop_time": "20250225090000 +0100",
-            "title": "Pop & Rock Latino",
-            "description": "| +16 | Música |\n\nEl mejor pop y el mejor rock de Latinoamérica para que disfrutes desde tu sofá!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090001 +0100",
             "stop_time": "20250225100000 +0100",
             "title": "Latino Chill",

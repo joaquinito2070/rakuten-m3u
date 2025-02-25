@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225071635 +0100",
-            "stop_time": "20250225085407 +0100",
-            "title": "Crimes of Passion",
-            "description": "| +16 | Crime |\n\nPuck ha sido invitada por su tutor de la universidad para celebrar el solsticio de verano en su casa, aislada en una isla junto a un grupo de amigos. Tras una noche de fiesta y romance, al volver a la casa encontrarán un cadáver.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/44ebbfb1-7c90-4289-b40e-9e0b470b08a2.jpeg"
-        },
-        {
             "start_time": "20250225085408 +0100",
             "stop_time": "20250225094344 +0100",
             "title": "Esposas asesinas",

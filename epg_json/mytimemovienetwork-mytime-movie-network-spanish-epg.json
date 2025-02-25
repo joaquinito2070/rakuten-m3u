@@ -3,13 +3,6 @@
     "tvg_id": "mytime-movie-network-spanish",
     "epg": [
         {
-            "start_time": "20250225071502 +0100",
-            "stop_time": "20250225090037 +0100",
-            "title": "La Impostora",
-            "description": "| +TP | Películas |\n\nUna joven aspirante a actriz es contratada para sustituir a la esposa de un empresario durante una importante recepción en su casa. Lo que parecía un trabajo sencillo se convertirá en una pesadilla.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090038 +0100",
             "stop_time": "20250225104549 +0100",
             "title": "Retreat to Paradise",

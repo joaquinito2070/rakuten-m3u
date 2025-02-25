@@ -3,27 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225074925 +0100",
-            "stop_time": "20250225083755 +0100",
-            "title": "Cops on the Rock",
-            "description": "| +16 | Estilo de vida |\n\nLa policía armada de Gibraltar detiene a un hombre acusado de amenazar de muerte a la policía, y los agentes de aduanas registran un enorme carguero procedente de Colombia.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/1c5e703f-e135-46d4-94b0-1d637a40f006.jpeg"
-        },
-        {
-            "start_time": "20250225083756 +0100",
-            "stop_time": "20250225085456 +0100",
-            "title": "20 Preguntas a...",
-            "description": "| +16 | Estilo de vida |\n\nVerónica Díaz, más conocida como Just Coco, es una de las influencers más buscadas. | María Fernández-Rubíes es una de las influencers más importantes de nuestro país.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/9605f264-67bc-4620-a92e-2efc6cb4c4e2-episodio-1-just-coco-episodio-2-maria-fernandez-rubies-1643883863.jpeg"
-        },
-        {
-            "start_time": "20250225085457 +0100",
-            "stop_time": "20250225091437 +0100",
-            "title": "20 Preguntas a...",
-            "description": "| +16 | Estilo de vida |\n\nAndrés Zurita, más conocido como Andy, es el pequeño del clan\nmexicano que cuenta con la nada desdeñable cifra de dos millones de\nseguidores...",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/8da6c446-ef5f-44a7-8158-eefc601a0525-episodio-3-andy-zurita-episodio-4-aina-simon-episodio-5-maria-cassals-1643883914.jpeg"
-        },
-        {
             "start_time": "20250225091438 +0100",
             "stop_time": "20250225093604 +0100",
             "title": "La Cocina de ¡HOLA!",

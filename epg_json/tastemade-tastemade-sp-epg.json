@@ -3,27 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225075004 +0100",
-            "stop_time": "20250225081503 +0100",
-            "title": "Vuelo en Globo y Cholula",
-            "description": "| +7 | Cocina y comida |\n\nSan Juan Teotihuacán y San Martín de las pirámides.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225081504 +0100",
-            "stop_time": "20250225084003 +0100",
-            "title": "Recetas para la cruda",
-            "description": "| +7 | Cocina y comida |\n\nHoy el Chef Aquiles recibe a Kathe Martínez, para que juntos cocinen las mejores rectas para la resaca.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225084004 +0100",
-            "stop_time": "20250225090503 +0100",
-            "title": "Antojo Preferido",
-            "description": "| +7 | Cocina y comida |\n\nHoy Aquiles recibe a Jorge Espinal, cocinero peruano, para desafiarlo a un duelo por el mejor ceviche.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225090504 +0100",
             "stop_time": "20250225093003 +0100",
             "title": "Reunión con amigos",

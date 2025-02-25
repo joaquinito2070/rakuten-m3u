@@ -3,20 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250225080836 +0100",
-            "stop_time": "20250225083915 +0100",
-            "title": "For Reals",
-            "description": "| +12 | Deportes |\n\nSpeed skating into the record books at 93kph. Office skateboarding. BASE jumping on Mount Everest. Diving into crocodile waters. It's all in a day's work for Red Bull athletes!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225083921 +0100",
-            "stop_time": "20250225091000 +0100",
-            "title": "For Reals",
-            "description": "| +12 | Deportes |\n\nFlying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225091006 +0100",
             "stop_time": "20250225093033 +0100",
             "title": "No Contest: Off Tour",

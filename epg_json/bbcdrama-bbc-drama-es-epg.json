@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225072534 +0100",
-            "stop_time": "20250225082557 +0100",
-            "title": "Episodio 5",
-            "description": "| +13 | Series |\n\nDestinan a Jenny a un hospital londinense con poco personal para trabajar en la sala de cirugía masculina.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225082558 +0100",
             "stop_time": "20250225092630 +0100",
             "title": "Episodio 6",

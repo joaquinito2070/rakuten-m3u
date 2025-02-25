@@ -3,13 +3,6 @@
     "tvg_id": "action-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225064838 +0100",
-            "stop_time": "20250225082211 +0100",
-            "title": "Perfect weapon (Arma Perfecta)",
-            "description": "| +16 | Películas |\n\nEn un futuro no muy lejano, una organización gubernamental y secreta dirigida por EL DIRECTOR controla todos los aspectos de la vida. Todos “los enemigos del estado” son castigados de manera severa y muchos de ellos son ejecutados mediante asesinos de la organización.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/a98fda4d-e08c-46f8-9d3b-ae1c61ccad31-snapshot-1590665576.jpeg"
-        },
-        {
             "start_time": "20250225082212 +0100",
             "stop_time": "20250225095456 +0100",
             "title": "Rescate en Afganistán",

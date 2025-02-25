@@ -3,20 +3,6 @@
     "tvg_id": "naturaleza",
     "epg": [
         {
-            "start_time": "20250225071106 +0100",
-            "stop_time": "20250225081603 +0100",
-            "title": "Las Islas Canarias",
-            "description": "| +7 | Documental |\n\nEl mundo de las montañas de fuego destaca lo que se necesita para sobrevivir en un hábitat implacable, centrándose en el frágil equilibrio de la vida en el límite, en paisajes crudos de espectacular belleza.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225081604 +0100",
-            "stop_time": "20250225085051 +0100",
-            "title": "Arkeo (esp)",
-            "description": "| +7 | Documental |\n\nLos arqueólogos han estado excavando durante casi 13 años los restos de un misterioso conjunto de edificios muy grandes rodeados por un enorme muro de piedra erigido a finales del Neolítico.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225085052 +0100",
             "stop_time": "20250225092529 +0100",
             "title": "Arkeo (esp)",

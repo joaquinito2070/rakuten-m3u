@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225070000 +0100",
-            "stop_time": "20250225084053 +0100",
-            "title": "Libertad",
-            "description": "| +16 | Películas |\n\nBasada en una historia real. Dos hombres separados por 100 años están unidos en su búsqueda hacia la libertad. En 1856, un esclavo, Samuel Woodward y su familia, escapan de la plantación Monroe cerca de Virginia.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/97c72251-7a04-4d4d-9540-98d4798bd308.jpeg"
-        },
-        {
             "start_time": "20250225084054 +0100",
             "stop_time": "20250225104923 +0100",
             "title": "El gran partido",

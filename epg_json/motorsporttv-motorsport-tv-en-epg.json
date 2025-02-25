@@ -3,13 +3,6 @@
     "tvg_id": "motorsport-tv-en",
     "epg": [
         {
-            "start_time": "20250225080307 +0100",
-            "stop_time": "20250225083314 +0100",
-            "title": "Banned F1 Tech",
-            "description": "| +TP | Deportes |\n\nBanned F1 Tech",
-            "icon": ""
-        },
-        {
             "start_time": "20250225083320 +0100",
             "stop_time": "20250225100514 +0100",
             "title": "Porsche Carrera Cup Middle East",

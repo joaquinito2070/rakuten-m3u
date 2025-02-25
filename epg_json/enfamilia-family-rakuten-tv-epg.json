@@ -3,13 +3,6 @@
     "tvg_id": "family-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225064036 +0100",
-            "stop_time": "20250225082054 +0100",
-            "title": "George y el Dragón",
-            "description": "| +12 | Infantil |\n\nInglaterra, S. XII. George (Purefoy), un apuesto caballero, acaba de volver de Las Cruzadas con la intención de vivir en paz, ocupándose de sus tierras. Sin embargo, antes tendrá que encontrar a la hija del rey, la princesa Luna (Piper Perabo), que ha desaparecido misteriosamente.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/460ef362-c3c5-4bef-80ef-8d041629e0b0-george-y-el-dragon-1595332271.jpeg"
-        },
-        {
             "start_time": "20250225082055 +0100",
             "stop_time": "20250225100601 +0100",
             "title": "Mi Amigo Raffi",

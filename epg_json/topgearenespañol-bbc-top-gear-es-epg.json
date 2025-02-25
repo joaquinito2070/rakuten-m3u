@@ -3,13 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250225075947 +0100",
-            "stop_time": "20250225085821 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nEl equipo de Top Gear celebra los 40 años de British Leyland revisando tres de sus autos.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225085827 +0100",
             "stop_time": "20250225095701 +0100",
             "title": "Top Gear UK",
