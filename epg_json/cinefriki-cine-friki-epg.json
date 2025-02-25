@@ -3,13 +3,6 @@
     "tvg_id": "cine-friki",
     "epg": [
         {
-            "start_time": "20250225062800 +0100",
-            "stop_time": "20250225080755 +0100",
-            "title": "The Tracker",
-            "description": "| +12 | Películas |\n\nUn misterioso forastero visita un remoto pueblo donde su mujer y su hija fueron secuestradas quince años antes.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080756 +0100",
             "stop_time": "20250225095117 +0100",
             "title": "El Hombre del Presidente",

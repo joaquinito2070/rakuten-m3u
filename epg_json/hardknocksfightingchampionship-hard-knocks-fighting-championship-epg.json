@@ -3,27 +3,6 @@
     "tvg_id": "hard-knocks-fighting-championship",
     "epg": [
         {
-            "start_time": "20250225070315 +0100",
-            "stop_time": "20250225072212 +0100",
-            "title": "M-1 Challenge 77 - Raul Tutarauli vs. Artur Lemos",
-            "description": "| +12 | Deportes |\n\nRaul Tutarauli vs. Artur Lemos",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225072213 +0100",
-            "stop_time": "20250225074532 +0100",
-            "title": "Enfusion 46 - Zouggary v. Bulaid",
-            "description": "| +12 | Deportes |\n\nIlias Bulaid v. Zakaria Zouggary",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225074533 +0100",
-            "stop_time": "20250225080533 +0100",
-            "title": "INDIVIDUAL FIGHTS",
-            "description": "| +12 | Deportes |\n\nMario Rinaldi v. Mark Burch",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080534 +0100",
             "stop_time": "20250225102735 +0100",
             "title": "Enfusion - Episode 64",

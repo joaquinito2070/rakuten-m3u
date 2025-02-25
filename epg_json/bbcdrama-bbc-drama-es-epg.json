@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225062513 +0100",
-            "stop_time": "20250225072533 +0100",
-            "title": "Episodio 4",
-            "description": "| +13 | Series |\n\nLa comunidad de Nonnatus House queda conmocionada cuando un recién nacido muere en extrañas circunstancias.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225072534 +0100",
             "stop_time": "20250225082557 +0100",
             "title": "Episodio 5",

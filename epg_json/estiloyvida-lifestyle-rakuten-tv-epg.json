@@ -3,13 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225070000 +0100",
-            "stop_time": "20250225074924 +0100",
-            "title": "Cops on the Rock",
-            "description": "| +16 | Estilo de vida |\n\nLa brigada antidroga busca un alijo ilegal de combustible escondido en las profundidades del Peñón de Gibraltar, y los agentes de aduanas encuentran información valiosa en un barco abandonado.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/91e5bd48-e4c4-4244-bfdd-7bb7f118e129.jpeg"
-        },
-        {
             "start_time": "20250225074925 +0100",
             "stop_time": "20250225083755 +0100",
             "title": "Cops on the Rock",

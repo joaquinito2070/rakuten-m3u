@@ -3,13 +3,6 @@
     "tvg_id": "top-movies-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225051626 +0100",
-            "stop_time": "20250225072858 +0100",
-            "title": "Uno tras otro",
-            "description": "| +16 | Películas |\n\nNils, de 45 años, pasa el invierno noruego conduciendo su camión quitanieves por un remoto paraíso nevado. Un día recibe una llamada telefónica: su hijo, que acaba de empezar su carrera universitaria en Oslo, ha muerto por una sobredosis de droga.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/ba036023-22ee-4f80-ac3a-159e69ea5598-snapshot-1590663593.jpeg"
-        },
-        {
             "start_time": "20250225072859 +0100",
             "stop_time": "20250225092642 +0100",
             "title": "Un hombre de familia",

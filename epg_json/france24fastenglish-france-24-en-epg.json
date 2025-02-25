@@ -3,27 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250225071701 +0100",
-            "stop_time": "20250225073000 +0100",
-            "title": "Encore",
-            "description": "| +7 | Noticias |\n\nHow do artists and writers see the world? We take you to the crossroads where culture meets the news and engages with what's happening in our lives today.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073001 +0100",
-            "stop_time": "20250225074500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225074501 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "The Observers",
-            "description": "| +7 | Noticias |\n\nA show produced with photos, videos and personal accounts from our Observers around the world all checked by our staff here in Paris.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225081500 +0100",
             "title": "News",

@@ -3,13 +3,6 @@
     "tvg_id": "thriller-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225054636 +0100",
-            "stop_time": "20250225074229 +0100",
-            "title": "Mobius",
-            "description": "| +16 | Películas |\n\nThriller que tiene como escenario Mónaco y el mundo de las altas finanzas. Un agente del servicio de inteligencia francés (Dujardin) trata de detener por todos los medios a un oligarca corrupto.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/cb2b209a-27bb-43f9-be41-fa47b1070a4f.jpeg"
-        },
-        {
             "start_time": "20250225074230 +0100",
             "stop_time": "20250225092651 +0100",
             "title": "McCanick - Búsqueda obsesiva",

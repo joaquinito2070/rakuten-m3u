@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225070001 +0100",
-            "stop_time": "20250225073000 +0100",
-            "title": "Camp Woodward - Season 1 - Life Lessons",
-            "description": "| +7 | Deportes |\n\nTony's attitude improves when he joins instruction; Miles and Tyler enjoy camp life to the fullest.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073001 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "Camp Woodward - Season 1 - The Big Finale",
-            "description": "| +7 | Deportes |\n\nEmotions run high during the final days of camp, as Tony, Miles and Tyler reach their goals.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225083000 +0100",
             "title": "On Surfari - Season 2 - Nicaragua",

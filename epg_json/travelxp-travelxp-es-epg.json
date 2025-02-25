@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250225070502 +0100",
-            "stop_time": "20250225073456 +0100",
-            "title": "Backpack",
-            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073503 +0100",
-            "stop_time": "20250225080457 +0100",
-            "title": "City Breaks",
-            "description": "| +7 | Estilo de vida |\n\nLa necesidad de un breve y refrescante descanso lleva a Asmita a una pintoresca aldea en Rajasthan, donde la vida no parece haber cambiado mucho desde el siglo XV. Por un lado, prueba el lujo en lo que una vez fue la mansión de caza de la realeza de Jodhpur y, por otro lado, se entrega al estilo de vida sencillo de los residentes de las aldeas cercanas. Sin embargo, lo más destacado de su viaje es una sorpresa que le espera en un antiguo pozo escalonado.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080504 +0100",
             "stop_time": "20250225083458 +0100",
             "title": "Costa Rica Calling",

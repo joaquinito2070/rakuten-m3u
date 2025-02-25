@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250225070001 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "DSCVR New Music España",
-            "description": "| +16 | Música |\n\nTu espacio para descubrir talentos emergentes y futuras estrellas de la música ",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225090000 +0100",
             "title": "Vevo en Vivo",

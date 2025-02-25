@@ -3,13 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250225061506 +0100",
-            "stop_time": "20250225075500 +0100",
-            "title": "Women and Sometimes Men",
-            "description": "| +TP | Entretenimiento |\n\nSara goes on a journey filled with laughter, tears, women and sometimes men.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225075506 +0100",
             "stop_time": "20250225093000 +0100",
             "title": "The Sleepover",

@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250225070001 +0100",
-            "stop_time": "20250225073000 +0100",
-            "title": "Artful & Eclectic Designer Dwelling",
-            "description": "| +TP | Estilo de vida |\n\nAndrea Schumacher invites you into her Colorado home, which tells the story of her life and travels.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073001 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "Montauk-Inspired Calibu Vineyard",
-            "description": "| +TP | Estilo de vida |\n\nDesigner Jennifer Farrell invites you to experience Calibu Vineyard, her home nestled in the Califronia hills.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225083000 +0100",
             "title": "The Laws of Lighting & Color",

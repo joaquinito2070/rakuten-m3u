@@ -3,13 +3,6 @@
     "tvg_id": "now-rock",
     "epg": [
         {
-            "start_time": "20250225071501 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "The Anthems!",
-            "description": "| +TP | Música |\n\nTurn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro & The Foo Fighters. This is Now Rock!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225104000 +0100",
             "title": "30 Rock Dudes of the 90s!",

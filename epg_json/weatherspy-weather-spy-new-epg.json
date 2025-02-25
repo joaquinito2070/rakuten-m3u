@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225065108 +0100",
-            "stop_time": "20250225072102 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nThe North Atlantic Ocean is generous with her bounty, until she takes a life in return. Mark braves the deep seas on the most dangerous day of the lobster fishing season.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225072108 +0100",
-            "stop_time": "20250225075102 +0100",
-            "title": "Storm Hunters",
-            "description": "| +TP | Estilo de vida |\n\nOne year after witnessing a record number of deadly twisters in Tornado Alley, Mark & Jaclyn return to the Midwest in search of more  extreme storms. The hunt challenges their relationship with Mother Nature, as well as with each other.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225075108 +0100",
             "stop_time": "20250225082102 +0100",
             "title": "Extreme Weather Countdown",

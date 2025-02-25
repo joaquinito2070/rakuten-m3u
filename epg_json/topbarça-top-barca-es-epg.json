@@ -3,13 +3,6 @@
     "tvg_id": "top-barca-es",
     "epg": [
         {
-            "start_time": "20250225070239 +0100",
-            "stop_time": "20250225075528 +0100",
-            "title": "One to One: Alexia Putellas",
-            "description": "| +TP | Deportes |\n\nBarça's",
-            "icon": ""
-        },
-        {
             "start_time": "20250225075529 +0100",
             "stop_time": "20250225081815 +0100",
             "title": "La película de la Supercopa de España",

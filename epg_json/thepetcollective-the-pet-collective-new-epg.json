@@ -3,20 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250225065829 +0100",
-            "stop_time": "20250225073023 +0100",
-            "title": "Animals Unscripted",
-            "description": "| +7 | Entretenimiento |\n\nThese animals love to play with you!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073029 +0100",
-            "stop_time": "20250225080223 +0100",
-            "title": "Animals Unscripted",
-            "description": "| +7 | Entretenimiento |\n\nClips that will keep you 'hooked'.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080229 +0100",
             "stop_time": "20250225083323 +0100",
             "title": "Animals Unscripted",

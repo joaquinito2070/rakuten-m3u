@@ -3,13 +3,6 @@
     "tvg_id": "grjngo-es",
     "epg": [
         {
-            "start_time": "20250225062335 +0100",
-            "stop_time": "20250225080131 +0100",
-            "title": "¡Ay, Jalisco no te rajes!",
-            "description": "| +16 | Películas |\n\nWestern clásico de vaqueros hecho en México.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080138 +0100",
             "stop_time": "20250225094646 +0100",
             "title": "La batalla de los rancheros",

@@ -3,20 +3,6 @@
     "tvg_id": "5-minutes-craft-es",
     "epg": [
         {
-            "start_time": "20250225065931 +0100",
-            "stop_time": "20250225072926 +0100",
-            "title": "Manualidades fantásticas para verdaderos profesionales",
-            "description": "| +TP | Entretenimiento |\n\n¡Tutoriales originales para los que quieren aprender a crear algo más serio!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225072927 +0100",
-            "stop_time": "20250225075834 +0100",
-            "title": "¡Manualidades únicas y caseras para expertos!",
-            "description": "| +TP | Entretenimiento |\n\n¡Descubre y da vida a estas manualidades originales y complejas!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225075835 +0100",
             "stop_time": "20250225082826 +0100",
             "title": "Intenta repetir estas manualidades difíciles!",

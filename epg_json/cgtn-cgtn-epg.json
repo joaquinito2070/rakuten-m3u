@@ -3,20 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225071501 +0100",
-            "stop_time": "20250225073000 +0100",
-            "title": "Sports Scene",
-            "description": "| +7 | Asian |\n\nSports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073001 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "Rediscovering China",
-            "description": "| +7 | Asian |\n\nRediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225083000 +0100",
             "title": "The World Today",

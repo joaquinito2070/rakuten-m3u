@@ -3,13 +3,6 @@
     "tvg_id": "surf-channel",
     "epg": [
         {
-            "start_time": "20250225070000 +0100",
-            "stop_time": "20250225075959 +0100",
-            "title": "Surf Channel",
-            "description": "| +TP | Deportes |\n\n",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080000 +0100",
             "stop_time": "20250225085959 +0100",
             "title": "Surf Channel",

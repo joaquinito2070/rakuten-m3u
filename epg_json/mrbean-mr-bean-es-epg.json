@@ -3,34 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225071207 +0100",
-            "stop_time": "20250225072519 +0100",
-            "title": "El sofá",
-            "description": "| +TP | Infantil |\n\nMr. Bean anda muy contento",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225072520 +0100",
-            "stop_time": "20250225073818 +0100",
-            "title": "Un poco de golf",
-            "description": "| +TP | Infantil |\n\nMr. Bean reta a Irma a jugar al golf... en su apartamento.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073819 +0100",
-            "stop_time": "20250225075130 +0100",
-            "title": "La pelota",
-            "description": "| +TP | Infantil |\n\nMr. Bean se queda atrapado",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225075131 +0100",
-            "stop_time": "20250225080430 +0100",
-            "title": "Vuelta Al Cole",
-            "description": "| +TP | Infantil |\n\nBasada en la serie original es una comedia para toda la familia",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080431 +0100",
             "stop_time": "20250225081730 +0100",
             "title": "Charity Bean",

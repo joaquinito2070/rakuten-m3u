@@ -3,20 +3,6 @@
     "tvg_id": "newsworld",
     "epg": [
         {
-            "start_time": "20250225070001 +0100",
-            "stop_time": "20250225073000 +0100",
-            "title": "Breakfast with Eamonn & Isabel",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225073001 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "Breakfast with Stephen & Anne",
-            "description": "| +TP | Noticias |\n\nCurrent news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225083000 +0100",
             "title": "News Hour",

@@ -3,13 +3,6 @@
     "tvg_id": "bloomberg-originals",
     "epg": [
         {
-            "start_time": "20250225050005 +0100",
-            "stop_time": "20250225075958 +0100",
-            "title": "Bloomberg Originals",
-            "description": "| +12 | Documental |\n\nMake sense of today’s biggest stories from the world’s largest newsroom. Watch live news and docu-series.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080005 +0100",
             "stop_time": "20250225105958 +0100",
             "title": "Bloomberg Originals",

@@ -3,13 +3,6 @@
     "tvg_id": "cgtn-documentary",
     "epg": [
         {
-            "start_time": "20250225070001 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "Best Eats",
-            "description": "| +7 | Asian |\n\nFood connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225083000 +0100",
             "title": "Youthful China",

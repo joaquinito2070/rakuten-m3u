@@ -3,20 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250225065540 +0100",
-            "stop_time": "20250225072734 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nTry as you might, wiping out is inevitable.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225072740 +0100",
-            "stop_time": "20250225075934 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nThe temperature may be dropping, but the fails keep coming!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225075940 +0100",
             "stop_time": "20250225083134 +0100",
             "title": "FailFactory",

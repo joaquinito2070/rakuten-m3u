@@ -3,13 +3,6 @@
     "tvg_id": "stingray-greatest-hits",
     "epg": [
         {
-            "start_time": "20250225040001 +0100",
-            "stop_time": "20250225080000 +0100",
-            "title": "Stingray Greatest Hits",
-            "description": "| +TP | Música |\n\nDive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225080001 +0100",
             "stop_time": "20250225120000 +0100",
             "title": "Stingray Greatest Hits",

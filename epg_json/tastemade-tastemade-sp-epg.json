@@ -3,20 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225070004 +0100",
-            "stop_time": "20250225072503 +0100",
-            "title": "Cadereyta en Querétaro",
-            "description": "| +7 | Cocina y comida |\n\nCadereyta es un pueblo mágico ubicado en el estado de Querétaro.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225072504 +0100",
-            "stop_time": "20250225075003 +0100",
-            "title": "Val'quirico y Bernal",
-            "description": "| +7 | Cocina y comida |\n\nVal'quirico en el estado de Tlaxcala que por su arquitectura nos transporta a la Toscana Italiana.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225075004 +0100",
             "stop_time": "20250225081503 +0100",
             "title": "Vuelo en Globo y Cholula",

@@ -3,20 +3,6 @@
     "tvg_id": "afv-family",
     "epg": [
         {
-            "start_time": "20250225054446 +0100",
-            "stop_time": "20250225074259 +0100",
-            "title": "AFV Comedy Rush Hour",
-            "description": "| +TP | Entretenimiento |\n\nEpisode 104 - Welcome to Comedy Rush Hour, the show where we bring you 2 hours of the best of your AFV favorites from Top 10 Countdown, The Dub Club, Asked Answered, and Prank Academy. So, sit back and get ready for a block of non-stop laughs.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225074306 +0100",
-            "stop_time": "20250225081249 +0100",
-            "title": "AFV Ultimate Top 1000 Countdown",
-            "description": "| +TP | Entretenimiento |\n\nEpisode 104 - We're counting down the top 1000 videos of the year. Get ready to laugh your face off as Alfonso Ribeiro brings you the most hilarious and shocking fails of 2020.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225081255 +0100",
             "stop_time": "20250225084258 +0100",
             "title": "AFV's Fail Center",

@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225054820 +0100",
-            "stop_time": "20250225072054 +0100",
-            "title": "Y Apareciste Tú",
-            "description": "| +16 | Películas |\n\nCuando su agencia de publicidad es absorbida por una empresa mucho más grande y poderosa, la rivalidad de Darby con su nuevo socio Derrick podría convertirse en otra cosa.",
-            "icon": "https://images-3.rakuten.tv/storage/snapshot/shot/4fc56200-1130-403d-ac92-a6decf8dfbfc.jpeg"
-        },
-        {
             "start_time": "20250225072055 +0100",
             "stop_time": "20250225090959 +0100",
             "title": "El novio de mi madre",

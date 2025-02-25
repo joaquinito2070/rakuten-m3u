@@ -3,13 +3,6 @@
     "tvg_id": "bbc-top-gear-es",
     "epg": [
         {
-            "start_time": "20250225070232 +0100",
-            "stop_time": "20250225075941 +0100",
-            "title": "Top Gear UK",
-            "description": "| +16 | Entretenimiento |\n\nJeremy se vuelve loco en dos fincas rápidas y Richard inventa las carreras de autocaravanas.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225075947 +0100",
             "stop_time": "20250225085821 +0100",
             "title": "Top Gear UK",

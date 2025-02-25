@@ -3,13 +3,6 @@
     "tvg_id": "bbc-doctor-who-es",
     "epg": [
         {
-            "start_time": "20250225065752 +0100",
-            "stop_time": "20250225074834 +0100",
-            "title": "Rosa",
-            "description": "| +7 | Series |\n\nCuando Rose Tyler conoce a un misterioso extraño llamado Doctor, su vida nunca volverá a ser la misma. Pronto, se da cuenta de que su madre, su novio y todo el planeta Tierra están en peligro.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225074835 +0100",
             "stop_time": "20250225083953 +0100",
             "title": "El fin del mundo",
