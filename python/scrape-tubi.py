@@ -101,7 +101,8 @@ def fetch_m3u8_qualities(master_url):
     return qualities
 
 
-def fetch_epg_xml_data(url, channels_data): # Modified: Pass channels_data
+def fetch_epg_xml_data(url, channels_data): # Modified: Accept channels_data
+    epg_data_map = {}
     try:
         response = requests.get(url, stream=True, timeout=10)  # stream=True for large gzip files
         response.raise_for_status()
@@ -110,45 +111,57 @@ def fetch_epg_xml_data(url, channels_data): # Modified: Pass channels_data
             xml_content = f.read()
 
         root = ET.fromstring(xml_content)
-        epg_data = {}
-        current_time_utc = datetime.now(timezone.utc)
 
-        for channel_element in root.findall('channel'):
-            channel_id = channel_element.get('id')
-            epg_data[channel_id] = []
+        for channel_info in channels_data: # Loop through channels_data
+            channel_epg_id_search = channel_info['tvg_id']
+            epg_data_map[channel_epg_id_search] = [] # Initialize EPG data for each channel
 
-        print("**DEBUG EPG: Processing EPG XML Data...**") # Indicate EPG processing starts
+            channel_element_found = False
+            for channel_element in root.findall('channel'):
+                xml_channel_id = channel_element.get('id')
+                if xml_channel_id == channel_epg_id_search: # Check if XML channel ID matches current channel's tvg_id
+                    channel_element_found = True
+                    print(f"**DEBUG EPG - Channel Match Found in XML: {channel_epg_id_search} (XML ID: {xml_channel_id})**")
+                    for program_element in root.findall('programme'):
+                        if program_element.get('channel') == xml_channel_id: # Programs for the matched channel
+                            start_time_str = program_element.get('start')
+                            stop_time_str = program_element.get('stop')
+                            title_element = program_element.find('title')
+                            title_text = title_element.text if title_element is not None else "No Title"
 
-        for program_element in root.findall('programme'):
-            channel_epg_id = program_element.get('channel')
-            start_time_str = program_element.get('start')
-            stop_time_str = program_element.get('stop')
-            title_element = program_element.find('title')
-            title_text = title_element.text if title_element is not None else "No Title"
+                            desc_element = program_element.find('desc') # Define desc_element here
+                            desc_text = desc_element.text if desc_element is not None else "No Description" # Define and initialize desc_text
 
-            try:
-                start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S %z")
-                stop_time = datetime.strptime(stop_time_str, "%Y%m%d%H%M%S %z")
-
-                if stop_time > current_time_utc:
-                    epg_data[channel_epg_id].append({
-                        "start_time": start_time_str,
-                        "stop_time": stop_time_str,
-                        "title": title_text,
-                        "description": desc_element.text if desc_element is not None else "No Description",
-                        "icon": icon_element.get('src') if icon_element is not None else None
-                    })
-            except ValueError:
-                print(f"Error parsing time for program '{title_text}'. Skipping program.")
-            print(f"**DEBUG EPG - Channel ID en XML: {channel_epg_id}, Program Title: {title_text}**") # Existing debug print
+                            icon_element = program_element.find('icon') # Define icon_element here
+                            icon_src = icon_element.get('src') if icon_element is not None else None # Define and initialize icon_src
 
 
-        print("**DEBUG EPG: EPG XML Data Processing Complete.**") # Indicate EPG processing ends
-        return epg_data
+                            try:
+                                # Parse time strings to datetime objects, assuming they include timezone info
+                                start_time = datetime.strptime(start_time_str, "%Y%m%d%H%M%S %z")
+                                stop_time = datetime.strptime(stop_time_str, "%Y%m%d%H%M%S %z")
+
+                                if stop_time > datetime.now(timezone.utc):  # Filter out past programs
+                                    epg_data_map[channel_epg_id_search].append({
+                                        "start_time": start_time_str,
+                                        "stop_time": stop_time_str,
+                                        "title": title_text,
+                                        "description": desc_text,
+                                        "icon": icon_src
+                                    })
+                                    print(f"  **DEBUG EPG - Program Added: {title_text}, Channel: {channel_epg_id_search}**") # Debug program addition
+                            except ValueError as e:
+                                print(f"  **DEBUG EPG - Error parsing time for program '{title_text}', Channel: {channel_epg_id_search}: {e}. Skipping program.**") # More specific error logging
+
+            if not channel_element_found:
+                print(f"**DEBUG EPG - No Channel Found in XML for tvg_id: {channel_epg_id_search}**") # Debug no channel found
+
+
+        return epg_data_map
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching EPG XML from {url}: {e}")
-        return {}
+        return {}  # Return empty dict in case of error
     except ET.ParseError as e:
         print(f"Error parsing EPG XML content: {e}")
         return {}
@@ -361,7 +374,7 @@ def main():
     epg_data_map = fetch_epg_xml_data(epg_url_value, channels_data) # Modified: Pass channels_data to fetch_epg_xml_data
     if not epg_data_map:
         print("Failed to fetch or parse EPG data. Continuing without EPG.")
-        epg_data_map = {}
+        epg_data_map = {}  # Proceed without EPG if fetch fails
 
     # Generar EPG en formato JSON y guardarlo
     epg_json_data = create_epg_json_data(channels_data, epg_data_map)  # Crear datos EPG JSON
@@ -378,19 +391,6 @@ def main():
         # channel_info['epg'] = channel_epg # POPULATE channel_info['epg'] HERE!
 
         future_epg_programs = []  # List to hold future programs
-        channel_epg_id = channel_info['tvg_id'] # Get tvg_id from channel_info
-
-        print(f"**DEBUG EPG: Processing channel: {channel_info['name']}, tvg_id: {channel_epg_id}**") # Log channel being processed
-
-        channel_epg = epg_data_map.get(channel_epg_id, []) # Attempt to get EPG data
-
-        if channel_epg: # Check if EPG data was found
-            print(f"**DEBUG EPG: Found EPG data for channel: {channel_info['name']}, tvg_id: {channel_epg_id}, Program Count: {len(channel_epg)}**") # Log EPG data found
-        else:
-            print(f"**DEBUG EPG: NO EPG data found for channel: {channel_info['name']}, tvg_id: {channel_epg_id}**") # Log EPG data NOT found
-
-        channel_info['epg'] = channel_epg
-
 
         # Generate channel JSON with correct epg_url - SE GENERA DE NUEVO AQUI PARA INCLUIR EPG URL INDIVIDUAL CORRECTA
         backup_master_url = f"{github_base_url}master/{channel_info['tvg_id']}/master.m3u8" # Using channel_info['tvg_id'] here as well to be extra sure
