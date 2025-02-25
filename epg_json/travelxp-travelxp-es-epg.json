@@ -3,20 +3,6 @@
     "tvg_id": "travelxp-es",
     "epg": [
         {
-            "start_time": "20250225100507 +0100",
-            "stop_time": "20250225103501 +0100",
-            "title": "Xp Guide",
-            "description": "| +7 | Estilo de vida |\n\nOslo es la más antigua de las capitales escandinavas; Con una rica historia que se remonta a más de 1000 años, los monumentos icónicos de la ciudad revelan a los visitantes su evolución a través de los tiempos. Elisha realiza un recorrido para ver algunos de ellos, como el magnífico Castillo de Arkeshus, un castillo medieval que fue construido para proteger Oslo pero que en su lugar se usó como prisión, y el Ayuntamiento de Oslo, el centro administrativo de la ciudad que alberga la entrega anual del Nobel. Ceremonia del premio de la paz.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103507 +0100",
-            "stop_time": "20250225110501 +0100",
-            "title": "Backpack",
-            "description": "| +7 | Estilo de vida |\n\nLa Mochila es la historia de un viajero solitario que emprende en una misión para descubrir la belleza, complejidad y carácter de diferentes lugares del mundo.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110508 +0100",
             "stop_time": "20250225113502 +0100",
             "title": "World Heritage",

@@ -3,13 +3,6 @@
     "tvg_id": "red-bull-tv-en",
     "epg": [
         {
-            "start_time": "20250225101455 +0100",
-            "stop_time": "20250225104846 +0100",
-            "title": "Race One",
-            "description": "| +12 | Deportes |\n\nEvery season, the biggest race in Supercross is also the first: A1. Go behind the scenes with Jett and Hunter Lawrence and Chase Sexton as they prepare to kick off a pivotal 2025 season.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225104852 +0100",
             "stop_time": "20250225123457 +0100",
             "title": "Long Live Chainsaw",

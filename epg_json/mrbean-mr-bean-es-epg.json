@@ -3,41 +3,6 @@
     "tvg_id": "mr-bean-es",
     "epg": [
         {
-            "start_time": "20250225100235 +0100",
-            "stop_time": "20250225101547 +0100",
-            "title": "Rayo de sol",
-            "description": "| +TP | Infantil |\n\nMr. Bean descubre que exponerse al sol puede ser más difícil de lo que parece",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225101548 +0100",
-            "stop_time": "20250225102859 +0100",
-            "title": "Restaurante",
-            "description": "| +TP | Infantil |\n\nMr. Bean aprovecha que es su cumpleaños para comer todo lo que pueda",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225102900 +0100",
-            "stop_time": "20250225104159 +0100",
-            "title": "El robot",
-            "description": "| +TP | Infantil |\n\nMr. Bean compra un robot para que limpie su apartamento, pero acaba destrozando media ciudad.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225104200 +0100",
-            "stop_time": "20250225105511 +0100",
-            "title": "Cita romántica",
-            "description": "| +TP | Infantil |\n\nEl romance está en el aire y la novia de Mr. Bean quiere aprovecharlo",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225105512 +0100",
-            "stop_time": "20250225110812 +0100",
-            "title": "Bed Bean",
-            "description": "| +TP | Infantil |\n\nMr. Bean rompe su cama usándola como trampolín. Intenta arreglarlo, pero no puede.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110813 +0100",
             "stop_time": "20250225112124 +0100",
             "title": "Bean real",

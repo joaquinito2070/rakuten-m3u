@@ -3,27 +3,6 @@
     "tvg_id": "clubbing-tv",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "(Y)our House",
-            "description": "| +12 | Música |\n\nClubbing TV goes underground on this Live DJ Set show! Techno, Minimal, Modular & Live acts will resonate in your television.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225110001 +0100",
-            "stop_time": "20250225110700 +0100",
-            "title": "Put Your Hands Up ",
-            "description": "| +12 | Música |\n\nOur reports and aftermovies from electronic music festivals all over the world. Our Clubbing TV teams are travelling all over the world to guide you through those amazing party spots ! Interviews with DJs, clubbers and event organizers, there is no escape from our cameras !",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225110701 +0100",
-            "stop_time": "20250225111200 +0100",
-            "title": "Weekly Clip Selection",
-            "description": "| +12 | Música |\n\nClubbing TV specially curated weekly clip selection!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225111201 +0100",
             "stop_time": "20250225120000 +0100",
             "title": "Going Deep ",

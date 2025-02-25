@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-documentary",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225103000 +0100",
-            "title": "Humanities and Geography",
-            "description": "| +7 | Asian |\n\nA strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "Living China",
-            "description": "| +7 | Asian |\n\nReal life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225120000 +0100",
             "title": "Special Edition",

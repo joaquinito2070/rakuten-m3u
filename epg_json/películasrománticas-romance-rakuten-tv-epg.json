@@ -3,13 +3,6 @@
     "tvg_id": "romance-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225091000 +0100",
-            "stop_time": "20250225105029 +0100",
-            "title": "A Love to Remember",
-            "description": "| +16 | Películas |\n\nTras un año interactuando únicamente online, Tenley, una horticultora ecoconsciente, reúne finalmente el coraje para conocer a su amor online, Jared. Jared no se presenta porque ha tenido un accidente con la bici y en el hospital piensan que Tenley es su mujer.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/8b88fa53-69db-41b4-bc72-65af8209c757.jpeg"
-        },
-        {
             "start_time": "20250225105030 +0100",
             "stop_time": "20250225123541 +0100",
             "title": "A Wedding to Remember",

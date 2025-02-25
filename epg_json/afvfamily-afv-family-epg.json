@@ -3,13 +3,6 @@
     "tvg_id": "afv-family",
     "epg": [
         {
-            "start_time": "20250225101324 +0100",
-            "stop_time": "20250225104316 +0100",
-            "title": "Top 100 Countdown",
-            "description": "| +TP | Entretenimiento |\n\nEpisode 104 - Welcome to the Top 100 Countdown, where we countdown the funniest 100 videos from the AFV library.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225104322 +0100",
             "stop_time": "20250225124146 +0100",
             "title": "AFV After Hours",

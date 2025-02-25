@@ -3,20 +3,6 @@
     "tvg_id": "lifestyle-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225095934 +0100",
-            "stop_time": "20250225101936 +0100",
-            "title": "La Cocina de ¡HOLA!",
-            "description": "| +16 | Estilo de vida |\n\nPepa Muñoz y Jorge Brazález nos enseñan los pasos para hacer un sencillísimo pero delicioso bizcocho de chocolate para desayunar o merendar o, incluso, para servir de postre acompañado de batido o helado de vainilla.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/85e06d33-6fcb-4857-b7e8-d24104ae7531-la-receta-mas-facil-del-bizcocho-de-chocolate-1612278877.jpeg"
-        },
-        {
-            "start_time": "20250225101937 +0100",
-            "stop_time": "20250225111301 +0100",
-            "title": "Royals",
-            "description": "| +16 | Estilo de vida |\n\nExcepcional documental sobre la Reina Isabel II, icono de la realeza a nivel global y la monarca más longeva del mundo. Los pocos que la conocen a fondo destacan de Isabel Alejandra María el alto sentido del deber y el apego a la tradición como los principales rasgos de su carácter.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/040123a5-c999-4953-b10f-24b84893addd-royals-episodio-2-1620308911.jpeg"
-        },
-        {
             "start_time": "20250225111302 +0100",
             "stop_time": "20250225113917 +0100",
             "title": "Royals",

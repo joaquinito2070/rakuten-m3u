@@ -3,13 +3,6 @@
     "tvg_id": "filmrise-sci-fi-es",
     "epg": [
         {
-            "start_time": "20250225094542 +0100",
-            "stop_time": "20250225103940 +0100",
-            "title": "Andromeda",
-            "description": "| +13 | Series |\n\nUn viejo recuerdo de la Andrómeda se activa accidentalmente, lo que la envía en una misión y deja a Dylan y la tripulación incapaces de anular el comando.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225103941 +0100",
             "stop_time": "20250225113340 +0100",
             "title": "Andromeda",

@@ -3,34 +3,6 @@
     "tvg_id": "france-24-en",
     "epg": [
         {
-            "start_time": "20250225101501 +0100",
-            "stop_time": "20250225103000 +0100",
-            "title": "Down To Earth",
-            "description": "| +7 | Noticias |\n\nWe meet the people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103001 +0100",
-            "stop_time": "20250225104500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225104501 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "The 51 Percent",
-            "description": "| +7 | Noticias |\n\nA program about women who are reshaping our world.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225110001 +0100",
-            "stop_time": "20250225111500 +0100",
-            "title": "News",
-            "description": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225111501 +0100",
             "stop_time": "20250225113000 +0100",
             "title": "Encore",

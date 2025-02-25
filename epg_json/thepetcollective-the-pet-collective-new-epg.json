@@ -3,20 +3,6 @@
     "tvg_id": "the-pet-collective-new",
     "epg": [
         {
-            "start_time": "20250225100929 +0100",
-            "stop_time": "20250225104123 +0100",
-            "title": "TPC That's My Pet",
-            "description": "| +7 | Entretenimiento |\n\nDid you know that aussie shepherds are actually from the United States?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225104129 +0100",
-            "stop_time": "20250225111323 +0100",
-            "title": "TPC That's My Pet",
-            "description": "| +7 | Entretenimiento |\n\nDid you know that Poodles are the second most intelligent dog?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225111329 +0100",
             "stop_time": "20250225114423 +0100",
             "title": "TPC That's My Pet",

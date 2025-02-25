@@ -3,20 +3,6 @@
     "tvg_id": "cgtn",
     "epg": [
         {
-            "start_time": "20250225101501 +0100",
-            "stop_time": "20250225103000 +0100",
-            "title": "Global Business",
-            "description": "| +7 | Asian |\n\nGlobal Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "The World Today",
-            "description": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225113000 +0100",
             "title": "The Vibe",

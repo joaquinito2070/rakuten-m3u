@@ -3,20 +3,6 @@
     "tvg_id": "the-design-network-new",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225103000 +0100",
-            "title": "Going Off the Grid",
-            "description": "| +TP | Estilo de vida |\n\nThe Finn's are heading to the Texas backcountry to build their dream home off the grid.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "Let Go and Let Gary",
-            "description": "| +TP | Estilo de vida |\n\nWith Builder Gary’s help, Leah’s hoping to get this house back on track.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225113000 +0100",
             "title": "Corbels, Old Doors, & Cupolas",

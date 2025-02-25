@@ -3,20 +3,6 @@
     "tvg_id": "cgtn-es",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225103000 +0100",
-            "title": "CGTN NOTICIAS",
-            "description": "| +7 | Asian |\n\nEs el informativo estelar del canal, con las últimas noticias del acontecer político, social, deportivo y cultural de China y el resto del mundo. Los hechos que constituyen titulares están aquí, en CGTN Noticias.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "DOCUMENTAL",
-            "description": "| +7 | Asian |\n\nPresentapersonajes y acontecimientos típicos, avances y descubrimientos tecnológicos y científicos,  y la civilización social de China.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225114500 +0100",
             "title": "EL PROYECTOR",

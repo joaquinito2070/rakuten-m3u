@@ -3,27 +3,6 @@
     "tvg_id": "cops-en-espanol",
     "epg": [
         {
-            "start_time": "20250225095555 +0100",
-            "stop_time": "20250225102004 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nUna mujer en libertad condicional se estresa y asusta cuando se da cuenta de lo que hay en su automóvil.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225102010 +0100",
-            "stop_time": "20250225104219 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nLos oficiales hacen todo lo que pueden para obtener la verdad de un par de sospechosos evasivos.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225104226 +0100",
-            "stop_time": "20250225110635 +0100",
-            "title": "Cops en Español",
-            "description": "| +12 | Entretenimiento |\n\nSupuestos ladrones de joyas intentan escapar de la policía, durante una loca persecución a alta velocidad.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110641 +0100",
             "stop_time": "20250225112936 +0100",
             "title": "Cops en Español",

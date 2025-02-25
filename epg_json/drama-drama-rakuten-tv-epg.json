@@ -3,13 +3,6 @@
     "tvg_id": "drama-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225084054 +0100",
-            "stop_time": "20250225104923 +0100",
-            "title": "El gran partido",
-            "description": "| +16 | Películas |\n\nLos nazis organizan un partido de fútbol entre un equipo de reclusos del campo y un equipo nazi de élite en el cumpleaños de Adolf Hitler.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/72dc84c2-3b26-44a8-9b21-14460c5c51a0-the-match-1652780262.jpeg"
-        },
-        {
             "start_time": "20250225104924 +0100",
             "stop_time": "20250225123832 +0100",
             "title": "Los días que vendrán",

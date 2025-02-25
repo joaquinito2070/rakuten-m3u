@@ -3,13 +3,6 @@
     "tvg_id": "stingray-naturescape",
     "epg": [
         {
-            "start_time": "20250225095901 +0100",
-            "stop_time": "20250225105900 +0100",
-            "title": "SereneScapes",
-            "description": "| +TP | Estilo de vida |\n\nFeeling the wondrous expanse of a spectacular desert surrounded by towering mountain peaks.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225105901 +0100",
             "stop_time": "20250225115900 +0100",
             "title": "Hawaii Beaches: Oahu 1",

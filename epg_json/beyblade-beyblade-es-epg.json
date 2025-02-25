@@ -3,20 +3,6 @@
     "tvg_id": "beyblade-es",
     "epg": [
         {
-            "start_time": "20250225100100 +0100",
-            "stop_time": "20250225102844 +0100",
-            "title": "El regreso de los Bladebreakers",
-            "description": "| +TP | Anime |\n\nMax y Ray se unen también con sus amigos, con lo que los BladeBreakers vuelven a estar juntos. La madre de Max les ofrece el Núcleo Mg, que produce un campo magnético similar al del Magtram, pero no es fácil de controlar y tienen que entrenar mucho para lograrlo.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225102845 +0100",
-            "stop_time": "20250225105629 +0100",
-            "title": "La Isla Bey-Nita",
-            "description": "| +TP | Anime |\n\nLos BladeBreakers se dirigen a un torneo contra el equipo Psykick, pero el conductor del autobús llena el vehículo de gas para dormir y mientras están inconscientes los traslada a una isla desierta donde habita el doctor B., que tiene la misión de capturar los Bit Beast de nuestros amigos con un Sistema de Captura de Bit Beasts.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225105630 +0100",
             "stop_time": "20250225112415 +0100",
             "title": "La isla sin regreso",

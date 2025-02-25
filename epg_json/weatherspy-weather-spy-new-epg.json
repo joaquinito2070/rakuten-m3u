@@ -3,20 +3,6 @@
     "tvg_id": "weather-spy-new",
     "epg": [
         {
-            "start_time": "20250225095108 +0100",
-            "stop_time": "20250225102102 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Ice Cave Collapses and Bathing Suit Snow Dives?",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225102108 +0100",
-            "stop_time": "20250225105102 +0100",
-            "title": "Humans VS Weather",
-            "description": "| +TP | Estilo de vida |\n\nWho will win in a match of Parasiaing without a Tether and Snowboarder Facing an Avalanch?",
-            "icon": ""
-        },
-        {
             "start_time": "20250225105108 +0100",
             "stop_time": "20250225112102 +0100",
             "title": "WeatherSpy Shorts",

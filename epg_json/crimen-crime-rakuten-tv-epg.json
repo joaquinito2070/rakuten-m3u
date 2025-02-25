@@ -3,13 +3,6 @@
     "tvg_id": "crime-rakuten-tv",
     "epg": [
         {
-            "start_time": "20250225094345 +0100",
-            "stop_time": "20250225103331 +0100",
-            "title": "Esposas asesinas",
-            "description": "| +16 | Crime |\n\nEsta joven pareja de Nueva Jersey vive una historia de amor a primera vista hasta que los celos y la sospecha de infidelidad llevan a una serie de amargas peleas tras la boda. En un arrebato violento, la preciosa novia apuñala a su marido, que casi pierde la vida.",
-            "icon": "https://images-2.rakuten.tv/storage/snapshot/shot/c437b6f4-3ad9-4296-b132-32fad7e4a375.jpeg"
-        },
-        {
             "start_time": "20250225103332 +0100",
             "stop_time": "20250225112321 +0100",
             "title": "Esposas asesinas",

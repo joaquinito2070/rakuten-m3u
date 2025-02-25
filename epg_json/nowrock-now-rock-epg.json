@@ -3,20 +3,6 @@
     "tvg_id": "now-rock",
     "epg": [
         {
-            "start_time": "20250225080001 +0100",
-            "stop_time": "20250225104000 +0100",
-            "title": "30 Rock Dudes of the 90s!",
-            "description": "| +TP | Música |\n\nA decade of boys & guitars from some of the biggest names of the the 90s - from Blur & Oasis to U2 & Metallica.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225104001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "90s Rock Anthems!",
-            "description": "| +TP | Música |\n\nAll 90s rock hits & power ballads! From Aerosmith, KISS & The Foo Fighters to The Stone Roses, Garbage & The Stereophonics. This is NOW Rock!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225193000 +0100",
             "title": "The Rock 100 of the 80s",

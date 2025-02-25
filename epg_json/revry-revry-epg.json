@@ -3,20 +3,6 @@
     "tvg_id": "revry",
     "epg": [
         {
-            "start_time": "20250225100006 +0100",
-            "stop_time": "20250225103000 +0100",
-            "title": "Flunk",
-            "description": "| +TP | Entretenimiento |\n\nStella has an awkward encounter as she tries to buy alcohol for a sleepover.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103006 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "Flunk",
-            "description": "| +TP | Entretenimiento |\n\nFreya surprises Dani with a romantic weekend away at a tiny house.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110006 +0100",
             "stop_time": "20250225113000 +0100",
             "title": "Flunk",

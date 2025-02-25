@@ -3,13 +3,6 @@
     "tvg_id": "bbc-drama-es",
     "epg": [
         {
-            "start_time": "20250225092631 +0100",
-            "stop_time": "20250225102653 +0100",
-            "title": "Episodio 7",
-            "description": "| +13 | Series |\n\nLa comunidad de Poplar se reúne para preparar el festival de verano anual.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225102654 +0100",
             "stop_time": "20250225112717 +0100",
             "title": "Episodio 8",

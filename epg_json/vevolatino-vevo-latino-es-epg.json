@@ -3,13 +3,6 @@
     "tvg_id": "vevo-latino-es",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "Sabor Tropical",
-            "description": "| +16 | Música |\n\nLo mejor de la salsa y de la bachata concentrado en dos horas de puro ritmo y sabrosura!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225120000 +0100",
             "title": "DSCVR New Music Latino",

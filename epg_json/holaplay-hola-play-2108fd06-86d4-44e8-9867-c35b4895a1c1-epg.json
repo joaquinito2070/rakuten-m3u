@@ -3,20 +3,6 @@
     "tvg_id": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
     "epg": [
         {
-            "start_time": "20250225094706 +0100",
-            "stop_time": "20250225102655 +0100",
-            "title": "Stars",
-            "description": "| +13 | Estilo de vida |\n\nGeorge Clooney, el hombre que pasó a ser un humilde albañil al más guapo y rico de Hollywood.",
-            "icon": "https://images-0.rakuten.tv/storage/snapshot/shot/9cc49a75-0340-4d32-b034-578a3c1c81ce-episodio-4-george-clooney-1631260492.jpeg"
-        },
-        {
-            "start_time": "20250225102656 +0100",
-            "stop_time": "20250225110637 +0100",
-            "title": "Stars",
-            "description": "| +13 | Estilo de vida |\n\nRafa Nadal, el mejor tenista de la historia mundial.",
-            "icon": "https://images-1.rakuten.tv/storage/snapshot/shot/4c60f64a-74e0-4f1a-bfaa-ee9bcf7fdedd-stars4x1-1631260273.jpeg"
-        },
-        {
             "start_time": "20250225110638 +0100",
             "stop_time": "20250225112627 +0100",
             "title": "20 Preguntas a... 7: Episodios 9-10",

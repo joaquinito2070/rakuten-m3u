@@ -3,20 +3,6 @@
     "tvg_id": "fuel-tv-new",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225103000 +0100",
-            "title": "Thrillbillies - Season 3 - Speed Dating",
-            "description": "| +7 | Deportes |\n\nRefus introduces a lonely Pop to speed dating and the boys try their hand at back flipping motorcycles.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "Thrillbillies - Season 3 - Board Meeting",
-            "description": "| +7 | Deportes |\n\nDusty goes big on a little bike, Refus calls a board meeting, Cam takes a go-cart to a skate park.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225113000 +0100",
             "title": "Drive Thru - Europe - France",

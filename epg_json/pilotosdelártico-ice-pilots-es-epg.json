@@ -3,13 +3,6 @@
     "tvg_id": "ice-pilots-es",
     "epg": [
         {
-            "start_time": "20250225095003 +0100",
-            "stop_time": "20250225104614 +0100",
-            "title": "Pilotos del Ártico (Ice Pilots)",
-            "description": "| +16 | Entretenimiento |\n\nLa tripulación de Turquía hace el salto crítico sobre el Atlántico Norte. Pero en el camino a Portugal, un equipo se ve obligado a regresar. Sin potencia en un motor y sin forma de mantener la altitud, deben regresar a Santa María, donde el aeropuerto está en alerta de emergencia completa. Y Mikey y Scott buscan una nueva rampie, mientras que las esperanzas de Jeremy se desploman aún más.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225104615 +0100",
             "stop_time": "20250225114434 +0100",
             "title": "Pilotos del Ártico (Ice Pilots)",

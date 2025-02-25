@@ -3,20 +3,6 @@
     "tvg_id": "baby-shark-tv",
     "epg": [
         {
-            "start_time": "20250225095910 +0100",
-            "stop_time": "20250225102246 +0100",
-            "title": "Pinkfong Playfong",
-            "description": "| +7 | Infantil |\n\nA toy show with cute and adorable Pinkfong toys",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225102253 +0100",
-            "stop_time": "20250225104031 +0100",
-            "title": "Pinkfong Songs for Children",
-            "description": "| +7 | Infantil |\n\nMeet Coco, Toto and Momo! Travel around the world with the CoToMo Cats.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225104037 +0100",
             "stop_time": "20250225114710 +0100",
             "title": "Pinkfong and Hogi Dance Dance",

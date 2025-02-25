@@ -3,27 +3,6 @@
     "tvg_id": "tastemade-sp",
     "epg": [
         {
-            "start_time": "20250225095504 +0100",
-            "stop_time": "20250225102003 +0100",
-            "title": "Copa Dulce Fácil, Costillas de Cerdo con Barbacoa y Pastel de Polenta y Pollo Gratinado",
-            "description": "| +7 | Cocina y comida |\n\nEstas recetas de Tefi dan ganas de juntarse en una mesa muy grande a compartirlas.",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225102004 +0100",
-            "stop_time": "20250225104503 +0100",
-            "title": "Cheesecake Explosiva de Batata, Dulce de Leche y Chocolate, Panqueques de Manzana, Torta Chocolatosa y Nuggets de Pescado",
-            "description": "| +7 | Cocina y comida |\n\n¡No hay mucho más que decir sobre todas estas delicias!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225104504 +0100",
-            "stop_time": "20250225111003 +0100",
-            "title": "Cheesecake de Lima, Risotto de Arroz Yamaní y Pastelitos con Dulce de Leche",
-            "description": "| +7 | Cocina y comida |\n\nTefi nos trae tres combinaciones únicas de sabores. ¡Todo es irresistible!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225111004 +0100",
             "stop_time": "20250225113503 +0100",
             "title": "El episodio del pollo",

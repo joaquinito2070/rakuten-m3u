@@ -3,13 +3,6 @@
     "tvg_id": "vevo-pop-es",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "De Buena Mañana",
-            "description": "| +16 | Música |\n\n¡Los temas pop más animados para empezar en día con ganas de comerse el mundo!",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225120000 +0100",
             "title": "Live From Vevo Studios",

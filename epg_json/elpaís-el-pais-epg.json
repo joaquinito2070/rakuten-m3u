@@ -3,13 +3,6 @@
     "tvg_id": "el-pais",
     "epg": [
         {
-            "start_time": "20250225100000 +0100",
-            "stop_time": "20250225105959 +0100",
-            "title": "El País",
-            "description": "| +TP | Noticias |\n\n",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110000 +0100",
             "stop_time": "20250225115959 +0100",
             "title": "El País",

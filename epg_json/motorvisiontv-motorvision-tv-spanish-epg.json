@@ -3,13 +3,6 @@
     "tvg_id": "motorvision-tv-spanish",
     "epg": [
         {
-            "start_time": "20250225100001 +0100",
-            "stop_time": "20250225110000 +0100",
-            "title": "Motorvision ES",
-            "description": "| +7 | Formula 1 |\n\nMotorvision ES",
-            "icon": ""
-        },
-        {
             "start_time": "20250225110001 +0100",
             "stop_time": "20250225120000 +0100",
             "title": "Motorvision ES",

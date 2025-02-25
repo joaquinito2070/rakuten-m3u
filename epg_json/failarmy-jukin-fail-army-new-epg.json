@@ -3,20 +3,6 @@
     "tvg_id": "jukin-fail-army-new",
     "epg": [
         {
-            "start_time": "20250225100740 +0100",
-            "stop_time": "20250225103934 +0100",
-            "title": "FailFactory",
-            "description": "| +TP | Entretenimiento |\n\nWas the challenge worth the fail? Sometimes!",
-            "icon": ""
-        },
-        {
-            "start_time": "20250225103940 +0100",
-            "stop_time": "20250225111034 +0100",
-            "title": "Humans VS. Everything",
-            "description": "| +TP | Entretenimiento |\n\nIt’s all fun and games until the pranks begin. Humans are pitted against each other in this mischief showdown.",
-            "icon": ""
-        },
-        {
             "start_time": "20250225111040 +0100",
             "stop_time": "20250225114234 +0100",
             "title": "FailFactory",
