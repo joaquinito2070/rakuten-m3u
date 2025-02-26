@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/pfl-mma/master.m3u8",
     "qualities": [
         {
-            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/f5a94ec7-dbc5-4d26-8c16-af631618f9b2/0.m3u8",
+            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/47d99de4-62ee-49e2-a9ed-973a80a7f17e/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "1222701",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/f5a94ec7-dbc5-4d26-8c16-af631618f9b2/1.m3u8",
+            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/47d99de4-62ee-49e2-a9ed-973a80a7f17e/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "2035016",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/f5a94ec7-dbc5-4d26-8c16-af631618f9b2/2.m3u8",
+            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/47d99de4-62ee-49e2-a9ed-973a80a7f17e/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "3046884",
