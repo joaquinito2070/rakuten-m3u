@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/dark-matter-es-new/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6bc755e1-7dfb-46d3-b608-63a004ff9a97/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e2ed477-e3b9-4fd6-b19d-d6a860dbcde3/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1200000",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6bc755e1-7dfb-46d3-b608-63a004ff9a97/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e2ed477-e3b9-4fd6-b19d-d6a860dbcde3/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "230000",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6bc755e1-7dfb-46d3-b608-63a004ff9a97/2.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e2ed477-e3b9-4fd6-b19d-d6a860dbcde3/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "440000",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6bc755e1-7dfb-46d3-b608-63a004ff9a97/3.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e2ed477-e3b9-4fd6-b19d-d6a860dbcde3/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "700000",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6bc755e1-7dfb-46d3-b608-63a004ff9a97/4.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e2ed477-e3b9-4fd6-b19d-d6a860dbcde3/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "2500000",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6bc755e1-7dfb-46d3-b608-63a004ff9a97/5.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e2ed477-e3b9-4fd6-b19d-d6a860dbcde3/5.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "5000000",
