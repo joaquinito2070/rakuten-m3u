@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/gusto-tv-new/master.m3u8",
     "qualities": [
         {
-            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/0955e0d9-fe88-4751-bf1c-04dea4ffb8cc/0.m3u8",
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/4fdf0a54-e2ed-4ad0-bac6-916b6c4e72a4/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d401e",
                 "AVERAGE-BANDWIDTH": "393600",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/0955e0d9-fe88-4751-bf1c-04dea4ffb8cc/1.m3u8",
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/4fdf0a54-e2ed-4ad0-bac6-916b6c4e72a4/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d401e",
                 "AVERAGE-BANDWIDTH": "813600",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/0955e0d9-fe88-4751-bf1c-04dea4ffb8cc/2.m3u8",
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/4fdf0a54-e2ed-4ad0-bac6-916b6c4e72a4/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1297200",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/0955e0d9-fe88-4751-bf1c-04dea4ffb8cc/3.m3u8",
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/4fdf0a54-e2ed-4ad0-bac6-916b6c4e72a4/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "2560800",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/0955e0d9-fe88-4751-bf1c-04dea4ffb8cc/4.m3u8",
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/4fdf0a54-e2ed-4ad0-bac6-916b6c4e72a4/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.640028",
                 "AVERAGE-BANDWIDTH": "4650800",
