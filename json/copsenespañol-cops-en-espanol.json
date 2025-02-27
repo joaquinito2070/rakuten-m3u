@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/cops-en-espanol/master.m3u8",
     "qualities": [
         {
-            "url": "https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/5bd11489-f58e-41b8-a00a-2c5eedab93ab/0.m3u8",
+            "url": "https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/c65e7edc-d68a-4128-a9c1-527a2b486fab/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/5bd11489-f58e-41b8-a00a-2c5eedab93ab/1.m3u8",
+            "url": "https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/c65e7edc-d68a-4128-a9c1-527a2b486fab/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/5bd11489-f58e-41b8-a00a-2c5eedab93ab/2.m3u8",
+            "url": "https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/c65e7edc-d68a-4128-a9c1-527a2b486fab/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",

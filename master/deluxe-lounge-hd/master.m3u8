@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:CODECS="avc1.42e00a",RESOLUTION="1280x720",BANDWIDTH="2600000"
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/82b9c29f-a40b-4c92-84c5-2c7102afb94f/0.m3u8
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/e6353f98-2f55-45ad-b85b-eeab24b6538e/0.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.42e00a",RESOLUTION="768x432",BANDWIDTH="1200000"
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/82b9c29f-a40b-4c92-84c5-2c7102afb94f/1.m3u8
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/e6353f98-2f55-45ad-b85b-eeab24b6538e/1.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.42e00a",RESOLUTION="320x180",BANDWIDTH="500000"
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/82b9c29f-a40b-4c92-84c5-2c7102afb94f/2.m3u8
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/e6353f98-2f55-45ad-b85b-eeab24b6538e/2.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.42e00a",RESOLUTION="640x360",BANDWIDTH="750000"
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/82b9c29f-a40b-4c92-84c5-2c7102afb94f/3.m3u8
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/e6353f98-2f55-45ad-b85b-eeab24b6538e/3.m3u8
