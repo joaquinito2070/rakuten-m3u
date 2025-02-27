@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/now-70s/master.m3u8",
     "qualities": [
         {
-            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/e8a0545a-f4d2-11ef-bd2b-fafe22275f10/145/640x360_1020800/index.m3u8",
+            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/6129a9bc-f4da-11ef-84d2-d2559fd7414e/29/640x360_1020800/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1020800",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/e8a0545a-f4d2-11ef-bd2b-fafe22275f10/145/848x480_1249600/index.m3u8",
+            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/6129a9bc-f4da-11ef-84d2-d2559fd7414e/29/848x480_1249600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1249600",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/e8a0545a-f4d2-11ef-bd2b-fafe22275f10/145/1280x720_3801600/index.m3u8",
+            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/6129a9bc-f4da-11ef-84d2-d2559fd7414e/29/1280x720_3801600/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3801600",
