@@ -3,11 +3,11 @@
     "tvg_id": "yu-gi-oh-es",
     "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/32b8ee32-deab-4af3-8607-4be9ae32e87b.jpeg",
     "group_title": "Series",
-    "original_master_url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=49254140-c03d-43b1-83e1-90e2b9369d40&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531",
+    "original_master_url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=eeac1d6d-375e-415f-8a79-3401fd2a437b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531",
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/yu-gi-oh-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/93036ca4-070a-4b13-8460-a29ca6fb5456/0.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/d68fe362-f18b-4089-907e-0e502df9c9cd/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/93036ca4-070a-4b13-8460-a29ca6fb5456/1.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/d68fe362-f18b-4089-907e-0e502df9c9cd/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/93036ca4-070a-4b13-8460-a29ca6fb5456/2.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/d68fe362-f18b-4089-907e-0e502df9c9cd/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
