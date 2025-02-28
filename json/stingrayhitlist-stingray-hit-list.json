@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/stingray-hit-list/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d03386d4-a9cf-4957-b7b2-70a213ae0343/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/165e6d16-fc6d-4df0-9f5c-b422b314d882/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "RESOLUTION": "768x432",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d03386d4-a9cf-4957-b7b2-70a213ae0343/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/165e6d16-fc6d-4df0-9f5c-b422b314d882/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
