@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/thriller-rakuten-tv/master.m3u8",
     "qualities": [
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/076d130e-33d6-46cb-9f3f-f5ba960071c6/0.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/ef826864-9202-41d0-be05-87f971457c9c/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "530457",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/076d130e-33d6-46cb-9f3f-f5ba960071c6/1.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/ef826864-9202-41d0-be05-87f971457c9c/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "891671",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/076d130e-33d6-46cb-9f3f-f5ba960071c6/2.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/ef826864-9202-41d0-be05-87f971457c9c/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1445123",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/076d130e-33d6-46cb-9f3f-f5ba960071c6/3.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/ef826864-9202-41d0-be05-87f971457c9c/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2582042",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/076d130e-33d6-46cb-9f3f-f5ba960071c6/4.m3u8",
+            "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/ef826864-9202-41d0-be05-87f971457c9c/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4534978",
