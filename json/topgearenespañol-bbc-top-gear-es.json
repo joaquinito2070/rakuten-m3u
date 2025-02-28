@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/bbc-top-gear-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/2cf5aae9-e338-4312-9acc-c153136bbef2/0.m3u8",
+            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/13025aac-fdac-49a5-a616-11d02fd4de7f/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/2cf5aae9-e338-4312-9acc-c153136bbef2/1.m3u8",
+            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/13025aac-fdac-49a5-a616-11d02fd4de7f/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/2cf5aae9-e338-4312-9acc-c153136bbef2/2.m3u8",
+            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/13025aac-fdac-49a5-a616-11d02fd4de7f/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
