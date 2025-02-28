@@ -3,70 +3,9 @@
     "tvg_id": "mr-bean-es",
     "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg",
     "group_title": "Series",
-    "original_master_url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?ads_amagi_channel=934&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6165&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e95c591f-ca5b-47a1-b2a4-08ae878ff7cc&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "original_master_url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?ads_amagi_channel=934&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6165&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=3747b032-e9f9-46d0-8de1-6eb03aeccc4a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/mr-bean-es/master.m3u8",
-    "qualities": [
-        {
-            "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb543b1a6570668b84cb3c62cef048a3f92022c813688b6b72e801d630945c1dc6a3f3ddee49f16b4e8b4c8f62026c515a63d64fdb2f05dadf7bfd07292d447d9285e37d8dcd410be18906222fbb700a6bc25f41934a137dddd60e119538c70d6f61f8056f4f379fad08fa233d98d95ec92075d7a7ff5b032c0e1cf0000ca7fb0be7ddd567778d2fabbb2668c47b0688c1068b814de6d98a0cf11ad254e72e89c7f98e80158b87c77efa06b736440c757cc8cd7bc1c809fb8ac2683cc42670401802e5a0c984244d87435063f9f2cab86cc010c6882b8f653bc965f22cdd63de31df63cee04ab392a9cb54483dd6ac310775f7b4f8dfa26f42d701faa6fae276728f84721223d97fd7267144fa8fca1097fc0782a01c86bb67093dce857a9299c0e585d4db1bca7090bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880f85eca35f347170858f50c01615ade4888fde1d28c3661259e974d0540b1eaf5e0d2cbf5893f43d689a190e802334f85d0a8c4fe8ca4f9fc68abf7e51dadfc351c06beaa303d1f33dbd742c5c70d6984f48404e4fd0841e65b1d25e279eb1ffd2356435e2fed9fbc4130b133803571ff99a8d12b5afb0e4998ba3294b4e7b02039e44f764da1240032fb37e99cc5b32ed8e465c6562c4f91aecb4e8c819b4550fbfa14773859218223e4b6abe324a0566dab58c5ef20237140c4d991b6c4cb34a4847fb80ccf68d93219cd237f876316603bf901d20514a12836b15438e093866e884566b1c13d98b7468685d32d45e/8/426x240_511680/index.m3u8",
-            "attributes": {
-                "PROGRAM-ID": "0",
-                "BANDWIDTH": "511680",
-                "AVERAGE-BANDWIDTH": "393600",
-                "CODECS": "avc1.4d401e",
-                "RESOLUTION": "426x240",
-                "CLOSED-CAPTIONS": "cc",
-                "FRAME-RATE": "25.000"
-            }
-        },
-        {
-            "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb543b1a6570668b84cb3c62cef048a3f92022c813688b6b72e801d630945c1dc6a3f3ddee49f16b4e8b4c8f62026c515a63d64fdb2f05dadf7bfd07292d447d9285e37d8dcd410be18906222fbb700a6bc25f41934a137dddd60e119538c70d6f61f8056f4f379fad08fa233d98d95ec92075d7a7ff5b032c0e1cf0000ca7fb0be7ddd567778d2fabbb2668c47b0688c1068b814de6d98a0cf11ad254e72e89c7f98e80158b87c77efa06b736440c757cc8cd7bc1c809fb8ac2683cc42670401802e5a0c984244d87435063f9f2cab86cc010c6882b8f653bc965f22cdd63de31df63cee04ab392a9cb54483dd6ac310775f7b4f8dfa26f42d701faa6fae276728f84721223d97fd7267144fa8fca1097fc0782a01c86bb67093dce857a9299c0e585d4db1bca7090bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880f85eca35f347170858f50c01615ade4888fde1d28c3661259e974d0540b1eaf5e0d2cbf5893f43d689a190e802334f85d0a8c4fe8ca4f9fc68abf7e51dadfc351c06beaa303d1f33dbd742c5c70d6984f48404e4fd0841e65b1d25e279eb1ffd2356435e2fed9fbc4130b133803571ff99a8d12b5afb0e4998ba3294b4e7b02039e44f764da1240032fb37e99cc5b32ed8e465c6562c4f91aecb4e8c819b4550fbfa14773859218223e4b6abe324a0566dab58c5ef20237140c4d991b6c4cb34a4847fb80ccf68d93219cd237f876316603bf901d20514a12836b15438e093866e884566b1c13d98b7468685d32d45e/8/640x360_1057680/index.m3u8",
-            "attributes": {
-                "PROGRAM-ID": "0",
-                "BANDWIDTH": "1057680",
-                "AVERAGE-BANDWIDTH": "813600",
-                "CODECS": "avc1.4d401e",
-                "RESOLUTION": "640x360",
-                "CLOSED-CAPTIONS": "cc",
-                "FRAME-RATE": "25.000"
-            }
-        },
-        {
-            "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb543b1a6570668b84cb3c62cef048a3f92022c813688b6b72e801d630945c1dc6a3f3ddee49f16b4e8b4c8f62026c515a63d64fdb2f05dadf7bfd07292d447d9285e37d8dcd410be18906222fbb700a6bc25f41934a137dddd60e119538c70d6f61f8056f4f379fad08fa233d98d95ec92075d7a7ff5b032c0e1cf0000ca7fb0be7ddd567778d2fabbb2668c47b0688c1068b814de6d98a0cf11ad254e72e89c7f98e80158b87c77efa06b736440c757cc8cd7bc1c809fb8ac2683cc42670401802e5a0c984244d87435063f9f2cab86cc010c6882b8f653bc965f22cdd63de31df63cee04ab392a9cb54483dd6ac310775f7b4f8dfa26f42d701faa6fae276728f84721223d97fd7267144fa8fca1097fc0782a01c86bb67093dce857a9299c0e585d4db1bca7090bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880f85eca35f347170858f50c01615ade4888fde1d28c3661259e974d0540b1eaf5e0d2cbf5893f43d689a190e802334f85d0a8c4fe8ca4f9fc68abf7e51dadfc351c06beaa303d1f33dbd742c5c70d6984f48404e4fd0841e65b1d25e279eb1ffd2356435e2fed9fbc4130b133803571ff99a8d12b5afb0e4998ba3294b4e7b02039e44f764da1240032fb37e99cc5b32ed8e465c6562c4f91aecb4e8c819b4550fbfa14773859218223e4b6abe324a0566dab58c5ef20237140c4d991b6c4cb34a4847fb80ccf68d93219cd237f876316603bf901d20514a12836b15438e093866e884566b1c13d98b7468685d32d45e/8/848x480_1686360/index.m3u8",
-            "attributes": {
-                "PROGRAM-ID": "0",
-                "BANDWIDTH": "1686360",
-                "AVERAGE-BANDWIDTH": "1297200",
-                "CODECS": "avc1.64001e",
-                "RESOLUTION": "848x480",
-                "CLOSED-CAPTIONS": "cc",
-                "FRAME-RATE": "25.000"
-            }
-        },
-        {
-            "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb543b1a6570668b84cb3c62cef048a3f92022c813688b6b72e801d630945c1dc6a3f3ddee49f16b4e8b4c8f62026c515a63d64fdb2f05dadf7bfd07292d447d9285e37d8dcd410be18906222fbb700a6bc25f41934a137dddd60e119538c70d6f61f8056f4f379fad08fa233d98d95ec92075d7a7ff5b032c0e1cf0000ca7fb0be7ddd567778d2fabbb2668c47b0688c1068b814de6d98a0cf11ad254e72e89c7f98e80158b87c77efa06b736440c757cc8cd7bc1c809fb8ac2683cc42670401802e5a0c984244d87435063f9f2cab86cc010c6882b8f653bc965f22cdd63de31df63cee04ab392a9cb54483dd6ac310775f7b4f8dfa26f42d701faa6fae276728f84721223d97fd7267144fa8fca1097fc0782a01c86bb67093dce857a9299c0e585d4db1bca7090bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880f85eca35f347170858f50c01615ade4888fde1d28c3661259e974d0540b1eaf5e0d2cbf5893f43d689a190e802334f85d0a8c4fe8ca4f9fc68abf7e51dadfc351c06beaa303d1f33dbd742c5c70d6984f48404e4fd0841e65b1d25e279eb1ffd2356435e2fed9fbc4130b133803571ff99a8d12b5afb0e4998ba3294b4e7b02039e44f764da1240032fb37e99cc5b32ed8e465c6562c4f91aecb4e8c819b4550fbfa14773859218223e4b6abe324a0566dab58c5ef20237140c4d991b6c4cb34a4847fb80ccf68d93219cd237f876316603bf901d20514a12836b15438e093866e884566b1c13d98b7468685d32d45e/8/1280x720_3329040/index.m3u8",
-            "attributes": {
-                "PROGRAM-ID": "0",
-                "BANDWIDTH": "3329040",
-                "AVERAGE-BANDWIDTH": "2560800",
-                "CODECS": "avc1.64001f",
-                "RESOLUTION": "1280x720",
-                "CLOSED-CAPTIONS": "cc",
-                "FRAME-RATE": "25.000"
-            }
-        },
-        {
-            "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb543b1a6570668b84cb3c62cef048a3f92022c813688b6b72e801d630945c1dc6a3f3ddee49f16b4e8b4c8f62026c515a63d64fdb2f05dadf7bfd07292d447d9285e37d8dcd410be18906222fbb700a6bc25f41934a137dddd60e119538c70d6f61f8056f4f379fad08fa233d98d95ec92075d7a7ff5b032c0e1cf0000ca7fb0be7ddd567778d2fabbb2668c47b0688c1068b814de6d98a0cf11ad254e72e89c7f98e80158b87c77efa06b736440c757cc8cd7bc1c809fb8ac2683cc42670401802e5a0c984244d87435063f9f2cab86cc010c6882b8f653bc965f22cdd63de31df63cee04ab392a9cb54483dd6ac310775f7b4f8dfa26f42d701faa6fae276728f84721223d97fd7267144fa8fca1097fc0782a01c86bb67093dce857a9299c0e585d4db1bca7090bd9ef53c465d5c1111834f9d8e74cb2caf11c2a905284f4450a2880f85eca35f347170858f50c01615ade4888fde1d28c3661259e974d0540b1eaf5e0d2cbf5893f43d689a190e802334f85d0a8c4fe8ca4f9fc68abf7e51dadfc351c06beaa303d1f33dbd742c5c70d6984f48404e4fd0841e65b1d25e279eb1ffd2356435e2fed9fbc4130b133803571ff99a8d12b5afb0e4998ba3294b4e7b02039e44f764da1240032fb37e99cc5b32ed8e465c6562c4f91aecb4e8c819b4550fbfa14773859218223e4b6abe324a0566dab58c5ef20237140c4d991b6c4cb34a4847fb80ccf68d93219cd237f876316603bf901d20514a12836b15438e093866e884566b1c13d98b7468685d32d45e/8/1920x1080_6046040/index.m3u8",
-            "attributes": {
-                "PROGRAM-ID": "0",
-                "BANDWIDTH": "6046040",
-                "AVERAGE-BANDWIDTH": "4650800",
-                "CODECS": "avc1.640028",
-                "RESOLUTION": "1920x1080",
-                "CLOSED-CAPTIONS": "cc",
-                "FRAME-RATE": "25.000"
-            }
-        }
-    ],
+    "qualities": [],
     "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mrbean-mr-bean-es.json",
     "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
 }
