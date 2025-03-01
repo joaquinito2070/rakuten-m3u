@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/jukin-fail-army-new/master.m3u8",
     "qualities": [
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/673a4cc6-4dde-422e-8cbb-9a7903a8da9c/0.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/33f590b4-69e3-4ad8-a49f-74f727e4c00f/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "5825600",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/673a4cc6-4dde-422e-8cbb-9a7903a8da9c/1.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/33f590b4-69e3-4ad8-a49f-74f727e4c00f/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1315600",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/673a4cc6-4dde-422e-8cbb-9a7903a8da9c/2.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/33f590b4-69e3-4ad8-a49f-74f727e4c00f/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "AVERAGE-BANDWIDTH": "765600",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/673a4cc6-4dde-422e-8cbb-9a7903a8da9c/3.m3u8",
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/33f590b4-69e3-4ad8-a49f-74f727e4c00f/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64000d",
                 "AVERAGE-BANDWIDTH": "435600",
