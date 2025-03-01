@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/revry/master.m3u8",
     "qualities": [
         {
-            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/e54e2480-22d7-4e9b-84da-3f1c674b6841/0.m3u8",
+            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/77198d31-c5ba-429b-8cc8-1a582059711a/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "3075600",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/e54e2480-22d7-4e9b-84da-3f1c674b6841/1.m3u8",
+            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/77198d31-c5ba-429b-8cc8-1a582059711a/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1315600",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/e54e2480-22d7-4e9b-84da-3f1c674b6841/2.m3u8",
+            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/77198d31-c5ba-429b-8cc8-1a582059711a/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "AVERAGE-BANDWIDTH": "765600",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/e54e2480-22d7-4e9b-84da-3f1c674b6841/3.m3u8",
+            "url": "https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/77198d31-c5ba-429b-8cc8-1a582059711a/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d400d",
                 "AVERAGE-BANDWIDTH": "435600",
