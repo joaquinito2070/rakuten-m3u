@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/revry-news/master.m3u8",
     "qualities": [
         {
-            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/dfb53242-0ecc-4a53-95a7-c2892f320371/0.m3u8",
+            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/5541ec1f-2570-424a-b5e2-72b9ab28e28a/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "3075600",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/dfb53242-0ecc-4a53-95a7-c2892f320371/1.m3u8",
+            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/5541ec1f-2570-424a-b5e2-72b9ab28e28a/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1315600",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/dfb53242-0ecc-4a53-95a7-c2892f320371/2.m3u8",
+            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/5541ec1f-2570-424a-b5e2-72b9ab28e28a/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "AVERAGE-BANDWIDTH": "765600",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/dfb53242-0ecc-4a53-95a7-c2892f320371/3.m3u8",
+            "url": "https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/5541ec1f-2570-424a-b5e2-72b9ab28e28a/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d400d",
                 "AVERAGE-BANDWIDTH": "435600",

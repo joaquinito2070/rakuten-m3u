@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/glory-kickboxing/master.m3u8",
     "qualities": [
         {
-            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/d2e28b78-7311-4d8d-9224-8157f73b0878/0.m3u8",
+            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/4b7f2081-f7f4-4ba4-8377-97afff486a2c/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "1222701",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/d2e28b78-7311-4d8d-9224-8157f73b0878/1.m3u8",
+            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/4b7f2081-f7f4-4ba4-8377-97afff486a2c/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "2035016",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/d2e28b78-7311-4d8d-9224-8157f73b0878/2.m3u8",
+            "url": "https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/4b7f2081-f7f4-4ba4-8377-97afff486a2c/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "3046884",

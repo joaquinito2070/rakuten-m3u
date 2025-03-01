@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/stingray-naturescape/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e431fd55-a463-45f4-a743-1ed39ee3e507/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/11771554-65c5-43dc-9e32-4f88f8111579/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e431fd55-a463-45f4-a743-1ed39ee3e507/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/11771554-65c5-43dc-9e32-4f88f8111579/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "RESOLUTION": "842x474",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e431fd55-a463-45f4-a743-1ed39ee3e507/2.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/11771554-65c5-43dc-9e32-4f88f8111579/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "RESOLUTION": "1280x720",
@@ -34,7 +34,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e431fd55-a463-45f4-a743-1ed39ee3e507/3.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/11771554-65c5-43dc-9e32-4f88f8111579/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e431fd55-a463-45f4-a743-1ed39ee3e507/4.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/11771554-65c5-43dc-9e32-4f88f8111579/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64000c",
                 "RESOLUTION": "256x144",
