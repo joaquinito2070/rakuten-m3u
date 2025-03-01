@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/deluxe-lounge-hd/master.m3u8",
     "qualities": [
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0000e9bf-3588-47cc-b580-9d0a680a9e80/0.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/45dd01fe-197b-483b-a94d-ad580ac62106/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "1280x720",
@@ -15,7 +15,7 @@
             }
         },
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0000e9bf-3588-47cc-b580-9d0a680a9e80/1.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/45dd01fe-197b-483b-a94d-ad580ac62106/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "768x432",
@@ -23,7 +23,7 @@
             }
         },
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0000e9bf-3588-47cc-b580-9d0a680a9e80/2.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/45dd01fe-197b-483b-a94d-ad580ac62106/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "320x180",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0000e9bf-3588-47cc-b580-9d0a680a9e80/3.m3u8",
+            "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/45dd01fe-197b-483b-a94d-ad580ac62106/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.42e00a",
                 "RESOLUTION": "640x360",
