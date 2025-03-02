@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/stingray-remember-the-80-s/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/291149e7-1746-4a67-b2ec-754b51a4b38d/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/5229680d-3bf1-471c-8a3d-2c78b1600be8/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "RESOLUTION": "768x432",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/291149e7-1746-4a67-b2ec-754b51a4b38d/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/5229680d-3bf1-471c-8a3d-2c78b1600be8/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640028",
                 "RESOLUTION": "1920x1080",
