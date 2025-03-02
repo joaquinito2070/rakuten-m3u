@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/family-rakuten-tv/master.m3u8",
     "qualities": [
         {
-            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/865d799a-ac39-40a7-b3dd-5a1b6ae6faf2/0.m3u8",
+            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/5cc9c798-6175-49cf-ab05-4e0faa331417/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "532953",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/865d799a-ac39-40a7-b3dd-5a1b6ae6faf2/1.m3u8",
+            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/5cc9c798-6175-49cf-ab05-4e0faa331417/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "902529",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/865d799a-ac39-40a7-b3dd-5a1b6ae6faf2/2.m3u8",
+            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/5cc9c798-6175-49cf-ab05-4e0faa331417/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1443029",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/865d799a-ac39-40a7-b3dd-5a1b6ae6faf2/3.m3u8",
+            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/5cc9c798-6175-49cf-ab05-4e0faa331417/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2583126",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/865d799a-ac39-40a7-b3dd-5a1b6ae6faf2/4.m3u8",
+            "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/5cc9c798-6175-49cf-ab05-4e0faa331417/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4525489",
