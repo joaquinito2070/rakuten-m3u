@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/motorvision-tv-spanish/master.m3u8",
     "qualities": [
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9261479e-930c-484e-b03c-dafe0bc63b89/0.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/75a2bb36-1053-4a86-b318-6a70bec030d0/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "2961200",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9261479e-930c-484e-b03c-dafe0bc63b89/1.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/75a2bb36-1053-4a86-b318-6a70bec030d0/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1861200",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9261479e-930c-484e-b03c-dafe0bc63b89/2.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/75a2bb36-1053-4a86-b318-6a70bec030d0/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "AVERAGE-BANDWIDTH": "1311200",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9261479e-930c-484e-b03c-dafe0bc63b89/3.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/75a2bb36-1053-4a86-b318-6a70bec030d0/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "AVERAGE-BANDWIDTH": "1091200",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9261479e-930c-484e-b03c-dafe0bc63b89/4.m3u8",
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/75a2bb36-1053-4a86-b318-6a70bec030d0/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1861200",

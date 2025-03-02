@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="640x360",BANDWIDTH="921600",CLOSED-CAPTIONS="captions"
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/cea5f805-8aed-4884-82a8-259d7381aa71/0.m3u8
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/0e823f81-694c-45e8-86a4-6657b2c4efc7/0.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="960x540",BANDWIDTH="2048000",CLOSED-CAPTIONS="captions"
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/cea5f805-8aed-4884-82a8-259d7381aa71/1.m3u8
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/0e823f81-694c-45e8-86a4-6657b2c4efc7/1.m3u8
 #EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="1280x720",BANDWIDTH="3072000",CLOSED-CAPTIONS="captions"
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/cea5f805-8aed-4884-82a8-259d7381aa71/2.m3u8
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/0e823f81-694c-45e8-86a4-6657b2c4efc7/2.m3u8
