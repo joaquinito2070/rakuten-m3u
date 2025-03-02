@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/motorsport-tv-en/master.m3u8",
     "qualities": [
         {
-            "url": "https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/90469858-2a28-48c3-a08a-b2d5d253c2f5/0.m3u8",
+            "url": "https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/8670402d-7aac-4308-a6cc-7785e39cd94b/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "1222701",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "url": "https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/90469858-2a28-48c3-a08a-b2d5d253c2f5/1.m3u8",
+            "url": "https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/8670402d-7aac-4308-a6cc-7785e39cd94b/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "2035016",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/90469858-2a28-48c3-a08a-b2d5d253c2f5/2.m3u8",
+            "url": "https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/8670402d-7aac-4308-a6cc-7785e39cd94b/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.640029",
                 "AVERAGE-BANDWIDTH": "3046884",
