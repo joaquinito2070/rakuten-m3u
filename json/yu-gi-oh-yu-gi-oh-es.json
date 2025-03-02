@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/yu-gi-oh-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/12c1d592-4fbf-41e2-b8f7-11a96b25c00c/0.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/1dc30db0-96fd-4944-8087-f04203858f00/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/12c1d592-4fbf-41e2-b8f7-11a96b25c00c/1.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/1dc30db0-96fd-4944-8087-f04203858f00/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/12c1d592-4fbf-41e2-b8f7-11a96b25c00c/2.m3u8",
+            "url": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/1dc30db0-96fd-4944-8087-f04203858f00/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
