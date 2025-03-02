@@ -7,58 +7,58 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1/master.m3u8",
     "qualities": [
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/f6bc04dd-b749-4862-a20d-519373696fec/0.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3a1d0406-1e0f-458a-8aa0-5337eef5b1ad/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
-                "AVERAGE-BANDWIDTH": "533963",
+                "AVERAGE-BANDWIDTH": "535826",
                 "RESOLUTION": "448x252",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "587280"
+                "BANDWIDTH": "588973"
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/f6bc04dd-b749-4862-a20d-519373696fec/1.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3a1d0406-1e0f-458a-8aa0-5337eef5b1ad/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "903340",
+                "AVERAGE-BANDWIDTH": "917815",
                 "RESOLUTION": "768x432",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "993128"
+                "BANDWIDTH": "1008071"
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/f6bc04dd-b749-4862-a20d-519373696fec/2.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3a1d0406-1e0f-458a-8aa0-5337eef5b1ad/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
-                "AVERAGE-BANDWIDTH": "1447713",
+                "AVERAGE-BANDWIDTH": "1474501",
                 "RESOLUTION": "768x432",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "1591914"
+                "BANDWIDTH": "1621310"
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/f6bc04dd-b749-4862-a20d-519373696fec/3.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3a1d0406-1e0f-458a-8aa0-5337eef5b1ad/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
-                "AVERAGE-BANDWIDTH": "2618383",
+                "AVERAGE-BANDWIDTH": "2651682",
                 "RESOLUTION": "1280x720",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "2879099"
+                "BANDWIDTH": "2914703"
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/f6bc04dd-b749-4862-a20d-519373696fec/4.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3a1d0406-1e0f-458a-8aa0-5337eef5b1ad/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
-                "AVERAGE-BANDWIDTH": "4611031",
+                "AVERAGE-BANDWIDTH": "4658034",
                 "RESOLUTION": "1920x1080",
                 "SUBTITLES": "subtitle",
                 "FRAME-RATE": "25.0",
-                "BANDWIDTH": "5068804"
+                "BANDWIDTH": "5117121"
             }
         }
     ],

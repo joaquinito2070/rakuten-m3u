@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/wb-caillou-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/92179f18-e7e2-456b-91e6-21ae543cebad/0.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/cd91386d-d51e-44f3-8002-8a2063ee1665/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/92179f18-e7e2-456b-91e6-21ae543cebad/1.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/cd91386d-d51e-44f3-8002-8a2063ee1665/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/92179f18-e7e2-456b-91e6-21ae543cebad/2.m3u8",
+            "url": "https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/cd91386d-d51e-44f3-8002-8a2063ee1665/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",
