@@ -3,11 +3,11 @@
     "tvg_id": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
     "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b7fa7e1a-c47f-4d90-98e7-7c64c77dbbdb.png",
     "group_title": "Estilo de vida",
-    "original_master_url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=26286e22-7e37-4499-90e1-1f2509493bdd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5",
+    "original_master_url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=a5145b92-a650-4207-8bd7-ac88ba8220da&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5",
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1/master.m3u8",
     "qualities": [
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3935700c-537c-4566-be83-a154d3a9e7cf/0.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/93802559-f6b2-4171-ade4-31ab0d53bcaf/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "532328",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3935700c-537c-4566-be83-a154d3a9e7cf/1.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/93802559-f6b2-4171-ade4-31ab0d53bcaf/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "895269",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3935700c-537c-4566-be83-a154d3a9e7cf/2.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/93802559-f6b2-4171-ade4-31ab0d53bcaf/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1449302",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3935700c-537c-4566-be83-a154d3a9e7cf/3.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/93802559-f6b2-4171-ade4-31ab0d53bcaf/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2617088",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/3935700c-537c-4566-be83-a154d3a9e7cf/4.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/93802559-f6b2-4171-ade4-31ab0d53bcaf/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4614049",

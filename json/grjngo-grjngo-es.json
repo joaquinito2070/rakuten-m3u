@@ -3,11 +3,11 @@
     "tvg_id": "grjngo-es",
     "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg",
     "group_title": "Películas",
-    "original_master_url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=24ae9912-316d-46e1-968b-15ab4bebcc65&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906",
+    "original_master_url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=52b5f7bc-ddbf-42a7-992b-0353b7850bbb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906",
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/grjngo-es/master.m3u8",
     "qualities": [
         {
-            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/0af85afd-6b2c-4482-8f16-3a605119700e/0.m3u8",
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/40baee9c-ae6b-40d5-b306-afdc80a20782/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "640x360",
@@ -16,7 +16,7 @@
             }
         },
         {
-            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/0af85afd-6b2c-4482-8f16-3a605119700e/1.m3u8",
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/40baee9c-ae6b-40d5-b306-afdc80a20782/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "960x540",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/0af85afd-6b2c-4482-8f16-3a605119700e/2.m3u8",
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/40baee9c-ae6b-40d5-b306-afdc80a20782/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d0029",
                 "RESOLUTION": "1280x720",

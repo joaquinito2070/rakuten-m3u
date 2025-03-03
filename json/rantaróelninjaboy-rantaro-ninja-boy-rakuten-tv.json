@@ -3,11 +3,11 @@
     "tvg_id": "rantaro-ninja-boy-rakuten-tv",
     "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c03fa5a5-dd8d-4e53-ba59-352993c4e6fb.jpeg",
     "group_title": "Infantil",
-    "original_master_url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=rantaro-ninja-boy-rakuten-tv_es&ads.rtv_content_id=6432&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=eb0b6316-a4cc-4eae-9e5c-6e16b3615b18&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6432&publishing_platform_id=5",
+    "original_master_url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=rantaro-ninja-boy-rakuten-tv_es&ads.rtv_content_id=6432&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=5e172a45-8d35-4526-a2cd-d6ab7f42b67c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6432&publishing_platform_id=5",
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/rantaro-ninja-boy-rakuten-tv/master.m3u8",
     "qualities": [
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/ad901d28-7dfa-4598-9aaa-825779dbe74a/0.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/d4e2ed0e-bdc2-4953-9e77-b3dd092c085d/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "539212",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/ad901d28-7dfa-4598-9aaa-825779dbe74a/1.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/d4e2ed0e-bdc2-4953-9e77-b3dd092c085d/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "927092",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/ad901d28-7dfa-4598-9aaa-825779dbe74a/2.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/d4e2ed0e-bdc2-4953-9e77-b3dd092c085d/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1484249",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/ad901d28-7dfa-4598-9aaa-825779dbe74a/3.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/d4e2ed0e-bdc2-4953-9e77-b3dd092c085d/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2676699",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/ad901d28-7dfa-4598-9aaa-825779dbe74a/4.m3u8",
+            "url": "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/d4e2ed0e-bdc2-4953-9e77-b3dd092c085d/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4671080",
