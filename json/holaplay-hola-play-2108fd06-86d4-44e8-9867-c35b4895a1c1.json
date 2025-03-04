@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1/master.m3u8",
     "qualities": [
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/5aa088f0-0c96-41d8-92d5-2d0d3b1bccdd/0.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/4c2206d2-ac72-45c2-bdc5-287c05297e2c/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4015",
                 "AVERAGE-BANDWIDTH": "537231",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/5aa088f0-0c96-41d8-92d5-2d0d3b1bccdd/1.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/4c2206d2-ac72-45c2-bdc5-287c05297e2c/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "915882",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/5aa088f0-0c96-41d8-92d5-2d0d3b1bccdd/2.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/4c2206d2-ac72-45c2-bdc5-287c05297e2c/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401E",
                 "AVERAGE-BANDWIDTH": "1461707",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/5aa088f0-0c96-41d8-92d5-2d0d3b1bccdd/3.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/4c2206d2-ac72-45c2-bdc5-287c05297e2c/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D401F",
                 "AVERAGE-BANDWIDTH": "2632170",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/5aa088f0-0c96-41d8-92d5-2d0d3b1bccdd/4.m3u8",
+            "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/4c2206d2-ac72-45c2-bdc5-287c05297e2c/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.4D4028",
                 "AVERAGE-BANDWIDTH": "4622945",

@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/gusto-tv-new/master.m3u8",
     "qualities": [
         {
-            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/28de16a2-f1ea-4b3f-8ad7-799091950155/0.m3u8",
+            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/90cc794c-5f2a-47a7-9340-e0381e5dfa39/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d401e",
                 "AVERAGE-BANDWIDTH": "393600",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/28de16a2-f1ea-4b3f-8ad7-799091950155/1.m3u8",
+            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/90cc794c-5f2a-47a7-9340-e0381e5dfa39/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.4d401e",
                 "AVERAGE-BANDWIDTH": "813600",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/28de16a2-f1ea-4b3f-8ad7-799091950155/2.m3u8",
+            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/90cc794c-5f2a-47a7-9340-e0381e5dfa39/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1297200",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/28de16a2-f1ea-4b3f-8ad7-799091950155/3.m3u8",
+            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/90cc794c-5f2a-47a7-9340-e0381e5dfa39/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "2560800",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/28de16a2-f1ea-4b3f-8ad7-799091950155/4.m3u8",
+            "url": "https://563f72af.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/90cc794c-5f2a-47a7-9340-e0381e5dfa39/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.640028",
                 "AVERAGE-BANDWIDTH": "4650800",
