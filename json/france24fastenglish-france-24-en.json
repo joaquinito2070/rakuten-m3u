@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/france-24-en/master.m3u8",
     "qualities": [
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/b3846f9c-f8fb-11ef-b9ca-624128c59030/157/640x360_1057680/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/ecaefd6a-f902-11ef-9171-16e3e6a5e8ac/69/640x360_1057680/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1057680",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/b3846f9c-f8fb-11ef-b9ca-624128c59030/157/848x480_1686360/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/ecaefd6a-f902-11ef-9171-16e3e6a5e8ac/69/848x480_1686360/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "1686360",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/b3846f9c-f8fb-11ef-b9ca-624128c59030/157/1280x720_3329040/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/ecaefd6a-f902-11ef-9171-16e3e6a5e8ac/69/1280x720_3329040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "3329040",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/b3846f9c-f8fb-11ef-b9ca-624128c59030/157/1920x1080_6046040/index.m3u8",
+            "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/ecaefd6a-f902-11ef-9171-16e3e6a5e8ac/69/1920x1080_6046040/index.m3u8",
             "attributes": {
                 "PROGRAM-ID": "0",
                 "BANDWIDTH": "6046040",

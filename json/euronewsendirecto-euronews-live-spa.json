@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/euronews-live-spa/master.m3u8",
     "qualities": [
         {
-            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/5708bf9e-34e1-497b-972b-072ffc8f0eb2/0.m3u8",
+            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/64199833-210e-47e3-bebb-c6c1e10c3897/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "409632",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/5708bf9e-34e1-497b-972b-072ffc8f0eb2/1.m3u8",
+            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/64199833-210e-47e3-bebb-c6c1e10c3897/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "526231",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/5708bf9e-34e1-497b-972b-072ffc8f0eb2/2.m3u8",
+            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/64199833-210e-47e3-bebb-c6c1e10c3897/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "653431",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/5708bf9e-34e1-497b-972b-072ffc8f0eb2/3.m3u8",
+            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/64199833-210e-47e3-bebb-c6c1e10c3897/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "1098631",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/5708bf9e-34e1-497b-972b-072ffc8f0eb2/4.m3u8",
+            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/64199833-210e-47e3-bebb-c6c1e10c3897/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "2264632",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/5708bf9e-34e1-497b-972b-072ffc8f0eb2/5.m3u8",
+            "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/64199833-210e-47e3-bebb-c6c1e10c3897/5.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "AVERAGE-BANDWIDTH": "3642631",

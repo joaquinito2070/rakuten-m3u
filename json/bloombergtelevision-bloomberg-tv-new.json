@@ -7,7 +7,7 @@
     "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/bloomberg-tv-new/master.m3u8",
     "qualities": [
         {
-            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/687c124d-6bc3-406c-9431-fb0f4d90dae9/0.m3u8",
+            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/c6e2846d-1184-4ea2-a887-3e93f2384842/0.m3u8",
             "attributes": {
                 "CODECS": "avc1.64002a",
                 "RESOLUTION": "1920x1080",
@@ -15,7 +15,7 @@
             }
         },
         {
-            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/687c124d-6bc3-406c-9431-fb0f4d90dae9/1.m3u8",
+            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/c6e2846d-1184-4ea2-a887-3e93f2384842/1.m3u8",
             "attributes": {
                 "CODECS": "avc1.64002a",
                 "RESOLUTION": "1920x1080",
@@ -23,7 +23,7 @@
             }
         },
         {
-            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/687c124d-6bc3-406c-9431-fb0f4d90dae9/2.m3u8",
+            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/c6e2846d-1184-4ea2-a887-3e93f2384842/2.m3u8",
             "attributes": {
                 "CODECS": "avc1.640020",
                 "RESOLUTION": "1280x720",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/687c124d-6bc3-406c-9431-fb0f4d90dae9/3.m3u8",
+            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/c6e2846d-1184-4ea2-a887-3e93f2384842/3.m3u8",
             "attributes": {
                 "CODECS": "avc1.640020",
                 "RESOLUTION": "1280x720",
@@ -39,7 +39,7 @@
             }
         },
         {
-            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/687c124d-6bc3-406c-9431-fb0f4d90dae9/4.m3u8",
+            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/c6e2846d-1184-4ea2-a887-3e93f2384842/4.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001f",
                 "RESOLUTION": "640x360",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/687c124d-6bc3-406c-9431-fb0f4d90dae9/5.m3u8",
+            "url": "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/c6e2846d-1184-4ea2-a887-3e93f2384842/5.m3u8",
             "attributes": {
                 "CODECS": "avc1.64001e",
                 "RESOLUTION": "480x272",
