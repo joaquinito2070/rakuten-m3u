@@ -1,0 +1,11 @@
+{
+    "name": "Tastemade",
+    "tvg_id": "tastemade-sp",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/be766dfd-b8cd-4ab5-b3c3-8ac719b81e9c-tastemade-1640938879.jpeg",
+    "group_title": "Cocina",
+    "original_master_url": "https://tastemade-es8tm-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-es8intl-rakuten-es/CDN/master.m3u8?ads_amagi_channel=746&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3483&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e78de749-b13f-4424-b632-c3153daaa9ac&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/tastemade-sp/master.m3u8",
+    "qualities": [],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/tastemade-tastemade-sp.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/epg_json/tastemade-tastemade-sp-epg.json"
+}

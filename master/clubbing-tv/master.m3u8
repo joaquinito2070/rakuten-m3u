@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH="1020800",AVERAGE-BANDWIDTH="985600",CODECS="avc1.77.30",RESOLUTION="640x360",FRAME-RATE="25.000",CLOSED-CAPTIONS="NONE"
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/640x360_985600/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH="2428800",AVERAGE-BANDWIDTH="2340800",CODECS="avc1.4d401f",RESOLUTION="960x540",FRAME-RATE="25.000",CLOSED-CAPTIONS="NONE"
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/960x540_2340800/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH="3572800",AVERAGE-BANDWIDTH="3440800",CODECS="avc1.4d401f",RESOLUTION="1280x720",FRAME-RATE="25.000",CLOSED-CAPTIONS="NONE"
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/1280x720_3440800/chunklist.m3u8

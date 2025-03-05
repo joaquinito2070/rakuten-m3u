@@ -1,0 +1,55 @@
+{
+    "name": "Vevo Pop",
+    "tvg_id": "vevo-pop-es",
+    "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f796c006-b189-4b90-b8ff-6a42cf6d4bd7.jpeg",
+    "group_title": "Música",
+    "original_master_url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-rakutenes/playlist.m3u8?ads_amagi_channel=919&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5980&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=2b58e1b3-8f36-4c16-b3d8-84802cf06190&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vevo-pop-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ece1dda305868024031c94b8a6100c68b2cb559602a4569c8cde62f8899430ee6d05e7920a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3072b77e11a4ed008d9273e8df8a1fcb1dc219a840bfa4cabfd6198a869b429360e3301a6727738ff21ff9ad4da4d59e3363f60129420d6af5b781fb4f318f494463f1fbb9f90fbb41ccdc7d843135e84dc049d766c73fa958f1ac4cf3a9e3921a1561f496586777f6b4f9daa14d59d267ffb1d6d9766a90f5114753d07ddd504e52f3eace16deb67ff8b727968b6d182ec99240a491bf979dd3e72bcd7fb8ad9e993951716e05108d58b6e809b14bd86bf2b4794c5d4957928f46c194e64a29724af4e934b30512aad29f8ccd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412787f0273cba0d6123235ce1b5abdee2b6734880edaa02ad3920b96b/7/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ece1dda305868024031c94b8a6100c68b2cb559602a4569c8cde62f8899430ee6d05e7920a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3072b77e11a4ed008d9273e8df8a1fcb1dc219a840bfa4cabfd6198a869b429360e3301a6727738ff21ff9ad4da4d59e3363f60129420d6af5b781fb4f318f494463f1fbb9f90fbb41ccdc7d843135e84dc049d766c73fa958f1ac4cf3a9e3921a1561f496586777f6b4f9daa14d59d267ffb1d6d9766a90f5114753d07ddd504e52f3eace16deb67ff8b727968b6d182ec99240a491bf979dd3e72bcd7fb8ad9e993951716e05108d58b6e809b14bd86bf2b4794c5d4957928f46c194e64a29724af4e934b30512aad29f8ccd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412787f0273cba0d6123235ce1b5abdee2b6734880edaa02ad3920b96b/7/848x480_2284360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2284360",
+                "AVERAGE-BANDWIDTH": "1757200",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ece1dda305868024031c94b8a6100c68b2cb559602a4569c8cde62f8899430ee6d05e7920a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3072b77e11a4ed008d9273e8df8a1fcb1dc219a840bfa4cabfd6198a869b429360e3301a6727738ff21ff9ad4da4d59e3363f60129420d6af5b781fb4f318f494463f1fbb9f90fbb41ccdc7d843135e84dc049d766c73fa958f1ac4cf3a9e3921a1561f496586777f6b4f9daa14d59d267ffb1d6d9766a90f5114753d07ddd504e52f3eace16deb67ff8b727968b6d182ec99240a491bf979dd3e72bcd7fb8ad9e993951716e05108d58b6e809b14bd86bf2b4794c5d4957928f46c194e64a29724af4e934b30512aad29f8ccd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412787f0273cba0d6123235ce1b5abdee2b6734880edaa02ad3920b96b/7/1280x720_4473040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4473040",
+                "AVERAGE-BANDWIDTH": "3440800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ece1dda305868024031c94b8a6100c68b2cb559602a4569c8cde62f8899430ee6d05e7920a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3072b77e11a4ed008d9273e8df8a1fcb1dc219a840bfa4cabfd6198a869b429360e3301a6727738ff21ff9ad4da4d59e3363f60129420d6af5b781fb4f318f494463f1fbb9f90fbb41ccdc7d843135e84dc049d766c73fa958f1ac4cf3a9e3921a1561f496586777f6b4f9daa14d59d267ffb1d6d9766a90f5114753d07ddd504e52f3eace16deb67ff8b727968b6d182ec99240a491bf979dd3e72bcd7fb8ad9e993951716e05108d58b6e809b14bd86bf2b4794c5d4957928f46c194e64a29724af4e934b30512aad29f8ccd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412787f0273cba0d6123235ce1b5abdee2b6734880edaa02ad3920b96b/7/1920x1080_7333040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "7333040",
+                "AVERAGE-BANDWIDTH": "5640800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "epg": []
+}

@@ -1,0 +1,60 @@
+{
+    "name": "The Pet Collective",
+    "tvg_id": "the-pet-collective-new",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg",
+    "group_title": "Entretenimiento",
+    "original_master_url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5388&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=05e766f6-2d65-45b5-a528-d135424ac876&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1020",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-pet-collective-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://6ec8627d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/4f4209a3-1b48-4daf-972b-0020b8ad3b13/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "3075600",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "3193687",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://6ec8627d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/4f4209a3-1b48-4daf-972b-0020b8ad3b13/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "1315600",
+                "RESOLUTION": "1024x576",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1363709",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://6ec8627d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/4f4209a3-1b48-4daf-972b-0020b8ad3b13/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001e",
+                "AVERAGE-BANDWIDTH": "765600",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "791841",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://6ec8627d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/4f4209a3-1b48-4daf-972b-0020b8ad3b13/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d400d",
+                "AVERAGE-BANDWIDTH": "435600",
+                "RESOLUTION": "384x216",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "448720",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/thepetcollective-the-pet-collective-new.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

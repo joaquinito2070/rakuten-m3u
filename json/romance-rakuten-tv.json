@@ -1,0 +1,66 @@
+{
+    "name": "Películas Románticas",
+    "tvg_id": "romance-rakuten-tv",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=bb90332c-b3e5-4213-a6d9-4a227a6b9a74&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/romance-rakuten-tv/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/6c5e1cac-c2a5-4904-ba11-dc6867b447db/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4015",
+                "AVERAGE-BANDWIDTH": "531358",
+                "RESOLUTION": "448x252",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "580322"
+            }
+        },
+        {
+            "url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/6c5e1cac-c2a5-4904-ba11-dc6867b447db/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "903505",
+                "RESOLUTION": "768x432",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "983060"
+            }
+        },
+        {
+            "url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/6c5e1cac-c2a5-4904-ba11-dc6867b447db/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "1473442",
+                "RESOLUTION": "768x432",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1601823"
+            }
+        },
+        {
+            "url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/6c5e1cac-c2a5-4904-ba11-dc6867b447db/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401F",
+                "AVERAGE-BANDWIDTH": "2640187",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "2864940"
+            }
+        },
+        {
+            "url": "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/6c5e1cac-c2a5-4904-ba11-dc6867b447db/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4028",
+                "AVERAGE-BANDWIDTH": "4606077",
+                "RESOLUTION": "1920x1080",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "5003504"
+            }
+        }
+    ],
+    "epg": []
+}

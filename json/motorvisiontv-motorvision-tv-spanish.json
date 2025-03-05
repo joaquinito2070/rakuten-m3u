@@ -1,0 +1,62 @@
+{
+    "name": "MOTORVISION.TV",
+    "tvg_id": "motorvision-tv-spanish",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1c0727dc-17ab-4c8b-b6d9-3b300fb3f458.png",
+    "group_title": "Deportes",
+    "original_master_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=3030871e-9ac5-48fa-9099-51f77223ffed&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish&ads.xumo_streamId=88883004",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/motorvision-tv-spanish/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/8df80962-9d02-4530-8f7b-7e283d2c7b89/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "2961200",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "3071200"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/8df80962-9d02-4530-8f7b-7e283d2c7b89/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "1861200",
+                "RESOLUTION": "960x540",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1927200"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/8df80962-9d02-4530-8f7b-7e283d2c7b89/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001e",
+                "AVERAGE-BANDWIDTH": "1311200",
+                "RESOLUTION": "854x480",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1355200"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/8df80962-9d02-4530-8f7b-7e283d2c7b89/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001e",
+                "AVERAGE-BANDWIDTH": "1091200",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1126400"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/8df80962-9d02-4530-8f7b-7e283d2c7b89/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "1861200",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1927200"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/motorvisiontv-motorvision-tv-spanish.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

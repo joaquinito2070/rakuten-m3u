@@ -1,0 +1,57 @@
+{
+    "name": "Stingray Naturescape",
+    "tvg_id": "stingray-naturescape",
+    "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f079c8b7-decc-460e-a38e-a26edfcec5fb.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayNaturescape&ads.csid=zeus_eu_stingrayambiance_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1288&ads.rakuten_streaming_id=c6d0612b-4ee5-4052-a60b-d68b0a0c3b2c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883056&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=188&ads.xumo_providerName=StingrayAmbiance&ads.xumo_streamId=88883056",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/stingray-naturescape/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d22d920f-1e83-4a10-8c7e-1ba8183a3b21/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1020800"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d22d920f-1e83-4a10-8c7e-1ba8183a3b21/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "842x474",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1751200"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d22d920f-1e83-4a10-8c7e-1ba8183a3b21/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "3291200"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d22d920f-1e83-4a10-8c7e-1ba8183a3b21/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "5711200"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d22d920f-1e83-4a10-8c7e-1ba8183a3b21/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64000c",
+                "RESOLUTION": "256x144",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "211200"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/stingraynaturescape-stingray-naturescape.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

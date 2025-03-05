@@ -1,0 +1,66 @@
+{
+    "name": "Gusto TV",
+    "tvg_id": "gusto-tv-new",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",
+    "group_title": "Cocina",
+    "original_master_url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=534c086e-b579-4951-afc5-937f6e9c4506&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/gusto-tv-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/d6817512-a0c7-4ab5-8b7f-3f6208da08a8/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d401e",
+                "AVERAGE-BANDWIDTH": "393600",
+                "RESOLUTION": "426x240",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "511680",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/d6817512-a0c7-4ab5-8b7f-3f6208da08a8/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d401e",
+                "AVERAGE-BANDWIDTH": "813600",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1057680",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/d6817512-a0c7-4ab5-8b7f-3f6208da08a8/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1686360",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/d6817512-a0c7-4ab5-8b7f-3f6208da08a8/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "3329040",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/d6817512-a0c7-4ab5-8b7f-3f6208da08a8/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640028",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "6046040",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        }
+    ],
+    "epg": []
+}

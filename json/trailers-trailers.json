@@ -1,0 +1,62 @@
+{
+    "name": "Trailers",
+    "tvg_id": "trailers",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd19f8e4-0477-4129-96f7-89b5817f7957.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=1091bb16-a208-49f8-aac8-feeac6b2bb54&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/trailers/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/578ab908-c29c-45da-b098-3b8402a67b6b/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4015",
+                "AVERAGE-BANDWIDTH": "516362",
+                "RESOLUTION": "448x252",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "559401"
+            }
+        },
+        {
+            "url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/578ab908-c29c-45da-b098-3b8402a67b6b/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "852501",
+                "RESOLUTION": "768x432",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "924555"
+            }
+        },
+        {
+            "url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/578ab908-c29c-45da-b098-3b8402a67b6b/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "1375468",
+                "RESOLUTION": "768x432",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1483797"
+            }
+        },
+        {
+            "url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/578ab908-c29c-45da-b098-3b8402a67b6b/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401F",
+                "AVERAGE-BANDWIDTH": "2450904",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "2641335"
+            }
+        },
+        {
+            "url": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/578ab908-c29c-45da-b098-3b8402a67b6b/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4028",
+                "AVERAGE-BANDWIDTH": "4286043",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "4606970"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/trailers-trailers.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

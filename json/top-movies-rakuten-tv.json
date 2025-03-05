@@ -1,0 +1,66 @@
+{
+    "name": "Pelis Top",
+    "tvg_id": "top-movies-rakuten-tv",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=13868acb-597b-421c-ab3a-d732b2f7f4ec&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/top-movies-rakuten-tv/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/50a3f4ed-8621-49fc-8329-695feed33260/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4015",
+                "AVERAGE-BANDWIDTH": "532123",
+                "RESOLUTION": "448x252",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "583480"
+            }
+        },
+        {
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/50a3f4ed-8621-49fc-8329-695feed33260/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "901030",
+                "RESOLUTION": "768x432",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "986575"
+            }
+        },
+        {
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/50a3f4ed-8621-49fc-8329-695feed33260/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "1469933",
+                "RESOLUTION": "768x432",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1607332"
+            }
+        },
+        {
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/50a3f4ed-8621-49fc-8329-695feed33260/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401F",
+                "AVERAGE-BANDWIDTH": "2636062",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "2842345"
+            }
+        },
+        {
+            "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/50a3f4ed-8621-49fc-8329-695feed33260/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4028",
+                "AVERAGE-BANDWIDTH": "4618166",
+                "RESOLUTION": "1920x1080",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "4909292"
+            }
+        }
+    ],
+    "epg": []
+}

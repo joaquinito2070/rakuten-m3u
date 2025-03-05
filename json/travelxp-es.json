@@ -1,0 +1,38 @@
+{
+    "name": "Travelxp",
+    "tvg_id": "travelxp-es",
+    "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5756&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=b52383e4-6b31-4cb0-b723-c0132f7fc914&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1613",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/travelxp-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/b22d7e62-35d6-436b-bc74-8dda64400b0e/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "921600",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/b22d7e62-35d6-436b-bc74-8dda64400b0e/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "960x540",
+                "BANDWIDTH": "2048000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/b22d7e62-35d6-436b-bc74-8dda64400b0e/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "1280x720",
+                "BANDWIDTH": "3072000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        }
+    ],
+    "epg": []
+}

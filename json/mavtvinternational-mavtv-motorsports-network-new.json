@@ -1,0 +1,60 @@
+{
+    "name": "MAVTV International",
+    "tvg_id": "mavtv-motorsports-network-new",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f1af70ab-1f78-4af7-97c5-bcf61aa1acf7.jpeg",
+    "group_title": "Deportes",
+    "original_master_url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?ads_amagi_channel=872&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5458&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=26199db9-c86f-4b3d-9245-24684b2f6b87&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/mavtv-motorsports-network-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48981cdd690e3955597a9d108f7e1cc6df2ffe4c3d29447c87ceb07bd1cf1a01b3dd0e7c2cb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758181e74368291930dd191b8af301fdbbb40301b735f5932a72a12a41e28a48d8ee34ead49734dc07c019a24bc3d6a5d5977fded7cf34ec06e5317b3d481e9c8e7ec9b337c7db9e7a069d7c2941176ae5ab92f040398a3526369ba79ced3f8779a18821925f33be16914c810f9e72ba0cd58424c3babedd183453cdc55f7218b2f1b683ff475bd700a9f5b8852625c3837e1646cd7ee7262e2e99fece2b88ce01e4d549e4e5335c52ba904188a2b18ce1a48844881ac9cbf58b2e4b486a07039254ad941fb843bc2ff2bf79465d4957929f5bd2f4bf3454725d898404a67971b8df98bcd20f29c1650f288c0abb5e1636965e1c7de13ec689287e8c27078c3b3ac45131f20496fc7ea3f682bc0239ec93c41aa969a2e10881f24ff03f680c4fe1a67a07114e2fd6b864556723b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961e5888cbb778c95b13f9a3f47490ad0fa58fca6b0945fcf9b020d9/117/640x360_1020588/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1020588",
+                "AVERAGE-BANDWIDTH": "985600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48981cdd690e3955597a9d108f7e1cc6df2ffe4c3d29447c87ceb07bd1cf1a01b3dd0e7c2cb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758181e74368291930dd191b8af301fdbbb40301b735f5932a72a12a41e28a48d8ee34ead49734dc07c019a24bc3d6a5d5977fded7cf34ec06e5317b3d481e9c8e7ec9b337c7db9e7a069d7c2941176ae5ab92f040398a3526369ba79ced3f8779a18821925f33be16914c810f9e72ba0cd58424c3babedd183453cdc55f7218b2f1b683ff475bd700a9f5b8852625c3837e1646cd7ee7262e2e99fece2b88ce01e4d549e4e5335c52ba904188a2b18ce1a48844881ac9cbf58b2e4b486a07039254ad941fb843bc2ff2bf79465d4957929f5bd2f4bf3454725d898404a67971b8df98bcd20f29c1650f288c0abb5e1636965e1c7de13ec689287e8c27078c3b3ac45131f20496fc7ea3f682bc0239ec93c41aa969a2e10881f24ff03f680c4fe1a67a07114e2fd6b864556723b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961e5888cbb778c95b13f9a3f47490ad0fa58fca6b0945fcf9b020d9/117/854x480_1249336/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1249336",
+                "AVERAGE-BANDWIDTH": "1205600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "854x480",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48981cdd690e3955597a9d108f7e1cc6df2ffe4c3d29447c87ceb07bd1cf1a01b3dd0e7c2cb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758181e74368291930dd191b8af301fdbbb40301b735f5932a72a12a41e28a48d8ee34ead49734dc07c019a24bc3d6a5d5977fded7cf34ec06e5317b3d481e9c8e7ec9b337c7db9e7a069d7c2941176ae5ab92f040398a3526369ba79ced3f8779a18821925f33be16914c810f9e72ba0cd58424c3babedd183453cdc55f7218b2f1b683ff475bd700a9f5b8852625c3837e1646cd7ee7262e2e99fece2b88ce01e4d549e4e5335c52ba904188a2b18ce1a48844881ac9cbf58b2e4b486a07039254ad941fb843bc2ff2bf79465d4957929f5bd2f4bf3454725d898404a67971b8df98bcd20f29c1650f288c0abb5e1636965e1c7de13ec689287e8c27078c3b3ac45131f20496fc7ea3f682bc0239ec93c41aa969a2e10881f24ff03f680c4fe1a67a07114e2fd6b864556723b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961e5888cbb778c95b13f9a3f47490ad0fa58fca6b0945fcf9b020d9/117/1280x720_2657019/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2657019",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48981cdd690e3955597a9d108f7e1cc6df2ffe4c3d29447c87ceb07bd1cf1a01b3dd0e7c2cb96e246daf5a56bf650c76e6fd0318804fc1137703e4087753209dbc0ef8190f9cd448d423758181e74368291930dd191b8af301fdbbb40301b735f5932a72a12a41e28a48d8ee34ead49734dc07c019a24bc3d6a5d5977fded7cf34ec06e5317b3d481e9c8e7ec9b337c7db9e7a069d7c2941176ae5ab92f040398a3526369ba79ced3f8779a18821925f33be16914c810f9e72ba0cd58424c3babedd183453cdc55f7218b2f1b683ff475bd700a9f5b8852625c3837e1646cd7ee7262e2e99fece2b88ce01e4d549e4e5335c52ba904188a2b18ce1a48844881ac9cbf58b2e4b486a07039254ad941fb843bc2ff2bf79465d4957929f5bd2f4bf3454725d898404a67971b8df98bcd20f29c1650f288c0abb5e1636965e1c7de13ec689287e8c27078c3b3ac45131f20496fc7ea3f682bc0239ec93c41aa969a2e10881f24ff03f680c4fe1a67a07114e2fd6b864556723b92f89d2cef2481c13e9e5f2ead9433d75507d351a82f1ee64949cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961e5888cbb778c95b13f9a3f47490ad0fa58fca6b0945fcf9b020d9/117/1920x1080_4715744/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4715744",
+                "AVERAGE-BANDWIDTH": "4540800",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "1920x1080",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/mavtvinternational-mavtv-motorsports-network-new.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

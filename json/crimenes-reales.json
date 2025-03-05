@@ -1,0 +1,55 @@
+{
+    "name": "Crímenes Reales",
+    "tvg_id": "crimenes-reales",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82d122d3-c771-44b5-b15f-0ce7cf6bbd1f.jpeg",
+    "group_title": "Crimen y Misterio",
+    "original_master_url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6735&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=42e80e7c-138f-4c77-9fbe-c91cacea91dc&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/crimenes-reales/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecd1d8b35096d004031c94b8a6100c68b2cb559302f13699f9eb32fdecc430ce38a0d2b2091402400aa4d7a8d741179dcfd686cef5fb06a5f5782656f5221b2ad06f919168cc05fa95b13a9ed81307028181fce0a088afd07f7bdbe0119d24d9b864d1cd64010b9c460ffee28fbc28b0f9452bc5ea040defdb2cf957fd1d9cf27fc09f60b05592c7a8c817e96bb38dcb9897938c60b42371f51f59c92f34f3b8f784054f9f1c5ba698d76a4ea7cd9396dc36af74e8023b56faf1faee24b9fb9a2cf47335ccea74c6425fa99caf8fa31208274efb4d6de7c728df31a6c78c069aa44415cc6aa9841deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fbfad9a993951716701148f5ea7a561d63daf1bc2af427b262729ac9e46fb93ca5b225d5b9f905ba67a71decd8290d61a34d83a41309861dd483a7fd826697de824f79d03658d544cef7169a95d6dd047abbb61a4f483e34b6fb689900fa669edb047d1af53aa6c3f5c03eaa3285c1f0e17aaef621e0f7acc4bf0d6c4f5480a0cede4def7c65a3b062d1e5d02f9868d12cad8f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5988cbb7789e7c41faa38237aed7261754bad838c59c127ec907/136/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecd1d8b35096d004031c94b8a6100c68b2cb559302f13699f9eb32fdecc430ce38a0d2b2091402400aa4d7a8d741179dcfd686cef5fb06a5f5782656f5221b2ad06f919168cc05fa95b13a9ed81307028181fce0a088afd07f7bdbe0119d24d9b864d1cd64010b9c460ffee28fbc28b0f9452bc5ea040defdb2cf957fd1d9cf27fc09f60b05592c7a8c817e96bb38dcb9897938c60b42371f51f59c92f34f3b8f784054f9f1c5ba698d76a4ea7cd9396dc36af74e8023b56faf1faee24b9fb9a2cf47335ccea74c6425fa99caf8fa31208274efb4d6de7c728df31a6c78c069aa44415cc6aa9841deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fbfad9a993951716701148f5ea7a561d63daf1bc2af427b262729ac9e46fb93ca5b225d5b9f905ba67a71decd8290d61a34d83a41309861dd483a7fd826697de824f79d03658d544cef7169a95d6dd047abbb61a4f483e34b6fb689900fa669edb047d1af53aa6c3f5c03eaa3285c1f0e17aaef621e0f7acc4bf0d6c4f5480a0cede4def7c65a3b062d1e5d02f9868d12cad8f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5988cbb7789e7c41faa38237aed7261754bad838c59c127ec907/136/848x480_1686360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecd1d8b35096d004031c94b8a6100c68b2cb559302f13699f9eb32fdecc430ce38a0d2b2091402400aa4d7a8d741179dcfd686cef5fb06a5f5782656f5221b2ad06f919168cc05fa95b13a9ed81307028181fce0a088afd07f7bdbe0119d24d9b864d1cd64010b9c460ffee28fbc28b0f9452bc5ea040defdb2cf957fd1d9cf27fc09f60b05592c7a8c817e96bb38dcb9897938c60b42371f51f59c92f34f3b8f784054f9f1c5ba698d76a4ea7cd9396dc36af74e8023b56faf1faee24b9fb9a2cf47335ccea74c6425fa99caf8fa31208274efb4d6de7c728df31a6c78c069aa44415cc6aa9841deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fbfad9a993951716701148f5ea7a561d63daf1bc2af427b262729ac9e46fb93ca5b225d5b9f905ba67a71decd8290d61a34d83a41309861dd483a7fd826697de824f79d03658d544cef7169a95d6dd047abbb61a4f483e34b6fb689900fa669edb047d1af53aa6c3f5c03eaa3285c1f0e17aaef621e0f7acc4bf0d6c4f5480a0cede4def7c65a3b062d1e5d02f9868d12cad8f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5988cbb7789e7c41faa38237aed7261754bad838c59c127ec907/136/1280x720_3329040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecd1d8b35096d004031c94b8a6100c68b2cb559302f13699f9eb32fdecc430ce38a0d2b2091402400aa4d7a8d741179dcfd686cef5fb06a5f5782656f5221b2ad06f919168cc05fa95b13a9ed81307028181fce0a088afd07f7bdbe0119d24d9b864d1cd64010b9c460ffee28fbc28b0f9452bc5ea040defdb2cf957fd1d9cf27fc09f60b05592c7a8c817e96bb38dcb9897938c60b42371f51f59c92f34f3b8f784054f9f1c5ba698d76a4ea7cd9396dc36af74e8023b56faf1faee24b9fb9a2cf47335ccea74c6425fa99caf8fa31208274efb4d6de7c728df31a6c78c069aa44415cc6aa9841deb67fffb727968b7b092ec99537f3f7d4d1b8e1d51fc57fbfad9a993951716701148f5ea7a561d63daf1bc2af427b262729ac9e46fb93ca5b225d5b9f905ba67a71decd8290d61a34d83a41309861dd483a7fd826697de824f79d03658d544cef7169a95d6dd047abbb61a4f483e34b6fb689900fa669edb047d1af53aa6c3f5c03eaa3285c1f0e17aaef621e0f7acc4bf0d6c4f5480a0cede4def7c65a3b062d1e5d02f9868d12cad8f229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5988cbb7789e7c41faa38237aed7261754bad838c59c127ec907/136/1920x1080_6046040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Cine Español",
+    "tvg_id": "spanish-cinema-rakuten-tv",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=bea2e2cb-cdc0-44d7-95ca-f53c7888f088&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/spanish-cinema-rakuten-tv/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/3a10db73-152e-4df3-bebe-24aaa4655245/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4015",
+                "AVERAGE-BANDWIDTH": "530487",
+                "RESOLUTION": "448x252",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "583022"
+            }
+        },
+        {
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/3a10db73-152e-4df3-bebe-24aaa4655245/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "897711",
+                "RESOLUTION": "768x432",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "985635"
+            }
+        },
+        {
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/3a10db73-152e-4df3-bebe-24aaa4655245/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401E",
+                "AVERAGE-BANDWIDTH": "1450842",
+                "RESOLUTION": "768x432",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1591671"
+            }
+        },
+        {
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/3a10db73-152e-4df3-bebe-24aaa4655245/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D401F",
+                "AVERAGE-BANDWIDTH": "2606309",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "2862151"
+            }
+        },
+        {
+            "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/3a10db73-152e-4df3-bebe-24aaa4655245/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4D4028",
+                "AVERAGE-BANDWIDTH": "4573762",
+                "RESOLUTION": "1920x1080",
+                "SUBTITLES": "subtitle",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "5018828"
+            }
+        }
+    ],
+    "epg": []
+}

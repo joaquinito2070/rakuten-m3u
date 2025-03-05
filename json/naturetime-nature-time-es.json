@@ -1,0 +1,84 @@
+{
+    "name": "Nature Time",
+    "tvg_id": "nature-time-es",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg",
+    "group_title": "Documentales",
+    "original_master_url": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=c811a6d7-9a09-4628-8fa0-55571e11b934&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/nature-time-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://rakutenaa-bamus-naturetimeemeaspa-u8atb.amagi.tv/playlist/rakutenAA-bamus-naturetimeemeaspa/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48971fd664036852557a9d108f7e1cc6df2ffe4c3d744473879bb07d8fca4101e48b08787cb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a816b13b7fc8922563d050bf01914a5f57c87c5c31d198925f4f35c19c27a2abadb168b8b40e78ade61be12d2359e57d9d0a5da8e49dcd1fe3afd75a45e4d5b7a2cc8812f979e10efdbca3074c8277a1e530de0a2c3b31b69d3101259a9aec9e636ab49b4e34880642484158b4a960f9e72ba0cd58824c7bbb2cc4b5536b69e2e0b4ea1e1b3b5e92125b46289ca83bb212bc8ae41211db507aa232f2bafefdf02bbc01a98a2268ba056143cb2f72fffc9e1d0bfeaf820f224ced4cb9c38544760013d8a50b6e80eb1488c22d2a46220585e7bac9754c38fe65d386341888552a67671da83dbda857f51ad611f49d765d74d770aa6507c6eea29a3e85606882219ba383ce95330943098d24ef0b4819d6c54b4dad47dfb6af9bc09d7c916b07d392b67d9913b5a47163cba9667092346d151f2ecc9ee791d05e2e3f2f2c15d3f123810577eee8884638b8ff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e39f1c17f14a369dab570d41f2a452ff995134d57532dd03337e87ac/83/720x404_1478083/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1478083",
+                "AVERAGE-BANDWIDTH": "1425600",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "720x404",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-bamus-naturetimeemeaspa-u8atb.amagi.tv/playlist/rakutenAA-bamus-naturetimeemeaspa/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48971fd664036852557a9d108f7e1cc6df2ffe4c3d744473879bb07d8fca4101e48b08787cb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a816b13b7fc8922563d050bf01914a5f57c87c5c31d198925f4f35c19c27a2abadb168b8b40e78ade61be12d2359e57d9d0a5da8e49dcd1fe3afd75a45e4d5b7a2cc8812f979e10efdbca3074c8277a1e530de0a2c3b31b69d3101259a9aec9e636ab49b4e34880642484158b4a960f9e72ba0cd58824c7bbb2cc4b5536b69e2e0b4ea1e1b3b5e92125b46289ca83bb212bc8ae41211db507aa232f2bafefdf02bbc01a98a2268ba056143cb2f72fffc9e1d0bfeaf820f224ced4cb9c38544760013d8a50b6e80eb1488c22d2a46220585e7bac9754c38fe65d386341888552a67671da83dbda857f51ad611f49d765d74d770aa6507c6eea29a3e85606882219ba383ce95330943098d24ef0b4819d6c54b4dad47dfb6af9bc09d7c916b07d392b67d9913b5a47163cba9667092346d151f2ecc9ee791d05e2e3f2f2c15d3f123810577eee8884638b8ff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e39f1c17f14a369dab570d41f2a452ff995134d57532dd03337e87ac/83/1280x720_2964940/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2964940",
+                "AVERAGE-BANDWIDTH": "2855600",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-bamus-naturetimeemeaspa-u8atb.amagi.tv/playlist/rakutenAA-bamus-naturetimeemeaspa/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48971fd664036852557a9d108f7e1cc6df2ffe4c3d744473879bb07d8fca4101e48b08787cb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a816b13b7fc8922563d050bf01914a5f57c87c5c31d198925f4f35c19c27a2abadb168b8b40e78ade61be12d2359e57d9d0a5da8e49dcd1fe3afd75a45e4d5b7a2cc8812f979e10efdbca3074c8277a1e530de0a2c3b31b69d3101259a9aec9e636ab49b4e34880642484158b4a960f9e72ba0cd58824c7bbb2cc4b5536b69e2e0b4ea1e1b3b5e92125b46289ca83bb212bc8ae41211db507aa232f2bafefdf02bbc01a98a2268ba056143cb2f72fffc9e1d0bfeaf820f224ced4cb9c38544760013d8a50b6e80eb1488c22d2a46220585e7bac9754c38fe65d386341888552a67671da83dbda857f51ad611f49d765d74d770aa6507c6eea29a3e85606882219ba383ce95330943098d24ef0b4819d6c54b4dad47dfb6af9bc09d7c916b07d392b67d9913b5a47163cba9667092346d151f2ecc9ee791d05e2e3f2f2c15d3f123810577eee8884638b8ff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e39f1c17f14a369dab570d41f2a452ff995134d57532dd03337e87ac/83/1920x1080_5252412/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "5252412",
+                "AVERAGE-BANDWIDTH": "5055600",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-bamus-naturetimeemeaspa-u8atb.amagi.tv/playlist/rakutenAA-bamus-naturetimeemeaspa/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48971fd664036852557a9d108f7e1cc6df2ffe4c3d744473879bb07d8fca4101e48b08787cb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a816b13b7fc8922563d050bf01914a5f57c87c5c31d198925f4f35c19c27a2abadb168b8b40e78ade61be12d2359e57d9d0a5da8e49dcd1fe3afd75a45e4d5b7a2cc8812f979e10efdbca3074c8277a1e530de0a2c3b31b69d3101259a9aec9e636ab49b4e34880642484158b4a960f9e72ba0cd58824c7bbb2cc4b5536b69e2e0b4ea1e1b3b5e92125b46289ca83bb212bc8ae41211db507aa232f2bafefdf02bbc01a98a2268ba056143cb2f72fffc9e1d0bfeaf820f224ced4cb9c38544760013d8a50b6e80eb1488c22d2a46220585e7bac9754c38fe65d386341888552a67671da83dbda857f51ad611f49d765d74d770aa6507c6eea29a3e85606882219ba383ce95330943098d24ef0b4819d6c54b4dad47dfb6af9bc09d7c916b07d392b67d9913b5a47163cba9667092346d151f2ecc9ee791d05e2e3f2f2c15d3f123810577eee8884638b8ff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e39f1c17f14a369dab570d41f2a452ff995134d57532dd03337e87ac/83/512x288_906215/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "906215",
+                "AVERAGE-BANDWIDTH": "875600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "512x288",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-bamus-naturetimeemeaspa-u8atb.amagi.tv/playlist/rakutenAA-bamus-naturetimeemeaspa/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48971fd664036852557a9d108f7e1cc6df2ffe4c3d744473879bb07d8fca4101e48b08787cb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a816b13b7fc8922563d050bf01914a5f57c87c5c31d198925f4f35c19c27a2abadb168b8b40e78ade61be12d2359e57d9d0a5da8e49dcd1fe3afd75a45e4d5b7a2cc8812f979e10efdbca3074c8277a1e530de0a2c3b31b69d3101259a9aec9e636ab49b4e34880642484158b4a960f9e72ba0cd58824c7bbb2cc4b5536b69e2e0b4ea1e1b3b5e92125b46289ca83bb212bc8ae41211db507aa232f2bafefdf02bbc01a98a2268ba056143cb2f72fffc9e1d0bfeaf820f224ced4cb9c38544760013d8a50b6e80eb1488c22d2a46220585e7bac9754c38fe65d386341888552a67671da83dbda857f51ad611f49d765d74d770aa6507c6eea29a3e85606882219ba383ce95330943098d24ef0b4819d6c54b4dad47dfb6af9bc09d7c916b07d392b67d9913b5a47163cba9667092346d151f2ecc9ee791d05e2e3f2f2c15d3f123810577eee8884638b8ff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e39f1c17f14a369dab570d41f2a452ff995134d57532dd03337e87ac/83/384x216_734654/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "734654",
+                "AVERAGE-BANDWIDTH": "710600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "384x216",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://rakutenaa-bamus-naturetimeemeaspa-u8atb.amagi.tv/playlist/rakutenAA-bamus-naturetimeemeaspa/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a48971fd664036852557a9d108f7e1cc6df2ffe4c3d744473879bb07d8fca4101e48b08787cb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a816b13b7fc8922563d050bf01914a5f57c87c5c31d198925f4f35c19c27a2abadb168b8b40e78ade61be12d2359e57d9d0a5da8e49dcd1fe3afd75a45e4d5b7a2cc8812f979e10efdbca3074c8277a1e530de0a2c3b31b69d3101259a9aec9e636ab49b4e34880642484158b4a960f9e72ba0cd58824c7bbb2cc4b5536b69e2e0b4ea1e1b3b5e92125b46289ca83bb212bc8ae41211db507aa232f2bafefdf02bbc01a98a2268ba056143cb2f72fffc9e1d0bfeaf820f224ced4cb9c38544760013d8a50b6e80eb1488c22d2a46220585e7bac9754c38fe65d386341888552a67671da83dbda857f51ad611f49d765d74d770aa6507c6eea29a3e85606882219ba383ce95330943098d24ef0b4819d6c54b4dad47dfb6af9bc09d7c916b07d392b67d9913b5a47163cba9667092346d151f2ecc9ee791d05e2e3f2f2c15d3f123810577eee8884638b8ff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e39f1c17f14a369dab570d41f2a452ff995134d57532dd03337e87ac/83/384x216_448720/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "448720",
+                "AVERAGE-BANDWIDTH": "435600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "384x216",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/naturetime-nature-time-es.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

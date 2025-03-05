@@ -1,0 +1,36 @@
+{
+    "name": "Vivir con gatos",
+    "tvg_id": "vivir-con-gatos",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5596&ads_rtv_content_language=spa&ads_streaming_id=500f5e93-c89a-4984-a3e2-0f8d681e468e&ads_tcs_channel_id=922&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vivir-con-gatos/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-vivircongatos/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5596&ads_rtv_content_language=spa&ads_streaming_id=500f5e93-c89a-4984-a3e2-0f8d681e468e&ads_tcs_channel_id=922&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=dac256da-d1b3-41bb-abf9-db2432cbcb4b",
+            "attributes": {
+                "BANDWIDTH": "5817900",
+                "CODECS": "avc1.64002a",
+                "RESOLUTION": "1920x1080"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-vivircongatos/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5596&ads_rtv_content_language=spa&ads_streaming_id=500f5e93-c89a-4984-a3e2-0f8d681e468e&ads_tcs_channel_id=922&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=dac256da-d1b3-41bb-abf9-db2432cbcb4b",
+            "attributes": {
+                "BANDWIDTH": "3276900",
+                "CODECS": "avc1.640020",
+                "RESOLUTION": "1280x720"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-vivircongatos/3a89a498229b9adc9cb8ed05535ab980/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5596&ads_rtv_content_language=spa&ads_streaming_id=500f5e93-c89a-4984-a3e2-0f8d681e468e&ads_tcs_channel_id=922&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=dac256da-d1b3-41bb-abf9-db2432cbcb4b",
+            "attributes": {
+                "BANDWIDTH": "2187900",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "854x480"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/vivircongatos-vivir-con-gatos.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

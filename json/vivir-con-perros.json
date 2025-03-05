@@ -1,0 +1,35 @@
+{
+    "name": "Vivir con perros",
+    "tvg_id": "vivir-con-perros",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://daiconnect.com/live/hls/tvup/rk-vivirconperros/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5597&ads_rtv_content_language=spa&ads_streaming_id=7b188319-a1a4-4060-9fbe-4e717a2a96d8&ads_tcs_channel_id=921&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/vivir-con-perros/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-vivirconperros/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5597&ads_rtv_content_language=spa&ads_streaming_id=7b188319-a1a4-4060-9fbe-4e717a2a96d8&ads_tcs_channel_id=921&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=e4394401-c819-4186-99b1-ec2016eca522",
+            "attributes": {
+                "BANDWIDTH": "5782700",
+                "CODECS": "avc1.64002a",
+                "RESOLUTION": "1920x1080"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-vivirconperros/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5597&ads_rtv_content_language=spa&ads_streaming_id=7b188319-a1a4-4060-9fbe-4e717a2a96d8&ads_tcs_channel_id=921&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=e4394401-c819-4186-99b1-ec2016eca522",
+            "attributes": {
+                "BANDWIDTH": "3289699",
+                "CODECS": "avc1.640020",
+                "RESOLUTION": "1280x720"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-vivirconperros/3a89a498229b9adc9cb8ed05535ab980/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5597&ads_rtv_content_language=spa&ads_streaming_id=7b188319-a1a4-4060-9fbe-4e717a2a96d8&ads_tcs_channel_id=921&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=e4394401-c819-4186-99b1-ec2016eca522",
+            "attributes": {
+                "BANDWIDTH": "2200699",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "854x480"
+            }
+        }
+    ],
+    "epg": []
+}

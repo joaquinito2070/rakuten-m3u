@@ -1,0 +1,66 @@
+{
+    "name": "NewsWorld",
+    "tvg_id": "newsworld",
+    "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011.jpeg",
+    "group_title": "Noticias",
+    "original_master_url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8?ads_amagi_channel=867&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5636&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=f53b9643-e789-4e7d-aa0c-eae288af63a3&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/newsworld/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecc498d60093b024031c94b8a6100c68b2cb503662e4169939ae62fd99c1608e3d9592d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77197490391c365df2a6fd2fe880e7d341a0abd6867d6e70bf1f5c067728938e2de4916d30d73ddb6028b8b48b18aee7bcf17c519b250dfc7a1d68a4ed5e9c8378b4188700f0d717fc0d62dc08458e182c3246d99262c0b1f54b6a0defb4f39d41f1b5dfea998be36a56fa4fb24857308a9148e70873f847faf07b3de47a4dfddb526146ff79201134dcae4a499c43832af6dfeb69bb9191e9ce54e3c2da56cdc3114289ff9f4009dd310e4c249f7a4651c21c583559a9ab7bce2b989589329c69d81f254434a703b10924bab9e1fb343bb2aff9f4b74051705c7e054c095e65d3f6c5b838e4aeb1017b8c8988ad90738cb741255e612ba31643c96410612e429eaa538699f2f09800a31f64c47e3289de976b4cda3e402288accd354c06ce0bb1ed7f81696613d5705a6f32b5a372917b3eb680a6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181bf26ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd897576e70cbabf2f54ab5044959c7d959b8839295bd80e8d13ce1/90/1920x1080_4716800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4716800",
+                "AVERAGE-BANDWIDTH": "4540800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecc498d60093b024031c94b8a6100c68b2cb503662e4169939ae62fd99c1608e3d9592d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77197490391c365df2a6fd2fe880e7d341a0abd6867d6e70bf1f5c067728938e2de4916d30d73ddb6028b8b48b18aee7bcf17c519b250dfc7a1d68a4ed5e9c8378b4188700f0d717fc0d62dc08458e182c3246d99262c0b1f54b6a0defb4f39d41f1b5dfea998be36a56fa4fb24857308a9148e70873f847faf07b3de47a4dfddb526146ff79201134dcae4a499c43832af6dfeb69bb9191e9ce54e3c2da56cdc3114289ff9f4009dd310e4c249f7a4651c21c583559a9ab7bce2b989589329c69d81f254434a703b10924bab9e1fb343bb2aff9f4b74051705c7e054c095e65d3f6c5b838e4aeb1017b8c8988ad90738cb741255e612ba31643c96410612e429eaa538699f2f09800a31f64c47e3289de976b4cda3e402288accd354c06ce0bb1ed7f81696613d5705a6f32b5a372917b3eb680a6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181bf26ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd897576e70cbabf2f54ab5044959c7d959b8839295bd80e8d13ce1/90/1280x720_2657600/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2657600",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecc498d60093b024031c94b8a6100c68b2cb503662e4169939ae62fd99c1608e3d9592d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77197490391c365df2a6fd2fe880e7d341a0abd6867d6e70bf1f5c067728938e2de4916d30d73ddb6028b8b48b18aee7bcf17c519b250dfc7a1d68a4ed5e9c8378b4188700f0d717fc0d62dc08458e182c3246d99262c0b1f54b6a0defb4f39d41f1b5dfea998be36a56fa4fb24857308a9148e70873f847faf07b3de47a4dfddb526146ff79201134dcae4a499c43832af6dfeb69bb9191e9ce54e3c2da56cdc3114289ff9f4009dd310e4c249f7a4651c21c583559a9ab7bce2b989589329c69d81f254434a703b10924bab9e1fb343bb2aff9f4b74051705c7e054c095e65d3f6c5b838e4aeb1017b8c8988ad90738cb741255e612ba31643c96410612e429eaa538699f2f09800a31f64c47e3289de976b4cda3e402288accd354c06ce0bb1ed7f81696613d5705a6f32b5a372917b3eb680a6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181bf26ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd897576e70cbabf2f54ab5044959c7d959b8839295bd80e8d13ce1/90/854x480_1821600/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1821600",
+                "AVERAGE-BANDWIDTH": "1755600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "854x480",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecc498d60093b024031c94b8a6100c68b2cb503662e4169939ae62fd99c1608e3d9592d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77197490391c365df2a6fd2fe880e7d341a0abd6867d6e70bf1f5c067728938e2de4916d30d73ddb6028b8b48b18aee7bcf17c519b250dfc7a1d68a4ed5e9c8378b4188700f0d717fc0d62dc08458e182c3246d99262c0b1f54b6a0defb4f39d41f1b5dfea998be36a56fa4fb24857308a9148e70873f847faf07b3de47a4dfddb526146ff79201134dcae4a499c43832af6dfeb69bb9191e9ce54e3c2da56cdc3114289ff9f4009dd310e4c249f7a4651c21c583559a9ab7bce2b989589329c69d81f254434a703b10924bab9e1fb343bb2aff9f4b74051705c7e054c095e65d3f6c5b838e4aeb1017b8c8988ad90738cb741255e612ba31643c96410612e429eaa538699f2f09800a31f64c47e3289de976b4cda3e402288accd354c06ce0bb1ed7f81696613d5705a6f32b5a372917b3eb680a6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181bf26ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd897576e70cbabf2f54ab5044959c7d959b8839295bd80e8d13ce1/90/640x360_792000/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "792000",
+                "AVERAGE-BANDWIDTH": "765600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0ecc498d60093b024031c94b8a6100c68b2cb503662e4169939ae62fd99c1608e3d9592d2099402300aa4d7a95660660e6fd0318804fdc136205e11a67423d9fe77197490391c365df2a6fd2fe880e7d341a0abd6867d6e70bf1f5c067728938e2de4916d30d73ddb6028b8b48b18aee7bcf17c519b250dfc7a1d68a4ed5e9c8378b4188700f0d717fc0d62dc08458e182c3246d99262c0b1f54b6a0defb4f39d41f1b5dfea998be36a56fa4fb24857308a9148e70873f847faf07b3de47a4dfddb526146ff79201134dcae4a499c43832af6dfeb69bb9191e9ce54e3c2da56cdc3114289ff9f4009dd310e4c249f7a4651c21c583559a9ab7bce2b989589329c69d81f254434a703b10924bab9e1fb343bb2aff9f4b74051705c7e054c095e65d3f6c5b838e4aeb1017b8c8988ad90738cb741255e612ba31643c96410612e429eaa538699f2f09800a31f64c47e3289de976b4cda3e402288accd354c06ce0bb1ed7f81696613d5705a6f32b5a372917b3eb680a6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181bf26ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd897576e70cbabf2f54ab5044959c7d959b8839295bd80e8d13ce1/90/426x240_448800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "448800",
+                "AVERAGE-BANDWIDTH": "435600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "426x240",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

@@ -1,0 +1,55 @@
+{
+    "name": "BBC Drama",
+    "tvg_id": "bbc-drama-es",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b7955dd9-07e0-48b2-baf8-bbbee37cd2eb-bbc-drama-1639673931.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8?ads_amagi_channel=959&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=13&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3877&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=c09d1f6b-a99a-4208-ade6-1f4437cd6e85&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/bbc-drama-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b4bd7350e6e594031c94b8a6100c68b2cb559372e11699dcdba7f8c98440ab18e0a7f20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323a797ff306d3e351ddb1b32b6ff00e7aabf192a81388387267c962742e0886af3eb4defc3bb0fcb05df25a47bd9dbb0def125b8b5d636fb5d985e7859266ea6817492ce5489d9926837927424347b3f85fac6a7144eec2d4258ebc0c6be77f416dafb41eb0232a85ae225e9318e78951cb4e45c9fb9a2cf473350cea34d6834a9f1af98a16f59cd67ffb1d6ce676e9cf7197149ce52d126597efab9c844ddc74490e021c8b53044398dc517cbc5ff82ebb5db07cd239e93a7cf3e4618665c57dc2cc8fd6cdf3ae27da6d86147362954bf95519ef3b33731665cb9924ac21a1fcbb3e1e58d596a92354200a90aa15a017ff326786ada2ef6942869873235893433fc4d3487478edd4696b4cbe45c79dfa4c646ec50ecba04c6f30cbd523f5503a0e125594c4f7cc4e76903421da927b58090941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195888cbb778897c41faa3cef0d75ecf2ba9ace1162dc2ffa1ed9a/167/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b4bd7350e6e594031c94b8a6100c68b2cb559372e11699dcdba7f8c98440ab18e0a7f20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323a797ff306d3e351ddb1b32b6ff00e7aabf192a81388387267c962742e0886af3eb4defc3bb0fcb05df25a47bd9dbb0def125b8b5d636fb5d985e7859266ea6817492ce5489d9926837927424347b3f85fac6a7144eec2d4258ebc0c6be77f416dafb41eb0232a85ae225e9318e78951cb4e45c9fb9a2cf473350cea34d6834a9f1af98a16f59cd67ffb1d6ce676e9cf7197149ce52d126597efab9c844ddc74490e021c8b53044398dc517cbc5ff82ebb5db07cd239e93a7cf3e4618665c57dc2cc8fd6cdf3ae27da6d86147362954bf95519ef3b33731665cb9924ac21a1fcbb3e1e58d596a92354200a90aa15a017ff326786ada2ef6942869873235893433fc4d3487478edd4696b4cbe45c79dfa4c646ec50ecba04c6f30cbd523f5503a0e125594c4f7cc4e76903421da927b58090941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195888cbb778897c41faa3cef0d75ecf2ba9ace1162dc2ffa1ed9a/167/848x480_1686360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b4bd7350e6e594031c94b8a6100c68b2cb559372e11699dcdba7f8c98440ab18e0a7f20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323a797ff306d3e351ddb1b32b6ff00e7aabf192a81388387267c962742e0886af3eb4defc3bb0fcb05df25a47bd9dbb0def125b8b5d636fb5d985e7859266ea6817492ce5489d9926837927424347b3f85fac6a7144eec2d4258ebc0c6be77f416dafb41eb0232a85ae225e9318e78951cb4e45c9fb9a2cf473350cea34d6834a9f1af98a16f59cd67ffb1d6ce676e9cf7197149ce52d126597efab9c844ddc74490e021c8b53044398dc517cbc5ff82ebb5db07cd239e93a7cf3e4618665c57dc2cc8fd6cdf3ae27da6d86147362954bf95519ef3b33731665cb9924ac21a1fcbb3e1e58d596a92354200a90aa15a017ff326786ada2ef6942869873235893433fc4d3487478edd4696b4cbe45c79dfa4c646ec50ecba04c6f30cbd523f5503a0e125594c4f7cc4e76903421da927b58090941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195888cbb778897c41faa3cef0d75ecf2ba9ace1162dc2ffa1ed9a/167/1280x720_3329040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b4bd7350e6e594031c94b8a6100c68b2cb559372e11699dcdba7f8c98440ab18e0a7f20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323a797ff306d3e351ddb1b32b6ff00e7aabf192a81388387267c962742e0886af3eb4defc3bb0fcb05df25a47bd9dbb0def125b8b5d636fb5d985e7859266ea6817492ce5489d9926837927424347b3f85fac6a7144eec2d4258ebc0c6be77f416dafb41eb0232a85ae225e9318e78951cb4e45c9fb9a2cf473350cea34d6834a9f1af98a16f59cd67ffb1d6ce676e9cf7197149ce52d126597efab9c844ddc74490e021c8b53044398dc517cbc5ff82ebb5db07cd239e93a7cf3e4618665c57dc2cc8fd6cdf3ae27da6d86147362954bf95519ef3b33731665cb9924ac21a1fcbb3e1e58d596a92354200a90aa15a017ff326786ada2ef6942869873235893433fc4d3487478edd4696b4cbe45c79dfa4c646ec50ecba04c6f30cbd523f5503a0e125594c4f7cc4e76903421da927b58090941d6701e8e4f2fac54531043c285e019f90841afadff229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e296195888cbb778897c41faa3cef0d75ecf2ba9ace1162dc2ffa1ed9a/167/1920x1080_6046040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

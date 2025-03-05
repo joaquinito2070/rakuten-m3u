@@ -1,0 +1,83 @@
+{
+    "name": "The Design Network",
+    "tvg_id": "the-design-network-new",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0d7ac09c-6941-41cd-9351-ff6f73a81ed6.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8?ads_amagi_channel=982&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5871&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=164caf8a-7ec5-4e10-ad05-86982c2fbbf7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/the-design-network-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e984c8c620a6c504031c94b8a6100c68b2cb559357a4269939ab17a8d9b440db58907292099403f00aa4d7a81780275d0d619008433bb7c09618d630d0f6adfe77b974c0391c365d62e6bd0f899430d47680adc574cdf880ff7bc8e1f019e03f2ee420cc0710188de13978359ead78179ab79b523af4397b7cab58244c1e9c536ef0ee13136542f69ebe313f29807ceb0f5683d8f4e2c43085ce5a6acea572c833526369be8cebd3f8379bc8821925f25af16a74c8b3e9e6ea41d98e84ad2cbd1bb17196ef59e1a0b5da1e1b3b5f83a3da963f5b6d6de7f7d8ae51d7e4eca6ccc2b2436e29ea175d4996ffcdb2281a756082bc5837a8f84a2869dd9e72d8a2cd9cee0972f183b096d03824e9d8879cd20d90ac0a475730b1c1cf8c30f80ecb55f347170968f5aeb0702a9def9f7b57c2bc661025ffa70d85c0053c13d686eea21f5c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598680e13187ed1e83e0c7d2ec646b19e9ee426594dedf39dab8d0b6e5e6145515e8de0e576ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd394af6e6341c5c401d33454cd63bfc899a5490f421ac8fe01/23/1024x576_2199524/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2199524",
+                "AVERAGE-BANDWIDTH": "2120800",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "1024x576",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e984c8c620a6c504031c94b8a6100c68b2cb559357a4269939ab17a8d9b440db58907292099403f00aa4d7a81780275d0d619008433bb7c09618d630d0f6adfe77b974c0391c365d62e6bd0f899430d47680adc574cdf880ff7bc8e1f019e03f2ee420cc0710188de13978359ead78179ab79b523af4397b7cab58244c1e9c536ef0ee13136542f69ebe313f29807ceb0f5683d8f4e2c43085ce5a6acea572c833526369be8cebd3f8379bc8821925f25af16a74c8b3e9e6ea41d98e84ad2cbd1bb17196ef59e1a0b5da1e1b3b5f83a3da963f5b6d6de7f7d8ae51d7e4eca6ccc2b2436e29ea175d4996ffcdb2281a756082bc5837a8f84a2869dd9e72d8a2cd9cee0972f183b096d03824e9d8879cd20d90ac0a475730b1c1cf8c30f80ecb55f347170968f5aeb0702a9def9f7b57c2bc661025ffa70d85c0053c13d686eea21f5c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598680e13187ed1e83e0c7d2ec646b19e9ee426594dedf39dab8d0b6e5e6145515e8de0e576ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd394af6e6341c5c401d33454cd63bfc899a5490f421ac8fe01/23/1280x720_3343260/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3343260",
+                "AVERAGE-BANDWIDTH": "3220800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e984c8c620a6c504031c94b8a6100c68b2cb559357a4269939ab17a8d9b440db58907292099403f00aa4d7a81780275d0d619008433bb7c09618d630d0f6adfe77b974c0391c365d62e6bd0f899430d47680adc574cdf880ff7bc8e1f019e03f2ee420cc0710188de13978359ead78179ab79b523af4397b7cab58244c1e9c536ef0ee13136542f69ebe313f29807ceb0f5683d8f4e2c43085ce5a6acea572c833526369be8cebd3f8379bc8821925f25af16a74c8b3e9e6ea41d98e84ad2cbd1bb17196ef59e1a0b5da1e1b3b5f83a3da963f5b6d6de7f7d8ae51d7e4eca6ccc2b2436e29ea175d4996ffcdb2281a756082bc5837a8f84a2869dd9e72d8a2cd9cee0972f183b096d03824e9d8879cd20d90ac0a475730b1c1cf8c30f80ecb55f347170968f5aeb0702a9def9f7b57c2bc661025ffa70d85c0053c13d686eea21f5c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598680e13187ed1e83e0c7d2ec646b19e9ee426594dedf39dab8d0b6e5e6145515e8de0e576ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd394af6e6341c5c401d33454cd63bfc899a5490f421ac8fe01/23/1920x1080_4715744/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4715744",
+                "AVERAGE-BANDWIDTH": "4540800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e984c8c620a6c504031c94b8a6100c68b2cb559357a4269939ab17a8d9b440db58907292099403f00aa4d7a81780275d0d619008433bb7c09618d630d0f6adfe77b974c0391c365d62e6bd0f899430d47680adc574cdf880ff7bc8e1f019e03f2ee420cc0710188de13978359ead78179ab79b523af4397b7cab58244c1e9c536ef0ee13136542f69ebe313f29807ceb0f5683d8f4e2c43085ce5a6acea572c833526369be8cebd3f8379bc8821925f25af16a74c8b3e9e6ea41d98e84ad2cbd1bb17196ef59e1a0b5da1e1b3b5f83a3da963f5b6d6de7f7d8ae51d7e4eca6ccc2b2436e29ea175d4996ffcdb2281a756082bc5837a8f84a2869dd9e72d8a2cd9cee0972f183b096d03824e9d8879cd20d90ac0a475730b1c1cf8c30f80ecb55f347170968f5aeb0702a9def9f7b57c2bc661025ffa70d85c0053c13d686eea21f5c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598680e13187ed1e83e0c7d2ec646b19e9ee426594dedf39dab8d0b6e5e6145515e8de0e576ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd394af6e6341c5c401d33454cd63bfc899a5490f421ac8fe01/23/854x480_1706830/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1706830",
+                "AVERAGE-BANDWIDTH": "1645600",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "854x480",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e984c8c620a6c504031c94b8a6100c68b2cb559357a4269939ab17a8d9b440db58907292099403f00aa4d7a81780275d0d619008433bb7c09618d630d0f6adfe77b974c0391c365d62e6bd0f899430d47680adc574cdf880ff7bc8e1f019e03f2ee420cc0710188de13978359ead78179ab79b523af4397b7cab58244c1e9c536ef0ee13136542f69ebe313f29807ceb0f5683d8f4e2c43085ce5a6acea572c833526369be8cebd3f8379bc8821925f25af16a74c8b3e9e6ea41d98e84ad2cbd1bb17196ef59e1a0b5da1e1b3b5f83a3da963f5b6d6de7f7d8ae51d7e4eca6ccc2b2436e29ea175d4996ffcdb2281a756082bc5837a8f84a2869dd9e72d8a2cd9cee0972f183b096d03824e9d8879cd20d90ac0a475730b1c1cf8c30f80ecb55f347170968f5aeb0702a9def9f7b57c2bc661025ffa70d85c0053c13d686eea21f5c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598680e13187ed1e83e0c7d2ec646b19e9ee426594dedf39dab8d0b6e5e6145515e8de0e576ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd394af6e6341c5c401d33454cd63bfc899a5490f421ac8fe01/23/640x360_756641/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "756641",
+                "AVERAGE-BANDWIDTH": "730400",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e984c8c620a6c504031c94b8a6100c68b2cb559357a4269939ab17a8d9b440db58907292099403f00aa4d7a81780275d0d619008433bb7c09618d630d0f6adfe77b974c0391c365d62e6bd0f899430d47680adc574cdf880ff7bc8e1f019e03f2ee420cc0710188de13978359ead78179ab79b523af4397b7cab58244c1e9c536ef0ee13136542f69ebe313f29807ceb0f5683d8f4e2c43085ce5a6acea572c833526369be8cebd3f8379bc8821925f25af16a74c8b3e9e6ea41d98e84ad2cbd1bb17196ef59e1a0b5da1e1b3b5f83a3da963f5b6d6de7f7d8ae51d7e4eca6ccc2b2436e29ea175d4996ffcdb2281a756082bc5837a8f84a2869dd9e72d8a2cd9cee0972f183b096d03824e9d8879cd20d90ac0a475730b1c1cf8c30f80ecb55f347170968f5aeb0702a9def9f7b57c2bc661025ffa70d85c0053c13d686eea21f5c04d06ee270e960a38f54e47e62898a83efaa381bf6c4bb4dad47dec7bfdb00bdfff0cae52355d70f598680e13187ed1e83e0c7d2ec646b19e9ee426594dedf39dab8d0b6e5e6145515e8de0e576ccbcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd394af6e6341c5c401d33454cd63bfc899a5490f421ac8fe01/23/426x240_499299/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "499299",
+                "AVERAGE-BANDWIDTH": "482900",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "426x240",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "epg": []
+}

@@ -1,0 +1,52 @@
+{
+    "name": "CGTN Documentary",
+    "tvg_id": "cgtn-documentary",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg",
+    "group_title": "Documentales",
+    "original_master_url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5002&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=a8de7b4c-7a41-495e-94d7-5c532561b215&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/cgtn-documentary/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "1249600",
+                "AVERAGE-BANDWIDTH": "1205600",
+                "CODECS": "avc1.77.30",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "30.000"
+            }
+        },
+        {
+            "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master540p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "3000800",
+                "AVERAGE-BANDWIDTH": "2890800",
+                "CODECS": "avc1.4d401f",
+                "RESOLUTION": "960x540",
+                "FRAME-RATE": "30.000"
+            }
+        },
+        {
+            "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "4144800",
+                "AVERAGE-BANDWIDTH": "3990800",
+                "CODECS": "avc1.4d401f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "30.000"
+            }
+        },
+        {
+            "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "5860800",
+                "AVERAGE-BANDWIDTH": "5640800",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "30.000"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/cgtndocumentary-cgtn-documentary.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

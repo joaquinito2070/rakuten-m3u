@@ -1,0 +1,39 @@
+{
+    "name": "Grjngo",
+    "tvg_id": "grjngo-es",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=b2e0d422-0c72-4822-a3e4-66823ac01693&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/grjngo-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/cbf749e5-f103-4175-b83b-22488d32b9bb/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "921600",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/cbf749e5-f103-4175-b83b-22488d32b9bb/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "960x540",
+                "BANDWIDTH": "2048000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/cbf749e5-f103-4175-b83b-22488d32b9bb/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "1280x720",
+                "BANDWIDTH": "3072000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/grjngo-grjngo-es.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

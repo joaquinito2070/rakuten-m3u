@@ -1,0 +1,35 @@
+{
+    "name": "El País",
+    "tvg_id": "el-pais",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg",
+    "group_title": "Noticias",
+    "original_master_url": "https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5598&ads_rtv_content_language=spa&ads_streaming_id=505aae8c-817e-4330-83f0-29eabdd12401&ads_tcs_channel_id=926&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/el-pais/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-elpais/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5598&ads_rtv_content_language=spa&ads_streaming_id=505aae8c-817e-4330-83f0-29eabdd12401&ads_tcs_channel_id=926&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=3aac9fbc-c85c-4542-9bd1-7344d8feff5a",
+            "attributes": {
+                "BANDWIDTH": "5782700",
+                "CODECS": "avc1.64002a",
+                "RESOLUTION": "1920x1080"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-elpais/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5598&ads_rtv_content_language=spa&ads_streaming_id=505aae8c-817e-4330-83f0-29eabdd12401&ads_tcs_channel_id=926&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=3aac9fbc-c85c-4542-9bd1-7344d8feff5a",
+            "attributes": {
+                "BANDWIDTH": "3289699",
+                "CODECS": "avc1.640020",
+                "RESOLUTION": "1280x720"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-elpais/3a89a498229b9adc9cb8ed05535ab980/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5598&ads_rtv_content_language=spa&ads_streaming_id=505aae8c-817e-4330-83f0-29eabdd12401&ads_tcs_channel_id=926&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=3aac9fbc-c85c-4542-9bd1-7344d8feff5a",
+            "attributes": {
+                "BANDWIDTH": "2200699",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "854x480"
+            }
+        }
+    ],
+    "epg": []
+}

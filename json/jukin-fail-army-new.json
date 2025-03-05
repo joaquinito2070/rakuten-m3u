@@ -1,0 +1,59 @@
+{
+    "name": "Fail Army",
+    "tvg_id": "jukin-fail-army-new",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg",
+    "group_title": "Entretenimiento",
+    "original_master_url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5552&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=629f990f-1483-421f-b3f7-37474d5bf127&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1160",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/jukin-fail-army-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/8a5a9bb0-2426-48a1-a157-581322a505cf/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "5825600",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "6053027",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/8a5a9bb0-2426-48a1-a157-581322a505cf/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "1315600",
+                "RESOLUTION": "1024x576",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1363709",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/8a5a9bb0-2426-48a1-a157-581322a505cf/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001e",
+                "AVERAGE-BANDWIDTH": "765600",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "791841",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://bd93cfed.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/8a5a9bb0-2426-48a1-a157-581322a505cf/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64000d",
+                "AVERAGE-BANDWIDTH": "435600",
+                "RESOLUTION": "384x216",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "448720",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        }
+    ],
+    "epg": []
+}

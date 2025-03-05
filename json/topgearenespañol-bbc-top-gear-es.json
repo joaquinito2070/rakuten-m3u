@@ -1,0 +1,39 @@
+{
+    "name": "Top Gear en español",
+    "tvg_id": "bbc-top-gear-es",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/36527b18-2a5c-4977-8c04-60dd6e57db24-top-gear-en-espanol-1651835741.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4081&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=340aa180-47ce-423e-92b4-0bf56068d65d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1115",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/bbc-top-gear-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/bab1e75c-4892-4b3b-a559-e24e6ec34bbc/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "921600",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/bab1e75c-4892-4b3b-a559-e24e6ec34bbc/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "960x540",
+                "BANDWIDTH": "2048000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/bab1e75c-4892-4b3b-a559-e24e6ec34bbc/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "1280x720",
+                "BANDWIDTH": "3072000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/topgearenespañol-bbc-top-gear-es.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Fashion TV",
+    "tvg_id": "fashion-tv",
+    "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1278&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=3498eb7e-2ac3-46f7-a51d-be65b3228730&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/fashion-tv/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/2bc74a25-8710-48e3-9529-de2ae95294c7/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d4029",
+                "AVERAGE-BANDWIDTH": "2340800",
+                "RESOLUTION": "960x540",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "2428800"
+            }
+        },
+        {
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/2bc74a25-8710-48e3-9529-de2ae95294c7/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d4029",
+                "AVERAGE-BANDWIDTH": "4760800",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "4945600"
+            }
+        },
+        {
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/2bc74a25-8710-48e3-9529-de2ae95294c7/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d4029",
+                "AVERAGE-BANDWIDTH": "3511200",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "3643200"
+            }
+        },
+        {
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/2bc74a25-8710-48e3-9529-de2ae95294c7/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d4029",
+                "AVERAGE-BANDWIDTH": "1311200",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "1355200"
+            }
+        },
+        {
+            "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/2bc74a25-8710-48e3-9529-de2ae95294c7/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d4029",
+                "AVERAGE-BANDWIDTH": "761200",
+                "RESOLUTION": "384x216",
+                "FRAME-RATE": "25.0",
+                "BANDWIDTH": "783200"
+            }
+        }
+    ],
+    "epg": []
+}

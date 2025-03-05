@@ -1,0 +1,59 @@
+{
+    "name": "Cine Friki",
+    "tvg_id": "cine-friki",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=263df886-1ef6-42ab-9783-f2e4e8705edf&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/cine-friki/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1c8c335e6c564031c94b8a6100c68b2cb559317b1269cbc9e17bd99d170cb7dc0e7b2092402900aa4d7a857b1500bf837e189732b123707986086a450d89b81ff42507aadc57cf5d1ab19cdc6b33477a0ecb1e32a6e41cf6aebc041b8f03f8e53e5eaf3b47e181169fdc14bd9dd50ec8459b72f345cf8ff98cdb139fd09336ad02ba63590d27799fda3df9a55cb2c9a57936984e3c5f0e5094d7f98c5e30875e464ee8feccba5af21aca9b2a8d6c6dc16af54e8023b57eb90cb5de5ab9bdbead2b2b5eb2cd486833aff7facb914d32b975c4b0fdcb4c7f96f8007d49dd52d423253f85fccc11f6a67ff5a53384ee1b7752c19556a490b391e4b59938f84fa8c2e7c2482827620011b94fb68c64df5bb512ce9c447004181df7e03fb587dd4d0f6342878757eb1013b8d58586d37c5ea003430fb93aa531776dc827536ef13bc69933629d2304910a34ff2a53ea26a9e87da3fd998f7c3ab1cdf841f061fbb004c6c901a56c2f4a0bb5fb2f5e514572de9c02675228911f9cb9a5e0731a3fe8f2dbf7c35607132007577eee8884679e8cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e09f576e70cbbaf2f54ab5ebbab3ad8a351f8bcd075cbba4767589/8/640x360_1020800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1020800",
+                "AVERAGE-BANDWIDTH": "985600",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1c8c335e6c564031c94b8a6100c68b2cb559317b1269cbc9e17bd99d170cb7dc0e7b2092402900aa4d7a857b1500bf837e189732b123707986086a450d89b81ff42507aadc57cf5d1ab19cdc6b33477a0ecb1e32a6e41cf6aebc041b8f03f8e53e5eaf3b47e181169fdc14bd9dd50ec8459b72f345cf8ff98cdb139fd09336ad02ba63590d27799fda3df9a55cb2c9a57936984e3c5f0e5094d7f98c5e30875e464ee8feccba5af21aca9b2a8d6c6dc16af54e8023b57eb90cb5de5ab9bdbead2b2b5eb2cd486833aff7facb914d32b975c4b0fdcb4c7f96f8007d49dd52d423253f85fccc11f6a67ff5a53384ee1b7752c19556a490b391e4b59938f84fa8c2e7c2482827620011b94fb68c64df5bb512ce9c447004181df7e03fb587dd4d0f6342878757eb1013b8d58586d37c5ea003430fb93aa531776dc827536ef13bc69933629d2304910a34ff2a53ea26a9e87da3fd998f7c3ab1cdf841f061fbb004c6c901a56c2f4a0bb5fb2f5e514572de9c02675228911f9cb9a5e0731a3fe8f2dbf7c35607132007577eee8884679e8cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e09f576e70cbbaf2f54ab5ebbab3ad8a351f8bcd075cbba4767589/8/960x540_2428800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2428800",
+                "AVERAGE-BANDWIDTH": "2340800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "960x540",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1c8c335e6c564031c94b8a6100c68b2cb559317b1269cbc9e17bd99d170cb7dc0e7b2092402900aa4d7a857b1500bf837e189732b123707986086a450d89b81ff42507aadc57cf5d1ab19cdc6b33477a0ecb1e32a6e41cf6aebc041b8f03f8e53e5eaf3b47e181169fdc14bd9dd50ec8459b72f345cf8ff98cdb139fd09336ad02ba63590d27799fda3df9a55cb2c9a57936984e3c5f0e5094d7f98c5e30875e464ee8feccba5af21aca9b2a8d6c6dc16af54e8023b57eb90cb5de5ab9bdbead2b2b5eb2cd486833aff7facb914d32b975c4b0fdcb4c7f96f8007d49dd52d423253f85fccc11f6a67ff5a53384ee1b7752c19556a490b391e4b59938f84fa8c2e7c2482827620011b94fb68c64df5bb512ce9c447004181df7e03fb587dd4d0f6342878757eb1013b8d58586d37c5ea003430fb93aa531776dc827536ef13bc69933629d2304910a34ff2a53ea26a9e87da3fd998f7c3ab1cdf841f061fbb004c6c901a56c2f4a0bb5fb2f5e514572de9c02675228911f9cb9a5e0731a3fe8f2dbf7c35607132007577eee8884679e8cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e09f576e70cbbaf2f54ab5ebbab3ad8a351f8bcd075cbba4767589/8/1280x720_3572800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3572800",
+                "AVERAGE-BANDWIDTH": "3440800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/playlist/rakutenAA-zylo-cinefriki-rakuten/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1c8c335e6c564031c94b8a6100c68b2cb559317b1269cbc9e17bd99d170cb7dc0e7b2092402900aa4d7a857b1500bf837e189732b123707986086a450d89b81ff42507aadc57cf5d1ab19cdc6b33477a0ecb1e32a6e41cf6aebc041b8f03f8e53e5eaf3b47e181169fdc14bd9dd50ec8459b72f345cf8ff98cdb139fd09336ad02ba63590d27799fda3df9a55cb2c9a57936984e3c5f0e5094d7f98c5e30875e464ee8feccba5af21aca9b2a8d6c6dc16af54e8023b57eb90cb5de5ab9bdbead2b2b5eb2cd486833aff7facb914d32b975c4b0fdcb4c7f96f8007d49dd52d423253f85fccc11f6a67ff5a53384ee1b7752c19556a490b391e4b59938f84fa8c2e7c2482827620011b94fb68c64df5bb512ce9c447004181df7e03fb587dd4d0f6342878757eb1013b8d58586d37c5ea003430fb93aa531776dc827536ef13bc69933629d2304910a34ff2a53ea26a9e87da3fd998f7c3ab1cdf841f061fbb004c6c901a56c2f4a0bb5fb2f5e514572de9c02675228911f9cb9a5e0731a3fe8f2dbf7c35607132007577eee8884679e8cf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e09f576e70cbbaf2f54ab5ebbab3ad8a351f8bcd075cbba4767589/8/1920x1080_4716800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4716800",
+                "AVERAGE-BANDWIDTH": "4540800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

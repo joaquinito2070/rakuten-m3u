@@ -1,0 +1,1105 @@
+{
+    "name": "ducktv",
+    "tvg_id": "ducktv",
+    "epg": [
+        {
+            "start_time": "20250225120000 +0100",
+            "stop_time": "20250225125959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225130000 +0100",
+            "stop_time": "20250225135959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225140000 +0100",
+            "stop_time": "20250225145959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225150000 +0100",
+            "stop_time": "20250225155959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225160000 +0100",
+            "stop_time": "20250225165959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225170000 +0100",
+            "stop_time": "20250225175959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225180000 +0100",
+            "stop_time": "20250225185959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225190000 +0100",
+            "stop_time": "20250225195959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225200000 +0100",
+            "stop_time": "20250225205959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225210000 +0100",
+            "stop_time": "20250225215959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225220000 +0100",
+            "stop_time": "20250225225959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250225230000 +0100",
+            "stop_time": "20250225235959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226000000 +0100",
+            "stop_time": "20250226005959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226010000 +0100",
+            "stop_time": "20250226015959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226020000 +0100",
+            "stop_time": "20250226025959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226030000 +0100",
+            "stop_time": "20250226035959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226040000 +0100",
+            "stop_time": "20250226045959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226050000 +0100",
+            "stop_time": "20250226055959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226060000 +0100",
+            "stop_time": "20250226065959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226070000 +0100",
+            "stop_time": "20250226075959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226080000 +0100",
+            "stop_time": "20250226085959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226090000 +0100",
+            "stop_time": "20250226095959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226100000 +0100",
+            "stop_time": "20250226105959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226110000 +0100",
+            "stop_time": "20250226115959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226120000 +0100",
+            "stop_time": "20250226125959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226130000 +0100",
+            "stop_time": "20250226135959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226140000 +0100",
+            "stop_time": "20250226145959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226150000 +0100",
+            "stop_time": "20250226155959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226160000 +0100",
+            "stop_time": "20250226165959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226170000 +0100",
+            "stop_time": "20250226175959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226180000 +0100",
+            "stop_time": "20250226185959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226190000 +0100",
+            "stop_time": "20250226195959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226200000 +0100",
+            "stop_time": "20250226205959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226210000 +0100",
+            "stop_time": "20250226215959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226220000 +0100",
+            "stop_time": "20250226225959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250226230000 +0100",
+            "stop_time": "20250226235959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227000000 +0100",
+            "stop_time": "20250227005959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227010000 +0100",
+            "stop_time": "20250227015959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227020000 +0100",
+            "stop_time": "20250227025959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227030000 +0100",
+            "stop_time": "20250227035959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227040000 +0100",
+            "stop_time": "20250227045959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227050000 +0100",
+            "stop_time": "20250227055959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227060000 +0100",
+            "stop_time": "20250227065959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227070000 +0100",
+            "stop_time": "20250227075959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227080000 +0100",
+            "stop_time": "20250227085959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227090000 +0100",
+            "stop_time": "20250227095959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227100000 +0100",
+            "stop_time": "20250227105959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227110000 +0100",
+            "stop_time": "20250227115959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227120000 +0100",
+            "stop_time": "20250227125959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227130000 +0100",
+            "stop_time": "20250227135959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227140000 +0100",
+            "stop_time": "20250227145959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227150000 +0100",
+            "stop_time": "20250227155959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227160000 +0100",
+            "stop_time": "20250227165959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227170000 +0100",
+            "stop_time": "20250227175959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227180000 +0100",
+            "stop_time": "20250227185959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227190000 +0100",
+            "stop_time": "20250227195959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227200000 +0100",
+            "stop_time": "20250227205959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227210000 +0100",
+            "stop_time": "20250227215959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227220000 +0100",
+            "stop_time": "20250227225959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250227230000 +0100",
+            "stop_time": "20250227235959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228000000 +0100",
+            "stop_time": "20250228005959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228010000 +0100",
+            "stop_time": "20250228015959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228020000 +0100",
+            "stop_time": "20250228025959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228030000 +0100",
+            "stop_time": "20250228035959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228040000 +0100",
+            "stop_time": "20250228045959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228050000 +0100",
+            "stop_time": "20250228055959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228060000 +0100",
+            "stop_time": "20250228065959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228070000 +0100",
+            "stop_time": "20250228075959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228080000 +0100",
+            "stop_time": "20250228085959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228090000 +0100",
+            "stop_time": "20250228095959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228100000 +0100",
+            "stop_time": "20250228105959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228110000 +0100",
+            "stop_time": "20250228115959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228120000 +0100",
+            "stop_time": "20250228125959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228130000 +0100",
+            "stop_time": "20250228135959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228140000 +0100",
+            "stop_time": "20250228145959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228150000 +0100",
+            "stop_time": "20250228155959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228160000 +0100",
+            "stop_time": "20250228165959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228170000 +0100",
+            "stop_time": "20250228175959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228180000 +0100",
+            "stop_time": "20250228185959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228190000 +0100",
+            "stop_time": "20250228195959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228200000 +0100",
+            "stop_time": "20250228205959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228210000 +0100",
+            "stop_time": "20250228215959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228220000 +0100",
+            "stop_time": "20250228225959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250228230000 +0100",
+            "stop_time": "20250228235959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301000000 +0100",
+            "stop_time": "20250301005959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301010000 +0100",
+            "stop_time": "20250301015959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301020000 +0100",
+            "stop_time": "20250301025959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301030000 +0100",
+            "stop_time": "20250301035959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301040000 +0100",
+            "stop_time": "20250301045959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301050000 +0100",
+            "stop_time": "20250301055959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301060000 +0100",
+            "stop_time": "20250301065959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301070000 +0100",
+            "stop_time": "20250301075959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301080000 +0100",
+            "stop_time": "20250301085959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301090000 +0100",
+            "stop_time": "20250301095959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301100000 +0100",
+            "stop_time": "20250301105959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301110000 +0100",
+            "stop_time": "20250301115959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301120000 +0100",
+            "stop_time": "20250301125959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301130000 +0100",
+            "stop_time": "20250301135959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301140000 +0100",
+            "stop_time": "20250301145959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301150000 +0100",
+            "stop_time": "20250301155959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301160000 +0100",
+            "stop_time": "20250301165959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301170000 +0100",
+            "stop_time": "20250301175959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301180000 +0100",
+            "stop_time": "20250301185959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301190000 +0100",
+            "stop_time": "20250301195959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301200000 +0100",
+            "stop_time": "20250301205959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301210000 +0100",
+            "stop_time": "20250301215959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301220000 +0100",
+            "stop_time": "20250301225959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250301230000 +0100",
+            "stop_time": "20250301235959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302000000 +0100",
+            "stop_time": "20250302005959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302010000 +0100",
+            "stop_time": "20250302015959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302020000 +0100",
+            "stop_time": "20250302025959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302030000 +0100",
+            "stop_time": "20250302035959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302040000 +0100",
+            "stop_time": "20250302045959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302050000 +0100",
+            "stop_time": "20250302055959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302060000 +0100",
+            "stop_time": "20250302065959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302070000 +0100",
+            "stop_time": "20250302075959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302080000 +0100",
+            "stop_time": "20250302085959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302090000 +0100",
+            "stop_time": "20250302095959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302100000 +0100",
+            "stop_time": "20250302105959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302110000 +0100",
+            "stop_time": "20250302115959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302120000 +0100",
+            "stop_time": "20250302125959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302130000 +0100",
+            "stop_time": "20250302135959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302140000 +0100",
+            "stop_time": "20250302145959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302150000 +0100",
+            "stop_time": "20250302155959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302160000 +0100",
+            "stop_time": "20250302165959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302170000 +0100",
+            "stop_time": "20250302175959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302180000 +0100",
+            "stop_time": "20250302185959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302190000 +0100",
+            "stop_time": "20250302195959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302200000 +0100",
+            "stop_time": "20250302205959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302210000 +0100",
+            "stop_time": "20250302215959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302220000 +0100",
+            "stop_time": "20250302225959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250302230000 +0100",
+            "stop_time": "20250302235959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303000000 +0100",
+            "stop_time": "20250303005959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303010000 +0100",
+            "stop_time": "20250303015959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303020000 +0100",
+            "stop_time": "20250303025959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303030000 +0100",
+            "stop_time": "20250303035959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303040000 +0100",
+            "stop_time": "20250303045959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303050000 +0100",
+            "stop_time": "20250303055959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303060000 +0100",
+            "stop_time": "20250303065959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303070000 +0100",
+            "stop_time": "20250303075959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303080000 +0100",
+            "stop_time": "20250303085959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303090000 +0100",
+            "stop_time": "20250303095959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303100000 +0100",
+            "stop_time": "20250303105959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303110000 +0100",
+            "stop_time": "20250303115959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303120000 +0100",
+            "stop_time": "20250303125959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303130000 +0100",
+            "stop_time": "20250303135959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303140000 +0100",
+            "stop_time": "20250303145959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303150000 +0100",
+            "stop_time": "20250303155959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303160000 +0100",
+            "stop_time": "20250303165959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303170000 +0100",
+            "stop_time": "20250303175959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303180000 +0100",
+            "stop_time": "20250303185959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303190000 +0100",
+            "stop_time": "20250303195959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303200000 +0100",
+            "stop_time": "20250303205959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303210000 +0100",
+            "stop_time": "20250303215959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303220000 +0100",
+            "stop_time": "20250303225959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250303230000 +0100",
+            "stop_time": "20250303235959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        },
+        {
+            "start_time": "20250304000000 +0100",
+            "stop_time": "20250304005959 +0100",
+            "title": "ducktv",
+            "description": "| +TP | Infantil |\n\n",
+            "icon": ""
+        }
+    ]
+}

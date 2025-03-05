@@ -1,0 +1,55 @@
+{
+    "name": "MyTime Movie Network",
+    "tvg_id": "mytime-movie-network-spanish",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/playlist.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=7aeec4c5-05e5-4781-861b-c3213389cce8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/mytime-movie-network-spanish/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1ed8690c39524031c94b8a6100c68b2cb55930291f69989eb67cd99d170ee78c0d2c20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3d72a27e11a4ed1797923e8dbae01bdc1cd27cd32ea7c3a4c8bc4dd3c4ca36ed75865e6b5d3127e3ea1492cd4e89cf896c2ba36531561b278fc9f4e8472f8f534c4ea28aa1d164fb00f18d20976934be3f94429042e901cb58fdbb24d0acbfcc7d522db6c15a6c2eaee29f83ff4775d722aca3ecd870289aa3592812cc3895767c60c1b09342d5c15895e571d4e73a4561c39240c3c7cee99db18959a337ded1cb9b324c5a660a16b954a6e80bb14d8f2df0974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412785f6670f420d76a95c6a150bacdae35069591d95c82562b71dc7332f01/182/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1ed8690c39524031c94b8a6100c68b2cb55930291f69989eb67cd99d170ee78c0d2c20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3d72a27e11a4ed1797923e8dbae01bdc1cd27cd32ea7c3a4c8bc4dd3c4ca36ed75865e6b5d3127e3ea1492cd4e89cf896c2ba36531561b278fc9f4e8472f8f534c4ea28aa1d164fb00f18d20976934be3f94429042e901cb58fdbb24d0acbfcc7d522db6c15a6c2eaee29f83ff4775d722aca3ecd870289aa3592812cc3895767c60c1b09342d5c15895e571d4e73a4561c39240c3c7cee99db18959a337ded1cb9b324c5a660a16b954a6e80bb14d8f2df0974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412785f6670f420d76a95c6a150bacdae35069591d95c82562b71dc7332f01/182/848x480_1686360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1ed8690c39524031c94b8a6100c68b2cb55930291f69989eb67cd99d170ee78c0d2c20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3d72a27e11a4ed1797923e8dbae01bdc1cd27cd32ea7c3a4c8bc4dd3c4ca36ed75865e6b5d3127e3ea1492cd4e89cf896c2ba36531561b278fc9f4e8472f8f534c4ea28aa1d164fb00f18d20976934be3f94429042e901cb58fdbb24d0acbfcc7d522db6c15a6c2eaee29f83ff4775d722aca3ecd870289aa3592812cc3895767c60c1b09342d5c15895e571d4e73a4561c39240c3c7cee99db18959a337ded1cb9b324c5a660a16b954a6e80bb14d8f2df0974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412785f6670f420d76a95c6a150bacdae35069591d95c82562b71dc7332f01/182/1280x720_3329040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b1ed8690c39524031c94b8a6100c68b2cb55930291f69989eb67cd99d170ee78c0d2c20a7402200aa4d7a907a074dcdf00a0df749df0b151fe9106b44228cba0cc22b0b91c255d72323ae97e4306d3e351ddb1b04b1826699c9e35a44d069a8bb3d72a27e11a4ed1797923e8dbae01bdc1cd27cd32ea7c3a4c8bc4dd3c4ca36ed75865e6b5d3127e3ea1492cd4e89cf896c2ba36531561b278fc9f4e8472f8f534c4ea28aa1d164fb00f18d20976934be3f94429042e901cb58fdbb24d0acbfcc7d522db6c15a6c2eaee29f83ff4775d722aca3ecd870289aa3592812cc3895767c60c1b09342d5c15895e571d4e73a4561c39240c3c7cee99db18959a337ded1cb9b324c5a660a16b954a6e80bb14d8f2df0974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3c3ba01873db43fdbb216759ff760149eb24ed9f382cba320b91302e89205fe26cddc8e1713ab99f6b15baccd34abf4ee2b018dbf503d30d763950f59aa43834cfb82b4a268d1259baddd7500f1a6331a0a698ecf3c54131043858710482e1e67794b4bc436b06d8472e6f7a5d059315c36ccc145a4f7c874d81e25a06e57c412785f6670f420d76a95c6a150bacdae35069591d95c82562b71dc7332f01/182/1920x1080_6046040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "epg": []
+}

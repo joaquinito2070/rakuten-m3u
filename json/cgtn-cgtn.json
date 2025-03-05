@@ -1,0 +1,52 @@
+{
+    "name": "CGTN",
+    "tvg_id": "cgtn",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg",
+    "group_title": "Noticias",
+    "original_master_url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5004&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=57aa932f-b0c0-4244-b8ca-b042b9bb04a8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/cgtn/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "1249600",
+                "AVERAGE-BANDWIDTH": "1205600",
+                "CODECS": "avc1.77.30",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "30.000"
+            }
+        },
+        {
+            "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master540p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "3000800",
+                "AVERAGE-BANDWIDTH": "2890800",
+                "CODECS": "avc1.4d401f",
+                "RESOLUTION": "960x540",
+                "FRAME-RATE": "30.000"
+            }
+        },
+        {
+            "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master720p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "4144800",
+                "AVERAGE-BANDWIDTH": "3990800",
+                "CODECS": "avc1.4d401f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "30.000"
+            }
+        },
+        {
+            "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8",
+            "attributes": {
+                "BANDWIDTH": "5860800",
+                "AVERAGE-BANDWIDTH": "5640800",
+                "CODECS": "avc1.4d4028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "30.000"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/cgtn-cgtn.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

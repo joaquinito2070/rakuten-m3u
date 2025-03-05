@@ -1,0 +1,10 @@
+{
+    "name": "Todo Novelas",
+    "tvg_id": "todo-novelas",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8?ads_amagi_channel=978&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6598&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=14ad1330-32d8-46c3-bc9f-fa48e783d0d5&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/todo-novelas/master.m3u8",
+    "qualities": [],
+    "epg": []
+}

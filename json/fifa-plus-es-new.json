@@ -1,0 +1,47 @@
+{
+    "name": "FIFA+",
+    "tvg_id": "fifa-plus-es-new",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e37664a3-8cb2-4f78-b683-8ed89d108924.jpeg",
+    "group_title": "Deportes",
+    "original_master_url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d76aae47-1538-4be4-9c2f-f02b77aafb5d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/fifa-plus-es-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/bfc74953-6317-453c-9838-873ac3bf9c82/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640029",
+                "AVERAGE-BANDWIDTH": "1222701",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1222701",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/bfc74953-6317-453c-9838-873ac3bf9c82/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640029",
+                "AVERAGE-BANDWIDTH": "2035016",
+                "RESOLUTION": "960x540",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "2035016",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/bfc74953-6317-453c-9838-873ac3bf9c82/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640029",
+                "AVERAGE-BANDWIDTH": "3046884",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "3046884",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        }
+    ],
+    "epg": []
+}

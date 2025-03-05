@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID="0",BANDWIDTH="1057680",AVERAGE-BANDWIDTH="813600",CODECS="avc1.4d401e",RESOLUTION="640x360",FRAME-RATE="25.000"
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/83cb6d00-f9a2-11ef-98c7-326fcc8fc7bf/2/640x360_1057680/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID="0",BANDWIDTH="1686360",AVERAGE-BANDWIDTH="1297200",CODECS="avc1.64001e",RESOLUTION="848x480",FRAME-RATE="25.000"
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/83cb6d00-f9a2-11ef-98c7-326fcc8fc7bf/2/848x480_1686360/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID="0",BANDWIDTH="3329040",AVERAGE-BANDWIDTH="2560800",CODECS="avc1.64001f",RESOLUTION="1280x720",FRAME-RATE="25.000"
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/83cb6d00-f9a2-11ef-98c7-326fcc8fc7bf/2/1280x720_3329040/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID="0",BANDWIDTH="6046040",AVERAGE-BANDWIDTH="4650800",CODECS="avc1.640028",RESOLUTION="1920x1080",FRAME-RATE="25.000"
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/83cb6d00-f9a2-11ef-98c7-326fcc8fc7bf/2/1920x1080_6046040/index.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="640x360",BANDWIDTH="921600",CLOSED-CAPTIONS="captions"
+https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/2286a745-1655-4d34-9a42-fd7f4c8b2cd0/0.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="960x540",BANDWIDTH="2048000",CLOSED-CAPTIONS="captions"
+https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/2286a745-1655-4d34-9a42-fd7f4c8b2cd0/1.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029",RESOLUTION="1280x720",BANDWIDTH="3072000",CLOSED-CAPTIONS="captions"
+https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/2286a745-1655-4d34-9a42-fd7f4c8b2cd0/2.m3u8

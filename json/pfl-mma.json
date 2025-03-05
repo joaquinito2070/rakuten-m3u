@@ -1,0 +1,47 @@
+{
+    "name": "PFL MMA",
+    "tvg_id": "pfl-mma",
+    "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg",
+    "group_title": "Deportes",
+    "original_master_url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6506&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=74b0d829-60a4-4fae-bdae-f056fc7e3fca&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1309",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/pfl-mma/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/7f10f584-61de-4827-a11a-f601ec308499/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640029",
+                "AVERAGE-BANDWIDTH": "1222701",
+                "RESOLUTION": "640x360",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "1222701",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/7f10f584-61de-4827-a11a-f601ec308499/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640029",
+                "AVERAGE-BANDWIDTH": "2035016",
+                "RESOLUTION": "960x540",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "2035016",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        },
+        {
+            "url": "https://a883593c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/7f10f584-61de-4827-a11a-f601ec308499/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.640029",
+                "AVERAGE-BANDWIDTH": "3046884",
+                "RESOLUTION": "1280x720",
+                "SUBTITLES": "subs",
+                "FRAME-RATE": "29.97",
+                "BANDWIDTH": "3046884",
+                "CLOSED-CAPTIONS": "CC"
+            }
+        }
+    ],
+    "epg": []
+}

@@ -1,0 +1,48 @@
+{
+    "name": "NOW 70s",
+    "tvg_id": "now-70s",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg",
+    "group_title": "Música",
+    "original_master_url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5284&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=1abe25b2-4e0d-471d-ad07-f5bc341492d3&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/now-70s/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/7c28768b-f9a2-11ef-854c-6636bff290b2/144/640x360_1020800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1020800",
+                "AVERAGE-BANDWIDTH": "985600",
+                "CODECS": "avc1.77.30",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/7c28768b-f9a2-11ef-854c-6636bff290b2/144/848x480_1249600/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1249600",
+                "AVERAGE-BANDWIDTH": "1205600",
+                "CODECS": "avc1.77.30",
+                "RESOLUTION": "848x480",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/7c28768b-f9a2-11ef-854c-6636bff290b2/144/1280x720_3801600/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3801600",
+                "AVERAGE-BANDWIDTH": "3660800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "NONE",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/now70s-now-70s.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

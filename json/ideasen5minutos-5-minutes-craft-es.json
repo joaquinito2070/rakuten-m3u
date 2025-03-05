@@ -1,0 +1,60 @@
+{
+    "name": "Ideas en 5 minutos",
+    "tvg_id": "5-minutes-craft-es",
+    "logo_url": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg",
+    "group_title": "Estilo de vida",
+    "original_master_url": "https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e7c63e1a-b53d-49fd-83ff-a3d7a9abef3e&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/5-minutes-craft-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a4898178f605c6558587a9d108f7e1cc6df2ffe4c657910708790b07cdf9b415bbbd10b287bb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a815a13b2fc8922563f1e19c6097fdd9a68a1f8e05540d166b58b2019c16c2aa7dd16a69055fbd5f67fa461c62aa05dc8d0b0da8445eddbc837eb08ee38532a481798846aacc45ca4d19f7d4bf81b4a430d0f97c9f4ff4a2fb9424d4a8a99a1db75ed1ccad35feb0d36bf13a75a97359854be10b7e43cc9c7dcc94b5230b0cb493b5dca94a18ee80a32b067fcabd6de7b7d97f8117435ac07bb7a7f6bca85a17b85c706a9b22693bd6a1807d488559eefd7e98ca78848c659a0b5f59c2e7d5c77123d8552ac8e68d53de271acbc754b381912f8c20fb1ecb75f347170828548dd101e86d78697ad6d51ab31411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b401b7e86bd635c3134c110b7d787b52e0f04a1af9ef8c61e39543d4053558ae0e276c88bf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5688cbb778d05b13f9a32c25c369b10776ff526ac5da1d47f994/139/640x360_871200/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "871200",
+                "AVERAGE-BANDWIDTH": "840400",
+                "CODECS": "avc1.4d4029",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a4898178f605c6558587a9d108f7e1cc6df2ffe4c657910708790b07cdf9b415bbbd10b287bb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a815a13b2fc8922563f1e19c6097fdd9a68a1f8e05540d166b58b2019c16c2aa7dd16a69055fbd5f67fa461c62aa05dc8d0b0da8445eddbc837eb08ee38532a481798846aacc45ca4d19f7d4bf81b4a430d0f97c9f4ff4a2fb9424d4a8a99a1db75ed1ccad35feb0d36bf13a75a97359854be10b7e43cc9c7dcc94b5230b0cb493b5dca94a18ee80a32b067fcabd6de7b7d97f8117435ac07bb7a7f6bca85a17b85c706a9b22693bd6a1807d488559eefd7e98ca78848c659a0b5f59c2e7d5c77123d8552ac8e68d53de271acbc754b381912f8c20fb1ecb75f347170828548dd101e86d78697ad6d51ab31411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b401b7e86bd635c3134c110b7d787b52e0f04a1af9ef8c61e39543d4053558ae0e276c88bf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5688cbb778d05b13f9a32c25c369b10776ff526ac5da1d47f994/139/854x480_1478400/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1478400",
+                "AVERAGE-BANDWIDTH": "1425600",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "854x480",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a4898178f605c6558587a9d108f7e1cc6df2ffe4c657910708790b07cdf9b415bbbd10b287bb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a815a13b2fc8922563f1e19c6097fdd9a68a1f8e05540d166b58b2019c16c2aa7dd16a69055fbd5f67fa461c62aa05dc8d0b0da8445eddbc837eb08ee38532a481798846aacc45ca4d19f7d4bf81b4a430d0f97c9f4ff4a2fb9424d4a8a99a1db75ed1ccad35feb0d36bf13a75a97359854be10b7e43cc9c7dcc94b5230b0cb493b5dca94a18ee80a32b067fcabd6de7b7d97f8117435ac07bb7a7f6bca85a17b85c706a9b22693bd6a1807d488559eefd7e98ca78848c659a0b5f59c2e7d5c77123d8552ac8e68d53de271acbc754b381912f8c20fb1ecb75f347170828548dd101e86d78697ad6d51ab31411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b401b7e86bd635c3134c110b7d787b52e0f04a1af9ef8c61e39543d4053558ae0e276c88bf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5688cbb778d05b13f9a32c25c369b10776ff526ac5da1d47f994/139/1920x1080_5130400/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "5130400",
+                "AVERAGE-BANDWIDTH": "4941200",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "1920x1080",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://rakutenaa-soul-5mincraftspanish-rakuten-38e36.amagi.tv/playlist/rakutenAA-soul-5mincraftspanish-rakuten/cb573e1e6573638784cb3a78d1f54782fd462bc50f6f8a282dff15d220825b1a9abeefc0ef55ec7a4898178f605c6558587a9d108f7e1cc6df2ffe4c657910708790b07cdf9b415bbbd10b287bb96b247baf5a56bf760c7ccdec141cba3eb9781600e10f67553399b406f35461ffb10a815a13b2fc8922563f1e19c6097fdd9a68a1f8e05540d166b58b2019c16c2aa7dd16a69055fbd5f67fa461c62aa05dc8d0b0da8445eddbc837eb08ee38532a481798846aacc45ca4d19f7d4bf81b4a430d0f97c9f4ff4a2fb9424d4a8a99a1db75ed1ccad35feb0d36bf13a75a97359854be10b7e43cc9c7dcc94b5230b0cb493b5dca94a18ee80a32b067fcabd6de7b7d97f8117435ac07bb7a7f6bca85a17b85c706a9b22693bd6a1807d488559eefd7e98ca78848c659a0b5f59c2e7d5c77123d8552ac8e68d53de271acbc754b381912f8c20fb1ecb75f347170828548dd101e86d78697ad6d51ab31411b8218d85f1653de207a43e622f78e39629d1906843b3aee5932853099d24fe6b7dabf5c51c5dfc351c07cfba70fd3fb0ba76a035006c1b4461b401b7e86bd635c3134c110b7d787b52e0f04a1af9ef8c61e39543d4053558ae0e276c88bf229776ea9d28dfd166a75a3379404ea0e40142bcd5ee0b80860801553558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c7534f463c95de053e8cbb8e85de1d002d443a2534d9871181f145d3ef4fc39976a33b635b40cdf914400e5d491f60ed8071c356ed9d50ab9edb49c9fc99010ad772f0535ecda2bc1698e7e2961c5688cbb778d05b13f9a32c25c369b10776ff526ac5da1d47f994/139/1280x720_3000800/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3000800",
+                "AVERAGE-BANDWIDTH": "2890800",
+                "CODECS": "avc1.640029",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/ideasen5minutos-5-minutes-craft-es.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Beyblade",
+    "tvg_id": "beyblade-es",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/dac38e6b-007a-4c8f-88e2-198b4cef2035.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6421&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=77a311af-b466-4f47-a350-16871c14ff1c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/beyblade-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b498f340d3e004031c94b8a6100c68b2cb558307a1569c9c9b17e8b9f470db1d95e2e209f403c00aa4d7a9261154ddae6141c8033a1460c179a6f043264d9ef58a76768edd15ec8106bcfebb23266231e0ac11932b9f100f4bab00a10fa599b825f08c4256dddbd139d9773efd59202cd16e932b854c8b0c5b1e057d7d49b41936de3301a672f7c8b8b7c87bb39dcb89f7a63d81b44471a46d9b39cfa71289f57462e8c95b9af69fe0acb9b35806732840d914b963f8667f053cd914fa4be84cc56533ca5c9526f209feca4f8bd5f77ea31faf1b88c727ad4f4402e118439de767c7591ae9e44c99243cee17286e53d1b3e91921fe1f7df82eba3b25f8f20d8f8e0812d473c0a6e659054b19379d43b8709c2a912254f7241a38c27a2ecbd4e226d4bdcf534ba121faae48f86c90738cf5f1757fc12ba31643d96410615e429eaa52e789f2f0ef75d579d0a62d11aa9e176b4cda1e402288addc84ceb6ae1a135d1fa03ba7e355f0bb0f338564a420fb384075d6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181be25c8bcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd992576e70cbb8f2f54ab5cded4ad3bb5be5642558a52f2efcdee8/85/640x360_1057680/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1057680",
+                "AVERAGE-BANDWIDTH": "813600",
+                "CODECS": "avc1.4d401e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b498f340d3e004031c94b8a6100c68b2cb558307a1569c9c9b17e8b9f470db1d95e2e209f403c00aa4d7a9261154ddae6141c8033a1460c179a6f043264d9ef58a76768edd15ec8106bcfebb23266231e0ac11932b9f100f4bab00a10fa599b825f08c4256dddbd139d9773efd59202cd16e932b854c8b0c5b1e057d7d49b41936de3301a672f7c8b8b7c87bb39dcb89f7a63d81b44471a46d9b39cfa71289f57462e8c95b9af69fe0acb9b35806732840d914b963f8667f053cd914fa4be84cc56533ca5c9526f209feca4f8bd5f77ea31faf1b88c727ad4f4402e118439de767c7591ae9e44c99243cee17286e53d1b3e91921fe1f7df82eba3b25f8f20d8f8e0812d473c0a6e659054b19379d43b8709c2a912254f7241a38c27a2ecbd4e226d4bdcf534ba121faae48f86c90738cf5f1757fc12ba31643d96410615e429eaa52e789f2f0ef75d579d0a62d11aa9e176b4cda1e402288addc84ceb6ae1a135d1fa03ba7e355f0bb0f338564a420fb384075d6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181be25c8bcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd992576e70cbb8f2f54ab5cded4ad3bb5be5642558a52f2efcdee8/85/848x480_1686360/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1686360",
+                "AVERAGE-BANDWIDTH": "1297200",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "848x480",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b498f340d3e004031c94b8a6100c68b2cb558307a1569c9c9b17e8b9f470db1d95e2e209f403c00aa4d7a9261154ddae6141c8033a1460c179a6f043264d9ef58a76768edd15ec8106bcfebb23266231e0ac11932b9f100f4bab00a10fa599b825f08c4256dddbd139d9773efd59202cd16e932b854c8b0c5b1e057d7d49b41936de3301a672f7c8b8b7c87bb39dcb89f7a63d81b44471a46d9b39cfa71289f57462e8c95b9af69fe0acb9b35806732840d914b963f8667f053cd914fa4be84cc56533ca5c9526f209feca4f8bd5f77ea31faf1b88c727ad4f4402e118439de767c7591ae9e44c99243cee17286e53d1b3e91921fe1f7df82eba3b25f8f20d8f8e0812d473c0a6e659054b19379d43b8709c2a912254f7241a38c27a2ecbd4e226d4bdcf534ba121faae48f86c90738cf5f1757fc12ba31643d96410615e429eaa52e789f2f0ef75d579d0a62d11aa9e176b4cda1e402288addc84ceb6ae1a135d1fa03ba7e355f0bb0f338564a420fb384075d6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181be25c8bcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd992576e70cbb8f2f54ab5cded4ad3bb5be5642558a52f2efcdee8/85/1280x720_3329040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3329040",
+                "AVERAGE-BANDWIDTH": "2560800",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/cb563800797062909bcd3b78d6f762869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c0e9b498f340d3e004031c94b8a6100c68b2cb558307a1569c9c9b17e8b9f470db1d95e2e209f403c00aa4d7a9261154ddae6141c8033a1460c179a6f043264d9ef58a76768edd15ec8106bcfebb23266231e0ac11932b9f100f4bab00a10fa599b825f08c4256dddbd139d9773efd59202cd16e932b854c8b0c5b1e057d7d49b41936de3301a672f7c8b8b7c87bb39dcb89f7a63d81b44471a46d9b39cfa71289f57462e8c95b9af69fe0acb9b35806732840d914b963f8667f053cd914fa4be84cc56533ca5c9526f209feca4f8bd5f77ea31faf1b88c727ad4f4402e118439de767c7591ae9e44c99243cee17286e53d1b3e91921fe1f7df82eba3b25f8f20d8f8e0812d473c0a6e659054b19379d43b8709c2a912254f7241a38c27a2ecbd4e226d4bdcf534ba121faae48f86c90738cf5f1757fc12ba31643d96410615e429eaa52e789f2f0ef75d579d0a62d11aa9e176b4cda1e402288addc84ceb6ae1a135d1fa03ba7e355f0bb0f338564a420fb384075d6a03a934e5d7d9de760401ebfef2fdc85236093c1b2069e181be25c8bcc043657e40f8bb020e7222a546bb5cd1095d052a892dc7ad1d719674594784891e2d97e80baacbeca9d9d850bd3ff2c2f82b26385819dd79657428bb3eea287efdb0da3adda22f1ddb8e849fb9fead69aff6a163cb8e6da9392d376bccf3164606680f097c8b897cdf51ecde0fbc8adf59dffb9e5d17cb6ff14f43ecb0a60cf28fd992576e70cbb8f2f54ab5cded4ad3bb5be5642558a52f2efcdee8/85/1920x1080_6046040/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "6046040",
+                "AVERAGE-BANDWIDTH": "4650800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "epg": []
+}

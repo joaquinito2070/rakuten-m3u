@@ -1,0 +1,38 @@
+{
+    "name": "Rakuten VIKI",
+    "tvg_id": "rakuten-viki-es",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg",
+    "group_title": "Series",
+    "original_master_url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ad296890-4031-4cae-b227-2865b71f4913&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/rakuten-viki-es/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/0abd1ca6-c9bb-4e24-a167-29059d277827/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "921600",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/0abd1ca6-c9bb-4e24-a167-29059d277827/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "960x540",
+                "BANDWIDTH": "2048000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/0abd1ca6-c9bb-4e24-a167-29059d277827/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "1280x720",
+                "BANDWIDTH": "3072000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        }
+    ],
+    "epg": []
+}

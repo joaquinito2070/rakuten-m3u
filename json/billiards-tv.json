@@ -1,0 +1,38 @@
+{
+    "name": "World Billiards TV",
+    "tvg_id": "billiards-tv",
+    "logo_url": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png",
+    "group_title": "Deportes",
+    "original_master_url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3722&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=89ede79d-4d66-45ab-9c9c-70d26150f4d0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/billiards-tv/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/02460b4e-de8b-4d65-af0a-ee9d307d9997/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "921600",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/02460b4e-de8b-4d65-af0a-ee9d307d9997/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "960x540",
+                "BANDWIDTH": "2048000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        },
+        {
+            "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/02460b4e-de8b-4d65-af0a-ee9d307d9997/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.4d0029",
+                "RESOLUTION": "1280x720",
+                "BANDWIDTH": "3072000",
+                "CLOSED-CAPTIONS": "captions"
+            }
+        }
+    ],
+    "epg": []
+}

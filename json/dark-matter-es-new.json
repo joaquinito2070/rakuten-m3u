@@ -1,0 +1,71 @@
+{
+    "name": "Dark Matter - Horror Visión",
+    "tvg_id": "dark-matter-es-new",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/24715bce-c332-47de-b4bd-746e70068660.jpeg",
+    "group_title": "Películas",
+    "original_master_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=097217d6-e856-42e7-8745-ea073e32e2fd&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES&ads.xumo_streamId=88883019",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/dark-matter-es-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e8a118c-19e3-470c-87da-9f0caf2de288/0.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "1200000",
+                "RESOLUTION": "768x432",
+                "BANDWIDTH": "1200000",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e8a118c-19e3-470c-87da-9f0caf2de288/1.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "230000",
+                "RESOLUTION": "256x144",
+                "BANDWIDTH": "230000",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e8a118c-19e3-470c-87da-9f0caf2de288/2.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "440000",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "440000",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e8a118c-19e3-470c-87da-9f0caf2de288/3.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "700000",
+                "RESOLUTION": "640x360",
+                "BANDWIDTH": "700000",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e8a118c-19e3-470c-87da-9f0caf2de288/4.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "2500000",
+                "RESOLUTION": "1280x720",
+                "BANDWIDTH": "2500000",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        },
+        {
+            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9e8a118c-19e3-470c-87da-9f0caf2de288/5.m3u8",
+            "attributes": {
+                "CODECS": "avc1.64001f",
+                "AVERAGE-BANDWIDTH": "5000000",
+                "RESOLUTION": "1280x720",
+                "BANDWIDTH": "5000000",
+                "CLOSED-CAPTIONS": "cc"
+            }
+        }
+    ],
+    "epg": []
+}

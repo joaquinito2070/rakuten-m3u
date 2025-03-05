@@ -1,0 +1,57 @@
+{
+    "name": "ducktv",
+    "tvg_id": "ducktv",
+    "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/46c614e1-cc27-4d06-96ab-5477041a1d62.jpeg",
+    "group_title": "Infantil",
+    "original_master_url": "https://daiconnect.com/live/hls/tvup/rk-ducktv/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=1838&ads_rtv_content_language=zxx&ads_streaming_id=95446c52-87af-4a01-8012-6682e8971be1&ads_tcs_channel_id=936&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/ducktv/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ducktv/db8f58b12c53b58bceb71874563df08f/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=1838&ads_rtv_content_language=zxx&ads_streaming_id=95446c52-87af-4a01-8012-6682e8971be1&ads_tcs_channel_id=936&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=b64237c6-33b1-4f48-af79-47791792c647",
+            "attributes": {
+                "BANDWIDTH": "3200000",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ducktv/5c8d7b2371cd2d105d1e1d2b5217cacc/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=1838&ads_rtv_content_language=zxx&ads_streaming_id=95446c52-87af-4a01-8012-6682e8971be1&ads_tcs_channel_id=936&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=b64237c6-33b1-4f48-af79-47791792c647",
+            "attributes": {
+                "BANDWIDTH": "2200000",
+                "CODECS": "avc1.64001f",
+                "RESOLUTION": "960x540",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ducktv/33dc1998fbb3a47dea98796c82553b70/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=1838&ads_rtv_content_language=zxx&ads_streaming_id=95446c52-87af-4a01-8012-6682e8971be1&ads_tcs_channel_id=936&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=b64237c6-33b1-4f48-af79-47791792c647",
+            "attributes": {
+                "BANDWIDTH": "1000000",
+                "CODECS": "avc1.64001e",
+                "RESOLUTION": "640x360",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ducktv/46024bdaaa4909002707045339fa3797/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=1838&ads_rtv_content_language=zxx&ads_streaming_id=95446c52-87af-4a01-8012-6682e8971be1&ads_tcs_channel_id=936&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=b64237c6-33b1-4f48-af79-47791792c647",
+            "attributes": {
+                "BANDWIDTH": "600000",
+                "CODECS": "avc1.64000d",
+                "RESOLUTION": "384x216",
+                "FRAME-RATE": "25.000"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ducktv/352a3bfa451ba953b7f86e56c3462825/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=1838&ads_rtv_content_language=zxx&ads_streaming_id=95446c52-87af-4a01-8012-6682e8971be1&ads_tcs_channel_id=936&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=b64237c6-33b1-4f48-af79-47791792c647",
+            "attributes": {
+                "BANDWIDTH": "300000",
+                "CODECS": "avc1.64000d",
+                "RESOLUTION": "384x216",
+                "FRAME-RATE": "25.000"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/ducktv-ducktv.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/epg_json/ducktv-ducktv-epg.json"
+}

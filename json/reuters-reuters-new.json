@@ -1,0 +1,84 @@
+{
+    "name": "Reuters",
+    "tvg_id": "reuters-new",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/8c93419e-2425-44d5-9a32-41d556961543.jpeg",
+    "group_title": "Noticias",
+    "original_master_url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8?ads_amagi_channel=887&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5789&ads_rtv_content_language=deu&ads_rtvid=271859&ads_streaming_id=40dc63f3-76fb-47d9-b473-391ddb633e1b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/reuters-new/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/cb56391c6570668a84ce3d78d9f362869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5b961a8b640269004031c31bde6100c68b2cb559617b4469c8c9b02d8a98460abadb5c2d2092402900aa4d7a857b1500bf837e189732b1235f7998086a450d9ea91bf8270f9cde5de4267da9bbe7753d7d0e0c995e0be6bd59a5a9b34041df38a8ac4e4c922c58e48b439d804ebd83d70e9f118c5ccb29ccc6b3e49653d7c4fe27e017e7466032456b90937087c64fecaff00738986217421b43efa096c142319235203699ae91fb0f9312ca9a1a916f338414815f8142fe01d819abe057a5bfabde454406a9cd5f7328ace9faf8915f32b975c4afe8cf78798d84701225cc7e825e414a91f9d82b96d703a9b52c8ba06c132cff9841e9fbd8e7bae7d513c650a0aef59c2e7d5c77120b822fcaf00b897e8c20fd974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3ccfab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175331c95d5b4e2d2d7f7cdeae4c02237c81308c0a1544157b62cfd6b794e352340e3f18400282e3ad17f1eb997c4c4290016b08fc77666eb9258e3aca6b2057cbdf65f8866cbba661ea80ed4c7c576984c1b280c8fac5578a5eddc8f8352a28631fd745153f7adbb98314ef3d5a6b7f4e941c2b11f354080cb9e7a99ff98a0d9fc93c4a59bde9951b964416931efb99fb58e42c084a502e084b/158/1280x720_3572008/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "3572008",
+                "AVERAGE-BANDWIDTH": "3440800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1280x720",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/cb56391c6570668a84ce3d78d9f362869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5b961a8b640269004031c31bde6100c68b2cb559617b4469c8c9b02d8a98460abadb5c2d2092402900aa4d7a857b1500bf837e189732b1235f7998086a450d9ea91bf8270f9cde5de4267da9bbe7753d7d0e0c995e0be6bd59a5a9b34041df38a8ac4e4c922c58e48b439d804ebd83d70e9f118c5ccb29ccc6b3e49653d7c4fe27e017e7466032456b90937087c64fecaff00738986217421b43efa096c142319235203699ae91fb0f9312ca9a1a916f338414815f8142fe01d819abe057a5bfabde454406a9cd5f7328ace9faf8915f32b975c4afe8cf78798d84701225cc7e825e414a91f9d82b96d703a9b52c8ba06c132cff9841e9fbd8e7bae7d513c650a0aef59c2e7d5c77120b822fcaf00b897e8c20fd974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3ccfab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175331c95d5b4e2d2d7f7cdeae4c02237c81308c0a1544157b62cfd6b794e352340e3f18400282e3ad17f1eb997c4c4290016b08fc77666eb9258e3aca6b2057cbdf65f8866cbba661ea80ed4c7c576984c1b280c8fac5578a5eddc8f8352a28631fd745153f7adbb98314ef3d5a6b7f4e941c2b11f354080cb9e7a99ff98a0d9fc93c4a59bde9951b964416931efb99fb58e42c084a502e084b/158/640x360_1134962/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1134962",
+                "AVERAGE-BANDWIDTH": "1095600",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "640x360",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/cb56391c6570668a84ce3d78d9f362869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5b961a8b640269004031c31bde6100c68b2cb559617b4469c8c9b02d8a98460abadb5c2d2092402900aa4d7a857b1500bf837e189732b1235f7998086a450d9ea91bf8270f9cde5de4267da9bbe7753d7d0e0c995e0be6bd59a5a9b34041df38a8ac4e4c922c58e48b439d804ebd83d70e9f118c5ccb29ccc6b3e49653d7c4fe27e017e7466032456b90937087c64fecaff00738986217421b43efa096c142319235203699ae91fb0f9312ca9a1a916f338414815f8142fe01d819abe057a5bfabde454406a9cd5f7328ace9faf8915f32b975c4afe8cf78798d84701225cc7e825e414a91f9d82b96d703a9b52c8ba06c132cff9841e9fbd8e7bae7d513c650a0aef59c2e7d5c77120b822fcaf00b897e8c20fd974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3ccfab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175331c95d5b4e2d2d7f7cdeae4c02237c81308c0a1544157b62cfd6b794e352340e3f18400282e3ad17f1eb997c4c4290016b08fc77666eb9258e3aca6b2057cbdf65f8866cbba661ea80ed4c7c576984c1b280c8fac5578a5eddc8f8352a28631fd745153f7adbb98314ef3d5a6b7f4e941c2b11f354080cb9e7a99ff98a0d9fc93c4a59bde9951b964416931efb99fb58e42c084a502e084b/158/1024x576_2199524/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "2199524",
+                "AVERAGE-BANDWIDTH": "2120800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1024x576",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/cb56391c6570668a84ce3d78d9f362869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5b961a8b640269004031c31bde6100c68b2cb559617b4469c8c9b02d8a98460abadb5c2d2092402900aa4d7a857b1500bf837e189732b1235f7998086a450d9ea91bf8270f9cde5de4267da9bbe7753d7d0e0c995e0be6bd59a5a9b34041df38a8ac4e4c922c58e48b439d804ebd83d70e9f118c5ccb29ccc6b3e49653d7c4fe27e017e7466032456b90937087c64fecaff00738986217421b43efa096c142319235203699ae91fb0f9312ca9a1a916f338414815f8142fe01d819abe057a5bfabde454406a9cd5f7328ace9faf8915f32b975c4afe8cf78798d84701225cc7e825e414a91f9d82b96d703a9b52c8ba06c132cff9841e9fbd8e7bae7d513c650a0aef59c2e7d5c77120b822fcaf00b897e8c20fd974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3ccfab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175331c95d5b4e2d2d7f7cdeae4c02237c81308c0a1544157b62cfd6b794e352340e3f18400282e3ad17f1eb997c4c4290016b08fc77666eb9258e3aca6b2057cbdf65f8866cbba661ea80ed4c7c576984c1b280c8fac5578a5eddc8f8352a28631fd745153f7adbb98314ef3d5a6b7f4e941c2b11f354080cb9e7a99ff98a0d9fc93c4a59bde9951b964416931efb99fb58e42c084a502e084b/158/1920x1080_4715744/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "4715744",
+                "AVERAGE-BANDWIDTH": "4540800",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "1920x1080",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/cb56391c6570668a84ce3d78d9f362869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5b961a8b640269004031c31bde6100c68b2cb559617b4469c8c9b02d8a98460abadb5c2d2092402900aa4d7a857b1500bf837e189732b1235f7998086a450d9ea91bf8270f9cde5de4267da9bbe7753d7d0e0c995e0be6bd59a5a9b34041df38a8ac4e4c922c58e48b439d804ebd83d70e9f118c5ccb29ccc6b3e49653d7c4fe27e017e7466032456b90937087c64fecaff00738986217421b43efa096c142319235203699ae91fb0f9312ca9a1a916f338414815f8142fe01d819abe057a5bfabde454406a9cd5f7328ace9faf8915f32b975c4afe8cf78798d84701225cc7e825e414a91f9d82b96d703a9b52c8ba06c132cff9841e9fbd8e7bae7d513c650a0aef59c2e7d5c77120b822fcaf00b897e8c20fd974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3ccfab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175331c95d5b4e2d2d7f7cdeae4c02237c81308c0a1544157b62cfd6b794e352340e3f18400282e3ad17f1eb997c4c4290016b08fc77666eb9258e3aca6b2057cbdf65f8866cbba661ea80ed4c7c576984c1b280c8fac5578a5eddc8f8352a28631fd745153f7adbb98314ef3d5a6b7f4e941c2b11f354080cb9e7a99ff98a0d9fc93c4a59bde9951b964416931efb99fb58e42c084a502e084b/158/854x480_1706830/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "1706830",
+                "AVERAGE-BANDWIDTH": "1645600",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "854x480",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        },
+        {
+            "url": "https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/cb56391c6570668a84ce3d78d9f362869b4f26d9086ec9773aeb11c236855c4687a2f2c1f348fd7c5b961a8b640269004031c31bde6100c68b2cb559617b4469c8c9b02d8a98460abadb5c2d2092402900aa4d7a857b1500bf837e189732b1235f7998086a450d9ea91bf8270f9cde5de4267da9bbe7753d7d0e0c995e0be6bd59a5a9b34041df38a8ac4e4c922c58e48b439d804ebd83d70e9f118c5ccb29ccc6b3e49653d7c4fe27e017e7466032456b90937087c64fecaff00738986217421b43efa096c142319235203699ae91fb0f9312ca9a1a916f338414815f8142fe01d819abe057a5bfabde454406a9cd5f7328ace9faf8915f32b975c4afe8cf78798d84701225cc7e825e414a91f9d82b96d703a9b52c8ba06c132cff9841e9fbd8e7bae7d513c650a0aef59c2e7d5c77120b822fcaf00b897e8c20fd974959362245a9896ac083cf5733677092994ed1617ed3b89c86dd3ccfab0a633269cb44397f0ef9072e11d023f08e3968c9151e842138e82a4dea20d2995c382346877c569bd1d556f72fceb80fc0ff01a8175331c95d5b4e2d2d7f7cdeae4c02237c81308c0a1544157b62cfd6b794e352340e3f18400282e3ad17f1eb997c4c4290016b08fc77666eb9258e3aca6b2057cbdf65f8866cbba661ea80ed4c7c576984c1b280c8fac5578a5eddc8f8352a28631fd745153f7adbb98314ef3d5a6b7f4e941c2b11f354080cb9e7a99ff98a0d9fc93c4a59bde9951b964416931efb99fb58e42c084a502e084b/158/426x240_356334/index.m3u8",
+            "attributes": {
+                "PROGRAM-ID": "0",
+                "BANDWIDTH": "356334",
+                "AVERAGE-BANDWIDTH": "345400",
+                "CODECS": "avc1.640028",
+                "RESOLUTION": "426x240",
+                "CLOSED-CAPTIONS": "CC",
+                "FRAME-RATE": "29.970"
+            }
+        }
+    ],
+    "json_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/json/reuters-reuters-new.json",
+    "epg_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/rakuten_epg.json"
+}

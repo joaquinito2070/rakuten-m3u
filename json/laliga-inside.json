@@ -1,0 +1,51 @@
+{
+    "name": "LaLiga Inside",
+    "tvg_id": "laliga-inside",
+    "logo_url": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg",
+    "group_title": "Deportes",
+    "original_master_url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=7c3cc5d7-2643-422d-802b-41b08f18d621&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+    "backup_master_url": "https://raw.githubusercontent.com/joaquinito2070/rakuten-m3u/refs/heads/main/master/laliga-inside/master.m3u8",
+    "qualities": [
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/90358dc4f9a2bcc58260c53040284584/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=7c3cc5d7-2643-422d-802b-41b08f18d621&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=cdb3765d-ab42-43f6-88c2-b36a30657caf",
+            "attributes": {
+                "BANDWIDTH": "13368960",
+                "AVERAGE-BANDWIDTH": "5711200",
+                "CODECS": "avc1.64002A",
+                "RESOLUTION": "1920x1080",
+                "FRAME-RATE": "50.000"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/89c45e775e46dffc8b63de5e43e74aed/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=7c3cc5d7-2643-422d-802b-41b08f18d621&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=cdb3765d-ab42-43f6-88c2-b36a30657caf",
+            "attributes": {
+                "BANDWIDTH": "8088960",
+                "AVERAGE-BANDWIDTH": "3511200",
+                "CODECS": "avc1.640020",
+                "RESOLUTION": "1280x720",
+                "FRAME-RATE": "50.000"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/238032bf2b9b4d4def512edfbaa3c11c/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=7c3cc5d7-2643-422d-802b-41b08f18d621&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=cdb3765d-ab42-43f6-88c2-b36a30657caf",
+            "attributes": {
+                "BANDWIDTH": "4072609",
+                "AVERAGE-BANDWIDTH": "1790761",
+                "CODECS": "avc1.4D401F",
+                "RESOLUTION": "854x480",
+                "FRAME-RATE": "30.000"
+            }
+        },
+        {
+            "url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/c473f44106d9d789225379583c91ce3b/index.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=7c3cc5d7-2643-422d-802b-41b08f18d621&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor&requestuid=cdb3765d-ab42-43f6-88c2-b36a30657caf",
+            "attributes": {
+                "BANDWIDTH": "2092591",
+                "AVERAGE-BANDWIDTH": "965743",
+                "CODECS": "avc1.4D4015",
+                "RESOLUTION": "426x240",
+                "FRAME-RATE": "30.000"
+            }
+        }
+    ],
+    "epg": []
+}
